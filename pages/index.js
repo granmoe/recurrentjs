@@ -1,4 +1,5 @@
-import { Button, Input } from 'antd'
+import { Component } from 'react'
+import { Button } from 'antd'
 import R from '../recurrent'
 import Rvis from '../recurrent/vis'
 import inputSentences from '../config/input-sentences'
@@ -30,13 +31,15 @@ let data_sents = []
 let solver = new R.Solver() // should be class because it needs memory for step caches
 let pplGraph = new Rvis()
 
+let lh, logprobs, probs
+
 let model = {}
 
 var initVocab = function(sents, count_threshold) {
   // go over all characters and keep track of all unique ones seen
   const charCounts = Array.from(sents.join('')).reduce((counts, char) => {
     counts[char] = counts[char] ? counts[char] + 1 : (counts[char] = 1)
-    return result
+    return counts
   }, {})
 
   // NOTE: start at nextIndex at 1 because we will have START and END tokens!
@@ -49,7 +52,7 @@ var initVocab = function(sents, count_threshold) {
       if (count >= count_threshold) {
         result.vocab.push(char)
         result.letterToIndex[char] = result.nextIndex
-        result.indexToLetter[result.nextIndex]
+        result.indexToLetter[result.nextIndex] = char
         result.nextIndex += 1
       }
       return result
@@ -70,7 +73,7 @@ var initVocab = function(sents, count_threshold) {
   input_size = vocab.length + 1
   output_size = vocab.length + 1
   epoch_size = sents.length
-  // TODO
+  // TODO: Show this in the UI
   // $('#prepro_status').text(
   // 'found ' + vocab.length + ' distinct characters: ' + vocab.join(''),
   // )
@@ -98,15 +101,10 @@ var initModel = function() {
   return model
 }
 
-var reinit = function() {
-  // note: reinit writes global vars
-
-  // eval options to set some globals
-  // GLOBALS
-  // TODO
-  // eval($('#newnet').val())
-
-  reinit_learning_rate_slider()
+function reinit() {
+  // note: reinit writes global vars by running
+  // eval on a textarea
+  // TODO: Allow user to set hyperparams in a safer way, via inputs
 
   solver = new R.Solver() // GLOBAL
   pplGraph = new Rvis() // GLOBAL
@@ -114,15 +112,9 @@ var reinit = function() {
   ppl_list = [] // GLOBAL
   tick_iter = 0 // GLOBAL
 
-  // process the input, filter out blanks
-  // TODO
-  // data_sents = $('#ti')
-  //   .val() // GLOBAL
-  //   .split('\n')
-  //   .map(str => str.trim())
-
+  data_sents = inputSentences.split('\n').map(str => str.trim())
   initVocab(data_sents, 1) // takes count threshold for characters
-  model = initModel()
+  model = initModel() // pass in some of the stuff that will be returned from initVocab
 }
 
 const forwardIndex = (G, model, ix, prev) => {
@@ -147,7 +139,7 @@ const predictSentence = (model, samplei, temperature) => {
   while (true) {
     // RNN tick
     var ix = s.length === 0 ? 0 : letterToIndex[s[s.length - 1]]
-    var lh = forwardIndex(G, model, ix, prev)
+    lh = forwardIndex(G, model, ix, prev)
     prev = lh
 
     // sample predicted letter
@@ -189,10 +181,10 @@ var costfun = function(model, sent) {
   let log2ppl = 0.0
   let cost = 0.0
   let prev = {}
-  for (var i = -1; i < n; i++) {
+  for (let i = -1; i < n; i++) {
     // start and end tokens are zeros
-    var ix_source = i === -1 ? 0 : letterToIndex[sent[i]] // first step: start with START token
-    var ix_target = i === n - 1 ? 0 : letterToIndex[sent[i + 1]] // last step: end with END token
+    let ix_source = i === -1 ? 0 : letterToIndex[sent[i]] // first step: start with START token
+    let ix_target = i === n - 1 ? 0 : letterToIndex[sent[i + 1]] // last step: end with END token
 
     lh = forwardIndex(G, model, ix_source, prev)
     prev = lh
@@ -208,12 +200,12 @@ var costfun = function(model, sent) {
     logprobs.dw = probs.w
     logprobs.dw[ix_target] -= 1
   }
-  var ppl = Math.pow(2, log2ppl / (n - 1))
+  const ppl = Math.pow(2, log2ppl / (n - 1))
   return { G: G, ppl: ppl, cost: cost }
 }
 
 function median(values) {
-  values.sort((a, b) => a - b) // TODO: Isn't this the default sort?
+  values.sort((a, b) => a - b) // OPT: Isn't this the default sort?
   const half = Math.floor(values.length / 2)
   return values.length % 2
     ? values[half]
@@ -225,7 +217,7 @@ function tick() {
   let sentix = R.randi(0, data_sents.length)
   let sent = data_sents[sentix]
 
-  let t0 = +new Date() // log start timestamp
+  let t0 = new Date().valueOf() // log start timestamp
 
   // evaluate cost function on a sentence
   let cost_struct = costfun(model, sent)
@@ -236,7 +228,7 @@ function tick() {
   let solver_stats = solver.step(model, learning_rate, regc, clipval)
   //$("#gradclip").text('grad clipped ratio: ' + solver_stats.ratio_clipped)
 
-  let t1 = +new Date()
+  let t1 = new Date().valueOf()
   let tick_time = t1 - t0
 
   ppl_list.push(cost_struct.ppl) // keep track of perplexity
@@ -245,16 +237,22 @@ function tick() {
   tick_iter += 1
   if (tick_iter % 50 === 0) {
     // draw samples
-    // $('#samples').html('') // TODO
+    // $('#samples').html('') // TODO: Show samples in the UI...for now just log them out
     for (var q = 0; q < 5; q++) {
-      var pred = predictSentence(model, true, sample_softmax_temperature)
-      var pred_div = '<div class="apred">' + pred + '</div>'
-      // $('#samples').append(pred_div) // TODO
+      console.log(
+        'NN output - sample:',
+        predictSentence(model, true, sample_softmax_temperature),
+      )
+      // var pred = predictSentence(model, true, sample_softmax_temperature)
+      // var pred_div = '<div class="apred">' + pred + '</div>'
+      // $('#samples').append(pred_div)
     }
   }
+
   if (tick_iter % 10 === 0) {
     // draw argmax prediction
-    // TODO
+    // TODO: Show this in the UI...for now just log it out
+    console.log('NN output - argmax prediction:', predictSentence(model, false))
     // $('#argmax').html('')
     // var pred = predictSentence(model, false)
     // var pred_div = '<div class="apred">' + pred + '</div>'
@@ -267,12 +265,13 @@ function tick() {
     //   'forw/bwd time per example: ' + tick_time.toFixed(1) + 'ms',
     // )
 
-    if (tick_iter % 100 === 0) {
-      var median_ppl = median(ppl_list)
-      ppl_list = []
-      pplGraph.add(tick_iter, median_ppl)
-      pplGraph.drawSelf(document.getElementById('pplgraph'))
-    }
+    // TODO: Different solution for graph...maybe victory or something...or maybe antd has something
+    // if (tick_iter % 100 === 0) {
+    // var median_ppl = median(ppl_list)
+    // ppl_list = []
+    // pplGraph.add(tick_iter, median_ppl)
+    // pplGraph.drawSelf(document.getElementById('pplgraph'))
+    // }
   }
 }
 
@@ -287,15 +286,50 @@ function tick() {
 // This was commented out in his code...perhaps an unfinished idea?
 //$('#gradcheck').click(gradCheck);
 
-export default () => (
-  <main>
-    <section>
-      <h1>RNNs</h1>
-      <p>Here is some info about RNNs</p>
-    </section>
-    <section>
-      <h1>Experiment</h1>
-      <p>All the controls will go here with brief explanations</p>
-    </section>
-  </main>
-)
+export default class App extends Component {
+  state = {
+    intervalId: null,
+    hasRun: false,
+  }
+
+  init = () => {
+    reinit()
+    const intervalId = setInterval(tick, 0)
+    this.setState({ intervalId, hasRun: true })
+  }
+
+  pause = () => {
+    if (!this.state.hasRun) {
+      this.init()
+      return
+    }
+
+    if (this.state.intervalId) {
+      clearInterval(this.state.intervalId)
+      this.setState({ intervalId: null })
+    } else {
+      const intervalId = setInterval(tick, 0)
+      this.setState({ intervalId })
+    }
+  }
+
+  render() {
+    return (
+      <main>
+        <Button type="primary" onClick={this.pause}>
+          {!this.state.hasRun
+            ? 'Start'
+            : this.state.intervalId ? 'Pause' : 'Resume'}
+        </Button>
+        <section>
+          <h1>RNNs</h1>
+          <p>Here is some info about RNNs</p>
+        </section>
+        <section>
+          <h1>Experiment</h1>
+          <p>All the controls will go here with brief explanations</p>
+        </section>
+      </main>
+    )
+  }
+}

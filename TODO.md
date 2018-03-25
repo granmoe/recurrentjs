@@ -8,6 +8,7 @@
 
 * convert protos to classes
 * consider replacing for loops
+* convert snake_case to camelCase
 
 ### Modules
 
@@ -29,13 +30,9 @@ Redo this...use React for everything
 
 ## Website
 
-* Hardcode values at first, just get it working, confirm shit's still working
-  * output stuff in UI for visual feedback
-    * epoch
-    * complexity
-    * model samples
-* pull in antd
+* output stuff to UI
+* get antd working (CSS problem?)
 * CSS reset
-* Split demo and lib into different folders...or repos? (lib shouldn't have any dependency on next)
+* Split demo and lib into different folders...or repos? (recurrent should be agnostic of UI and any other lib)
 * Make lib an npm package?
 * deploy to somewhere

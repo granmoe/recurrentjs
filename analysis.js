@@ -49,6 +49,8 @@ Things that use indexToLetter, letterToIndex, vocab, ppl_list, tick_iter
 saveModel, loadModel, predictSentence
 
 store these in component state...or in model or something (hyperparams?)
+  iTL, lTI, vocab, input_size, output_size, epoch_size (all should be returned by initVocab)
+  hidden_sizes and generator come from UI
 
 new Model(hyperparams) -> model
 model(input) -> output

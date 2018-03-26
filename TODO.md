@@ -33,6 +33,7 @@ Redo this...use React for everything
 * output stuff to UI
 * get antd working (CSS problem?)
 * CSS reset
+* Grab any images used in original (deleted the external/ dir just to clean things up for now)
 * Split demo and lib into different folders...or repos? (recurrent should be agnostic of UI and any other lib)
 * Make lib an npm package?
 * deploy to somewhere

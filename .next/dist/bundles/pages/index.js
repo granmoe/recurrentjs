@@ -523,8 +523,6 @@ var App = function (_Component) {
 
 "use strict";
 // NOTE: In progress...will clean this all up and probably rewrite most of it later
-var R = {};
-
 function assert(condition) {
   var message = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 'Assertion failed';
 
@@ -579,6 +577,7 @@ var zeros = function zeros(n) {
   }
 };
 
+// TODO: class
 // Mat holds a matrix
 var Mat = function Mat(n, d) {
   // n is number of rows d is number of columns
@@ -831,11 +830,13 @@ var softmax = function softmax(m) {
   return out;
 };
 
+// TODO: Convert to class
 var Solver = function Solver() {
   this.decay_rate = 0.999;
   this.smooth_eps = 1e-8;
   this.step_cache = {};
 };
+
 Solver.prototype = {
   step: function step(model, step_size, regc, clipval) {
     // perform parameter update
@@ -879,6 +880,7 @@ Solver.prototype = {
 var initLSTM = function initLSTM(input_size, hidden_sizes, output_size) {
   // hidden size should be a list
 
+  // TODO: declare model as reduce of hidden_sizes
   var model = {};
   for (var d = 0; d < hidden_sizes.length; d++) {
     // loop over depths
@@ -915,6 +917,7 @@ var forwardLSTM = function forwardLSTM(G, model, hidden_sizes, x, prev) {
   // from previous iteration
 
   if (typeof prev.h === 'undefined') {
+    // TODO: declare these as map of hidden_sizes
     var hidden_prevs = [];
     var cell_prevs = [];
     for (var d = 0; d < hidden_sizes.length; d++) {
@@ -928,6 +931,7 @@ var forwardLSTM = function forwardLSTM(G, model, hidden_sizes, x, prev) {
 
   var hidden = [];
   var cell = [];
+  // TODO: declare [hidden, cell] as reduce of hidden_sizes
   for (var d = 0; d < hidden_sizes.length; d++) {
     var input_vector = d === 0 ? x : hidden[d - 1];
     var hidden_prev = hidden_prevs[d];
@@ -963,6 +967,7 @@ var forwardLSTM = function forwardLSTM(G, model, hidden_sizes, x, prev) {
 
     hidden.push(hidden_d);
     cell.push(cell_d);
+    // return [[...hidden, hidden_d], [...cell, cell_d]]
   }
 
   // one decoder to outputs at end
@@ -975,6 +980,7 @@ var forwardLSTM = function forwardLSTM(G, model, hidden_sizes, x, prev) {
 var initRNN = function initRNN(input_size, hidden_sizes, output_size) {
   // hidden size should be a list
 
+  // TODO: declare model as reduce of hidden_sizes
   var model = {};
   for (var d = 0; d < hidden_sizes.length; d++) {
     // loop over depths
@@ -998,6 +1004,7 @@ var forwardRNN = function forwardRNN(G, model, hidden_sizes, x, prev) {
   // prev is a struct containing hidden activations from last step
 
   if (typeof prev.h === 'undefined') {
+    // TODO: declare as map of hidden_sizes
     var hidden_prevs = [];
     for (var d = 0; d < hidden_sizes.length; d++) {
       hidden_prevs.push(new R.Mat(hidden_sizes[d], 1));
@@ -1006,6 +1013,7 @@ var forwardRNN = function forwardRNN(G, model, hidden_sizes, x, prev) {
     var hidden_prevs = prev.h;
   }
 
+  // todo: declare hidden as map of hidden_sizes
   var hidden = [];
   for (var d = 0; d < hidden_sizes.length; d++) {
     var input_vector = d === 0 ? x : hidden[d - 1];
@@ -1060,25 +1068,28 @@ var samplei = function samplei(w) {
   return w.length - 1; // pretty sure we should never get here?
 };
 
-// various utils
-R.maxi = maxi;
-R.samplei = samplei;
-R.randi = randi;
-R.softmax = softmax;
-R.assert = assert;
+var R = {
+  // utils
+  maxi: maxi,
+  samplei: samplei,
+  randi: randi,
+  softmax: softmax,
+  assert: assert,
 
-// classes
-R.Mat = Mat;
-R.RandMat = RandMat;
+  // classes
+  Mat: Mat,
+  RandMat: RandMat,
 
-R.forwardLSTM = forwardLSTM;
-R.initLSTM = initLSTM;
-R.forwardRNN = forwardRNN;
-R.initRNN = initRNN;
+  // misc?
+  forwardLSTM: forwardLSTM,
+  initLSTM: initLSTM,
+  forwardRNN: forwardRNN,
+  initRNN: initRNN,
 
-// optimization
-R.Solver = Solver;
-R.Graph = Graph;
+  // optimization
+  Solver: Solver,
+  Graph: Graph
+};
 
 /* harmony default export */ __webpack_exports__["a"] = (R);
 

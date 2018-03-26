@@ -1,6 +1,4 @@
 // NOTE: In progress...will clean this all up and probably rewrite most of it later
-const R = {}
-
 function assert(condition, message = 'Assertion failed') {
   if (!condition) {
     throw new Error(message)
@@ -53,6 +51,7 @@ var zeros = function(n) {
   }
 }
 
+// TODO: class
 // Mat holds a matrix
 var Mat = function(n, d) {
   // n is number of rows d is number of columns
@@ -306,11 +305,13 @@ var softmax = function(m) {
   return out
 }
 
+// TODO: Convert to class
 var Solver = function() {
   this.decay_rate = 0.999
   this.smooth_eps = 1e-8
   this.step_cache = {}
 }
+
 Solver.prototype = {
   step: function(model, step_size, regc, clipval) {
     // perform parameter update
@@ -357,6 +358,7 @@ Solver.prototype = {
 var initLSTM = function(input_size, hidden_sizes, output_size) {
   // hidden size should be a list
 
+  // TODO: declare model as reduce of hidden_sizes
   var model = {}
   for (var d = 0; d < hidden_sizes.length; d++) {
     // loop over depths
@@ -393,6 +395,7 @@ var forwardLSTM = function(G, model, hidden_sizes, x, prev) {
   // from previous iteration
 
   if (typeof prev.h === 'undefined') {
+    // TODO: declare these as map of hidden_sizes
     var hidden_prevs = []
     var cell_prevs = []
     for (var d = 0; d < hidden_sizes.length; d++) {
@@ -406,6 +409,7 @@ var forwardLSTM = function(G, model, hidden_sizes, x, prev) {
 
   var hidden = []
   var cell = []
+  // TODO: declare [hidden, cell] as reduce of hidden_sizes
   for (var d = 0; d < hidden_sizes.length; d++) {
     var input_vector = d === 0 ? x : hidden[d - 1]
     var hidden_prev = hidden_prevs[d]
@@ -441,6 +445,7 @@ var forwardLSTM = function(G, model, hidden_sizes, x, prev) {
 
     hidden.push(hidden_d)
     cell.push(cell_d)
+    // return [[...hidden, hidden_d], [...cell, cell_d]]
   }
 
   // one decoder to outputs at end
@@ -456,6 +461,7 @@ var forwardLSTM = function(G, model, hidden_sizes, x, prev) {
 var initRNN = function(input_size, hidden_sizes, output_size) {
   // hidden size should be a list
 
+  // TODO: declare model as reduce of hidden_sizes
   var model = {}
   for (var d = 0; d < hidden_sizes.length; d++) {
     // loop over depths
@@ -479,6 +485,7 @@ var forwardRNN = function(G, model, hidden_sizes, x, prev) {
   // prev is a struct containing hidden activations from last step
 
   if (typeof prev.h === 'undefined') {
+    // TODO: declare as map of hidden_sizes
     var hidden_prevs = []
     for (var d = 0; d < hidden_sizes.length; d++) {
       hidden_prevs.push(new R.Mat(hidden_sizes[d], 1))
@@ -487,6 +494,7 @@ var forwardRNN = function(G, model, hidden_sizes, x, prev) {
     var hidden_prevs = prev.h
   }
 
+  // todo: declare hidden as map of hidden_sizes
   var hidden = []
   for (var d = 0; d < hidden_sizes.length; d++) {
     var input_vector = d === 0 ? x : hidden[d - 1]
@@ -544,24 +552,27 @@ var samplei = function(w) {
   return w.length - 1 // pretty sure we should never get here?
 }
 
-// various utils
-R.maxi = maxi
-R.samplei = samplei
-R.randi = randi
-R.softmax = softmax
-R.assert = assert
+const R = {
+  // utils
+  maxi,
+  samplei,
+  randi,
+  softmax,
+  assert,
 
-// classes
-R.Mat = Mat
-R.RandMat = RandMat
+  // classes
+  Mat,
+  RandMat,
 
-R.forwardLSTM = forwardLSTM
-R.initLSTM = initLSTM
-R.forwardRNN = forwardRNN
-R.initRNN = initRNN
+  // misc?
+  forwardLSTM,
+  initLSTM,
+  forwardRNN,
+  initRNN,
 
-// optimization
-R.Solver = Solver
-R.Graph = Graph
+  // optimization
+  Solver,
+  Graph,
+}
 
 export default R

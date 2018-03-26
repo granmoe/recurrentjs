@@ -95,7 +95,7 @@ Mat.prototype = {
 // return Mat but filled with random numbers from gaussian
 var RandMat = function(n, d, mu, std) {
   var m = new Mat(n, d)
-  //fillRandn(m,mu,std);
+  // fillRandn(m,mu,std);
   fillRand(m, -std, std) // kind of :P
   return m
 }

@@ -1,7 +1,7 @@
 import { Component } from 'react'
 import { Button } from 'antd'
 import R from '../recurrent'
-import Rvis from '../recurrent/vis'
+// import Rvis from '../recurrent/vis'
 import inputSentences from '../config/input-sentences'
 
 let pplList = []
@@ -21,7 +21,7 @@ let sampleSoftmaxTemperature = 1.0 // how peaky model predictions should be
 let maxCharsGen = 100 // max length of generated sentences
 
 // various global var inits
-let epochSize = -1
+// let epochSize = -1
 let inputSize = -1
 let outputSize = -1
 let letterToIndex = {}
@@ -29,7 +29,7 @@ let indexToLetter = {}
 let vocab = []
 let dataSents = []
 let solver = new R.Solver() // should be class because it needs memory for step caches
-let pplGraph = new Rvis()
+// let pplGraph = new Rvis()
 
 let lh, logprobs, probs
 
@@ -72,7 +72,7 @@ var initVocab = function(sents, countThreshold) {
   // globals written: indexToLetter, letterToIndex, vocab (list), and:
   inputSize = vocab.length + 1
   outputSize = vocab.length + 1
-  epochSize = sents.length
+  // epochSize = sents.length
   // TODO: Show this in the UI
   // $('#prepro_status').text(
   // 'found ' + vocab.length + ' distinct characters: ' + vocab.join(''),
@@ -107,7 +107,7 @@ function reinit() {
   // TODO: Allow user to set hyperparams in a safer way, via inputs
 
   solver = new R.Solver() // GLOBAL
-  pplGraph = new Rvis() // GLOBAL
+  // pplGraph = new Rvis() // GLOBAL
 
   pplList = [] // GLOBAL
   tickIter = 0 // GLOBAL
@@ -138,7 +138,7 @@ const predictSentence = (model, samplei, temperature) => {
   var prev = {}
   while (true) {
     // RNN tick
-    var ix = s.length === 0 ? 0 : letterToIndex[s[s.length - 1]]
+    let ix = s.length === 0 ? 0 : letterToIndex[s[s.length - 1]]
     lh = forwardIndex(G, model, ix, prev)
     prev = lh
 
@@ -156,9 +156,9 @@ const predictSentence = (model, samplei, temperature) => {
 
     probs = R.softmax(logprobs)
     if (samplei) {
-      var ix = R.samplei(probs.w)
+      ix = R.samplei(probs.w)
     } else {
-      var ix = R.maxi(probs.w)
+      ix = R.maxi(probs.w)
     }
 
     if (ix === 0) break // END token predicted, break out
@@ -204,20 +204,18 @@ var costfun = function(model, sent) {
   return { G: G, ppl: ppl, cost: cost }
 }
 
-function median(values) {
-  values.sort((a, b) => a - b) // OPT: Isn't this the default sort?
-  const half = Math.floor(values.length / 2)
-  return values.length % 2
-    ? values[half]
-    : (values[half - 1] + values[half]) / 2.0
-}
+// function median(values) {
+//   values.sort((a, b) => a - b) // OPT: Isn't this the default sort?
+//   const half = Math.floor(values.length / 2)
+//   return values.length % 2
+//     ? values[half]
+//     : (values[half - 1] + values[half]) / 2.0
+// }
 
 function tick() {
   // sample sentence fromd data
   let sentix = R.randi(0, dataSents.length)
   let sent = dataSents[sentix]
-
-  let t0 = new Date().valueOf() // log start timestamp
 
   // evaluate cost function on a sentence
   let costStruct = costfun(model, sent)
@@ -225,11 +223,9 @@ function tick() {
   // use built up graph to compute backprop (set .dw fields in mats)
   costStruct.G.backward()
   // perform param update
-  let solverStats = solver.step(model, learningRate, regc, clipval)
+  solver.step(model, learningRate, regc, clipval)
+  // let solverStats = solver.step(model, learningRate, regc, clipval)
   // $("#gradclip").text('grad clipped ratio: ' + solverStats.ratio_clipped)
-
-  let t1 = new Date().valueOf()
-  let tickTime = t1 - t0
 
   pplList.push(costStruct.ppl) // keep track of perplexity
 

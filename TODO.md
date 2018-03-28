@@ -9,24 +9,12 @@
 * check over all for loops...replace all possible
 * convert protos to classes
 
-### Modules
-
-#### R
-
-Object.keys(R)
-(13) ["maxi", "samplei", "randi", "softmax", "assert", "Mat", "RandMat", "forwardLSTM", "initLSTM", "forwardRNN", "initRNN", "Solver", "Graph"]
-
-#### Rvis
-
-Just has "Graph"
-Just used to do visualization
-Redo this...use React for everything
-
 ## Restructure
 
 * functions instead of classes
 * generators
 * better data structure...hyper params, input etc needs a home
+* Use victory or something instead of vis and delete vis
 
 ## Website
 

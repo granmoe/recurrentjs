@@ -35,7 +35,7 @@ let lh, logprobs, probs
 
 let model = {}
 
-var initVocab = function(sents, countThreshold) {
+function initVocab(sents, countThreshold) {
   // go over all characters and keep track of all unique ones seen
   const charCounts = Array.from(sents.join('')).reduce((counts, char) => {
     counts[char] = counts[char] ? counts[char] + 1 : (counts[char] = 1)
@@ -79,7 +79,7 @@ var initVocab = function(sents, countThreshold) {
   // )
 }
 
-var initModel = function() {
+function initModel() {
   // letter embedding vectors
   let model = {}
   model['Wil'] = new R.RandMat(inputSize, letterSize, 0, 0.08)
@@ -117,7 +117,7 @@ function reinit() {
   model = initModel() // pass in some of the stuff that will be returned from initVocab
 }
 
-const forwardIndex = (G, model, ix, prev) => {
+function forwardIndex(G, model, ix, prev) {
   const x = G.rowPluck(model['Wil'], ix)
   // forward prop the sequence learner
   return generator === 'rnn'
@@ -125,7 +125,7 @@ const forwardIndex = (G, model, ix, prev) => {
     : R.forwardLSTM(G, model, hiddenSizes, x, prev)
 }
 
-const predictSentence = (model, samplei, temperature) => {
+function predictSentence(model, samplei, temperature) {
   if (typeof samplei === 'undefined') {
     samplei = false
   }
@@ -172,7 +172,7 @@ const predictSentence = (model, samplei, temperature) => {
   return s
 }
 
-var costfun = function(model, sent) {
+function costfun(model, sent) {
   // takes a model and a sentence and
   // calculates the loss. Also returns the Graph
   // object which can be used to do backprop
@@ -203,14 +203,6 @@ var costfun = function(model, sent) {
   const ppl = Math.pow(2, log2ppl / (n - 1))
   return { G: G, ppl: ppl, cost: cost }
 }
-
-// function median(values) {
-//   values.sort((a, b) => a - b) // OPT: Isn't this the default sort?
-//   const half = Math.floor(values.length / 2)
-//   return values.length % 2
-//     ? values[half]
-//     : (values[half - 1] + values[half]) / 2.0
-// }
 
 function tick() {
   // sample sentence fromd data
@@ -260,6 +252,14 @@ function tick() {
     // $('#ticktime').text(
     //   'forw/bwd time per example: ' + tickTime.toFixed(1) + 'ms',
     // )
+
+    // function median(values) {
+    //   values.sort((a, b) => a - b) // OPT: Isn't this the default sort?
+    //   const half = Math.floor(values.length / 2)
+    //   return values.length % 2
+    //     ? values[half]
+    //     : (values[half - 1] + values[half]) / 2.0
+    // }
 
     // TODO: Different solution for graph...maybe victory or something...or maybe antd has something
     // if (tickIter % 100 === 0) {

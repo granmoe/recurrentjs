@@ -6,21 +6,21 @@ function assert(condition, message = 'Assertion failed') {
 }
 
 // Random numbers utils
-var return_v = false
-var v_val = 0.0
+var returnV = false
+var vVal = 0.0
 
 var gaussRandom = function() {
-  if (return_v) {
-    return_v = false
-    return v_val
+  if (returnV) {
+    returnV = false
+    return vVal
   }
   var u = 2 * Math.random() - 1
   var v = 2 * Math.random() - 1
   var r = u * u + v * v
   if (r == 0 || r > 1) return gaussRandom()
   var c = Math.sqrt(-2 * Math.log(r) / r)
-  v_val = v * c // cache this
-  return_v = true
+  vVal = v * c // cache this
+  returnV = true
   return u * c
 }
 var randf = function(a, b) {
@@ -29,9 +29,9 @@ var randf = function(a, b) {
 var randi = function(a, b) {
   return Math.floor(Math.random() * (b - a) + a)
 }
-var randn = function(mu, std) {
-  return mu + gaussRandom() * std
-}
+// var randn = function(mu, std) {
+// return mu + gaussRandom() * std
+// }
 
 // helper function returns array of zeros of length n
 // and uses typed arrays if available
@@ -102,11 +102,11 @@ var RandMat = function(n, d, mu, std) {
 
 // Mat utils
 // fill matrix with random gaussian numbers
-var fillRandn = function(m, mu, std) {
-  for (var i = 0, n = m.w.length; i < n; i++) {
-    m.w[i] = randn(mu, std)
-  }
-}
+// var fillRandn = function(m, mu, std) {
+// for (var i = 0, n = m.w.length; i < n; i++) {
+// m.w[i] = randn(mu, std)
+// }
+// }
 var fillRand = function(m, lo, hi) {
   for (var i = 0, n = m.w.length; i < n; i++) {
     m.w[i] = randf(lo, hi)
@@ -114,11 +114,11 @@ var fillRand = function(m, lo, hi) {
 }
 
 // Transformer definitions
-var Graph = function(needs_backprop) {
-  if (typeof needs_backprop === 'undefined') {
-    needs_backprop = true
+var Graph = function(needsBackprop) {
+  if (typeof needsBackprop === 'undefined') {
+    needsBackprop = true
   }
-  this.needs_backprop = needs_backprop
+  this.needsBackprop = needsBackprop
 
   // this will store a list of functions that perform backprop,
   // in their forward pass order. So in backprop we will go
@@ -140,7 +140,7 @@ Graph.prototype = {
       out.w[i] = m.w[d * ix + i]
     } // copy over the data
 
-    if (this.needs_backprop) {
+    if (this.needsBackprop) {
       var backward = function() {
         for (var i = 0, n = d; i < n; i++) {
           m.dw[d * ix + i] += out.dw[i]
@@ -158,7 +158,7 @@ Graph.prototype = {
       out.w[i] = Math.tanh(m.w[i])
     }
 
-    if (this.needs_backprop) {
+    if (this.needsBackprop) {
       var backward = function() {
         for (var i = 0; i < n; i++) {
           // grad for z = tanh(x) is (1 - z^2)
@@ -178,7 +178,7 @@ Graph.prototype = {
       out.w[i] = sig(m.w[i])
     }
 
-    if (this.needs_backprop) {
+    if (this.needsBackprop) {
       var backward = function() {
         for (var i = 0; i < n; i++) {
           // grad for z = tanh(x) is (1 - z^2)
@@ -196,7 +196,7 @@ Graph.prototype = {
     for (var i = 0; i < n; i++) {
       out.w[i] = Math.max(0, m.w[i]) // relu
     }
-    if (this.needs_backprop) {
+    if (this.needsBackprop) {
       var backward = function() {
         for (var i = 0; i < n; i++) {
           m.dw[i] += m.w[i] > 0 ? out.dw[i] : 0.0
@@ -226,7 +226,7 @@ Graph.prototype = {
       }
     }
 
-    if (this.needs_backprop) {
+    if (this.needsBackprop) {
       var backward = function() {
         for (var i = 0; i < m1.n; i++) {
           // loop over rows of m1
@@ -252,7 +252,7 @@ Graph.prototype = {
     for (var i = 0, n = m1.w.length; i < n; i++) {
       out.w[i] = m1.w[i] + m2.w[i]
     }
-    if (this.needs_backprop) {
+    if (this.needsBackprop) {
       var backward = function() {
         for (var i = 0, n = m1.w.length; i < n; i++) {
           m1.dw[i] += out.dw[i]
@@ -270,7 +270,7 @@ Graph.prototype = {
     for (var i = 0, n = m1.w.length; i < n; i++) {
       out.w[i] = m1.w[i] * m2.w[i]
     }
-    if (this.needs_backprop) {
+    if (this.needsBackprop) {
       var backward = function() {
         for (var i = 0, n = m1.w.length; i < n; i++) {
           m1.dw[i] += m2.w[i] * out.dw[i]
@@ -313,11 +313,11 @@ var Solver = function() {
 }
 
 Solver.prototype = {
-  step: function(model, step_size, regc, clipval) {
+  step: function(model, stepSize, regc, clipval) {
     // perform parameter update
-    var solver_stats = {}
-    var num_clipped = 0
-    var num_tot = 0
+    var solverStats = {}
+    var numClipped = 0
+    var numTot = 0
     for (var k in model) {
       if (model.hasOwnProperty(k)) {
         var m = model[k] // mat ref
@@ -334,59 +334,59 @@ Solver.prototype = {
           // gradient clip
           if (mdwi > clipval) {
             mdwi = clipval
-            num_clipped++
+            numClipped++
           }
           if (mdwi < -clipval) {
             mdwi = -clipval
-            num_clipped++
+            numClipped++
           }
-          num_tot++
+          numTot++
 
           // update (and regularize)
           m.w[i] +=
-            -step_size * mdwi / Math.sqrt(s.w[i] + this.smooth_eps) -
+            -stepSize * mdwi / Math.sqrt(s.w[i] + this.smooth_eps) -
             regc * m.w[i]
           m.dw[i] = 0 // reset gradients for next iteration
         }
       }
     }
-    solver_stats['ratio_clipped'] = num_clipped * 1.0 / num_tot
-    return solver_stats
+    solverStats['ratio_clipped'] = numClipped * 1.0 / numTot
+    return solverStats
   },
 }
 
-var initLSTM = function(input_size, hidden_sizes, output_size) {
+var initLSTM = function(inputSize, hiddenSizes, outputSize) {
   // hidden size should be a list
 
-  // TODO: declare model as reduce of hidden_sizes
+  // TODO: declare model as reduce of hiddenSizes
   var model = {}
-  for (var d = 0; d < hidden_sizes.length; d++) {
+  for (var d = 0; d < hiddenSizes.length; d++) {
     // loop over depths
-    var prev_size = d === 0 ? input_size : hidden_sizes[d - 1]
-    var hidden_size = hidden_sizes[d]
+    var prevSize = d === 0 ? inputSize : hiddenSizes[d - 1]
+    var hiddenSize = hiddenSizes[d]
 
     // gates parameters
-    model['Wix' + d] = new RandMat(hidden_size, prev_size, 0, 0.08)
-    model['Wih' + d] = new RandMat(hidden_size, hidden_size, 0, 0.08)
-    model['bi' + d] = new Mat(hidden_size, 1)
-    model['Wfx' + d] = new RandMat(hidden_size, prev_size, 0, 0.08)
-    model['Wfh' + d] = new RandMat(hidden_size, hidden_size, 0, 0.08)
-    model['bf' + d] = new Mat(hidden_size, 1)
-    model['Wox' + d] = new RandMat(hidden_size, prev_size, 0, 0.08)
-    model['Woh' + d] = new RandMat(hidden_size, hidden_size, 0, 0.08)
-    model['bo' + d] = new Mat(hidden_size, 1)
+    model['Wix' + d] = new RandMat(hiddenSize, prevSize, 0, 0.08)
+    model['Wih' + d] = new RandMat(hiddenSize, hiddenSize, 0, 0.08)
+    model['bi' + d] = new Mat(hiddenSize, 1)
+    model['Wfx' + d] = new RandMat(hiddenSize, prevSize, 0, 0.08)
+    model['Wfh' + d] = new RandMat(hiddenSize, hiddenSize, 0, 0.08)
+    model['bf' + d] = new Mat(hiddenSize, 1)
+    model['Wox' + d] = new RandMat(hiddenSize, prevSize, 0, 0.08)
+    model['Woh' + d] = new RandMat(hiddenSize, hiddenSize, 0, 0.08)
+    model['bo' + d] = new Mat(hiddenSize, 1)
     // cell write params
-    model['Wcx' + d] = new RandMat(hidden_size, prev_size, 0, 0.08)
-    model['Wch' + d] = new RandMat(hidden_size, hidden_size, 0, 0.08)
-    model['bc' + d] = new Mat(hidden_size, 1)
+    model['Wcx' + d] = new RandMat(hiddenSize, prevSize, 0, 0.08)
+    model['Wch' + d] = new RandMat(hiddenSize, hiddenSize, 0, 0.08)
+    model['bc' + d] = new Mat(hiddenSize, 1)
   }
   // decoder params
-  model['Whd'] = new RandMat(output_size, hidden_size, 0, 0.08)
-  model['bd'] = new Mat(output_size, 1)
+  model['Whd'] = new RandMat(outputSize, hiddenSize, 0, 0.08)
+  model['bd'] = new Mat(outputSize, 1)
   return model
 }
 
-var forwardLSTM = function(G, model, hidden_sizes, x, prev) {
+var forwardLSTM = function(G, model, hiddenSizes, x, prev) {
   // forward prop for a single tick of LSTM
   // G is graph to append ops to
   // model contains LSTM parameters
@@ -395,57 +395,57 @@ var forwardLSTM = function(G, model, hidden_sizes, x, prev) {
   // from previous iteration
 
   if (typeof prev.h === 'undefined') {
-    // TODO: declare these as map of hidden_sizes
-    var hidden_prevs = []
-    var cell_prevs = []
-    for (var d = 0; d < hidden_sizes.length; d++) {
-      hidden_prevs.push(new R.Mat(hidden_sizes[d], 1))
-      cell_prevs.push(new R.Mat(hidden_sizes[d], 1))
+    // TODO: declare these as map of hiddenSizes
+    var hiddenPrevs = []
+    var cellPrevs = []
+    for (var d = 0; d < hiddenSizes.length; d++) {
+      hiddenPrevs.push(new Mat(hiddenSizes[d], 1))
+      cellPrevs.push(new Mat(hiddenSizes[d], 1))
     }
   } else {
-    var hidden_prevs = prev.h
-    var cell_prevs = prev.c
+    var hiddenPrevs = prev.h
+    var cellPrevs = prev.c
   }
 
   var hidden = []
   var cell = []
-  // TODO: declare [hidden, cell] as reduce of hidden_sizes
-  for (var d = 0; d < hidden_sizes.length; d++) {
-    var input_vector = d === 0 ? x : hidden[d - 1]
-    var hidden_prev = hidden_prevs[d]
-    var cell_prev = cell_prevs[d]
+  // TODO: declare [hidden, cell] as reduce of hiddenSizes
+  for (var d = 0; d < hiddenSizes.length; d++) {
+    var inputVector = d === 0 ? x : hidden[d - 1]
+    var hiddenPrev = hiddenPrevs[d]
+    var cellPrev = cellPrevs[d]
 
     // input gate
-    var h0 = G.mul(model['Wix' + d], input_vector)
-    var h1 = G.mul(model['Wih' + d], hidden_prev)
-    var input_gate = G.sigmoid(G.add(G.add(h0, h1), model['bi' + d]))
+    var h0 = G.mul(model['Wix' + d], inputVector)
+    var h1 = G.mul(model['Wih' + d], hiddenPrev)
+    var inputGate = G.sigmoid(G.add(G.add(h0, h1), model['bi' + d]))
 
     // forget gate
-    var h2 = G.mul(model['Wfx' + d], input_vector)
-    var h3 = G.mul(model['Wfh' + d], hidden_prev)
-    var forget_gate = G.sigmoid(G.add(G.add(h2, h3), model['bf' + d]))
+    var h2 = G.mul(model['Wfx' + d], inputVector)
+    var h3 = G.mul(model['Wfh' + d], hiddenPrev)
+    var forgetGate = G.sigmoid(G.add(G.add(h2, h3), model['bf' + d]))
 
     // output gate
-    var h4 = G.mul(model['Wox' + d], input_vector)
-    var h5 = G.mul(model['Woh' + d], hidden_prev)
-    var output_gate = G.sigmoid(G.add(G.add(h4, h5), model['bo' + d]))
+    var h4 = G.mul(model['Wox' + d], inputVector)
+    var h5 = G.mul(model['Woh' + d], hiddenPrev)
+    var outputGate = G.sigmoid(G.add(G.add(h4, h5), model['bo' + d]))
 
     // write operation on cells
-    var h6 = G.mul(model['Wcx' + d], input_vector)
-    var h7 = G.mul(model['Wch' + d], hidden_prev)
-    var cell_write = G.tanh(G.add(G.add(h6, h7), model['bc' + d]))
+    var h6 = G.mul(model['Wcx' + d], inputVector)
+    var h7 = G.mul(model['Wch' + d], hiddenPrev)
+    var cellWrite = G.tanh(G.add(G.add(h6, h7), model['bc' + d]))
 
     // compute new cell activation
-    var retain_cell = G.eltmul(forget_gate, cell_prev) // what do we keep from cell
-    var write_cell = G.eltmul(input_gate, cell_write) // what do we write to cell
-    var cell_d = G.add(retain_cell, write_cell) // new cell contents
+    var retainCell = G.eltmul(forgetGate, cellPrev) // what do we keep from cell
+    var writeCell = G.eltmul(inputGate, cellWrite) // what do we write to cell
+    var cellD = G.add(retainCell, writeCell) // new cell contents
 
     // compute hidden state as gated, saturated cell activations
-    var hidden_d = G.eltmul(output_gate, G.tanh(cell_d))
+    var hiddenD = G.eltmul(outputGate, G.tanh(cellD))
 
-    hidden.push(hidden_d)
-    cell.push(cell_d)
-    // return [[...hidden, hidden_d], [...cell, cell_d]]
+    hidden.push(hiddenD)
+    cell.push(cellD)
+    // return [[...hidden, hiddenD], [...cell, cellD]]
   }
 
   // one decoder to outputs at end
@@ -458,26 +458,26 @@ var forwardLSTM = function(G, model, hidden_sizes, x, prev) {
   return { h: hidden, c: cell, o: output }
 }
 
-var initRNN = function(input_size, hidden_sizes, output_size) {
+var initRNN = function(inputSize, hiddenSizes, outputSize) {
   // hidden size should be a list
 
-  // TODO: declare model as reduce of hidden_sizes
+  // TODO: declare model as reduce of hiddenSizes
   var model = {}
-  for (var d = 0; d < hidden_sizes.length; d++) {
+  for (var d = 0; d < hiddenSizes.length; d++) {
     // loop over depths
-    var prev_size = d === 0 ? input_size : hidden_sizes[d - 1]
-    var hidden_size = hidden_sizes[d]
-    model['Wxh' + d] = new R.RandMat(hidden_size, prev_size, 0, 0.08)
-    model['Whh' + d] = new R.RandMat(hidden_size, hidden_size, 0, 0.08)
-    model['bhh' + d] = new R.Mat(hidden_size, 1)
+    var prevSize = d === 0 ? inputSize : hiddenSizes[d - 1]
+    var hiddenSize = hiddenSizes[d]
+    model['Wxh' + d] = new RandMat(hiddenSize, prevSize, 0, 0.08)
+    model['Whh' + d] = new RandMat(hiddenSize, hiddenSize, 0, 0.08)
+    model['bhh' + d] = new Mat(hiddenSize, 1)
   }
   // decoder params
-  model['Whd'] = new RandMat(output_size, hidden_size, 0, 0.08)
-  model['bd'] = new Mat(output_size, 1)
+  model['Whd'] = new RandMat(outputSize, hiddenSize, 0, 0.08)
+  model['bd'] = new Mat(outputSize, 1)
   return model
 }
 
-var forwardRNN = function(G, model, hidden_sizes, x, prev) {
+var forwardRNN = function(G, model, hiddenSizes, x, prev) {
   // forward prop for a single tick of RNN
   // G is graph to append ops to
   // model contains RNN parameters
@@ -485,26 +485,26 @@ var forwardRNN = function(G, model, hidden_sizes, x, prev) {
   // prev is a struct containing hidden activations from last step
 
   if (typeof prev.h === 'undefined') {
-    // TODO: declare as map of hidden_sizes
-    var hidden_prevs = []
-    for (var d = 0; d < hidden_sizes.length; d++) {
-      hidden_prevs.push(new R.Mat(hidden_sizes[d], 1))
+    // TODO: declare as map of hiddenSizes
+    var hiddenPrevs = []
+    for (var d = 0; d < hiddenSizes.length; d++) {
+      hiddenPrevs.push(new Mat(hiddenSizes[d], 1))
     }
   } else {
-    var hidden_prevs = prev.h
+    var hiddenPrevs = prev.h
   }
 
-  // todo: declare hidden as map of hidden_sizes
+  // todo: declare hidden as map of hiddenSizes
   var hidden = []
-  for (var d = 0; d < hidden_sizes.length; d++) {
-    var input_vector = d === 0 ? x : hidden[d - 1]
-    var hidden_prev = hidden_prevs[d]
+  for (var d = 0; d < hiddenSizes.length; d++) {
+    var inputVector = d === 0 ? x : hidden[d - 1]
+    var hiddenPrev = hiddenPrevs[d]
 
-    var h0 = G.mul(model['Wxh' + d], input_vector)
-    var h1 = G.mul(model['Whh' + d], hidden_prev)
-    var hidden_d = G.relu(G.add(G.add(h0, h1), model['bhh' + d]))
+    var h0 = G.mul(model['Wxh' + d], inputVector)
+    var h1 = G.mul(model['Whh' + d], hiddenPrev)
+    var hiddenD = G.relu(G.add(G.add(h0, h1), model['bhh' + d]))
 
-    hidden.push(hidden_d)
+    hidden.push(hiddenD)
   }
 
   // one decoder to outputs at end
@@ -549,10 +549,9 @@ var samplei = function(w) {
     }
     i++
   }
-  return w.length - 1 // pretty sure we should never get here?
 }
 
-const R = {
+export default {
   // utils
   maxi,
   samplei,
@@ -574,5 +573,3 @@ const R = {
   Solver,
   Graph,
 }
-
-export default R

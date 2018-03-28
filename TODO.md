@@ -6,9 +6,9 @@
 
 ## ES6-ify
 
+* convert snake_case to camelCase
 * convert protos to classes
 * consider replacing for loops
-* convert snake_case to camelCase
 
 ### Modules
 
@@ -27,6 +27,7 @@ Redo this...use React for everything
 
 * functions instead of classes
 * generators
+* better data structure...hyper params, input etc needs a home
 
 ## Website
 
@@ -34,6 +35,10 @@ Redo this...use React for everything
 * get antd working (CSS problem?)
 * CSS reset
 * Grab any images used in original (deleted the external/ dir just to clean things up for now)
+
+## Publish
+
 * Split demo and lib into different folders...or repos? (recurrent should be agnostic of UI and any other lib)
 * Make lib an npm package?
-* deploy to somewhere
+* Deploy to somewhere
+* Write blog

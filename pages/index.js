@@ -4,30 +4,30 @@ import R from '../recurrent'
 import Rvis from '../recurrent/vis'
 import inputSentences from '../config/input-sentences'
 
-let ppl_list = []
-let tick_iter = 0
+let pplList = []
+let tickIter = 0
 
 // model parameters
 const generator = 'lstm' // can be 'rnn' or 'lstm'
-const hidden_sizes = [20, 20] // list of sizes of hidden layers
-const letter_size = 5 // size of letter embeddings
+const hiddenSizes = [20, 20] // list of sizes of hidden layers
+const letterSize = 5 // size of letter embeddings
 
 // optimization
 const regc = 0.000001 // L2 regularization strength
-const learning_rate = 0.01 // learning rate
+const learningRate = 0.01 // learning rate
 const clipval = 5.0 // clip gradients at this value
 // prediction params
-let sample_softmax_temperature = 1.0 // how peaky model predictions should be
-let max_chars_gen = 100 // max length of generated sentences
+let sampleSoftmaxTemperature = 1.0 // how peaky model predictions should be
+let maxCharsGen = 100 // max length of generated sentences
 
 // various global var inits
-let epoch_size = -1
-let input_size = -1
-let output_size = -1
+let epochSize = -1
+let inputSize = -1
+let outputSize = -1
 let letterToIndex = {}
 let indexToLetter = {}
 let vocab = []
-let data_sents = []
+let dataSents = []
 let solver = new R.Solver() // should be class because it needs memory for step caches
 let pplGraph = new Rvis()
 
@@ -35,7 +35,7 @@ let lh, logprobs, probs
 
 let model = {}
 
-var initVocab = function(sents, count_threshold) {
+var initVocab = function(sents, countThreshold) {
   // go over all characters and keep track of all unique ones seen
   const charCounts = Array.from(sents.join('')).reduce((counts, char) => {
     counts[char] = counts[char] ? counts[char] + 1 : (counts[char] = 1)
@@ -49,7 +49,7 @@ var initVocab = function(sents, count_threshold) {
     charCounts,
   ).reduce(
     (result, [char, count]) => {
-      if (count >= count_threshold) {
+      if (count >= countThreshold) {
         result.vocab.push(char)
         result.letterToIndex[char] = result.nextIndex
         result.indexToLetter[result.nextIndex] = char
@@ -70,9 +70,9 @@ var initVocab = function(sents, count_threshold) {
   vocab = v
 
   // globals written: indexToLetter, letterToIndex, vocab (list), and:
-  input_size = vocab.length + 1
-  output_size = vocab.length + 1
-  epoch_size = sents.length
+  inputSize = vocab.length + 1
+  outputSize = vocab.length + 1
+  epochSize = sents.length
   // TODO: Show this in the UI
   // $('#prepro_status').text(
   // 'found ' + vocab.length + ' distinct characters: ' + vocab.join(''),
@@ -82,16 +82,16 @@ var initVocab = function(sents, count_threshold) {
 var initModel = function() {
   // letter embedding vectors
   let model = {}
-  model['Wil'] = new R.RandMat(input_size, letter_size, 0, 0.08)
+  model['Wil'] = new R.RandMat(inputSize, letterSize, 0, 0.08)
 
   if (generator === 'rnn') {
-    var rnn = R.initRNN(letter_size, hidden_sizes, output_size)
+    var rnn = R.initRNN(letterSize, hiddenSizes, outputSize)
     model = {
       ...model,
       ...rnn,
     }
   } else {
-    var lstm = R.initLSTM(letter_size, hidden_sizes, output_size)
+    var lstm = R.initLSTM(letterSize, hiddenSizes, outputSize)
     model = {
       ...model,
       ...lstm,
@@ -109,11 +109,11 @@ function reinit() {
   solver = new R.Solver() // GLOBAL
   pplGraph = new Rvis() // GLOBAL
 
-  ppl_list = [] // GLOBAL
-  tick_iter = 0 // GLOBAL
+  pplList = [] // GLOBAL
+  tickIter = 0 // GLOBAL
 
-  data_sents = inputSentences.split('\n').map(str => str.trim())
-  initVocab(data_sents, 1) // takes count threshold for characters
+  dataSents = inputSentences.split('\n').map(str => str.trim())
+  initVocab(dataSents, 1) // takes count threshold for characters
   model = initModel() // pass in some of the stuff that will be returned from initVocab
 }
 
@@ -121,8 +121,8 @@ const forwardIndex = (G, model, ix, prev) => {
   const x = G.rowPluck(model['Wil'], ix)
   // forward prop the sequence learner
   return generator === 'rnn'
-    ? R.forwardRNN(G, model, hidden_sizes, x, prev)
-    : R.forwardLSTM(G, model, hidden_sizes, x, prev)
+    ? R.forwardRNN(G, model, hiddenSizes, x, prev)
+    : R.forwardLSTM(G, model, hiddenSizes, x, prev)
 }
 
 const predictSentence = (model, samplei, temperature) => {
@@ -162,7 +162,7 @@ const predictSentence = (model, samplei, temperature) => {
     }
 
     if (ix === 0) break // END token predicted, break out
-    if (s.length > max_chars_gen) {
+    if (s.length > maxCharsGen) {
       break
     } // something is wrong
 
@@ -183,22 +183,22 @@ var costfun = function(model, sent) {
   let prev = {}
   for (let i = -1; i < n; i++) {
     // start and end tokens are zeros
-    let ix_source = i === -1 ? 0 : letterToIndex[sent[i]] // first step: start with START token
-    let ix_target = i === n - 1 ? 0 : letterToIndex[sent[i + 1]] // last step: end with END token
+    let ixSource = i === -1 ? 0 : letterToIndex[sent[i]] // first step: start with START token
+    let ixTarget = i === n - 1 ? 0 : letterToIndex[sent[i + 1]] // last step: end with END token
 
-    lh = forwardIndex(G, model, ix_source, prev)
+    lh = forwardIndex(G, model, ixSource, prev)
     prev = lh
 
     // set gradients into logprobabilities
     logprobs = lh.o // interpret output as logprobs
     probs = R.softmax(logprobs) // compute the softmax probabilities
 
-    log2ppl += -Math.log2(probs.w[ix_target]) // accumulate base 2 log prob and do smoothing
-    cost += -Math.log(probs.w[ix_target])
+    log2ppl += -Math.log2(probs.w[ixTarget]) // accumulate base 2 log prob and do smoothing
+    cost += -Math.log(probs.w[ixTarget])
 
     // write gradients into log probabilities
     logprobs.dw = probs.w
-    logprobs.dw[ix_target] -= 1
+    logprobs.dw[ixTarget] -= 1
   }
   const ppl = Math.pow(2, log2ppl / (n - 1))
   return { G: G, ppl: ppl, cost: cost }
@@ -214,42 +214,42 @@ function median(values) {
 
 function tick() {
   // sample sentence fromd data
-  let sentix = R.randi(0, data_sents.length)
-  let sent = data_sents[sentix]
+  let sentix = R.randi(0, dataSents.length)
+  let sent = dataSents[sentix]
 
   let t0 = new Date().valueOf() // log start timestamp
 
   // evaluate cost function on a sentence
-  let cost_struct = costfun(model, sent)
+  let costStruct = costfun(model, sent)
 
   // use built up graph to compute backprop (set .dw fields in mats)
-  cost_struct.G.backward()
+  costStruct.G.backward()
   // perform param update
-  let solver_stats = solver.step(model, learning_rate, regc, clipval)
-  //$("#gradclip").text('grad clipped ratio: ' + solver_stats.ratio_clipped)
+  let solverStats = solver.step(model, learningRate, regc, clipval)
+  // $("#gradclip").text('grad clipped ratio: ' + solverStats.ratio_clipped)
 
   let t1 = new Date().valueOf()
-  let tick_time = t1 - t0
+  let tickTime = t1 - t0
 
-  ppl_list.push(cost_struct.ppl) // keep track of perplexity
+  pplList.push(costStruct.ppl) // keep track of perplexity
 
   // evaluate now and then
-  tick_iter += 1
-  if (tick_iter % 50 === 0) {
+  tickIter += 1
+  if (tickIter % 50 === 0) {
     // draw samples
     // $('#samples').html('') // TODO: Show samples in the UI...for now just log them out
     for (var q = 0; q < 5; q++) {
       console.log(
         'NN output - sample:',
-        predictSentence(model, true, sample_softmax_temperature),
+        predictSentence(model, true, sampleSoftmaxTemperature),
       )
-      // var pred = predictSentence(model, true, sample_softmax_temperature)
+      // var pred = predictSentence(model, true, sampleSoftmaxTemperature)
       // var pred_div = '<div class="apred">' + pred + '</div>'
       // $('#samples').append(pred_div)
     }
   }
 
-  if (tick_iter % 10 === 0) {
+  if (tickIter % 10 === 0) {
     // draw argmax prediction
     // TODO: Show this in the UI...for now just log it out
     console.log('NN output - argmax prediction:', predictSentence(model, false))
@@ -259,17 +259,17 @@ function tick() {
     // $('#argmax').append(pred_div)
 
     // // keep track of perplexity
-    // $('#epoch').text('epoch: ' + (tick_iter / epoch_size).toFixed(2))
-    // $('#ppl').text('perplexity: ' + cost_struct.ppl.toFixed(2))
+    // $('#epoch').text('epoch: ' + (tickIter / epochSize).toFixed(2))
+    // $('#ppl').text('perplexity: ' + costStruct.ppl.toFixed(2))
     // $('#ticktime').text(
-    //   'forw/bwd time per example: ' + tick_time.toFixed(1) + 'ms',
+    //   'forw/bwd time per example: ' + tickTime.toFixed(1) + 'ms',
     // )
 
     // TODO: Different solution for graph...maybe victory or something...or maybe antd has something
-    // if (tick_iter % 100 === 0) {
-    // var median_ppl = median(ppl_list)
-    // ppl_list = []
-    // pplGraph.add(tick_iter, median_ppl)
+    // if (tickIter % 100 === 0) {
+    // var median_ppl = median(pplList)
+    // pplList = []
+    // pplGraph.add(tickIter, median_ppl)
     // pplGraph.drawSelf(document.getElementById('pplgraph'))
     // }
   }
@@ -284,7 +284,7 @@ function tick() {
 //   iid = setInterval(tick, 0)
 
 // This was commented out in his code...perhaps an unfinished idea?
-//$('#gradcheck').click(gradCheck);
+// $('#gradcheck').click(gradCheck);
 
 export default class App extends Component {
   state = {

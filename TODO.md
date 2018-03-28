@@ -6,9 +6,8 @@
 
 ## ES6-ify
 
-* convert snake_case to camelCase
+* check over all for loops...replace all possible
 * convert protos to classes
-* consider replacing for loops
 
 ### Modules
 

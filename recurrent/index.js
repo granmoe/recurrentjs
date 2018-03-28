@@ -1,4 +1,5 @@
 // NOTE: In progress...will clean this all up and probably rewrite most of it later
+
 function assert(condition, message = 'Assertion failed') {
   if (!condition) {
     throw new Error(message)
@@ -6,36 +7,39 @@ function assert(condition, message = 'Assertion failed') {
 }
 
 // Random numbers utils
-var returnV = false
-var vVal = 0.0
+// var returnV = false
+// var vVal = 0.0
 
-var gaussRandom = function() {
-  if (returnV) {
-    returnV = false
-    return vVal
-  }
-  var u = 2 * Math.random() - 1
-  var v = 2 * Math.random() - 1
-  var r = u * u + v * v
-  if (r == 0 || r > 1) return gaussRandom()
-  var c = Math.sqrt(-2 * Math.log(r) / r)
-  vVal = v * c // cache this
-  returnV = true
-  return u * c
-}
-var randf = function(a, b) {
+// function gaussRandom() {
+//   if (returnV) {
+//     returnV = false
+//     return vVal
+//   }
+//   var u = 2 * Math.random() - 1
+//   var v = 2 * Math.random() - 1
+//   var r = u * u + v * v
+//   if (r == 0 || r > 1) return gaussRandom()
+//   var c = Math.sqrt(-2 * Math.log(r) / r)
+//   vVal = v * c // cache this
+//   returnV = true
+//   return u * c
+// }
+
+function randf(a, b) {
   return Math.random() * (b - a) + a
 }
-var randi = function(a, b) {
+
+function randi(a, b) {
   return Math.floor(Math.random() * (b - a) + a)
 }
-// var randn = function(mu, std) {
+
+// function randn(mu, std) {
 // return mu + gaussRandom() * std
 // }
 
 // helper function returns array of zeros of length n
 // and uses typed arrays if available
-var zeros = function(n) {
+function zeros(n) {
   if (typeof n === 'undefined' || isNaN(n)) {
     return []
   }
@@ -53,7 +57,7 @@ var zeros = function(n) {
 
 // TODO: class
 // Mat holds a matrix
-var Mat = function(n, d) {
+function Mat(n, d) {
   // n is number of rows d is number of columns
   this.n = n
   this.d = d
@@ -93,7 +97,7 @@ Mat.prototype = {
 }
 
 // return Mat but filled with random numbers from gaussian
-var RandMat = function(n, d, mu, std) {
+function RandMat(n, d, mu, std) {
   var m = new Mat(n, d)
   // fillRandn(m,mu,std);
   fillRand(m, -std, std) // kind of :P
@@ -102,19 +106,19 @@ var RandMat = function(n, d, mu, std) {
 
 // Mat utils
 // fill matrix with random gaussian numbers
-// var fillRandn = function(m, mu, std) {
+// function fillRandn(m, mu, std) {
 // for (var i = 0, n = m.w.length; i < n; i++) {
 // m.w[i] = randn(mu, std)
 // }
 // }
-var fillRand = function(m, lo, hi) {
+function fillRand(m, lo, hi) {
   for (var i = 0, n = m.w.length; i < n; i++) {
     m.w[i] = randf(lo, hi)
   }
 }
 
 // Transformer definitions
-var Graph = function(needsBackprop) {
+function Graph(needsBackprop) {
   if (typeof needsBackprop === 'undefined') {
     needsBackprop = true
   }
@@ -132,6 +136,12 @@ Graph.prototype = {
     }
   },
   rowPluck: function(m, ix) {
+    function backward() {
+      for (var i = 0, n = d; i < n; i++) {
+        m.dw[d * ix + i] += out.dw[i]
+      }
+    }
+
     // pluck a row of m with index ix and return it as col vector
     assert(ix >= 0 && ix < m.n)
     var d = m.d
@@ -141,16 +151,19 @@ Graph.prototype = {
     } // copy over the data
 
     if (this.needsBackprop) {
-      var backward = function() {
-        for (var i = 0, n = d; i < n; i++) {
-          m.dw[d * ix + i] += out.dw[i]
-        }
-      }
       this.backprop.push(backward)
     }
     return out
   },
   tanh: function(m) {
+    function backward() {
+      for (var i = 0; i < n; i++) {
+        // grad for z = tanh(x) is (1 - z^2)
+        var mwi = out.w[i]
+        m.dw[i] += (1.0 - mwi * mwi) * out.dw[i]
+      }
+    }
+
     // tanh nonlinearity
     var out = new Mat(m.n, m.d)
     var n = m.w.length
@@ -159,18 +172,19 @@ Graph.prototype = {
     }
 
     if (this.needsBackprop) {
-      var backward = function() {
-        for (var i = 0; i < n; i++) {
-          // grad for z = tanh(x) is (1 - z^2)
-          var mwi = out.w[i]
-          m.dw[i] += (1.0 - mwi * mwi) * out.dw[i]
-        }
-      }
       this.backprop.push(backward)
     }
     return out
   },
   sigmoid: function(m) {
+    function backward() {
+      for (var i = 0; i < n; i++) {
+        // grad for z = tanh(x) is (1 - z^2)
+        var mwi = out.w[i]
+        m.dw[i] += mwi * (1.0 - mwi) * out.dw[i]
+      }
+    }
+
     // sigmoid nonlinearity
     var out = new Mat(m.n, m.d)
     var n = m.w.length
@@ -179,34 +193,43 @@ Graph.prototype = {
     }
 
     if (this.needsBackprop) {
-      var backward = function() {
-        for (var i = 0; i < n; i++) {
-          // grad for z = tanh(x) is (1 - z^2)
-          var mwi = out.w[i]
-          m.dw[i] += mwi * (1.0 - mwi) * out.dw[i]
-        }
-      }
       this.backprop.push(backward)
     }
     return out
   },
   relu: function(m) {
+    function backward() {
+      for (var i = 0; i < n; i++) {
+        m.dw[i] += m.w[i] > 0 ? out.dw[i] : 0.0
+      }
+    }
+
     var out = new Mat(m.n, m.d)
     var n = m.w.length
     for (var i = 0; i < n; i++) {
       out.w[i] = Math.max(0, m.w[i]) // relu
     }
     if (this.needsBackprop) {
-      var backward = function() {
-        for (var i = 0; i < n; i++) {
-          m.dw[i] += m.w[i] > 0 ? out.dw[i] : 0.0
-        }
-      }
       this.backprop.push(backward)
     }
     return out
   },
   mul: function(m1, m2) {
+    function backward() {
+      for (var i = 0; i < m1.n; i++) {
+        // loop over rows of m1
+        for (var j = 0; j < m2.d; j++) {
+          // loop over cols of m2
+          for (var k = 0; k < m1.d; k++) {
+            // dot product loop
+            var b = out.dw[d * i + j]
+            m1.dw[m1.d * i + k] += m2.w[m2.d * k + j] * b
+            m2.dw[m2.d * k + j] += m1.w[m1.d * i + k] * b
+          }
+        }
+      }
+    }
+
     // multiply matrices m1 * m2
     assert(m1.d === m2.n, 'matmul dimensions misaligned')
 
@@ -227,25 +250,18 @@ Graph.prototype = {
     }
 
     if (this.needsBackprop) {
-      var backward = function() {
-        for (var i = 0; i < m1.n; i++) {
-          // loop over rows of m1
-          for (var j = 0; j < m2.d; j++) {
-            // loop over cols of m2
-            for (var k = 0; k < m1.d; k++) {
-              // dot product loop
-              var b = out.dw[d * i + j]
-              m1.dw[m1.d * i + k] += m2.w[m2.d * k + j] * b
-              m2.dw[m2.d * k + j] += m1.w[m1.d * i + k] * b
-            }
-          }
-        }
-      }
       this.backprop.push(backward)
     }
     return out
   },
   add: function(m1, m2) {
+    function backward() {
+      for (var i = 0, n = m1.w.length; i < n; i++) {
+        m1.dw[i] += out.dw[i]
+        m2.dw[i] += out.dw[i]
+      }
+    }
+
     assert(m1.w.length === m2.w.length)
 
     var out = new Mat(m1.n, m1.d)
@@ -253,37 +269,33 @@ Graph.prototype = {
       out.w[i] = m1.w[i] + m2.w[i]
     }
     if (this.needsBackprop) {
-      var backward = function() {
-        for (var i = 0, n = m1.w.length; i < n; i++) {
-          m1.dw[i] += out.dw[i]
-          m2.dw[i] += out.dw[i]
-        }
-      }
       this.backprop.push(backward)
     }
+
     return out
   },
   eltmul: function(m1, m2) {
     assert(m1.w.length === m2.w.length)
+
+    function backward() {
+      for (var i = 0, n = m1.w.length; i < n; i++) {
+        m1.dw[i] += m2.w[i] * out.dw[i]
+        m2.dw[i] += m1.w[i] * out.dw[i]
+      }
+    }
 
     var out = new Mat(m1.n, m1.d)
     for (var i = 0, n = m1.w.length; i < n; i++) {
       out.w[i] = m1.w[i] * m2.w[i]
     }
     if (this.needsBackprop) {
-      var backward = function() {
-        for (var i = 0, n = m1.w.length; i < n; i++) {
-          m1.dw[i] += m2.w[i] * out.dw[i]
-          m2.dw[i] += m1.w[i] * out.dw[i]
-        }
-      }
       this.backprop.push(backward)
     }
     return out
   },
 }
 
-var softmax = function(m) {
+function softmax(m) {
   var out = new Mat(m.n, m.d) // probability volume
   var maxval = -999999
   for (var i = 0, n = m.w.length; i < n; i++) {
@@ -291,11 +303,11 @@ var softmax = function(m) {
   }
 
   var s = 0.0
-  for (var i = 0, n = m.w.length; i < n; i++) {
+  for (let i = 0, n = m.w.length; i < n; i++) {
     out.w[i] = Math.exp(m.w[i] - maxval)
     s += out.w[i]
   }
-  for (var i = 0, n = m.w.length; i < n; i++) {
+  for (let i = 0, n = m.w.length; i < n; i++) {
     out.w[i] /= s
   }
 
@@ -306,7 +318,7 @@ var softmax = function(m) {
 }
 
 // TODO: Convert to class
-var Solver = function() {
+function Solver() {
   this.decay_rate = 0.999
   this.smooth_eps = 1e-8
   this.step_cache = {}
@@ -355,7 +367,7 @@ Solver.prototype = {
   },
 }
 
-var initLSTM = function(inputSize, hiddenSizes, outputSize) {
+function initLSTM(inputSize, hiddenSizes, outputSize) {
   // hidden size should be a list
 
   // TODO: declare model as reduce of hiddenSizes
@@ -386,7 +398,7 @@ var initLSTM = function(inputSize, hiddenSizes, outputSize) {
   return model
 }
 
-var forwardLSTM = function(G, model, hiddenSizes, x, prev) {
+function forwardLSTM(G, model, hiddenSizes, x, prev) {
   // forward prop for a single tick of LSTM
   // G is graph to append ops to
   // model contains LSTM parameters
@@ -403,14 +415,14 @@ var forwardLSTM = function(G, model, hiddenSizes, x, prev) {
       cellPrevs.push(new Mat(hiddenSizes[d], 1))
     }
   } else {
-    var hiddenPrevs = prev.h
-    var cellPrevs = prev.c
+    hiddenPrevs = prev.h
+    cellPrevs = prev.c
   }
 
   var hidden = []
   var cell = []
   // TODO: declare [hidden, cell] as reduce of hiddenSizes
-  for (var d = 0; d < hiddenSizes.length; d++) {
+  for (let d = 0; d < hiddenSizes.length; d++) {
     var inputVector = d === 0 ? x : hidden[d - 1]
     var hiddenPrev = hiddenPrevs[d]
     var cellPrev = cellPrevs[d]
@@ -458,7 +470,7 @@ var forwardLSTM = function(G, model, hiddenSizes, x, prev) {
   return { h: hidden, c: cell, o: output }
 }
 
-var initRNN = function(inputSize, hiddenSizes, outputSize) {
+function initRNN(inputSize, hiddenSizes, outputSize) {
   // hidden size should be a list
 
   // TODO: declare model as reduce of hiddenSizes
@@ -477,7 +489,7 @@ var initRNN = function(inputSize, hiddenSizes, outputSize) {
   return model
 }
 
-var forwardRNN = function(G, model, hiddenSizes, x, prev) {
+function forwardRNN(G, model, hiddenSizes, x, prev) {
   // forward prop for a single tick of RNN
   // G is graph to append ops to
   // model contains RNN parameters
@@ -487,16 +499,16 @@ var forwardRNN = function(G, model, hiddenSizes, x, prev) {
   if (typeof prev.h === 'undefined') {
     // TODO: declare as map of hiddenSizes
     var hiddenPrevs = []
-    for (var d = 0; d < hiddenSizes.length; d++) {
+    for (let d = 0; d < hiddenSizes.length; d++) {
       hiddenPrevs.push(new Mat(hiddenSizes[d], 1))
     }
   } else {
-    var hiddenPrevs = prev.h
+    hiddenPrevs = prev.h
   }
 
   // todo: declare hidden as map of hiddenSizes
   var hidden = []
-  for (var d = 0; d < hiddenSizes.length; d++) {
+  for (let d = 0; d < hiddenSizes.length; d++) {
     var inputVector = d === 0 ? x : hidden[d - 1]
     var hiddenPrev = hiddenPrevs[d]
 
@@ -517,12 +529,12 @@ var forwardRNN = function(G, model, hiddenSizes, x, prev) {
   return { h: hidden, o: output }
 }
 
-var sig = function(x) {
+function sig(x) {
   // helper function for computing sigmoid
   return 1.0 / (1 + Math.exp(-x))
 }
 
-var maxi = function(w) {
+function maxi(w) {
   // argmax of array w
   var maxv = w[0]
   var maxix = 0
@@ -536,7 +548,7 @@ var maxi = function(w) {
   return maxix
 }
 
-var samplei = function(w) {
+function samplei(w) {
   // sample argmax from w, assuming w are
   // probabilities that sum to one
   var r = randf(0, 1)

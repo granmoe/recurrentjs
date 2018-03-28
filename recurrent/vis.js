@@ -1,6 +1,6 @@
 export default class Graph {
-  constructor(step_horizon = 1000) {
-    this.step_horizon = step_horizon
+  constructor(stepHorizon = 1000) {
+    this.stepHorizon = stepHorizon
     this.pts = []
     this.maxy = -9999
     this.miny = 9999
@@ -13,7 +13,7 @@ export default class Graph {
     if (y < this.miny * 1.01) this.miny = y * 0.95
 
     this.pts.push({ step: step, time: time, y: y })
-    if (step > this.step_horizon) this.step_horizon *= 2
+    if (step > this.stepHorizon) this.stepHorizon *= 2
   }
 
   // elt is a canvas we wish to draw into
@@ -40,12 +40,12 @@ export default class Graph {
       ctx.moveTo(xpos, pad)
       ctx.lineTo(xpos, H - pad)
       ctx.fillText(
-        f2t(i / ng * this.step_horizon / 1000) + 'k',
+        f2t(i / ng * this.stepHorizon / 1000) + 'k',
         xpos,
         H - pad + 14,
       )
     }
-    for (var i = 0; i <= ng; i++) {
+    for (let i = 0; i <= ng; i++) {
       var ypos = i / ng * (H - 2 * pad) + pad
       ctx.moveTo(pad, ypos)
       ctx.lineTo(W - pad, ypos)
@@ -62,14 +62,14 @@ export default class Graph {
 
     // draw the actual curve
     var t = function(x, y, s) {
-      var tx = x / s.step_horizon * (W - pad * 2) + pad
+      var tx = x / s.stepHorizon * (W - pad * 2) + pad
       var ty = H - ((y - s.miny) / (s.maxy - s.miny) * (H - pad * 2) + pad)
       return { tx: tx, ty: ty }
     }
 
     ctx.strokeStyle = 'red'
     ctx.beginPath()
-    for (var i = 0; i < N; i++) {
+    for (let i = 0; i < N; i++) {
       // draw line from i-1 to i
       var p = this.pts[i]
       var pt = t(p.step, p.y, this)

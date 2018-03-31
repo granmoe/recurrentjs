@@ -1,26 +1,29 @@
 # TODO
 
+## ES6-ify
+
+* check all for loops
+
+## Restructure
+
+* better data structure...hyper params, input etc need a home
+* functions instead of classes
+  * generators
+* Use victory or something instead of vis and delete vis
+
 ## Tests
 
 * Jest
 
-## ES6-ify
-
-* check over all for loops...replace all possible
-
-## Restructure
-
-* functions instead of classes
-* generators
-* better data structure...hyper params, input etc needs a home
-* Use victory or something instead of vis and delete vis
-
 ## Website
 
-* output stuff to UI
-* get antd working (CSS problem?)
-* CSS reset
-* Grab any images used in original (deleted the external/ dir just to clean things up for now)
+* get antd working (CSS problem?) or some other UI component lib
+  * output stuff to UI
+* Redesign
+  * Responsive
+  * Showcase the experiment more...visible on load
+  * Grab any images used in original (deleted the external/ dir just to clean things up for now)
+  * Put in text of original
 
 ## Publish
 

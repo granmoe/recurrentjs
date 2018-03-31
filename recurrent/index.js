@@ -4,31 +4,11 @@ function assert(condition, message = 'Assertion failed') {
   }
 }
 
-function randf(a, b) {
-  return Math.random() * (b - a) + a
-}
+const randf = (a, b) => Math.random() * (b - a) + a
 
-function randi(a, b) {
-  return Math.floor(Math.random() * (b - a) + a)
-}
+const randi = (a, b) => Math.floor(Math.random() * (b - a) + a)
 
-// helper function returns array of zeros of length n
-// and uses typed arrays if available
-function zeros(n) {
-  if (typeof n === 'undefined' || isNaN(n)) {
-    return []
-  }
-  if (typeof ArrayBuffer === 'undefined') {
-    // lacking browser support
-    let arr = new Array(n)
-    for (let i = 0; i < n; i++) {
-      arr[i] = 0
-    }
-    return arr
-  } else {
-    return new Float64Array(n)
-  }
-}
+const zeros = n => new Float64Array(n)
 
 // Mat holds a matrix
 class Mat {

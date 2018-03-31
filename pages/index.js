@@ -84,13 +84,13 @@ function initModel() {
   model['Wil'] = new R.RandMat(inputSize, letterSize, 0, 0.08)
 
   if (generator === 'rnn') {
-    var rnn = R.initRNN(letterSize, hiddenSizes, outputSize)
+    let rnn = R.initRNN(letterSize, hiddenSizes, outputSize)
     model = {
       ...model,
       ...rnn,
     }
   } else {
-    var lstm = R.initLSTM(letterSize, hiddenSizes, outputSize)
+    let lstm = R.initLSTM(letterSize, hiddenSizes, outputSize)
     model = {
       ...model,
       ...lstm,
@@ -125,9 +125,9 @@ function forwardIndex(G, model, ix, prev) {
 }
 
 function predictSentence(model, samplei = false, temperature = 1.0) {
-  var G = new R.Graph(false)
-  var s = ''
-  var prev = {}
+  let G = new R.Graph(false)
+  let s = ''
+  let prev = {}
   while (true) {
     // RNN tick
     let ix = s.length === 0 ? 0 : letterToIndex[s[s.length - 1]]
@@ -141,7 +141,7 @@ function predictSentence(model, samplei = false, temperature = 1.0) {
       // if temperature is high, logprobs will go towards zero
       // and the softmax outputs will be more diffuse. if temperature is
       // very low, the softmax outputs will be more peaky
-      for (var q = 0, nq = logprobs.w.length; q < nq; q++) {
+      for (let q = 0, nq = logprobs.w.length; q < nq; q++) {
         logprobs.w[q] /= temperature
       }
     }
@@ -158,7 +158,7 @@ function predictSentence(model, samplei = false, temperature = 1.0) {
       break
     } // something is wrong
 
-    var letter = indexToLetter[ix]
+    let letter = indexToLetter[ix]
     s += letter
   }
   return s
@@ -218,7 +218,7 @@ function tick() {
   if (tickIter % 50 === 0) {
     // draw samples
     // $('#samples').html('') // TODO: Show samples in the UI...for now just log them out
-    for (var q = 0; q < 5; q++) {
+    for (let q = 0; q < 5; q++) {
       console.log(
         'NN output - sample:',
         predictSentence(model, true, sampleSoftmaxTemperature),

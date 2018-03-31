@@ -7,8 +7,6 @@
 ## ES6-ify
 
 * check over all for loops...replace all possible
-* change var to let, watch out for reliance on side-effect of hoisting
-* convert protos to classes
 
 ## Restructure
 

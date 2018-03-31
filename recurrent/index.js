@@ -1,29 +1,8 @@
-// NOTE: In progress...will clean this all up and probably rewrite most of it later
-
 function assert(condition, message = 'Assertion failed') {
   if (!condition) {
     throw new Error(message)
   }
 }
-
-// Random numbers utils
-// let returnV = false
-// let vVal = 0.0
-
-// function gaussRandom() {
-//   if (returnV) {
-//     returnV = false
-//     return vVal
-//   }
-//   let u = 2 * Math.random() - 1
-//   let v = 2 * Math.random() - 1
-//   let r = u * u + v * v
-//   if (r == 0 || r > 1) return gaussRandom()
-//   let c = Math.sqrt(-2 * Math.log(r) / r)
-//   vVal = v * c // cache this
-//   returnV = true
-//   return u * c
-// }
 
 function randf(a, b) {
   return Math.random() * (b - a) + a
@@ -32,10 +11,6 @@ function randf(a, b) {
 function randi(a, b) {
   return Math.floor(Math.random() * (b - a) + a)
 }
-
-// function randn(mu, std) {
-// return mu + gaussRandom() * std
-// }
 
 // helper function returns array of zeros of length n
 // and uses typed arrays if available
@@ -108,12 +83,6 @@ function RandMat(n, d, mu, std) {
 }
 
 // Mat utils
-// fill matrix with random gaussian numbers
-// function fillRandn(m, mu, std) {
-// for (let i = 0, n = m.w.length; i < n; i++) {
-// m.w[i] = randn(mu, std)
-// }
-// }
 function fillRand(m, lo, hi) {
   for (let i = 0, n = m.w.length; i < n; i++) {
     m.w[i] = randf(lo, hi)
@@ -472,23 +441,23 @@ function forwardLSTM(G, model, hiddenSizes, x, prev) {
 }
 
 function initRNN(inputSize, hiddenSizes, outputSize) {
-  // hidden size should be a list
+  const model = hiddenSizes.reduce((model, hiddenSize, index, hiddenSizes) => {
+    const prevSize = index === 0 ? inputSize : hiddenSizes[index - 1]
 
-  // TODO: declare model as reduce of hiddenSizes
-  let model = {}
-  let hiddenSize
-  for (let d = 0; d < hiddenSizes.length; d++) {
-    // loop over depths
-    let prevSize = d === 0 ? inputSize : hiddenSizes[d - 1]
-    hiddenSize = hiddenSizes[d]
-    model['Wxh' + d] = new RandMat(hiddenSize, prevSize, 0, 0.08)
-    model['Whh' + d] = new RandMat(hiddenSize, hiddenSize, 0, 0.08)
-    model['bhh' + d] = new Mat(hiddenSize, 1)
-  }
+    model['Wxh' + index] = new RandMat(hiddenSize, prevSize, 0, 0.08)
+    model['Whh' + index] = new RandMat(hiddenSize, hiddenSize, 0, 0.08)
+    model['bhh' + index] = new Mat(hiddenSize, 1)
+  }, {})
 
   // decoder params
-  model['Whd'] = new RandMat(outputSize, hiddenSize, 0, 0.08)
+  model['Whd'] = new RandMat(
+    outputSize,
+    hiddenSizes[hiddenSizes.length - 1],
+    0,
+    0.08,
+  )
   model['bd'] = new Mat(outputSize, 1)
+
   return model
 }
 
@@ -579,3 +548,33 @@ export default {
   Solver,
   Graph,
 }
+
+// Random numbers utils
+// let returnV = false
+// let vVal = 0.0
+
+// function gaussRandom() {
+//   if (returnV) {
+//     returnV = false
+//     return vVal
+//   }
+//   let u = 2 * Math.random() - 1
+//   let v = 2 * Math.random() - 1
+//   let r = u * u + v * v
+//   if (r == 0 || r > 1) return gaussRandom()
+//   let c = Math.sqrt(-2 * Math.log(r) / r)
+//   vVal = v * c // cache this
+//   returnV = true
+//   return u * c
+// }
+
+// function randn(mu, std) {
+// return mu + gaussRandom() * std
+// }
+
+// fill matrix with random gaussian numbers
+// function fillRandn(m, mu, std) {
+// for (let i = 0, n = m.w.length; i < n; i++) {
+// m.w[i] = randn(mu, std)
+// }
+// }

@@ -1,5 +1,4 @@
 import { Component } from 'react'
-import { Button } from 'antd'
 import R from '../recurrent'
 // import Rvis from '../recurrent/vis'
 import inputSentences from '../config/input-sentences'
@@ -125,14 +124,7 @@ function forwardIndex(G, model, ix, prev) {
     : R.forwardLSTM(G, model, hiddenSizes, x, prev)
 }
 
-function predictSentence(model, samplei, temperature) {
-  if (typeof samplei === 'undefined') {
-    samplei = false
-  }
-  if (typeof temperature === 'undefined') {
-    temperature = 1.0
-  }
-
+function predictSentence(model, samplei = false, temperature = 1.0) {
   var G = new R.Graph(false)
   var s = ''
   var prev = {}
@@ -201,7 +193,7 @@ function costfun(model, sent) {
     logprobs.dw[ixTarget] -= 1
   }
   const ppl = Math.pow(2, log2ppl / (n - 1))
-  return { G: G, ppl: ppl, cost: cost }
+  return { G, ppl, cost }
 }
 
 function tick() {
@@ -312,11 +304,11 @@ export default class App extends Component {
   render() {
     return (
       <main>
-        <Button type="primary" onClick={this.pause}>
+        <button type="primary" onClick={this.pause}>
           {!this.state.hasRun
             ? 'Start'
             : this.state.intervalId ? 'Pause' : 'Resume'}
-        </Button>
+        </button>
         <section>
           <h1>RNNs</h1>
           <p>Here is some info about RNNs</p>

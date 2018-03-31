@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 $('#learn').click(function() {
   reinit()
   if (iid !== null) {

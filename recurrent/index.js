@@ -55,37 +55,40 @@ function zeros(n) {
   }
 }
 
-// TODO: class
 // Mat holds a matrix
-function Mat(n, d) {
-  // n is number of rows d is number of columns
-  this.n = n
-  this.d = d
-  this.w = zeros(n * d)
-  this.dw = zeros(n * d)
-}
-Mat.prototype = {
-  get: function(row, col) {
+class Mat {
+  constructor(n, d) {
+    // n is number of rows d is number of columns
+    this.n = n
+    this.d = d
+    this.w = zeros(n * d)
+    this.dw = zeros(n * d)
+  }
+
+  get(row, col) {
     // slow but careful accessor function
     // we want row-major order
     var ix = this.d * row + col
     assert(ix >= 0 && ix < this.w.length)
     return this.w[ix]
-  },
-  set: function(row, col, v) {
+  }
+
+  set(row, col, v) {
     // slow but careful accessor function
     var ix = this.d * row + col
     assert(ix >= 0 && ix < this.w.length)
     this.w[ix] = v
-  },
-  toJSON: function() {
+  }
+
+  toJSON() {
     var json = {}
     json['n'] = this.n
     json['d'] = this.d
     json['w'] = this.w
     return json
-  },
-  fromJSON: function(json) {
+  }
+
+  fromJSON(json) {
     this.n = json.n
     this.d = json.d
     this.w = zeros(this.n * this.d)
@@ -93,7 +96,7 @@ Mat.prototype = {
     for (var i = 0, n = this.n * this.d; i < n; i++) {
       this.w[i] = json.w[i] // copy over weights
     }
-  },
+  }
 }
 
 // return Mat but filled with random numbers from gaussian
@@ -118,24 +121,23 @@ function fillRand(m, lo, hi) {
 }
 
 // Transformer definitions
-function Graph(needsBackprop) {
-  if (typeof needsBackprop === 'undefined') {
-    needsBackprop = true
-  }
-  this.needsBackprop = needsBackprop
+class Graph {
+  constructor(needsBackprop = true) {
+    this.needsBackprop = needsBackprop
 
-  // this will store a list of functions that perform backprop,
-  // in their forward pass order. So in backprop we will go
-  // backwards and evoke each one
-  this.backprop = []
-}
-Graph.prototype = {
-  backward: function() {
+    // this will store a list of functions that perform backprop,
+    // in their forward pass order. So in backprop we will go
+    // backwards and evoke each one
+    this.backprop = []
+  }
+
+  backward() {
     for (var i = this.backprop.length - 1; i >= 0; i--) {
-      this.backprop[i]() // tick!
+      this.backprop[i]() // tick! <- TODO: What does this mean?
     }
-  },
-  rowPluck: function(m, ix) {
+  }
+
+  rowPluck(m, ix) {
     function backward() {
       for (var i = 0, n = d; i < n; i++) {
         m.dw[d * ix + i] += out.dw[i]
@@ -154,8 +156,9 @@ Graph.prototype = {
       this.backprop.push(backward)
     }
     return out
-  },
-  tanh: function(m) {
+  }
+
+  tanh(m) {
     function backward() {
       for (var i = 0; i < n; i++) {
         // grad for z = tanh(x) is (1 - z^2)
@@ -175,8 +178,9 @@ Graph.prototype = {
       this.backprop.push(backward)
     }
     return out
-  },
-  sigmoid: function(m) {
+  }
+
+  sigmoid(m) {
     function backward() {
       for (var i = 0; i < n; i++) {
         // grad for z = tanh(x) is (1 - z^2)
@@ -196,8 +200,9 @@ Graph.prototype = {
       this.backprop.push(backward)
     }
     return out
-  },
-  relu: function(m) {
+  }
+
+  relu(m) {
     function backward() {
       for (var i = 0; i < n; i++) {
         m.dw[i] += m.w[i] > 0 ? out.dw[i] : 0.0
@@ -213,8 +218,9 @@ Graph.prototype = {
       this.backprop.push(backward)
     }
     return out
-  },
-  mul: function(m1, m2) {
+  }
+
+  mul(m1, m2) {
     function backward() {
       for (var i = 0; i < m1.n; i++) {
         // loop over rows of m1
@@ -253,8 +259,9 @@ Graph.prototype = {
       this.backprop.push(backward)
     }
     return out
-  },
-  add: function(m1, m2) {
+  }
+
+  add(m1, m2) {
     function backward() {
       for (var i = 0, n = m1.w.length; i < n; i++) {
         m1.dw[i] += out.dw[i]
@@ -273,8 +280,9 @@ Graph.prototype = {
     }
 
     return out
-  },
-  eltmul: function(m1, m2) {
+  }
+
+  eltmul(m1, m2) {
     assert(m1.w.length === m2.w.length)
 
     function backward() {
@@ -292,7 +300,7 @@ Graph.prototype = {
       this.backprop.push(backward)
     }
     return out
-  },
+  }
 }
 
 function softmax(m) {
@@ -317,29 +325,28 @@ function softmax(m) {
   return out
 }
 
-// TODO: Convert to class
-function Solver() {
-  this.decay_rate = 0.999
-  this.smooth_eps = 1e-8
-  this.step_cache = {}
-}
+class Solver {
+  constructor() {
+    this.decay_rate = 0.999
+    this.smooth_eps = 1e-8
+    this.step_cache = {}
+  }
 
-Solver.prototype = {
-  step: function(model, stepSize, regc, clipval) {
+  step(model, stepSize, regc, clipval) {
     // perform parameter update
-    var solverStats = {}
-    var numClipped = 0
-    var numTot = 0
-    for (var k in model) {
+    let solverStats = {}
+    let numClipped = 0
+    let numTot = 0
+    for (let k in model) {
       if (model.hasOwnProperty(k)) {
-        var m = model[k] // mat ref
+        let m = model[k] // mat ref
         if (!(k in this.step_cache)) {
           this.step_cache[k] = new Mat(m.n, m.d)
         }
-        var s = this.step_cache[k]
-        for (var i = 0, n = m.w.length; i < n; i++) {
+        let s = this.step_cache[k]
+        for (let i = 0, n = m.w.length; i < n; i++) {
           // rmsprop adaptive learning rate
-          var mdwi = m.dw[i]
+          let mdwi = m.dw[i]
           s.w[i] =
             s.w[i] * this.decay_rate + (1.0 - this.decay_rate) * mdwi * mdwi
 
@@ -364,7 +371,7 @@ Solver.prototype = {
     }
     solverStats['ratio_clipped'] = numClipped * 1.0 / numTot
     return solverStats
-  },
+  }
 }
 
 function initLSTM(inputSize, hiddenSizes, outputSize) {

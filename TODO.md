@@ -1,10 +1,16 @@
 # TODO
 
+Did a huge change and then things broke
+Stash the change
+Apply one piece at a time and test each one
+
 ## ES6-ify
 
 * check all for loops
 
 ## Restructure
+
+* (in progress) Method for updating weights on Mat. Can either take new weights array or a map function.
 
 * better data structure...hyper params, input etc need a home
 * functions instead of classes

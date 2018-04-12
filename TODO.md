@@ -1,9 +1,5 @@
 # TODO
 
-Did a huge change and then things broke
-Stash the change
-Apply one piece at a time and test each one
-
 ## ES6-ify
 
 * check all for loops

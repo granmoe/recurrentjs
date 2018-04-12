@@ -6,8 +6,9 @@
 
 ## Restructure
 
-* (in progress) Method for updating weights on Mat. Can either take new weights array or a map function.
-
+* Mat API:
+  * Method for updating weights can either take new weights array or a map function?
+  * Constructor can optionally take weights?
 * better data structure...hyper params, input etc need a home
 * functions instead of classes
   * generators

@@ -1,3 +1,11 @@
+// Mat data structure is like an "unrolled" matrix
+// 1 2
+// 3 4
+// 5 6
+// becomes
+// 1 2 3 4 5 6
+// rowPluck method takes an index and then iterates through and grabs iteratee index * given index to get a row (or is it column in this case?)
+
 /* eslint-disable */
 
 $('#learn').click(function() {

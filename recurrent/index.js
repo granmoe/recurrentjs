@@ -98,7 +98,7 @@ class Graph {
 
     // this will store a list of functions that perform backprop,
     // in their forward pass order. So in backprop we will go
-    // backwards and evoke each one
+    // backwards through this array and invoke each one
     this.backprop = []
   }
 
@@ -115,8 +115,11 @@ class Graph {
       }
     }
 
-    // pluck a row of m with index ix and return it as col vector
     assert(ix >= 0 && ix < m.n)
+
+    // pluck a row of m with index ix and return it as col vector
+    // rowPluck should be a method on Mat, then can just do
+    // out = new Mat({ weights: m.rowPluck(index) })
     let d = m.d
     let out = new Mat(d, 1)
     for (let i = 0, n = d; i < n; i++) {
@@ -130,56 +133,39 @@ class Graph {
   }
 
   tanh(m) {
-    const backward = () => {
-      m.updateDw((dw, i) => dw + (1 - out.w[i] * out.w[i]) * out.dw[i])
-    }
-
     const out = m.clone({ withDw: false }).updateW(Math.tanh) // tanh nonlinearity
 
     if (this.needsBackprop) {
-      this.backprop.push(backward)
+      this.backprop.push(() => {
+        m.updateDw((dw, i) => dw + (1 - out.w[i] * out.w[i]) * out.dw[i])
+      })
     }
 
     return out
   }
 
   sigmoid(m) {
-    function backward() {
-      for (let i = 0; i < n; i++) {
-        // grad for z = tanh(x) is (1 - z^2)
-        let mwi = out.w[i]
-        m.dw[i] += mwi * (1.0 - mwi) * out.dw[i]
-      }
-    }
-
-    // sigmoid nonlinearity
-    let out = new Mat(m.n, m.d)
-    let n = m.w.length
-    for (let i = 0; i < n; i++) {
-      out.w[i] = sig(m.w[i])
-    }
+    const out = m.clone({ withDw: false }).updateW(sig) // sigmoid nonlinearity
 
     if (this.needsBackprop) {
-      this.backprop.push(backward)
+      this.backprop.push(() => {
+        // grad for z = tanh(x) is (1 - z^2)
+        m.updateDw((dw, i) => dw + out.w[i] * (1 - out.w[i]) * out.dw[i])
+      })
     }
+
     return out
   }
 
   relu(m) {
-    function backward() {
-      for (let i = 0; i < n; i++) {
-        m.dw[i] += m.w[i] > 0 ? out.dw[i] : 0.0
-      }
+    const out = m.clone({ withDw: false }).updateW(Math.max.bind(null, 0)) // sigmoid nonlinearity
+
+    if (this.needsBackprop) {
+      this.backprop.push(() => {
+        m.updateDw((dw, i) => (dw + m.w[i] > 0 ? out.dw[i] : 0))
+      })
     }
 
-    let out = new Mat(m.n, m.d)
-    let n = m.w.length
-    for (let i = 0; i < n; i++) {
-      out.w[i] = Math.max(0, m.w[i]) // relu
-    }
-    if (this.needsBackprop) {
-      this.backprop.push(backward)
-    }
     return out
   }
 

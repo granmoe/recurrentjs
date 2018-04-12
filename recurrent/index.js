@@ -18,6 +18,8 @@ class Mat {
     this.d = d
     this.w = zeros(n * d)
     this.dw = zeros(n * d)
+
+    return this
   }
 
   get(row, col) {
@@ -35,6 +37,30 @@ class Mat {
     this.w[ix] = v
   }
 
+  updateW(func) {
+    this.w = this.w.map(func)
+    return this
+  }
+
+  updateDw(func) {
+    this.dw = this.dw.map(func)
+    return this
+  }
+
+  clearDw() {
+    this.dw = zeros(this.n * this.d)
+    return this
+  }
+
+  clone({ withDw = false }) {
+    const copy = new Mat(this.n, this.d) // maybe just allow Mat constructor to take optional weights?
+    copy.w = new Float64Array(this.w)
+    if (withDw) {
+      copy.dw = new Float64Array(this.dw)
+    }
+    return copy
+  }
+
   toJSON() {
     let json = {}
     json['n'] = this.n
@@ -46,11 +72,9 @@ class Mat {
   fromJSON(json) {
     this.n = json.n
     this.d = json.d
-    this.w = zeros(this.n * this.d)
     this.dw = zeros(this.n * this.d)
-    for (let i = 0, n = this.n * this.d; i < n; i++) {
-      this.w[i] = json.w[i] // copy over weights
-    }
+    this.w = new Float64Array(json.w)
+    return this
   }
 }
 
@@ -64,9 +88,7 @@ function RandMat(n, d, mu, std) {
 
 // Mat utils
 function fillRand(m, lo, hi) {
-  for (let i = 0, n = m.w.length; i < n; i++) {
-    m.w[i] = randf(lo, hi)
-  }
+  m.w = m.w.map(_ => randf(lo, hi)) // TODO: Make this pure
 }
 
 // Transformer definitions
@@ -108,24 +130,16 @@ class Graph {
   }
 
   tanh(m) {
-    function backward() {
-      for (let i = 0; i < n; i++) {
-        // grad for z = tanh(x) is (1 - z^2)
-        let mwi = out.w[i]
-        m.dw[i] += (1.0 - mwi * mwi) * out.dw[i]
-      }
+    const backward = () => {
+      m.updateDw((dw, i) => dw + (1 - out.w[i] * out.w[i]) * out.dw[i])
     }
 
-    // tanh nonlinearity
-    let out = new Mat(m.n, m.d)
-    let n = m.w.length
-    for (let i = 0; i < n; i++) {
-      out.w[i] = Math.tanh(m.w[i])
-    }
+    const out = m.clone({ withDw: false }).updateW(Math.tanh) // tanh nonlinearity
 
     if (this.needsBackprop) {
       this.backprop.push(backward)
     }
+
     return out
   }
 

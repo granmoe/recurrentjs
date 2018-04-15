@@ -9,6 +9,8 @@
 * Mat API:
   * Method for updating weights can either take new weights array or a map function?
   * Constructor can optionally take weights?
+* Move some of the simple util funcs into a separate utils file
+* Maybe move each class into its own file
 * better data structure...hyper params, input etc need a home
 * functions instead of classes
   * generators

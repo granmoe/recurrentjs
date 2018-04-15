@@ -11,9 +11,8 @@ const randi = (a, b) => Math.floor(Math.random() * (b - a) + a)
 const zeros = n => new Float64Array(n)
 
 const updateMats = func => (...mats) => {
-  // TODO: assert that all mats have same length w
-
-  // TODO: I wonder if this whole loop and inner loop and everything could be one reduce?
+  // TODO: Assert that all mats have same length
+  // I wonder if this whole loop and inner loop and everything could be one reduce?
   // prob would need vectorized ops like in numpy or R in order to decrease number of loops here
   for (let i = 0; i < mats[0].w.length; i++) {
     const weights = mats.reduce(
@@ -71,11 +70,6 @@ class Mat {
 
   updateDw(func) {
     this.dw = this.dw.map(func)
-    return this
-  }
-
-  clearDw() {
-    this.dw = zeros(this.n * this.d)
     return this
   }
 
@@ -193,7 +187,7 @@ class Graph {
     return out
   }
 
-  // TODO: refactor this
+  // TODO NEXT: refactor this
   mul(m1, m2) {
     function backward() {
       for (let i = 0; i < m1.n; i++) {
@@ -270,26 +264,26 @@ class Graph {
 
 function softmax(m) {
   let out = new Mat(m.n, m.d) // probability volume
+
   let maxval = -999999
-  for (let i = 0, n = m.w.length; i < n; i++) {
-    if (m.w[i] > maxval) maxval = m.w[i]
-  }
+  m.w.forEach(w => {
+    if (w > maxval) maxval = w
+  })
 
   let s = 0.0
   for (let i = 0, n = m.w.length; i < n; i++) {
     out.w[i] = Math.exp(m.w[i] - maxval)
     s += out.w[i]
   }
-  for (let i = 0, n = m.w.length; i < n; i++) {
-    out.w[i] /= s
-  }
 
-  // no backward pass here needed
-  // since we will use the computed probabilities outside
-  // to set gradients directly on m
+  out.updateW(w => w / s)
+
+  // no backward pass here needed since we will use the computed
+  // probabilities outside to set gradients directly on m
   return out
 }
 
+// TODO...everything in this class
 class Solver {
   constructor() {
     this.decay_rate = 0.999
@@ -367,6 +361,7 @@ function initLSTM(inputSize, hiddenSizes, outputSize) {
   }, {})
 }
 
+// TODO: further refactoring here and make sure to understand everything
 function forwardLSTM(G, model, hiddenSizes, x, prev) {
   // forward prop for a single tick of LSTM
   // G is graph to append ops to
@@ -487,38 +482,36 @@ function forwardRNN(G, model, hiddenSizes, x, prev) {
   return { h, o }
 }
 
-function sig(x) {
-  // helper function for computing sigmoid
-  return 1.0 / (1 + Math.exp(-x))
-}
+// helper function for computing sigmoid 
+const sig = x => 1.0 / (1 + Math.exp(-x))
 
+// TODO: Variable names here suck
 function maxi(w) {
   // argmax of array w
   let maxv = w[0]
   let maxix = 0
-  for (let i = 1, n = w.length; i < n; i++) {
-    let v = w[i]
-    if (v > maxv) {
+  w.forEach((w, i) => {
+    if (w > maxv) {
+      maxv = w
       maxix = i
-      maxv = v
     }
-  }
+  })
+
   return maxix
 }
 
 function samplei(w) {
-  // sample argmax from w, assuming w are
-  // probabilities that sum to one
-  let r = randf(0, 1)
-  let x = 0.0
+  // sample argmax from w, assuming w are probabilities that sum to one
+  let r = randf(0, 1) // max value up to, but not including, 1
+  let x = 0
   let i = 0
-  while (true) {
+
+  while (x <= r) {
     x += w[i]
-    if (x > r) {
-      return i
-    }
     i++
   }
+
+  return i
 }
 
 export default {

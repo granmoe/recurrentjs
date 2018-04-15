@@ -1,21 +1,17 @@
 # TODO
 
-## ES6-ify
-
-* check all for loops
-
 ## Restructure
 
+* check all for loops
 * Mat API:
   * Method for updating weights can either take new weights array or a map function?
   * Constructor can optionally take weights?
 * Move some of the simple util funcs into a separate utils file
 * Maybe move each class into its own file
-* better data structure...hyper params, input etc need a home
+* pages/index: better data structure...hyper params, input etc need a home
 * functions instead of classes
   * generators
 * optimize...maybe bring in a math lib (math.js? http://mathjs.org/docs/datatypes/matrices.html)
-* Use victory or something instead of vis and delete vis
 
 ## Tests
 
@@ -24,7 +20,8 @@
 ## Website
 
 * get antd working (CSS problem?) or some other UI component lib
-  * output stuff to UI
+* output stuff to UI
+* Use victory or something instead of vis and delete vis
 * Redesign
   * Responsive
   * Showcase the experiment more...visible on load

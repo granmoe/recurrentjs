@@ -10,6 +10,33 @@ const randi = (a, b) => Math.floor(Math.random() * (b - a) + a)
 
 const zeros = n => new Float64Array(n)
 
+const updateMats = func => (...mats) => {
+  // TODO: assert that all mats have same length w
+
+  // TODO: I wonder if this whole loop and inner loop and everything could be one reduce?
+  // prob would need vectorized ops like in numpy or R in order to decrease number of loops here
+  for (let i = 0; i < mats[0].w.length; i++) {
+    const weights = mats.reduce(
+      (weights, mat) => [...weights, mat.w[i], mat.dw[i]],
+      [],
+    )
+
+    const results = func(...weights)
+
+    mats.forEach((mat, mIndex) => {
+      const w = results[mIndex * 2]
+      const dw = results[mIndex * 2 + 1]
+
+      if (w !== undefined) {
+        mat.w[i] = results[mIndex * 2]
+      }
+      if (dw !== undefined) {
+        mat.dw[i] = results[mIndex * 2 + 1]
+      }
+    })
+  }
+}
+
 // Mat holds a matrix
 class Mat {
   constructor(n, d) {
@@ -52,13 +79,17 @@ class Mat {
     return this
   }
 
-  clone({ withDw = false }) {
+  clone({ withDw = false } = {}) {
     const copy = new Mat(this.n, this.d) // maybe just allow Mat constructor to take optional weights?
     copy.w = new Float64Array(this.w)
     if (withDw) {
       copy.dw = new Float64Array(this.dw)
     }
     return copy
+  }
+
+  fillRand(lo, hi) {
+    return this.updateW(_ => randf(lo, hi))
   }
 
   toJSON() {
@@ -79,16 +110,8 @@ class Mat {
 }
 
 // return Mat but filled with random numbers from gaussian
-function RandMat(n, d, mu, std) {
-  let m = new Mat(n, d)
-  // fillRandn(m,mu,std);
-  fillRand(m, -std, std) // kind of :P
-  return m
-}
-
-// Mat utils
-function fillRand(m, lo, hi) {
-  m.w = m.w.map(_ => randf(lo, hi)) // TODO: Make this pure
+function RandMat(n, d, std) {
+  return new Mat(n, d).fillRand(-std, std) // kind of :P
 }
 
 // Transformer definitions
@@ -117,6 +140,7 @@ class Graph {
 
     assert(ix >= 0 && ix < m.n)
 
+    // TODO: Better way to do this? Maybe create indices first then pluck? (Like R?)
     // pluck a row of m with index ix and return it as col vector
     // rowPluck should be a method on Mat, then can just do
     // out = new Mat({ weights: m.rowPluck(index) })
@@ -133,7 +157,7 @@ class Graph {
   }
 
   tanh(m) {
-    const out = m.clone({ withDw: false }).updateW(Math.tanh) // tanh nonlinearity
+    const out = m.clone().updateW(Math.tanh) // tanh nonlinearity
 
     if (this.needsBackprop) {
       this.backprop.push(() => {
@@ -145,7 +169,7 @@ class Graph {
   }
 
   sigmoid(m) {
-    const out = m.clone({ withDw: false }).updateW(sig) // sigmoid nonlinearity
+    const out = m.clone().updateW(sig) // sigmoid nonlinearity
 
     if (this.needsBackprop) {
       this.backprop.push(() => {
@@ -158,7 +182,7 @@ class Graph {
   }
 
   relu(m) {
-    const out = m.clone({ withDw: false }).updateW(Math.max.bind(null, 0)) // sigmoid nonlinearity
+    const out = m.clone().updateW(Math.max.bind(null, 0)) // sigmoid nonlinearity
 
     if (this.needsBackprop) {
       this.backprop.push(() => {
@@ -169,6 +193,7 @@ class Graph {
     return out
   }
 
+  // TODO: refactor this
   mul(m1, m2) {
     function backward() {
       for (let i = 0; i < m1.n; i++) {
@@ -211,21 +236,16 @@ class Graph {
   }
 
   add(m1, m2) {
-    function backward() {
-      for (let i = 0, n = m1.w.length; i < n; i++) {
-        m1.dw[i] += out.dw[i]
-        m2.dw[i] += out.dw[i]
-      }
-    }
-
     assert(m1.w.length === m2.w.length)
 
-    let out = new Mat(m1.n, m1.d)
-    for (let i = 0, n = m1.w.length; i < n; i++) {
-      out.w[i] = m1.w[i] + m2.w[i]
-    }
+    const out = m1.clone().updateW((w, index) => m1.w[index] + m2.w[index])
+
     if (this.needsBackprop) {
-      this.backprop.push(backward)
+      this.backprop.push(() => {
+        updateMats((m1w, m1dw, m2w, m2dw, outw, outdw) => {
+          return [m1w, m1dw + outdw, m2w, m2dw + outdw]
+        })(m1, m2, out)
+      })
     }
 
     return out
@@ -234,20 +254,16 @@ class Graph {
   eltmul(m1, m2) {
     assert(m1.w.length === m2.w.length)
 
-    function backward() {
-      for (let i = 0, n = m1.w.length; i < n; i++) {
-        m1.dw[i] += m2.w[i] * out.dw[i]
-        m2.dw[i] += m1.w[i] * out.dw[i]
-      }
+    let out = m1.clone().updateW((w, i) => w * m2.w[i])
+
+    if (this.needsBackprop) {
+      this.backprop.push(() => {
+        updateMats((m1w, m1dw, m2w, m2dw, outw, outdw) => {
+          return [m1w, m2w * outdw, m2w, m1w * outdw]
+        })(m1, m2, out)
+      })
     }
 
-    let out = new Mat(m1.n, m1.d)
-    for (let i = 0, n = m1.w.length; i < n; i++) {
-      out.w[i] = m1.w[i] * m2.w[i]
-    }
-    if (this.needsBackprop) {
-      this.backprop.push(backward)
-    }
     return out
   }
 }
@@ -328,23 +344,23 @@ function initLSTM(inputSize, hiddenSizes, outputSize) {
     const prevSize = index === 0 ? inputSize : hiddenSizes[index - 1]
 
     // gates parameters
-    model['Wix' + index] = new RandMat(hiddenSize, prevSize, 0, 0.08)
-    model['Wih' + index] = new RandMat(hiddenSize, hiddenSize, 0, 0.08)
+    model['Wix' + index] = new RandMat(hiddenSize, prevSize, 0.08)
+    model['Wih' + index] = new RandMat(hiddenSize, hiddenSize, 0.08)
     model['bi' + index] = new Mat(hiddenSize, 1)
-    model['Wfx' + index] = new RandMat(hiddenSize, prevSize, 0, 0.08)
-    model['Wfh' + index] = new RandMat(hiddenSize, hiddenSize, 0, 0.08)
+    model['Wfx' + index] = new RandMat(hiddenSize, prevSize, 0.08)
+    model['Wfh' + index] = new RandMat(hiddenSize, hiddenSize, 0.08)
     model['bf' + index] = new Mat(hiddenSize, 1)
-    model['Wox' + index] = new RandMat(hiddenSize, prevSize, 0, 0.08)
-    model['Woh' + index] = new RandMat(hiddenSize, hiddenSize, 0, 0.08)
+    model['Wox' + index] = new RandMat(hiddenSize, prevSize, 0.08)
+    model['Woh' + index] = new RandMat(hiddenSize, hiddenSize, 0.08)
     model['bo' + index] = new Mat(hiddenSize, 1)
 
     // cell write params
-    model['Wcx' + index] = new RandMat(hiddenSize, prevSize, 0, 0.08)
-    model['Wch' + index] = new RandMat(hiddenSize, hiddenSize, 0, 0.08)
+    model['Wcx' + index] = new RandMat(hiddenSize, prevSize, 0.08)
+    model['Wch' + index] = new RandMat(hiddenSize, hiddenSize, 0.08)
     model['bc' + index] = new Mat(hiddenSize, 1)
 
     // decoder params
-    model['Whd'] = new RandMat(outputSize, hiddenSize, 0, 0.08)
+    model['Whd'] = new RandMat(outputSize, hiddenSize, 0.08)
     model['bd'] = new Mat(outputSize, 1)
 
     return model
@@ -424,8 +440,8 @@ function initRNN(inputSize, hiddenSizes, outputSize) {
   const model = hiddenSizes.reduce((model, hiddenSize, index, hiddenSizes) => {
     const prevSize = index === 0 ? inputSize : hiddenSizes[index - 1]
 
-    model['Wxh' + index] = new RandMat(hiddenSize, prevSize, 0, 0.08)
-    model['Whh' + index] = new RandMat(hiddenSize, hiddenSize, 0, 0.08)
+    model['Wxh' + index] = new RandMat(hiddenSize, prevSize, 0.08)
+    model['Whh' + index] = new RandMat(hiddenSize, hiddenSize, 0.08)
     model['bhh' + index] = new Mat(hiddenSize, 1)
   }, {})
 
@@ -433,7 +449,6 @@ function initRNN(inputSize, hiddenSizes, outputSize) {
   model['Whd'] = new RandMat(
     outputSize,
     hiddenSizes[hiddenSizes.length - 1],
-    0,
     0.08,
   )
   model['bd'] = new Mat(outputSize, 1)

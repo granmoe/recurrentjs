@@ -12,6 +12,7 @@
 * better data structure...hyper params, input etc need a home
 * functions instead of classes
   * generators
+* optimize...maybe bring in a math lib (math.js? http://mathjs.org/docs/datatypes/matrices.html)
 * Use victory or something instead of vis and delete vis
 
 ## Tests
@@ -34,3 +35,7 @@
 * Make lib an npm package?
 * Deploy to somewhere
 * Write blog
+
+## Next
+
+* Convert to tensorflow.js

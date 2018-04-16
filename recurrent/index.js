@@ -1,40 +1,4 @@
-function assert(condition, message = 'Assertion failed') {
-  if (!condition) {
-    throw new Error(message)
-  }
-}
-
-const randf = (a, b) => Math.random() * (b - a) + a
-
-const randi = (a, b) => Math.floor(Math.random() * (b - a) + a)
-
-const zeros = n => new Float64Array(n)
-
-const updateMats = func => (...mats) => {
-  // TODO: Assert that all mats have same length
-  // I wonder if this whole loop and inner loop and everything could be one reduce?
-  // prob would need vectorized ops like in numpy or R in order to decrease number of loops here
-  for (let i = 0; i < mats[0].w.length; i++) {
-    const weights = mats.reduce(
-      (weights, mat) => [...weights, mat.w[i], mat.dw[i]],
-      [],
-    )
-
-    const results = func(...weights)
-
-    mats.forEach((mat, mIndex) => {
-      const w = results[mIndex * 2]
-      const dw = results[mIndex * 2 + 1]
-
-      if (w !== undefined) {
-        mat.w[i] = results[mIndex * 2]
-      }
-      if (dw !== undefined) {
-        mat.dw[i] = results[mIndex * 2 + 1]
-      }
-    })
-  }
-}
+import { assert, updateMats, randf, randi, zeros } from './utils'
 
 // Mat holds a matrix
 class Mat {
@@ -134,15 +98,10 @@ class Graph {
 
     assert(ix >= 0 && ix < m.n)
 
-    // TODO: Better way to do this? Maybe create indices first then pluck? (Like R?)
     // pluck a row of m with index ix and return it as col vector
-    // rowPluck should be a method on Mat, then can just do
-    // out = new Mat({ weights: m.rowPluck(index) })
     let d = m.d
     let out = new Mat(d, 1)
-    for (let i = 0, n = d; i < n; i++) {
-      out.w[i] = m.w[d * ix + i]
-    } // copy over the data
+    out.updateW((w, i) => m.w[d * ix + i])
 
     if (this.needsBackprop) {
       this.backprop.push(backward)

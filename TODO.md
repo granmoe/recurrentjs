@@ -38,3 +38,7 @@
 ## Next
 
 * Convert to tensorflow.js
+
+## Random Ideas
+// maybe "rowPluck" could be a method on Mat, then can just do
+// out = new Mat({ weights: m.rowPluck(index) }) or something

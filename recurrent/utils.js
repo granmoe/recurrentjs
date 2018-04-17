@@ -34,5 +34,3 @@ export const randf = (a, b) => Math.random() * (b - a) + a
 
 export const randi = (a, b) => Math.floor(Math.random() * (b - a) + a)
 
-export const zeros = n => new Float64Array(n)
-

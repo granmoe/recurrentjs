@@ -1,6 +1,5 @@
 import { Component } from 'react'
-import R from '../recurrent'
-// import Rvis from '../recurrent/vis'
+import { Solver, Graph, RandMat, randi, initRNN, initLSTM, forwardRNN, forwardLSTM, softmax, maxi, samplei } from 'rnn'
 import inputSentences from '../config/input-sentences'
 
 let pplList = []
@@ -27,7 +26,7 @@ let letterToIndex = {}
 let indexToLetter = {}
 let vocab = []
 let dataSents = []
-let solver = new R.Solver() // should be class because it needs memory for step caches
+let solver = new Solver() // should be class because it needs memory for step caches
 // let pplGraph = new Rvis()
 
 let lh, logprobs, probs
@@ -81,16 +80,16 @@ function initVocab(sents, countThreshold) {
 function initModel() {
   // letter embedding vectors
   let model = {}
-  model['Wil'] = new R.RandMat(inputSize, letterSize, 0, 0.08)
+  model['Wil'] = new RandMat(inputSize, letterSize, 0, 0.08)
 
   if (generator === 'rnn') {
-    let rnn = R.initRNN(letterSize, hiddenSizes, outputSize)
+    let rnn = initRNN(letterSize, hiddenSizes, outputSize)
     model = {
       ...model,
       ...rnn,
     }
   } else {
-    let lstm = R.initLSTM(letterSize, hiddenSizes, outputSize)
+    let lstm = initLSTM(letterSize, hiddenSizes, outputSize)
     model = {
       ...model,
       ...lstm,
@@ -105,7 +104,7 @@ function reinit() {
   // eval on a textarea
   // TODO: Allow user to set hyperparams in a safer way, via inputs
 
-  solver = new R.Solver() // GLOBAL
+  solver = new Solver() // GLOBAL
   // pplGraph = new Rvis() // GLOBAL
 
   pplList = [] // GLOBAL
@@ -120,12 +119,12 @@ function forwardIndex(G, model, ix, prev) {
   const x = G.rowPluck(model['Wil'], ix)
   // forward prop the sequence learner
   return generator === 'rnn'
-    ? R.forwardRNN(G, model, hiddenSizes, x, prev)
-    : R.forwardLSTM(G, model, hiddenSizes, x, prev)
+    ? forwardRNN(G, model, hiddenSizes, x, prev)
+    : forwardLSTM(G, model, hiddenSizes, x, prev)
 }
 
-function predictSentence(model, samplei = false, temperature = 1.0) {
-  let G = new R.Graph(false)
+function predictSentence(model, sample = false, temperature = 1.0) {
+  let G = new Graph(false)
   let s = ''
   let prev = {}
   while (true) {
@@ -136,7 +135,7 @@ function predictSentence(model, samplei = false, temperature = 1.0) {
 
     // sample predicted letter
     logprobs = lh.o
-    if (temperature !== 1.0 && samplei) {
+    if (temperature !== 1.0 && sample) {
       // scale log probabilities by temperature and renormalize
       // if temperature is high, logprobs will go towards zero
       // and the softmax outputs will be more diffuse. if temperature is
@@ -146,11 +145,11 @@ function predictSentence(model, samplei = false, temperature = 1.0) {
       }
     }
 
-    probs = R.softmax(logprobs)
-    if (samplei) {
-      ix = R.samplei(probs.w)
+    probs = softmax(logprobs)
+    if (sample) {
+      ix = samplei(probs.w)
     } else {
-      ix = R.maxi(probs.w)
+      ix = maxi(probs.w)
     }
 
     if (ix === 0) break // END token predicted, break out
@@ -169,7 +168,7 @@ function costfun(model, sent) {
   // calculates the loss. Also returns the Graph
   // object which can be used to do backprop
   let n = sent.length
-  let G = new R.Graph()
+  let G = new Graph()
   let log2ppl = 0.0
   let cost = 0.0
   let prev = {}
@@ -183,7 +182,7 @@ function costfun(model, sent) {
 
     // set gradients into logprobabilities
     logprobs = lh.o // interpret output as logprobs
-    probs = R.softmax(logprobs) // compute the softmax probabilities
+    probs = softmax(logprobs) // compute the softmax probabilities
 
     log2ppl += -Math.log2(probs.w[ixTarget]) // accumulate base 2 log prob and do smoothing
     cost += -Math.log(probs.w[ixTarget])
@@ -198,7 +197,7 @@ function costfun(model, sent) {
 
 function tick() {
   // sample sentence fromd data
-  let sentix = R.randi(0, dataSents.length)
+  let sentix = randi(0, dataSents.length)
   let sent = dataSents[sentix]
 
   // evaluate cost function on a sentence

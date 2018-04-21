@@ -2,6 +2,7 @@
 
 ## Restructure
 
+* link to npm module, delete recurrent/, work from npm module
 * review each module in recurrent/
   * Mat API:
     * Method for updating weights can either take new weights array or a map function?

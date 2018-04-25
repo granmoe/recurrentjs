@@ -1,26 +1,8 @@
 # TODO
 
-## Restructure
-
-* link to npm module, delete recurrent/, work from npm module
-* review each module in recurrent/
-  * Mat API:
-    * Method for updating weights can either take new weights array or a map function?
-    * Constructor can optionally take weights?
-* Make recurrent/ an npm module, import here
-* Move some of the simple util funcs into a separate utils file
-* Maybe move each class into its own file
-* pages/index: better data structure...hyper params, input etc need a home
-* functions instead of classes
-  * generators
-* optimize...maybe bring in a math lib (math.js? http://mathjs.org/docs/datatypes/matrices.html)
-
-## Tests
-
-* Jest
-
 ## Website
 
+* move ML code in pages/index.js into rnn once ready and delete
 * get antd working (CSS problem?) or some other UI component lib
 * output stuff to UI
 * Use victory or something instead of vis and delete vis
@@ -32,15 +14,5 @@
 
 ## Publish
 
-* Split demo and lib into different folders...or repos? (recurrent should be agnostic of UI and any other lib)
-* Make lib an npm package?
 * Deploy to somewhere
 * Write blog
-
-## Next
-
-* Convert to tensorflow.js
-
-## Random Ideas
-// maybe "rowPluck" could be a method on Mat, then can just do
-// out = new Mat({ weights: m.rowPluck(index) }) or something

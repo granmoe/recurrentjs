@@ -20,11 +20,18 @@
     "url": "https://github.com/granmoe/recurrentjs/issues"
   },
   "homepage": "https://github.com/granmoe/recurrentjs#readme",
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all",
+    "semi": false
+  },
   "dependencies": {
     "next": "^5.0.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "rnn": "^0.0.2"
+    "rnn": "^0.0.2",
+    "semantic-ui-css": "^2.3.1",
+    "semantic-ui-react": "^0.80.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.2",

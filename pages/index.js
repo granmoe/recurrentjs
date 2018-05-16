@@ -2,7 +2,7 @@ import { Component } from 'react'
 // import 'semantic-ui-css/semantic.min.css'
 // import { Container, Header } from 'semantic-ui-react'
 
-import createModel from 'rnn'
+import createRNN from 'rnn'
 import inputSentences from '../config/input-sentences'
 
 export default class App extends Component {
@@ -11,28 +11,31 @@ export default class App extends Component {
     hasRun: false,
   }
 
-  train = null
+  rnnModel = null
 
   trainModel = () => {
-    this.train(({ samples, argMaxPrediction, iterations }) => {
-      console.log('argMaxPrediction: ', argMaxPrediction)
-      console.log('samples: ', samples)
-      console.log('iterations: ', iterations)
-    })
+    const { samples, argMaxPrediction, iterations } = this.rnnModel.train() // eslint-disable-line
+    console.log(
+      // `argMaxPrediction: ${argMaxPrediction} samples: ${samples} iterations: ${iterations}`,
+      `argMaxPrediction: ${argMaxPrediction}`,
+    )
   }
 
   init = () => {
-    this.train = createModel({
+    this.rnnModel = createRNN({
       type: 'lstm',
       input: inputSentences,
       letterSize: 5,
       hiddenSizes: [20, 20],
     })
-    const intervalId = setInterval(this.trainModel, 0)
-    this.setState({ intervalId, hasRun: true })
+    window.rnn = this.rnnModel // TODO: Delete me
+    let intervalId = setInterval(() => {
+      this.trainModel()
+    }, 0)
+    this.setState({ hasRun: true, intervalId })
   }
 
-  pause = () => {
+  pauseOrResume = () => {
     if (!this.state.hasRun) {
       this.init()
       return
@@ -42,7 +45,9 @@ export default class App extends Component {
       clearInterval(this.state.intervalId)
       this.setState({ intervalId: null })
     } else {
-      const intervalId = setInterval(this.trainModel, 0)
+      let intervalId = setInterval(() => {
+        this.trainModel()
+      }, 0)
       this.setState({ intervalId })
     }
   }
@@ -50,7 +55,7 @@ export default class App extends Component {
   render() {
     return (
       <main>
-        <button type="primary" onClick={this.pause}>
+        <button type="primary" onClick={this.pauseOrResume}>
           {!this.state.hasRun
             ? 'Start'
             : this.state.intervalId

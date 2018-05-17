@@ -1,7 +1,13 @@
 import { Component } from 'react'
-// import 'semantic-ui-css/semantic.min.css'
-// import { Container, Header } from 'semantic-ui-react'
-
+import {
+  Provider,
+  Container,
+  Text,
+  Divider,
+  Button,
+  Slider,
+  Heading,
+} from 'rebass'
 import createRNN from 'rnn'
 import inputSentences from '../config/input-sentences'
 
@@ -9,16 +15,24 @@ export default class App extends Component {
   state = {
     intervalId: null,
     hasRun: false,
+    temperature: 1,
   }
 
   rnnModel = null
+  iter = 0
 
   trainModel = () => {
-    const { samples, argMaxPrediction, iterations } = this.rnnModel.train() // eslint-disable-line
-    console.log(
-      // `argMaxPrediction: ${argMaxPrediction} samples: ${samples} iterations: ${iterations}`,
-      `argMaxPrediction: ${argMaxPrediction}`,
-    )
+    // prettier-ignore
+    this.iter++
+    const { samples, argMaxPrediction, iterations } = this.rnnModel.train({
+      // eslint-disable-line
+      temperature: this.state.temperature,
+    })
+    if (this.iter % 10 === 0) {
+      console.log(`argMaxPrediction: ${argMaxPrediction}`)
+      console.log(`sample: ${samples[0]}`)
+      console.log(`iterations: ${iterations}`)
+    }
   }
 
   init = () => {
@@ -54,23 +68,30 @@ export default class App extends Component {
 
   render() {
     return (
-      <main>
-        <button type="primary" onClick={this.pauseOrResume}>
-          {!this.state.hasRun
-            ? 'Start'
-            : this.state.intervalId
-              ? 'Pause'
-              : 'Resume'}
-        </button>
-        <section>
-          <h1>RNNs</h1>
-          <p>Here is some info about RNNs</p>
-        </section>
-        <section>
-          <h1>Experiment</h1>
-          <p>All the controls will go here with brief explanations</p>
-        </section>
-      </main>
+      <Provider>
+        <Container>
+          <Heading>RNNs</Heading>
+          <Text>Here is some info about RNNs</Text>
+          <Divider w={1} color="blue" />
+          <Heading>Experiment with RNN models in the browser</Heading>
+          <Button onClick={this.pauseOrResume}>
+            {!this.state.hasRun
+              ? 'Start'
+              : this.state.intervalId
+                ? 'Pause'
+                : 'Resume'}
+          </Button>
+          <Slider
+            value={this.state.temperature}
+            min="0.1"
+            max="9"
+            step="0.1"
+            onChange={e => {
+              this.setState({ temperature: e.target.value })
+            }}
+          />
+        </Container>
+      </Provider>
     )
   }
 }

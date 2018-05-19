@@ -3,7 +3,6 @@
 ## Website
 
 * get antd working (CSS problem?) or some other UI component lib
-* output stuff to UI
 * Use victory or something instead of vis and delete vis
 * Redesign
   * Responsive

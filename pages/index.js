@@ -3,47 +3,59 @@ import {
   Provider,
   Container,
   Text,
-  Divider,
   Button,
   Slider,
   Heading,
+  Input,
+  Checkbox,
+  Label,
 } from 'rebass'
-import createRNN from 'rnn'
-import inputSentences from '../config/input-sentences'
+import createRNN, { loadFromJSON } from 'rnn'
+import inputSentences from '../config/haikus-no-blank-lines'
 
 export default class App extends Component {
   state = {
     intervalId: null,
-    hasRun: false,
+    rnnModel: null,
     temperature: 1,
+    learningRate: 0.01,
     samples: [],
     argMaxPrediction: null,
     iterations: 0,
+    saveCheckpoints: false,
+    localStorageKey: '',
+    savedModelJson: '',
   }
 
-  rnnModel = null
-  iter = 0
-
   trainModel = () => {
-    // prettier-ignore
-    this.iter++
-    const { samples, argMaxPrediction, iterations } = this.rnnModel.train({
-      // eslint-disable-line
-      temperature: this.state.temperature,
+    const { rnnModel, temperature, learningRate } = this.state
+    const { samples, argMaxPrediction, iterations } = rnnModel.train({
+      temperature,
+      learningRate,
     })
-    if (this.iter % 10 === 0) {
+
+    if (iterations % 10 === 0) {
       this.setState({ argMaxPrediction, samples, iterations })
+    }
+
+    if (iterations % 10000 === 0) {
+      if (this.state.saveCheckpoints && this.state.localStorageKey) {
+        window.localStorage.setItem(
+          this.state.localStorageKey,
+          this.state.rnnModel.toJSON(),
+        )
+      }
     }
   }
 
   init = () => {
-    this.rnnModel = createRNN({
+    this.state.rnnModel = createRNN({
       type: 'lstm',
       input: inputSentences,
       letterSize: 5,
       hiddenSizes: [20, 20],
     })
-    window.rnn = this.rnnModel // TODO: Delete me
+
     let intervalId = setInterval(() => {
       this.trainModel()
     }, 0)
@@ -51,7 +63,7 @@ export default class App extends Component {
   }
 
   pauseOrResume = () => {
-    if (!this.state.hasRun) {
+    if (!this.state.rnnModel) {
       this.init()
       return
     }
@@ -67,25 +79,60 @@ export default class App extends Component {
     }
   }
 
+  loadFromJSON = () => {
+    this.setState({
+      rnnModel: loadFromJSON(this.state.savedModelJson),
+      savedModelJson: '',
+    })
+  }
+
   render() {
     return (
       <Provider>
-        <Container>
-          <Heading>RNNs</Heading>
-          <Text>Here is some info about RNNs</Text>
-          <Divider w={1} color="blue" />
+        <StyledContainer>
           <Heading>Experiment with RNN models in the browser</Heading>
-          <br />
           <Button onClick={this.pauseOrResume}>
-            {!this.state.hasRun
+            {!this.state.rnnModel
               ? 'Start'
               : this.state.intervalId
                 ? 'Pause'
                 : 'Resume'}
           </Button>
-          {/* TODO: Refactor away all these <br>s */}
-          <br />
-          <br />
+          <Label>
+            <Checkbox
+              value={this.state.saveCheckpoints}
+              onChange={() => {
+                this.setState(({ saveCheckpoints }) => ({
+                  saveCheckpoints: !saveCheckpoints,
+                }))
+              }}
+            />
+            Save Checkpoints?
+          </Label>
+          <div>
+            <InputWrapper>
+              Local storage key for checkpoints:{' '}
+              <StyledInput
+                value={this.state.localStorageKey}
+                onChange={e => {
+                  this.setState({ localStorageKey: e.target.value })
+                }}
+              />
+            </InputWrapper>
+          </div>
+          <div>
+            <InputWrapper>
+              Saved model JSON
+              <StyledInput
+                value={this.state.savedModelJson}
+                onChange={e => {
+                  this.setState({ savedModelJson: e.target.value })
+                }}
+              />
+            </InputWrapper>
+          </div>
+          <Button onClick={this.loadFromJSON}>Load saved model</Button>
+          <Label>Sample temperature: {this.state.temperature}</Label>
           <Slider
             value={this.state.temperature}
             min="0.1"
@@ -95,31 +142,53 @@ export default class App extends Component {
               this.setState({ temperature: Number(e.target.value) })
             }}
           />
-          <br />
-          <Text>
-            <br />
+          <Label>Learning rate: {this.state.learningRate}</Label>
+          <Slider
+            value={this.state.learningRate}
+            min="0.00001"
+            max="0.01"
+            step="0.00001"
+            onChange={e => {
+              this.setState({ learningRate: Number(e.target.value) })
+            }}
+          />
+          <StyledText>
+            <div>Samples:</div>
             <div>
-              Samples:
-              <br />
-              <br />
               {this.state.samples.map((sample, i) => (
                 <div key={i}>{sample}</div>
               ))}
             </div>
-            <br />
             <div>
               Argmax Prediction:
-              <br />
-              <br />
               {this.state.argMaxPrediction}
             </div>
-            <br />
             <div>Iterations: {this.state.iterations}</div>
-            <br />
-            <div>Sample temperature: {this.state.temperature}</div>
-          </Text>
-        </Container>
+          </StyledText>
+        </StyledContainer>
       </Provider>
     )
   }
 }
+
+const InputWrapper = Label.extend`
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+`
+
+const StyledInput = Input.extend`
+  width: 200px;
+`
+
+const StyledContainer = Container.extend`
+  > * {
+    margin-bottom: 15px;
+  }
+`
+
+const StyledText = Text.extend`
+  > * {
+    margin-bottom: 15px;
+  }
+`

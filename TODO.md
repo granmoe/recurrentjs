@@ -2,6 +2,7 @@
 
 ## Website
 
+* Loading saved model doesn't seem to be working (output isn't as expected)
 * get antd working (CSS problem?) or some other UI component lib
 * Use victory or something instead of vis and delete vis
 * Redesign

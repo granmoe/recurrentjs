@@ -1,4 +1,5 @@
 import { Component } from 'react'
+import { VictoryArea } from 'victory'
 import {
   Provider,
   Container,
@@ -8,6 +9,7 @@ import {
   Heading,
   Input,
   Checkbox,
+  Switch,
   Label,
 } from 'rebass'
 import createRNN, { loadFromJSON } from 'rnn'
@@ -25,17 +27,37 @@ export default class App extends Component {
     saveCheckpoints: false,
     localStorageKey: '',
     savedModelJson: '',
+    perplexityData: [],
+    costData: [],
+    showGraphs: false,
   }
 
   trainModel = () => {
     const { rnnModel, temperature, learningRate } = this.state
-    const { samples, argMaxPrediction, iterations } = rnnModel.train({
+    const {
+      samples,
+      argMaxPrediction,
+      iterations,
+      perplexity,
+      cost,
+    } = rnnModel.train({
       temperature,
       learningRate,
     })
 
-    if (iterations % 10 === 0) {
-      this.setState({ argMaxPrediction, samples, iterations })
+    if (iterations % 25 === 0) {
+      this.setState({
+        argMaxPrediction,
+        samples,
+        iterations,
+      })
+    }
+
+    if (iterations % 200 === 0) {
+      this.setState(({ perplexityData, costData }) => ({
+        perplexityData: [...perplexityData, { y: perplexity, x: iterations }],
+        costData: [...costData, { y: cost, x: iterations }],
+      }))
     }
 
     if (iterations % 10000 === 0) {
@@ -152,6 +174,25 @@ export default class App extends Component {
               this.setState({ learningRate: Number(e.target.value) })
             }}
           />
+          <Label>
+            <Switch
+              checked={this.state.showGraphs}
+              onClick={() =>
+                this.setState(({ showGraphs }) => ({
+                  showGraphs: !showGraphs,
+                }))
+              }
+            />
+            {'   '}Show Chart
+          </Label>
+          {this.state.showGraphs && (
+            <React.Fragment>
+              Average Perplexity:
+              <VictoryArea data={this.state.perplexityData} />
+              Average Cost:
+              <VictoryArea data={this.state.costData} />
+            </React.Fragment>
+          )}
           <StyledText>
             <div>Samples:</div>
             <div>

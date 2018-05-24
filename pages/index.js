@@ -200,10 +200,8 @@ export default class App extends Component {
                 <div key={i}>{sample}</div>
               ))}
             </div>
-            <div>
-              Argmax Prediction:
-              {this.state.argMaxPrediction}
-            </div>
+            <div>Argmax Prediction:</div>
+            <div>{this.state.argMaxPrediction}</div>
             <div>Iterations: {this.state.iterations}</div>
           </StyledText>
         </StyledContainer>

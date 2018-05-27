@@ -1,5 +1,6 @@
 import { Component } from 'react'
-import { VictoryArea } from 'victory'
+import ReactChartkick, { LineChart } from 'react-chartkick'
+import Chart from 'chart.js'
 import {
   Provider,
   Container,
@@ -15,6 +16,8 @@ import {
 import createRNN, { loadFromJSON } from 'rnn'
 import inputSentences from '../config/haikus-no-blank-lines'
 
+ReactChartkick.addAdapter(Chart)
+
 export default class App extends Component {
   state = {
     intervalId: null,
@@ -28,8 +31,8 @@ export default class App extends Component {
     localStorageKey: '',
     savedModelJson: '',
     perplexityData: [],
-    costData: [],
-    showGraphs: false,
+    perplexityList: [],
+    showChart: false,
   }
 
   trainModel = () => {
@@ -39,13 +42,12 @@ export default class App extends Component {
       argMaxPrediction,
       iterations,
       perplexity,
-      cost,
     } = rnnModel.train({
       temperature,
       learningRate,
     })
 
-    if (iterations % 25 === 0) {
+    if (iterations % 50 === 0) {
       this.setState({
         argMaxPrediction,
         samples,
@@ -53,10 +55,16 @@ export default class App extends Component {
       })
     }
 
-    if (iterations % 200 === 0) {
-      this.setState(({ perplexityData, costData }) => ({
-        perplexityData: [...perplexityData, { y: perplexity, x: iterations }],
-        costData: [...costData, { y: cost, x: iterations }],
+    this.setState(({ perplexityList }) => ({
+      perplexityList: [...perplexityList, perplexity],
+    }))
+
+    if (iterations % 100 === 0) {
+      const pplList = [...this.state.perplexityList].sort((a, b) => a - b)
+      const medianPerplexity = (pplList[49] + pplList[50]) / 2
+      this.setState(({ perplexityData }) => ({
+        perplexityData: [...perplexityData, [iterations, medianPerplexity]],
+        perplexityList: [],
       }))
     }
 
@@ -176,22 +184,17 @@ export default class App extends Component {
           />
           <Label>
             <Switch
-              checked={this.state.showGraphs}
+              checked={this.state.showChart}
               onClick={() =>
-                this.setState(({ showGraphs }) => ({
-                  showGraphs: !showGraphs,
+                this.setState(({ showChart }) => ({
+                  showChart: !showChart,
                 }))
               }
             />
             {'   '}Show Chart
           </Label>
-          {this.state.showGraphs && (
-            <React.Fragment>
-              Average Perplexity:
-              <VictoryArea data={this.state.perplexityData} />
-              Average Cost:
-              <VictoryArea data={this.state.costData} />
-            </React.Fragment>
+          {this.state.showChart && (
+            <LineChart data={this.state.perplexityData} />
           )}
           <StyledText>
             <div>Samples:</div>

@@ -52,16 +52,13 @@ export default class App extends Component {
         argMaxPrediction,
         samples,
         iterations,
+        perplexityList: [...this.state.perplexityList, perplexity],
       })
     }
 
-    this.setState(({ perplexityList }) => ({
-      perplexityList: [...perplexityList, perplexity],
-    }))
-
-    if (iterations % 100 === 0) {
+    if (iterations % 250 === 0) {
       const pplList = [...this.state.perplexityList].sort((a, b) => a - b)
-      const medianPerplexity = (pplList[49] + pplList[50]) / 2
+      const medianPerplexity = pplList[2]
       this.setState(({ perplexityData }) => ({
         perplexityData: [...perplexityData, [iterations, medianPerplexity]],
         perplexityList: [],
@@ -123,10 +120,10 @@ export default class App extends Component {
           <Heading>Experiment with RNN models in the browser</Heading>
           <Button onClick={this.pauseOrResume}>
             {!this.state.rnnModel
-              ? 'Start'
+              ? 'Start Training'
               : this.state.intervalId
-                ? 'Pause'
-                : 'Resume'}
+                ? 'Pause Training'
+                : 'Resume Training'}
           </Button>
           <Label>
             <Checkbox
@@ -183,6 +180,7 @@ export default class App extends Component {
             }}
           />
           <Label>
+            {this.state.showChart ? 'Hide' : 'Show'} Chart&nbsp;&nbsp;
             <Switch
               checked={this.state.showChart}
               onClick={() =>
@@ -191,7 +189,6 @@ export default class App extends Component {
                 }))
               }
             />
-            {'   '}Show Chart
           </Label>
           {this.state.showChart && (
             <LineChart data={this.state.perplexityData} />
@@ -216,7 +213,6 @@ export default class App extends Component {
 const InputWrapper = Label.extend`
   display: flex;
   justify-content: space-between;
-  width: 500px;
 `
 
 const StyledInput = Input.extend`

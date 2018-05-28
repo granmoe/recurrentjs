@@ -47,22 +47,34 @@ export default class App extends Component {
       learningRate,
     })
 
+    let nextState = {}
+    if (iterations % 10 === 0) {
+      nextState.perplexityList = [...this.state.perplexityList, perplexity]
+    }
+
     if (iterations % 50 === 0) {
-      this.setState({
+      nextState = {
+        ...nextState,
         argMaxPrediction,
         samples,
         iterations,
         perplexityList: [...this.state.perplexityList, perplexity],
-      })
+      }
     }
 
     if (iterations % 250 === 0) {
       const pplList = [...this.state.perplexityList].sort((a, b) => a - b)
-      const medianPerplexity = pplList[2]
-      this.setState(({ perplexityData }) => ({
-        perplexityData: [...perplexityData, [iterations, medianPerplexity]],
-        perplexityList: [],
-      }))
+      const medianPerplexity = pplList[13] // TODO: should create a little helper function to calc median
+
+      nextState.perplexityData = [
+        ...this.state.perplexityData,
+        [iterations, medianPerplexity],
+      ]
+      nextState.perplexityList = []
+    }
+
+    if (Object.keys(nextState).length) {
+      this.setState(nextState)
     }
 
     if (iterations % 10000 === 0) {

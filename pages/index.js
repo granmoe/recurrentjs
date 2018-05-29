@@ -91,8 +91,8 @@ export default class App extends Component {
     this.state.rnnModel = createRNN({
       type: 'lstm',
       input: inputSentences,
-      letterSize: 5,
-      hiddenSizes: [20, 20],
+      letterSize: 20,
+      hiddenSizes: [40, 40],
     })
 
     let intervalId = setInterval(() => {

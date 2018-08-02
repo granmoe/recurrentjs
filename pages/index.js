@@ -13,7 +13,7 @@ import {
   Switch,
   Label,
 } from 'rebass'
-import createRNN, { loadFromJSON } from 'rnn'
+import createRNN, { loadFromJSON, lstmModel } from 'rnn'
 import inputSentences from '../config/haikus-no-blank-lines'
 
 ReactChartkick.addAdapter(Chart)
@@ -33,44 +33,61 @@ export default class App extends Component {
     perplexityData: [],
     perplexityList: [],
     showChart: false,
+    sample: false,
   }
 
   trainModel = () => {
     const { rnnModel, temperature, learningRate } = this.state
     const {
-      samples,
-      argMaxPrediction,
+      samples = [],
+      argMaxPrediction = '',
       iterations,
       perplexity,
     } = rnnModel.train({
       temperature,
       learningRate,
+      sampleFrequency: this.state.sample ? 100 : null,
     })
 
     let nextState = {}
-    if (iterations % 10 === 0) {
+    if (iterations % 50 === 0) {
       nextState.perplexityList = [...this.state.perplexityList, perplexity]
     }
 
-    if (iterations % 50 === 0) {
+    if (iterations % 100 === 0) {
       nextState = {
         ...nextState,
         argMaxPrediction,
         samples,
         iterations,
-        perplexityList: [...this.state.perplexityList, perplexity],
       }
     }
 
-    if (iterations % 250 === 0) {
-      const pplList = [...this.state.perplexityList].sort((a, b) => a - b)
-      const medianPerplexity = pplList[13] // TODO: should create a little helper function to calc median
+    if (iterations % 100 === 0) {
+      const median = arr =>
+        arr.length % 2 === 0
+          ? (arr[arr.length / 2] + arr[arr.length / 2 - 1]) / 2
+          : arr[Math.floor(arr.length / 2)]
+      const pplList = [...this.state.perplexityList, perplexity].sort(
+        (a, b) => a - b,
+      )
+      const medianPerplexity = median(pplList) // TODO: should create a little helper function to calc median
 
       nextState.perplexityData = [
         ...this.state.perplexityData,
         [iterations, medianPerplexity],
       ]
       nextState.perplexityList = []
+    }
+
+    if (iterations % 10000 === 0) {
+      const rawAnnealedLearningRate = this.state.learningRate * 0.9
+      const [leftOfDec, rightOfDec] = String(rawAnnealedLearningRate).split('.')
+      const annealedLearningRate = Number(
+        [leftOfDec, rightOfDec.slice(0, 6)].join('.'),
+      )
+      const nextLearningRate = Math.max(annealedLearningRate, 0.000001)
+      nextState.learningRate = nextLearningRate
     }
 
     if (Object.keys(nextState).length) {
@@ -89,6 +106,7 @@ export default class App extends Component {
 
   init = () => {
     this.state.rnnModel = createRNN({
+      modelFunc: lstmModel,
       type: 'lstm',
       input: inputSentences,
       letterSize: 20,
@@ -205,15 +223,30 @@ export default class App extends Component {
           {this.state.showChart && (
             <LineChart data={this.state.perplexityData} />
           )}
+          <Label>
+            Sample&nbsp;&nbsp;
+            <Switch
+              checked={this.state.sample}
+              onClick={() =>
+                this.setState(({ sample }) => ({
+                  sample: !sample,
+                }))
+              }
+            />
+          </Label>{' '}
+          {this.state.sample && (
+            <StyledText>
+              <div>Samples:</div>
+              <div>
+                {this.state.samples.map((sample, i) => (
+                  <div key={i}>{sample}</div>
+                ))}
+              </div>
+              <div>Argmax Prediction:</div>
+              <div>{this.state.argMaxPrediction}</div>
+            </StyledText>
+          )}
           <StyledText>
-            <div>Samples:</div>
-            <div>
-              {this.state.samples.map((sample, i) => (
-                <div key={i}>{sample}</div>
-              ))}
-            </div>
-            <div>Argmax Prediction:</div>
-            <div>{this.state.argMaxPrediction}</div>
             <div>Iterations: {this.state.iterations}</div>
           </StyledText>
         </StyledContainer>

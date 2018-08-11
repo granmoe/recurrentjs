@@ -63,7 +63,7 @@ export default class App extends Component {
       }
     }
 
-    if (iterations % 100 === 0) {
+    if (iterations % 500 === 0) {
       const median = arr =>
         arr.length % 2 === 0
           ? (arr[arr.length / 2] + arr[arr.length / 2 - 1]) / 2

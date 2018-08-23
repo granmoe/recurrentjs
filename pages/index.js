@@ -13,15 +13,14 @@ import {
   Switch,
   Label,
 } from 'rebass'
-import createRNN, { loadFromJSON, lstmModel } from 'rnn'
-import inputSentences from '../config/haikus-no-blank-lines'
+import RnnWorker from '../rnn.worker.js'
 
 ReactChartkick.addAdapter(Chart)
 
 export default class App extends Component {
   state = {
-    intervalId: null,
-    rnnModel: null,
+    isRunning: false,
+    hasRun: false,
     temperature: 1,
     learningRate: 0.01,
     samples: [],
@@ -37,111 +36,112 @@ export default class App extends Component {
   }
 
   trainModel = () => {
-    const { rnnModel, temperature, learningRate } = this.state
-    const {
-      samples = [],
-      argMaxPrediction = '',
-      iterations,
-      perplexity,
-    } = rnnModel.train({
+    const { temperature, learningRate } = this.state
+
+    this.rnnWorker.postMessage({
       temperature,
       learningRate,
-      sampleFrequency: this.state.sample ? 100 : null,
+      sampleFrequency: 100, // this.state.sample ? 100 : null,
+      numIterations: 100,
     })
 
-    let nextState = {}
-    if (iterations % 50 === 0) {
-      nextState.perplexityList = [...this.state.perplexityList, perplexity]
-    }
-
-    if (iterations % 100 === 0) {
-      nextState = {
-        ...nextState,
-        argMaxPrediction,
-        samples,
-        iterations,
+    this.rnnWorker.onmessage = ({
+      data: { samples = [], argMaxPrediction = '', iterations, perplexity },
+    }) => {
+      let nextState = {}
+      if (iterations % 50 === 0) {
+        nextState.perplexityList = [...this.state.perplexityList, perplexity]
       }
-    }
 
-    if (iterations % 500 === 0) {
-      const median = arr =>
-        arr.length % 2 === 0
-          ? (arr[arr.length / 2] + arr[arr.length / 2 - 1]) / 2
-          : arr[Math.floor(arr.length / 2)]
-      const pplList = [...this.state.perplexityList, perplexity].sort(
-        (a, b) => a - b,
-      )
-      const medianPerplexity = median(pplList) // TODO: should create a little helper function to calc median
+      if (iterations % 100 === 0) {
+        nextState = {
+          ...nextState,
+          argMaxPrediction,
+          samples,
+          iterations,
+        }
+      }
 
-      nextState.perplexityData = [
-        ...this.state.perplexityData,
-        [iterations, medianPerplexity],
-      ]
-      nextState.perplexityList = []
-    }
-
-    if (iterations % 10000 === 0) {
-      const rawAnnealedLearningRate = this.state.learningRate * 0.9
-      const [leftOfDec, rightOfDec] = String(rawAnnealedLearningRate).split('.')
-      const annealedLearningRate = Number(
-        [leftOfDec, rightOfDec.slice(0, 6)].join('.'),
-      )
-      const nextLearningRate = Math.max(annealedLearningRate, 0.000001)
-      nextState.learningRate = nextLearningRate
-    }
-
-    if (Object.keys(nextState).length) {
-      this.setState(nextState)
-    }
-
-    if (iterations % 10000 === 0) {
-      if (this.state.saveCheckpoints && this.state.localStorageKey) {
-        window.localStorage.setItem(
-          this.state.localStorageKey,
-          this.state.rnnModel.toJSON(),
+      if (iterations % 500 === 0) {
+        const median = arr =>
+          arr.length % 2 === 0
+            ? (arr[arr.length / 2] + arr[arr.length / 2 - 1]) / 2
+            : arr[Math.floor(arr.length / 2)]
+        const pplList = [...this.state.perplexityList, perplexity].sort(
+          (a, b) => a - b,
         )
+        const medianPerplexity = median(pplList) // TODO: should create a little helper function to calc median
+
+        nextState.perplexityData = [
+          ...this.state.perplexityData,
+          [iterations, medianPerplexity],
+        ]
+        nextState.perplexityList = []
+      }
+
+      if (iterations % 10000 === 0) {
+        const rawAnnealedLearningRate = this.state.learningRate * 0.9
+        const [leftOfDec, rightOfDec] = String(rawAnnealedLearningRate).split(
+          '.',
+        )
+        const annealedLearningRate = Number(
+          [leftOfDec, rightOfDec.slice(0, 6)].join('.'),
+        )
+        const nextLearningRate = Math.max(annealedLearningRate, 0.000001)
+        nextState.learningRate = nextLearningRate
+      }
+
+      if (Object.keys(nextState).length) {
+        this.setState(nextState)
+      }
+
+      if (iterations % 10000 === 0) {
+        // TODO IO
+        // if (this.state.saveCheckpoints && this.state.localStorageKey) {
+        //   window.localStorage.setItem(
+        //     this.state.localStorageKey,
+        //     this.state.rnnModel.toJSON(),
+        //   )
+        // }
+      }
+
+      if (this.state.isRunning) {
+        this.trainModel()
       }
     }
   }
 
   init = () => {
-    this.state.rnnModel = createRNN({
-      modelFunc: lstmModel,
-      type: 'lstm',
-      input: inputSentences,
-      letterSize: 20,
-      hiddenSizes: [40, 40],
-    })
-
-    let intervalId = setInterval(() => {
-      this.trainModel()
-    }, 0)
-    this.setState({ hasRun: true, intervalId })
+    this.rnnWorker = new RnnWorker()
+    this.trainModel()
+    this.setState({ hasRun: true, isRunning: true })
   }
 
   pauseOrResume = () => {
-    if (!this.state.rnnModel) {
+    if (!this.state.hasRun) {
       this.init()
       return
     }
 
-    if (this.state.intervalId) {
-      clearInterval(this.state.intervalId)
-      this.setState({ intervalId: null })
+    if (this.state.isRunning) {
+      this.setState({
+        isRunning: false,
+      })
     } else {
-      let intervalId = setInterval(() => {
-        this.trainModel()
-      }, 0)
-      this.setState({ intervalId })
+      this.setState({
+        isRunning: true,
+      })
+      this.trainModel()
     }
   }
 
-  loadFromJSON = () => {
-    this.setState({
-      rnnModel: loadFromJSON(this.state.savedModelJson),
-      savedModelJson: '',
-    })
-  }
+  // TODO IO
+  // loadFromJSON = () => {
+  //   this.setState({
+  //     rnnModel: loadFromJSON(this.state.savedModelJson),
+  //     savedModelJson: '',
+  //   })
+  // }
 
   render() {
     return (
@@ -149,9 +149,9 @@ export default class App extends Component {
         <StyledContainer>
           <Heading>Experiment with RNN models in the browser</Heading>
           <Button onClick={this.pauseOrResume}>
-            {!this.state.rnnModel
+            {!this.state.hasRun
               ? 'Start Training'
-              : this.state.intervalId
+              : this.state.isRunning
                 ? 'Pause Training'
                 : 'Resume Training'}
           </Button>

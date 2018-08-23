@@ -33,7 +33,8 @@
     "react-dom": "^16.2.0",
     "rebass": "^2.0.0-2",
     "rnn": "^0.0.2",
-    "styled-components": "^3.2.6"
+    "styled-components": "^3.2.6",
+    "worker-loader": "^2.0.0"
   },
   "devDependencies": {
     "@babel/plugin-proposal-object-rest-spread": "^7.0.0-beta.51",

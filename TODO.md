@@ -1,6 +1,9 @@
 # TODO
 
-show last three samples (buffer)
+## Inbox
+
+- show last three samples (buffer)
+- ability to configure model via UI?
 
 ## Website
 

@@ -9,16 +9,6 @@ const rnnModel = createRNN({
   hiddenSizes: [40, 40],
 })
 
-// let runningAverageMs = null
-
-// const updateRunningAverageMs = newTime => {
-//   if (runningAverageMs === null) {
-//     runningAverageMs = Math.round(newTime)
-//   } else {
-//     Math.round((runningAverageMs = (runningAverageMs + newTime) / 2))
-//   }
-// }
-
 onmessage = messageEvent => {
   const result = rnnModel.train(messageEvent.data)
   postMessage(result)

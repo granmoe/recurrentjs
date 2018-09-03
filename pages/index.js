@@ -13,7 +13,8 @@ import {
   Switch,
   Label,
 } from 'rebass'
-import RnnWorker from '../rnn.worker.js'
+import createRNN, { lstmModel } from 'rnn'
+import inputSentences from '../config/haikus-no-blank-lines'
 
 ReactChartkick.addAdapter(Chart)
 
@@ -35,19 +36,24 @@ export default class App extends Component {
     sample: false,
   }
 
+  rnnModel = null
+
   trainModel = () => {
     const { temperature, learningRate } = this.state
 
-    this.rnnWorker.postMessage({
-      temperature,
-      learningRate,
-      sampleFrequency: 100, // this.state.sample ? 100 : null,
-      numIterations: 100,
-    })
+    const train = () => {
+      const {
+        samples = [],
+        argMaxPrediction = '',
+        iterations,
+        perplexity,
+      } = this.rnnModel.train({
+        temperature,
+        learningRate,
+        sampleFrequency: this.state.sample ? 100 : null,
+        numIterations: 100,
+      })
 
-    this.rnnWorker.onmessage = ({
-      data: { samples = [], argMaxPrediction = '', iterations, perplexity },
-    }) => {
       let nextState = {}
       if (iterations % 50 === 0) {
         nextState.perplexityList = [...this.state.perplexityList, perplexity]
@@ -106,13 +112,21 @@ export default class App extends Component {
       }
 
       if (this.state.isRunning) {
-        this.trainModel()
+        setTimeout(train, 0)
       }
     }
+
+    setTimeout(train, 0)
   }
 
   init = () => {
-    this.rnnWorker = new RnnWorker()
+    this.rnnModel = createRNN({
+      modelFunc: lstmModel,
+      type: 'lstm',
+      input: inputSentences,
+      letterSize: 20,
+      hiddenSizes: [40, 40],
+    })
     this.trainModel()
     this.setState({ hasRun: true, isRunning: true })
   }

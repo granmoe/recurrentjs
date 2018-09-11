@@ -4,6 +4,7 @@
 
 - show last three samples (buffer)
 - ability to configure model via UI?
+- upgrade rebass
 
 ## Website
 

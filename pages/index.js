@@ -13,8 +13,8 @@ import {
   Switch,
   Label,
 } from 'rebass'
-import createRNN, { lstmModel } from 'rnn'
-import inputSentences from '../config/haikus-no-blank-lines'
+import Worker from '../rnn.worker'
+import PromiseWorker from 'promise-worker'
 
 ReactChartkick.addAdapter(Chart)
 
@@ -36,105 +36,95 @@ export default class App extends Component {
     sample: false,
   }
 
-  rnnModel = null
+  componentDidMount() {
+    this.workers = Array.from(
+      { length: window.navigator.hardwareConcurrency },
+      () => new PromiseWorker(new Worker()),
+    )
+    console.log('num workers: ', this.workers.length)
+  }
 
-  trainModel = () => {
+  train = async () => {
     const { temperature, learningRate } = this.state
 
-    const train = () => {
-      const {
-        samples = [],
-        argMaxPrediction = '',
+    const results = await Promise.all(
+      this.workers.map(worker =>
+        worker.postMessage({
+          temperature,
+          learningRate,
+          sampleFrequency: this.state.sample ? 100 : null,
+          numIterations: 100,
+        }),
+      ),
+    )
+
+    const {
+      samples = [],
+      argMaxPrediction = '',
+      iterations,
+      perplexity,
+    } = results[0]
+
+    let nextState = {}
+    if (iterations % 50 === 0) {
+      nextState.perplexityList = [...this.state.perplexityList, perplexity]
+    }
+
+    if (iterations % 100 === 0) {
+      nextState = {
+        ...nextState,
+        argMaxPrediction,
+        samples,
         iterations,
-        perplexity,
-      } = this.rnnModel.train({
-        temperature,
-        learningRate,
-        sampleFrequency: this.state.sample ? 100 : null,
-        numIterations: 100,
-      })
-
-      let nextState = {}
-      if (iterations % 50 === 0) {
-        nextState.perplexityList = [...this.state.perplexityList, perplexity]
-      }
-
-      if (iterations % 100 === 0) {
-        nextState = {
-          ...nextState,
-          argMaxPrediction,
-          samples,
-          iterations,
-        }
-      }
-
-      if (iterations % 500 === 0) {
-        const median = arr =>
-          arr.length % 2 === 0
-            ? (arr[arr.length / 2] + arr[arr.length / 2 - 1]) / 2
-            : arr[Math.floor(arr.length / 2)]
-        const pplList = [...this.state.perplexityList, perplexity].sort(
-          (a, b) => a - b,
-        )
-        const medianPerplexity = median(pplList) // TODO: should create a little helper function to calc median
-
-        nextState.perplexityData = [
-          ...this.state.perplexityData,
-          [iterations, medianPerplexity],
-        ]
-        nextState.perplexityList = []
-      }
-
-      if (iterations % 10000 === 0) {
-        const rawAnnealedLearningRate = this.state.learningRate * 0.9
-        const [leftOfDec, rightOfDec] = String(rawAnnealedLearningRate).split(
-          '.',
-        )
-        const annealedLearningRate = Number(
-          [leftOfDec, rightOfDec.slice(0, 6)].join('.'),
-        )
-        const nextLearningRate = Math.max(annealedLearningRate, 0.000001)
-        nextState.learningRate = nextLearningRate
-      }
-
-      if (Object.keys(nextState).length) {
-        this.setState(nextState)
-      }
-
-      if (iterations % 10000 === 0) {
-        // TODO IO
-        // if (this.state.saveCheckpoints && this.state.localStorageKey) {
-        //   window.localStorage.setItem(
-        //     this.state.localStorageKey,
-        //     this.state.rnnModel.toJSON(),
-        //   )
-        // }
-      }
-
-      if (this.state.isRunning) {
-        setTimeout(train, 0)
       }
     }
 
-    setTimeout(train, 0)
+    if (iterations % 500 === 0) {
+      const median = arr =>
+        arr.length % 2 === 0
+          ? (arr[arr.length / 2] + arr[arr.length / 2 - 1]) / 2
+          : arr[Math.floor(arr.length / 2)]
+      const pplList = [...this.state.perplexityList, perplexity].sort(
+        (a, b) => a - b,
+      )
+      const medianPerplexity = median(pplList) // TODO: should create a little helper function to calc median
+
+      nextState.perplexityData = [
+        ...this.state.perplexityData,
+        [iterations, medianPerplexity],
+      ]
+      nextState.perplexityList = []
+    }
+
+    if (iterations % 10000 === 0) {
+      // TODO: Call a function that merges models and updates workers[0] model with result
+      const rawAnnealedLearningRate = this.state.learningRate * 0.9
+      const [leftOfDec, rightOfDec] = String(rawAnnealedLearningRate).split('.')
+      const annealedLearningRate = Number(
+        [leftOfDec, rightOfDec.slice(0, 6)].join('.'),
+      )
+      const nextLearningRate = Math.max(annealedLearningRate, 0.000001)
+      nextState.learningRate = nextLearningRate
+    }
+
+    if (Object.keys(nextState).length) {
+      this.setState(nextState)
+    }
+
+    if (this.state.isRunning) {
+      this.train()
+    }
   }
 
-  init = () => {
-    this.rnnModel = createRNN({
-      modelFunc: lstmModel,
-      type: 'lstm',
-      input: inputSentences,
-      letterSize: 20,
-      hiddenSizes: [40, 40],
-    })
-    this.trainModel()
-    this.setState({ hasRun: true, isRunning: true })
+  mergeModels = async () => {
+    const modelLayersArr = await Promise.all(
+      this.workers.map(worker => worker.postMessage({ getLayers: true })),
+    )
   }
 
   pauseOrResume = () => {
     if (!this.state.hasRun) {
-      this.init()
-      return
+      this.setState({ hasRun: true })
     }
 
     if (this.state.isRunning) {
@@ -145,17 +135,9 @@ export default class App extends Component {
       this.setState({
         isRunning: true,
       })
-      this.trainModel()
+      this.train()
     }
   }
-
-  // TODO IO
-  // loadFromJSON = () => {
-  //   this.setState({
-  //     rnnModel: loadFromJSON(this.state.savedModelJson),
-  //     savedModelJson: '',
-  //   })
-  // }
 
   render() {
     return (

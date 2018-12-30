@@ -1,14 +1,24 @@
-module.exports = {
-  webpack(config, options) {
-    config.module.rules.push({
-      test: /\.worker\.js$/,
-      loader: 'worker-loader',
-      options: {
-        name: 'static/[hash].worker.js',
-        publicPath: '/_next/',
-      },
-    })
+const withWorkers = require('@zeit/next-workers')
 
-    return config
-  },
-}
+module.exports = withWorkers()
+
+// module.exports = {
+//   webpack(config, options) {
+//     config.module.rules.push({
+//       test: /\.worker\.js$/,
+//       loader: 'worker-loader',
+//       options: {
+//         name: 'static/[hash].worker.js',
+//         publicPath: '/_next/',
+//       },
+//     })
+
+//     return config
+//   },
+// }
+
+// module.exports = withWorkers({
+//   webpack(config, options) {
+//     return config
+//   }
+// })

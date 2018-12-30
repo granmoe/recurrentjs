@@ -10,7 +10,7 @@ export default class MyDocument extends Document {
     return (
       <html>
         <Head>
-          <title>Recurrent Neural Networks</title>
+          {/* <title>Recurrent Neural Networks</title> */}
           {styleTags}
         </Head>
         <body>

@@ -2,7 +2,6 @@
 
 ## Inbox
 
-- switch to XO, put as much as possible in package.json (babel, etc)
 - show last three samples (buffer)
 - ability to configure model via UI?
 - upgrade rebass

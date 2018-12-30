@@ -1,5 +1,5 @@
 import registerPromiseWorker from 'promise-worker/register'
-import createRNN, { lstmModel } from 'rnn'
+import createRNN, {lstmModel} from 'rnn'
 import inputSentences from './config/haikus-no-blank-lines'
 
 const rnnModel = createRNN({
@@ -13,7 +13,6 @@ const rnnModel = createRNN({
 registerPromiseWorker(options => {
   if (options.getLayers) {
     return rnnModel.models.model.layers.map(layer => layer.weights)
-  } else {
-    return rnnModel.train(options)
   }
+  return rnnModel.train(options)
 })

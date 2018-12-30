@@ -1,8 +1,8 @@
 import { Component } from 'react'
 import styled from 'styled-components'
 import { LineChart, Line, CartesianGrid, XAxis, YAxis } from 'recharts'
-import Worker from '../rnn.worker'
 import PromiseWorker from 'promise-worker'
+import Worker from '../rnn.worker'
 
 export default class App extends Component {
   state = {
@@ -23,7 +23,7 @@ export default class App extends Component {
   }
 
   componentDidMount() {
-    // this.workers = Array.from(
+    // This.workers = Array.from(
     //   { length: window.navigator.hardwareConcurrency },
     //   () => new PromiseWorker(new Worker()),
     // )
@@ -111,7 +111,7 @@ export default class App extends Component {
       this.workers.map(worker => worker.postMessage({ getLayers: true })),
     )
 
-    // for (let i = 0; i < slaveModelsLayers.length; i++) {
+    // For (let i = 0; i < slaveModelsLayers.length; i++) {
     //   for (let j = 0; j < slaveModelsLayers[i].length; j++) {
     //     driverModelLayers[i][j] =
     //   }
@@ -207,7 +207,7 @@ export default class App extends Component {
           />
         </Label>
         <Label>
-          {this.state.showChart ? 'Hide' : 'Show'} Chart&nbsp;&nbsp;
+          Show Chart{' '}
           <input
             type="checkbox"
             defaultChecked={this.state.showChart}
@@ -218,7 +218,7 @@ export default class App extends Component {
             }
           />
         </Label>
-        {this.state.showChart && this.state.perplexityData.length && (
+        {this.state.showChart && this.state.perplexityData.length > 0 && (
           <LineChart
             width={600}
             height={300}
@@ -232,7 +232,7 @@ export default class App extends Component {
           </LineChart>
         )}
         <Label>
-          Sample&nbsp;&nbsp;
+          Sample{' '}
           <input
             type="checkbox"
             defaultChecked={this.state.sample}

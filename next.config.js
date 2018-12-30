@@ -2,7 +2,7 @@ const withWorkers = require('@zeit/next-workers')
 
 module.exports = withWorkers()
 
-// module.exports = {
+// Module.exports = {
 //   webpack(config, options) {
 //     config.module.rules.push({
 //       test: /\.worker\.js$/,

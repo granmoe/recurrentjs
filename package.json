@@ -25,6 +25,69 @@
     "trailingComma": "all",
     "semi": false
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged",
+      "pre-push": "yarn test"
+    }
+  },
+  "lint-staged": {
+    "*.(js|json|md)": [
+      "prettier --write",
+      "xo --fix",
+      "git add"
+    ]
+  },
+  "babel": {
+    "presets": [
+      "next/babel"
+    ],
+    "plugins": [
+      [
+        "styled-components",
+        {
+          "ssr": true,
+          "displayName": true,
+          "preprocess": false
+        }
+      ],
+      "@babel/plugin-proposal-object-rest-spread"
+    ]
+  },
+  "xo": {
+    "parser": "babel-eslint",
+    "extends": "xo-react",
+    "react": {
+      "version": "^16.2.0"
+    },
+    "prettier": true,
+    "space": true,
+    "rules": {
+      "no-void": "off",
+      "react/require-default-props": "off",
+      "no-unused-vars": [
+        "error",
+        {
+          "varsIgnorePattern": "^_",
+          "argsIgnorePattern": "^_"
+        }
+      ],
+      "no-unused-expressions": [
+        "error",
+        {
+          "allowShortCircuit": true
+        }
+      ]
+    },
+    "global": [
+      "describe",
+      "test",
+      "xtest",
+      "expect",
+      "jest",
+      "React"
+    ]
+  },
   "dependencies": {
     "@zeit/next-workers": "^1.0.0",
     "next": "v7.0.2-canary.50",
@@ -41,12 +104,10 @@
     "babel-eslint": "^10.0.1",
     "babel-plugin-styled-components": "^1.5.1",
     "eslint": "^5.11.1",
-    "eslint-config-prettier": "^3.3.0",
-    "eslint-config-standard": "^12.0.0",
-    "eslint-plugin-import": "^2.9.0",
-    "eslint-plugin-node": "^8.0.0",
-    "eslint-plugin-promise": "^4.0.1",
+    "eslint-config-xo-react": "^0.17.0",
     "eslint-plugin-react": "^7.12.0",
-    "eslint-plugin-standard": "^4.0.0"
+    "husky": "^1.3.1",
+    "lint-staged": "^8.1.0",
+    "xo": "^0.23.0"
   }
 }

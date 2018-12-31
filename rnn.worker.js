@@ -1,7 +1,7 @@
 /* global self */
 // import registerPromiseWorker from 'promise-worker/register'
 // import createRNN, { lstmModel } from 'rnn'
-// import inputSentences from './config/haikus-no-blank-lines'
+// import inputSentences from './data/haikus-no-blank-lines'
 
 // const rnnModel = createRNN({
 //   modelFunc: lstmModel,

@@ -1,8 +1,8 @@
-import { Component } from 'react'
+import React, { Component } from 'react'
 import styled from 'styled-components'
 import { LineChart, Line, CartesianGrid, XAxis, YAxis } from 'recharts'
-import PromiseWorker from 'promise-worker'
-import Worker from '../rnn.worker'
+import Worker from '../rnn.worker' // eslint-disable-line import-default
+// import PromiseWorker from 'promise-worker'
 
 export default class App extends Component {
   state = {
@@ -23,7 +23,8 @@ export default class App extends Component {
   }
 
   componentDidMount() {
-    // This.workers = Array.from(
+    window.worker = new Worker()
+    // this.workers = Array.from(
     //   { length: window.navigator.hardwareConcurrency },
     //   () => new PromiseWorker(new Worker()),
     // )
@@ -31,7 +32,6 @@ export default class App extends Component {
 
   train = async () => {
     const { temperature, learningRate } = this.state
-    debugger
 
     const results = await Promise.all(
       this.workers.map(worker =>
@@ -94,7 +94,7 @@ export default class App extends Component {
       nextState.learningRate = nextLearningRate
     }
 
-    if (Object.keys(nextState).length) {
+    if (Object.keys(nextState).length > 1) {
       this.setState(nextState)
     }
 
@@ -107,10 +107,9 @@ export default class App extends Component {
     // Average all layers
     // Set each layer to the average
     // They will be different each merge due to having run on different examples
-    const allModelsLayers = await Promise.all(
-      this.workers.map(worker => worker.postMessage({ getLayers: true })),
-    )
-
+    // const allModelsLayers = await Promise.all(
+    //   this.workers.map(worker => worker.postMessage({ getLayers: true })),
+    // )
     // For (let i = 0; i < slaveModelsLayers.length; i++) {
     //   for (let j = 0; j < slaveModelsLayers[i].length; j++) {
     //     driverModelLayers[i][j] =
@@ -140,14 +139,14 @@ export default class App extends Component {
       <Wrapper>
         <Header>RNN Demo</Header>
         <Button
-          onClick={this.pauseOrResume}
           value={
-            !this.state.hasRun
-              ? 'Start Training'
-              : this.state.isRunning
-              ? 'Pause Training'
-              : 'Resume Training'
+            this.state.hasRun
+              ? this.state.isRunning
+                ? 'Pause Training'
+                : 'Resume Training'
+              : 'Start Training'
           }
+          onClick={this.pauseOrResume}
         />
         <Label>
           <input
@@ -179,7 +178,7 @@ export default class App extends Component {
             }}
           />
         </Label>
-        <Button onClick={this.loadFromJSON} value="Load saved model" />
+        <Button value="Load saved model" onClick={this.loadFromJSON} />
         <Label>
           Sample temperature: {this.state.temperature}
           <input
@@ -247,9 +246,11 @@ export default class App extends Component {
           <React.Fragment>
             <div>Samples:</div>
             <div>
-              {this.state.samples.map((sample, i) => (
-                <div key={i}>{sample}</div>
-              ))}
+              {this.state.samples.map((sample, i) => {
+                /* eslint-disable react/no-array-index-key */
+                return <div key={i}>{sample}</div>
+                /* eslint-enable react/no-array-index-key */
+              })}
             </div>
             <div>Argmax Prediction:</div>
             <div>{this.state.argMaxPrediction}</div>

@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
 import { LineChart, Line, CartesianGrid, XAxis, YAxis } from 'recharts'
-import Worker from '../rnn.worker' // eslint-disable-line import-default
-// import PromiseWorker from 'promise-worker'
+import PromiseWorker from 'promise-worker'
+import rnnWorker from '../rnn.worker' // eslint-disable-line import-default
 
 export default class App extends Component {
   state = {
@@ -23,11 +23,10 @@ export default class App extends Component {
   }
 
   componentDidMount() {
-    window.worker = new Worker()
-    // this.workers = Array.from(
-    //   { length: window.navigator.hardwareConcurrency },
-    //   () => new PromiseWorker(new Worker()),
-    // )
+    this.workers = Array.from(
+      { length: window.navigator.hardwareConcurrency },
+      () => new PromiseWorker(rnnWorker()),
+    )
   }
 
   train = async () => {
@@ -74,7 +73,9 @@ export default class App extends Component {
       const pplList = [...this.state.perplexityList, perplexity].sort(
         (a, b) => a - b,
       )
-      const medianPerplexity = median(pplList) // TODO: should create a little helper function to calc median
+      // TODO: should create a little helper function to calc median
+      // Maybe use a little math util lib (could use in rnn lib, too)
+      const medianPerplexity = median(pplList)
 
       nextState.perplexityData = [
         ...this.state.perplexityData,
@@ -107,9 +108,10 @@ export default class App extends Component {
     // Average all layers
     // Set each layer to the average
     // They will be different each merge due to having run on different examples
-    // const allModelsLayers = await Promise.all(
-    //   this.workers.map(worker => worker.postMessage({ getLayers: true })),
-    // )
+    const allModelsLayers = await Promise.all(
+      this.workers.map(worker => worker.postMessage({ getLayers: true })),
+    )
+    console.log(allModelsLayers)
     // For (let i = 0; i < slaveModelsLayers.length; i++) {
     //   for (let j = 0; j < slaveModelsLayers[i].length; j++) {
     //     driverModelLayers[i][j] =

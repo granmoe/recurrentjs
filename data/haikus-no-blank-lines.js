@@ -1,13 +1,13 @@
 export default `fishing boats
 colors of
 the rainbow
-ash wednesday--
+ash wednesday—
 trying to remember 
 my dream
 japanese quake
 this godless spring
 tsunami
-snowy morn--
+snowy morn—
 pouring another cup
 of black coffee
 shortest day
@@ -109,13 +109,13 @@ my hand
 three petals fall
 from the purple coneflower...
 almost summer
-instant message--
+instant message—
 moon reveals more
 of herself each night
 nude beach
 a stranger covers me
 with his shadow
-garden wedding --
+garden wedding—
 under the cherry blossoms
 the bride's blush deepens
 rainy New York
@@ -124,13 +124,13 @@ black umbrellas bloom
 drunk on the beach-
 the moon in my sake cup
 disappears
-late winter -
+late winter—
 opening the saijiki
 to early spring
 faintly purple
-against the moon -
+against the moon—
 pines in the light
-the last light of day ~
+the last light of day
 purple rhododendrons
 dissolve in the dark
 full moon
@@ -141,22 +141,22 @@ the last traces of passion ?
 irises
 bluer
 in hers
-wisteria -
+wisteria—
 blooming before
 the end of rain
-through lace ~
+through lace
 the tracery of frost
 on glass
 rain
 falls from the trees
 on the blue iris
-winter beach -
+winter beach—
 three grey lines
 of sand, sea and sky
-winter -
+winter—
 white peonies
 in falling snow
-mountain cave --
+mountain cave—
 from out of darkness
 the morning light
 after its first flight
@@ -165,70 +165,70 @@ tighter on my glove
 winter roses
 I am tired of reading
 between the lines
-storm--
+storm—
 the monologue
 of every tree
-candle snuffer--
+candle snuffer—
 our eyes adjust
 to the smoke wisp
 the patter and hiss 
 of gentle raining
---cloudlight
-lull--
+—cloudlight
+lull—
 reading into the braille 
 of your goose bumps
-afternoon malaise--
+afternoon malaise—
 slant light 
 at the oranges bowl
-first day of school--
+first day of school—
 the house fills with the space 
 between second hand ticks
-downpour--
+downpour—
 the dead animal smell
 shifts toward memory
-dusk--
+dusk—
 the last whistle of something
 as I turn on a reading light
-airport window--
+airport window—
 the cloud of my breath
 as your plane reaches the clouds
-midnight moon--
+midnight moon—
 afraid
 to turn another page
 in the no-name vine
 bluebirds
 at the red berries
-fresh snow--
+fresh snow—
 the new neighbors
 with all the porch lights on
-night shift--
+night shift—
 a quick break
 to look at the stars...
-freeze warning--
+freeze warning—
 light from the arc welder
 brightens the night
-freeze warning--
+freeze warning—
 the need to pee
 once we hit traffic
-freeze warning--
+freeze warning—
 just enough change
 for coffee
-freeze warning---
+freeze warning—
 from the end of the bar
 she looks back
-freeze warning--
+freeze warning—
 a couple of homeless guys
 feeding seagulls
-dust--
+dust—
 distant thunder
 moves on
-porn shop--
+porn shop—
 each cock
 stares at her
-scrabble dictionary--
+scrabble dictionary—
 lighting one candle
 from another
-rusting nail--
+rusting nail—
 the coffinmaker
 talks of price
 labor day-
@@ -237,9 +237,9 @@ my resume
 that fart
 prayer fans
 all sermon long
-winter moon--
+winter moon—
 the manhole cover's warmth
-thaw--
+thaw—
 a winter moth struggles
 against a spider thread
 skylight-
@@ -248,7 +248,7 @@ her line of coke
 antique store-
 the ocean loud
 in a seashell
-dusk--
+dusk—
 songbirds' voices
 disappear too
 indian summer-
@@ -257,10 +257,10 @@ as she waits for a drink
 food channel
 between commercials
 dinner burns
-evening service --
+evening service—
 light beams
 into the night
- food channel --
+ food channel—
 between commercials,
 dinner burns
 autumn
@@ -269,37 +269,37 @@ buzzards wait
 jury duty
 the clock pendulum goes
 back and forth
-summer breeze--
+summer breeze—
 someone practices drums
 in the valley
-no rain--
+no rain—
 the sound of crunched
 grass
-museum--
+museum—
 so hot the mummy
 sweats
-summer rain--
+summer rain—
 drops descend the lily
 leaf by leaf
 hail storm
 the golfers run
 for cover
-night sax. . .
+night sax...
 dreams in
 B flat
 between
 thunder and lightning
 zero
 I rescue
-a mouse from the cat--
+a mouse from the cat—
 burnt steak
-dentist chair--
+dentist chair—
 construction noise
 outside
 Memorial Day
 an old couple rereads
 the letter
-Saturday night--
+Saturday night—
 someone vomits beneath
 the blossoms
 evening rain—
@@ -308,14 +308,14 @@ online
 mid April
 the grass finally
 looks like grass
-noon sun--
+noon sun—
 someone playing scales
 on a saxophone
-shaving--
+shaving—
 I share the mirror
 with a spider
 spring flies
-buzz above my head--
+buzz above my head—
 E flat
 starless sky—
 dead batteries
@@ -341,64 +341,64 @@ oblivious
 trembling
 the hair ribbon falls
 with inhibitions
-japanese garden -
+japanese garden—
 the pouring rain
 on the stone buddha
-spring sun -
+spring sun—
 the yellow house
 just painted
-leap year -
+leap year—
 the old man's cane
 also left its tracks
-wild life -
+wild life—
 a fly crosses
 in front of the TV
-traffic jam -
+traffic jam—
 Moon passes through
 the Earth's shadow
-guest room -
+guest room—
 the silence of the moon
 at the window
-sleepless night -
+sleepless night—
 full moon has arrived
 to other window
-winter darkness -
+winter darkness—
 last train runs
 into the tunnel
-winter day -
+winter day—
 all those nude statues
 in the park
-winter blackout -
+winter blackout—
 all the house
 full of night
-clear sky -
+clear sky—
 an old man sweeps
 fallen leaves
-tonight's quake -
+tonight's quake—
 trees without leaves
 at sunshine
-empty room -
+empty room—
 the shadows of nails
 on the walls
-humid morning -
+humid morning—
 a bee floats
 in the fountain
-autumn flowers -
+autumn flowers—
 old men at the park
 taking the sun
-back to school -
+back to school—
 the sun lights
 the orange juice
-distant hurricane -
+distant hurricane—
 in the middle of the rain
 a phone rings
-distant thunder -
+distant thunder—
 a businessman talking 
 on cell phone
-spring rain -
+spring rain—
 between she and me
 hundreds of drops
-monday morning -
+monday morning—
 a white butterfly follows
 the train line
 after the quake
@@ -407,139 +407,136 @@ on the patio
 waiting for the bus
 a street dog sniffs
 my shadow
-sound of the rain -
+sound of the rain—
 after a while
 she calls my name
-window pane -
+window pane—
 at the end of my finger
 the cold moon
-spring break -
+spring break—
 colorful tents
 in the desert
-long trip -
+long trip—
 at the end of highway
 the moon
-cityscape -
+cityscape—
 the moon rises
 from a chimney
-waiting for the bus -
+waiting for the bus—
 at the end of the street
 sunset
-warm winter day -
+warm winter day—
 the smell of
 a new book
-factory wall -
+factory wall—
 the smell of
 a new graffiti
-half yellow moon -
+half yellow moon—
 workers talk about
 tortillas
-Valentine's day -
+Valentine's day—
 the heart balloon
 don't enters the taxi
-trash can -
+trash can—
 flies
 and shadows of flies
-traffic jam -
+traffic jam—
 women talk about men
 in the radio
-abandoned car -
+abandoned car—
 accumulated leaves
 on the windshield
-sudden rain -
+sudden rain—
 fallen candies
 on the sidewalk
-empty square -
+empty square—
 no more
 Christmas lights
-new year light -
+new year light—
 dust of one day
 on the keyboard
-cold rain -
+cold rain—
 thousands like me
 going to work
-monday dawn -
+monday dawn—
 the silence
 of traffic lights
-first frost -
+first frost—
 only two passengers
 speak...
-subway heat -
+subway heat—
 the breeze
 of the arriving train 
-traffic jam -
+traffic jam—
 another star appears
 in the sky
-waiting for the bus -
+waiting for the bus—
 my shadow
 also changes postures
-lightning at window -
+lightning at window—
 the stopped train
 in the storm
-windless day -
+windless day—
 a man whistling
 on the street
-traffic at night -
+traffic at night—
 she talks about
 cholesterol
-night of stars -
+night of stars—
 moths circle
 the street lamp
-turn off the lights -
+turn off the lights—
 the night outside
 and inside the room
-autumn cleaning -
+autumn cleaning—
 a desk drawer
 full of dry pens
 the taxi driver
-tells me about his life -
+tells me about his life—
 autumn rain
-pigeons on wires -
+pigeons on wires—
 he tunes his guitar
 beside a pole
-autumn rain -
+autumn rain—
 a tattooed man sells
 permanent markers
-última estación -
-las huellas de las nalgas
-en los asientos
-night of stars -
+night of stars—
 a white ball floats
 in the pool
-cloudy day -
+cloudy day—
 the horn
 of a yellow cab
-cloudy day -
+cloudy day—
 the rainbow flag waves
 on a balcony
-bus stop -
+bus stop—
 a woman's perfume
 in the air
-subway window -
+subway window—
 she smiles at
 my reflection
-alone again -
+alone again—
 one plane flies to south
 another to north
 looking at her
 childhood photos
 my girlfriend older than me
-24 hour store -
+24 hour store—
 jacaranda flowers fall 
 day & night
-morning sun -
+morning sun—
 the long shadows
 of little stones
-crescent moon -
+crescent moon—
 she is cutting her nails
 in the garden
 night of stars
 in the next room
 my sick mother
-new year's balloons -
+new year's balloons—
 the pregnant woman
 staring at the mirror
-cloudy sunset -
+cloudy sunset—
 a lone traffic light
 turns red
 soccer championship
@@ -548,10 +545,10 @@ on the stadium
 christmas lights
 the silhouette of trees
 in the dark
-winterscape -
+winterscape—
 a traffic sign in the snow
 points to no way
-glass tower -
+glass tower—
 the moon is part
 of the west facade
 crowded bus
@@ -560,11 +557,11 @@ the same autumn
 new yellow car
 autumn leaves
 on the windscreen
-bus window -
+bus window—
 she travels with the full moon
 on her head
 thicker dust
-on a little Buddha -
+on a little Buddha—
 early autumn
 sidewalk cafe
 on the empty seats
@@ -657,7 +654,7 @@ the snake's dead skin
 left in the driveway
 Mustang Cobra
 amid war
-and rumors of war. . .
+and rumors of war...
 another grandchild
 spring cleaning
 long neglected baseball cards
@@ -691,7 +688,7 @@ at last i wake
 on time
 day of blossoms
 a nurse erases
-mother’s name
+mother's name
 mother's day
 a nurse unties
 the restraints
@@ -735,10 +732,10 @@ spring nightfall
 ink melts
 over stone
 fogged window
-a blend of green and gray -
+a blend of green and gray—
 hot tea with milk
 morning fog
-dissolving cypress -
+dissolving cypress—
 sfumato
 slice of moon
 the scent of jasmine spills
@@ -754,7 +751,7 @@ filled with stars
 as if
 summer had no end
 wildflowers
-all-day headache . . .
+all-day headache...
 watching the moon rise
 with the wind
 winter pond
@@ -775,7 +772,7 @@ blue mountains
 homesick
 a hot wind rattles
 the cottonwood leaves
-after the fireworks . . . the thunder moon
+after the fireworks...the thunder moon
 huddled cows
 their steam thickens
 the valley mist 
@@ -784,22 +781,22 @@ at my bathroom window
 the misted full moon
 schedule screen
 the spider spinned its web
-between two tramways ---
+between two tramways—
 in the greyness
 the rosé bottle
-of the homeless ---
+of the homeless—
 subway station
 ads as only light
 the day after the bombs
 leap year
 looking a her twins
-a squinting woman ---
+a squinting woman—
 less cars
 in front of the brothels
-valentine's day ---
+valentine's day—
 on my smartphone
 mount fuji in the sunset
-morning coffee ---
+morning coffee—
 after the bell
 just the rain on the umbrellas
 ashes to ashes
@@ -817,10 +814,10 @@ this man in the reflection
 is it me?
 her cooled tea
 in the middle of the table
-first snow --- 
+first snow—
 evening tram
 her diamond on her nose
-a star --- 
+a star—
 more piercing
 in the autumn mist
 the blackbird's song
@@ -850,7 +847,7 @@ in the passing of these clouds
 — sip of coffee
 lunch
 the office computer's quiet hum
-bedtime --
+bedtime—
 trying not to count
 maimed solders
 indian summer
@@ -862,7 +859,7 @@ is very white
 Fly,
 be afraid!
 No Buddhists in this house!
-spring breeze--
+spring breeze—
 between pages of an old book
 a crushed rose
 Veteran's Day
@@ -1043,13 +1040,13 @@ bedtime
 evening sky
 counting some fireflies
 more than once
-smell of rain -
+smell of rain—
 soft ridges of mint leaves
 oil my fingers
-blackbird song -
+blackbird song—
 the name of a daughter
 i'll never know
-kite shop -
+kite shop—
 entering with every customer
 the summer breeze
 November fog;
@@ -1073,10 +1070,10 @@ summer solstice
 the way grass parts
 as the pheasant passes
 spring's end
-moonlessness--
+moonlessness—
 so many ways
 I want to touch you
-earth day--
+earth day—
 even the shadows at dusk
 smell green
 fading
@@ -1136,7 +1133,7 @@ a crack
 in the pavement
 yellow freesias
 piece
-of a butterfly wing –
+of a butterfly wing
 autumn chill
 a crow
 on the wire
@@ -1144,7 +1141,7 @@ silent rain
 old park bench
 i touch our initials
 each time i pass
-new housing--
+new housing—
 hammer and saw replace
 the dove's coo
 christmas services
@@ -1156,7 +1153,7 @@ morning fog
 stop sign
 thru the bullet holes
 ghetto moon
-Passover darkness -
+Passover darkness—
 before the buds burst open;
 a child's eyes in death.
 desert garden
@@ -1165,10 +1162,10 @@ in the pink dawn
 winter rain 
 the sheets where she slept 
 grow colder
-desert sand. . .
+desert sand...
 my sleeping bag under
 a full moon
-giant moon. . .
+giant moon...
 the bark of a dog echos
 over the fence
 crystalline sky
@@ -1190,9 +1187,9 @@ Arizona
 road stop rest, the dog sniffs
 yellow snow
 a moth flutters
-over the candle flame . . .
+over the candle flame...
 damned idiot
-still water . . .
+still water...
 the undercurrent
 in her voice
 November winds
@@ -1222,16 +1219,16 @@ on the ice
 frosty dawn-
 the dog watches me
 pack my bag
-campfire coffee. . .
+campfire coffee...
 condor wings glean
 the first rays of sun
 arctic air
-soothes the desert heat . . .
+soothes the desert heat...
 blended whiskey
 slate skys
 chalk mark outlines
 on the sidewalk
-peach moon . . .
+peach moon...
 the thin slice left
 for us
 grassy moon
@@ -1249,10 +1246,10 @@ of mothballs
 montana morning
 the horses with their backs
 to blowing snow
-street light sway ~
+street light sway
 dreams of her linger
 with the storm
-Sack of cheeries ~
+Sack of cheeries
 clouds grow dark on the road
 to the coast
 salmon sunrise
@@ -1279,7 +1276,7 @@ against the night sky
 rainy morning
 the haijin stirs
 sugar in his coffee
-alabaster moon ~
+alabaster moon
 glowing among bare pine tops
 in cool mountain mist
 kissing her slowly
@@ -1293,7 +1290,7 @@ deep wrinkles
 in the face of an elder—
 becoming dusk
 after a lobotomy—
-the pumpkin’s 
+the pumpkin's 
 toothless grin
 late summer
 morning glories
@@ -1305,7 +1302,7 @@ slow steady rain
 the muscles in my back
 unknot
 evening breeze
-my neighbor’s bbq
+my neighbor's bbq
 drifts this way
 high winds
 a zillion elm seeds
@@ -1365,7 +1362,7 @@ summer night
 somewhere a saxophone
 on born to run
 vacant lot overgrown
-with queen anne’s lace
+with queen anne's lace
 and car parts
 garden stones
 pearled by wind and rain
@@ -1389,7 +1386,7 @@ summer night love
 whatever the neighbors
 are cooking
 storm watch—
-scars i’ve learned
+scars i've learned
 to love
 headlights
 in the dust storm
@@ -1414,13 +1411,13 @@ spring dust storm
 a long winter—
 bevel on the mirror
 throws a rainbow
-a dog’s bark
+a dog's bark
 wavers in the wind
 evening shadows
 another year—
 those crossed out names
 in my address book
-my neighbor’s
+my neighbor's
 apricot tree is blooming
 secondhand love
 overcast
@@ -1444,115 +1441,115 @@ soften her voice
 unexpected guest-
 a thought came out
 of nowhere
-my own pace --
+my own pace—
 tiny flower blooms
 from a crack in concrete
-fading light--
+fading light—
 the last sunflowers
 half price
 in the skeleton
 of an old house
 a new spider's web
-industrial skyline--
+industrial skyline—
 where the rain
 makes rust
-sharing stories--
+sharing stories—
 in dad's old eyes
 always the sea
-after midnight--
+after midnight—
 crickets
 and a city train
-stars in the river--
+stars in the river—
 two boys
 night fishing
-sun on a dragonfly's wings--
+sun on a dragonfly's wings—
 when all else
 vanishes
-cloud cover--
+cloud cover—
 just knowing
 the moon is still there
-mandarin--
+mandarin—
 a few segments
 of sun
-whale sighting--
+whale sighting—
 all the smart phones
 lined up on the deck
-freight train night--
+freight train night—
 the restless
 dreams
-cold night--
+cold night—
 not one silver track
 on the footpath
 lullabies
 of suburban
 night trains
-winter greys--
+winter greys—
 seabirds string
 between pier lights
-steady drizzle--
+steady drizzle—
 a rainbow fades
 into the grey
 above the oil refinery
 moon sails
 seaward
-dark early--
+dark early—
 sepia roses
 under street lights
-night rain--
+night rain—
 never too old
 for a lullaby
-rainy afternoon--
+rainy afternoon—
 hot pikelets
 with butter and honey
-rearview mirror--
+rearview mirror—
 pelicans with sunrise
 on their wings
-city peak hour -
+city peak hour—
 happily lost
 in sunset sky art
-industrial decay--
+industrial decay—
 the dripping rust
 in heavy rain
-night rain--
+night rain—
 we jump in neon puddles
 and breathe rosemary
-freight train--
+freight train—
 the night runs out
 of breath
-nighttime whoosh --
+nighttime whoosh—
 a city train
 fades
-car park puddle--
+car park puddle—
 i walk through
 the sky
 around the campfire
 we wait
 for the milky way
-graffiti night--
+graffiti night—
 all these stars
 sprayed everywhere
-city bound train--
+city bound train—
 a book and a suitcase
 full of stars
-autumn chill--
+autumn chill—
 one little cricket
 sings to the moon
-cooler mornings--
+cooler mornings—
 the honey slows down
 from the spoon
 wild beaches
-in winter time--
+in winter time—
 take me there
-home alone--
+home alone—
 sound of my fork
 on the pasta bowl
-alongside the train tracks--
+alongside the train tracks—
 secrets of orchids
 under moonlight
-stormy weather --
+stormy weather—
 a clarinet
 blues afternoon
-trains approaching--
+trains approaching—
 someone on a platform
 reading to the moon
 smell of rain
@@ -1561,17 +1558,17 @@ across the field
 white clouds
 glide safely
 over mine fields
-winter solstice --
+winter solstice—
 the Persian cat's half-
 closed eyes
 beneath the fireworks
 endless bullfrogs
 among new lilies she waters the stone Buddha 
 all I need are mountains
-and a hedgehog -
+and a hedgehog—
 autumn deepens
 this winter's day the garbage cans evanesce
-To the Finland Station --
+To the Finland Station—
 they rush
 to strike a deal for iPhones
 the metallic tang of deer's blood
@@ -1591,7 +1588,7 @@ glorious
 They share 
 a bruised apple
 moonlit feast for two
-Harvest moon --
+Harvest moon—
 too much light
 for field mice
 summer rains gone
@@ -1606,7 +1603,7 @@ rouses dawn
 late summer in Miami
 ash covers his school desk
 all the remains
-8:17 am -- Hiroshima, local time
+8:17 am— Hiroshima, local time
 brush in hand
 he carefully...
 8:16, local time, Hiroshima
@@ -1754,7 +1751,7 @@ urban spring
 Cracked head statue
 of the Buddha; a reminder
 everything passes.
-one plus one = 3 
+one plus one equals three 
 a happy couple expecting
 their first child
 Fountain pen ink spill
@@ -1769,10 +1766,10 @@ she clutches a doll
 he turns one last time
 flashing his sailor's wry smile
 that bright November.
-the War on Horror---
+the War on Horror—
 G.I.'s on hashish kill
 Afghans for sport
-I turn off the pumpkin lights---
+I turn off the pumpkin lights—
 a predawn
 harvest moon
 white roadside crosses
@@ -1791,7 +1788,7 @@ Full Corn Moon
 time to gather the harvest
 before leaves fall
 charred goat bones
-they say -- without conviction 
+they say— without conviction 
 Somali nightmares
 too hot for miso!
 he pushes it aside
@@ -1803,7 +1800,7 @@ tea leaves carefully
 saved, dried, and used again
 hidden poverty
 there's a pelican
--- in that ball of feathers, tar
+—in that ball of feathers, tar
 or it is a gull?
 mountain hike
 lost among butterflies and
@@ -1845,13 +1842,13 @@ something is lost
 triple malt beer
 a loud laugh
 measures the night
-crescent moon --
+crescent moon—
 the street magician's trick
 finally revealed
 drying laundry —
 the faded colors
 of twilight
-cooking together--
+cooking together—
 a touch of cinnamon
 on my lips
 Late summer;
@@ -1872,13 +1869,13 @@ in the frost hollow
 almond blossom
 the stillness
 after love
-spring heat -
+spring heat—
 the imprint of grass
 in her thighs
 heat shimmer 
 the first blooming
 railroad flowers
-railroad dusk - 
+railroad dusk—
 a needle amongst 
 the ballast stones
 endless stars...
@@ -1891,12 +1888,12 @@ Central Park
 the echo of her voice
 in every direction 
 the clattering
-of mahjong tiles ...
+of mahjong tiles...
 summer rain
 the end
-of a chalk rainbow --
+of a chalk rainbow—
 foreclosure sign
-downsizing ...
+downsizing...
 a winter star and I
 in the puddle
 slanted sunlight
@@ -1905,7 +1902,7 @@ a drift of dust
 cherry blossom rain
 laughter
 chasing laughter
-moonlit pond ...
+moonlit pond...
 a frog jumps
 from star to star
 sourdough smell of age
@@ -1914,32 +1911,32 @@ against motel windows
 blood-red earth
 pattering on his coffin
 winter rain
-long way home ...
+long way home...
 windshield wipers clear
 the silence between us
 the space
 between etched names...
 war cenotaph
-pinned butterfly ...
+pinned butterfly...
 needle marks
-on the girl’s left arm
+on the girl's left arm
 "Now Hiring"
-flaps in the winter wind ...
+flaps in the winter wind...
 last rays of sunlight
 faraway whistle
-of the night train . . .
+of the night train...
 mother's lullaby
 the meaty grin
 of her red-lipped mouth
 my divorce lawyer
-snowy dawn ...
+snowy dawn...
 bits of yesterday
 cling to today
 a dried lotus leaf
 in Tibetan Book of the Dead...
 winter dusk
 the darkness
-between winter stars ...
+between winter stars...
 relapse
 Goodwill Window Sale
 homeless man's reflection
@@ -1958,14 +1955,14 @@ after retirement
 the brush
 is dipped deeper
 in Chinese ink
-writing haiku ...
+writing haiku...
 my wine glass fills
 with sunlight
-"I'm married" ...
+"I'm married"...
 ice cubes shifting
 in her wine glass
 mist trailing
-over the autumn fields . . .
+over the autumn fields...
 a raven's cry
 sudden news
 of her breastcancer...
@@ -1973,7 +1970,7 @@ I add
 one more lump of sugar 
 to my morning coffee 
 yellow ball of yarn
-in my mother’s hand
+in my mother's hand
 harvest moon
 one year gone
 on her side of the bed
@@ -1993,7 +1990,7 @@ noonday heat
 a white man staring at me
 me staring back
 rose branches
-weighed down with snow ...
+weighed down with snow...
 hospice garden
 another new grave
 in winter mist
@@ -2001,28 +1998,28 @@ war cemetery
 forget-me-nots
 along the border fence
 refugee children
-Rated R --
+Rated R—
 the orgasm
 of sudden rain
-distant gunshots ... 
+distant gunshots...
 sunflower petals
 fold into night
 midnight moon...
 one long howl
 and then no more
-"dust to dust . . . "
+"dust to dust..."
 the widow's shadow
 on the coffin
 the stare
-of a newborn ...
+of a newborn...
 starry night
 the click
-of her red high heels ...
+of her red high heels...
 divorce court
 her short life
 packed in an urn
 smell of winter
-drifts of fog ...
+drifts of fog...
 first job interview
 in one year
 summer storm
@@ -2032,22 +2029,22 @@ fireworks show
 the migrant speaks of the home
 he left behind
 a latch clicks
-on the vacant house ...
+on the vacant house...
 winter solstice
 first day of spring
 the lingering scent
 of rare books
 faint pencil marks
-on the wall --
+on the wall—
 her dead child's room
 the smell
-of summer heat ...
+of summer heat...
 roadkill 
 foreclosure sign
 in its shadow
 a dollhouse
 one by one
-frogs make holes in the pond ...
+frogs make holes in the pond...
 starry night
 a butterfly
 tattooed on her buttock
@@ -2057,13 +2054,13 @@ both of us said nothing...
 her red bra
 in the corner of my mind
 begins to change color
-a new moon --
+a new moon—
 mother's letter heavy
 with voices from the past
 alone by candlelight
 thinking of that spring we met
-and another spring…
-spicy chicken …
+and another spring...
+spicy chicken...
 this impulse to ask
 if she's married
 church graveyard
@@ -2078,7 +2075,7 @@ to hear the stars
 her hips
 sway our debate on sex
 summer heat
-the cold moon... 
+the cold moon...
 I recycle a dream
 from my youth
 night deepening
@@ -2092,7 +2089,7 @@ of her breast cancer...
 I add
 one more lump of sugar
 to my morning coffee
-writing haiku ...
+writing haiku...
 my wine glass fills
 with sunlight
 divorce talk
@@ -2110,13 +2107,13 @@ morning glories
 her nose print
 on the hospice window ..
 a patch of sunlight
-snow on snow …
+snow on snow...
 the depth of night
 in this attic
-Gaza at twilight… 
+Gaza at twilight...
 crying old tears
 at a new funeral
-a crow’s cry ...
+a crow's cry...
 the winter sky darkens
 into the prairie
 a long line of cars
@@ -2126,22 +2123,22 @@ between cries
 of neighbor's baby
 symphony no. 9
 traveling
-far away in thought ...
+far away in thought...
 hospice window
-harvest moon rising ...
+harvest moon rising...
 a tremble
 in the migrant's voice
 therapy session:
 winter rain on the window
 deepens the silence
 a white butterfly
-flitting through the stillness ...
+flitting through the stillness...
 church grave yard
 distant sirens
 over the border bridge
 a blood moon
 her black hair
-veils our praying hands ...
+veils our praying hands...
 hospice church at dusk
 her face
 in my whiisky
@@ -2150,18 +2147,18 @@ one by one
 fireflies escape my glass jar...
 starry night
 the rice song
-mother sang to me ...
+mother sang to me...
 first spring rain
 first glimpse
 of her mastectomy bra
 winter rose
-hospice verandah ... 
+hospice verandah...
 a girl opens her mouth
 to spring rain
-surge of the wind ...
+surge of the wind...
 talk of war fading
 into silence
-first kiss --
+first kiss—
 behind the bookshelf
 her scent lingers
 blind date
@@ -2171,9 +2168,9 @@ summer's end
 my footprints in the sand
 a little deeper
 her black hair
-veils our praying hands ...
+veils our praying hands...
 hospice church at dusk
-twilight moon --
+twilight moon—
 a hole in the chestnut
 fills with stars
 offshoring jobs...
@@ -2189,7 +2186,7 @@ summer rain
 cold autumn wind
 in all the cracks
 eyes of barn cats
-Urologist’s office-
+Urologist's office-
 the framed photograph
 of the falls
 the clatter
@@ -2204,16 +2201,16 @@ grasshopper...
 farm auction-
 fields filled with goldenrods
 and asters
-spring frost --
+spring frost—
 the park cannon aimed
 at the church
 sunny day
 a wasp tastes
 everyone's beer
-withered roses-- 
+withered roses—
 a bald woman waits 
 for the taxi
-dusk--
+dusk—
 the mason jar filled
 with fireflies
 crashing waves-
@@ -2223,7 +2220,6 @@ house for sale
 the apricot tree in bloom
 as never before
 after the rain a winter street full of moons
-après la pluie une rue d'hiver pleine de lunes
 marsh wren's cry
 the sun ripples onto the mud
 northern lights
@@ -2314,10 +2310,10 @@ her daffodils
 almost home
 the full moon between
 two houses
-chilly tea-time --
+chilly tea-time—
 finding new cyclamen leaves
 in an old plant-pot.
-afternoon tea --
+afternoon tea—
 the old climbing rose
 somehow whiter
 Eucharist
@@ -2326,7 +2322,7 @@ for Jesus
 winter wonderland
 even the burnt out car
 looks beautiful
-almost Christmas ~
+almost Christmas
 thinking how best to reveal
 that dad beats mum
 circle time
@@ -2335,13 +2331,13 @@ finding a vein
 sun rising
 suddenly the sumac
 bursts into flame
-freezing drizzle…
+freezing drizzle...
 page after page 
 its insistent drumming
 the moon
 not quite full
 but full enough
-Wedding Day -
+Wedding Day—
 in the bride's eyes
 the groom's smile
 imagine
@@ -2377,11 +2373,11 @@ a new grandchild
 under snow
 the same earth
 waiting waiting
-tulips buried - 
+tulips buried—
 the soft silence
 of April snow
 from Hiroshima
-to Sendai . . .
+to Sendai...
 so much just gone
 snowstorm
 too many flakes
@@ -2404,17 +2400,17 @@ cuts through my silence
 raindrops plop
 into my coffee cup
 summer rain 
-cold May moon... the long road stretches out of sight
+cold May moon...the long road stretches out of sight
 cold May moon...
 the long road stretches
 out of sight 
 overcast night
 maybe the stars burn brightly
 over Gaza
-chatter of joggers . . .
+chatter of joggers...
 the heron and I
 motionless
-breathing deeply . . .
+breathing deeply...
 that smell of woodyards
 in the rain
 new snow
@@ -2429,10 +2425,10 @@ the stone bullfrog
 high tide
 yesterday's footprints
 gone
-customs' declaration -
+customs' declaration—
 only the memory
 of eucalyptus
-customs' declaration -
+customs' declaration—
 determining the value
 of new haiku
 bonfire's glow
@@ -2441,7 +2437,7 @@ around a firefly
 Awake 
 Smell of rain 
 two new haiga
-sound of the rain -
+sound of the rain—
 penetrating my sleep
 at dawn
 police watch the crowds
@@ -2474,13 +2470,13 @@ to window
 in the attic
 the sound of march rain
 so much louder
-hot day--
+hot day—
 the cool inside
 an apple
 her small fingers
 tightly grip the pencil
---writing her new name
-house for sale--
+—writing her new name
+house for sale—
 the dandelions allowed
 to bloom
 heat lightning
@@ -2541,7 +2537,7 @@ making love
 passionately all night 
 the sounds of traffic
 seed catalogues
-in the mail daily--
+in the mail daily—
 morning snow fluries
 Sunday best
 his overalls
@@ -2552,7 +2548,7 @@ of maple sap
 the wolf howl lingers
 fades into the night's
 eerie silence
-winter temptation--
+winter temptation—
 in the seed catalogues
 perfect tomatoes
 Minnesota cold
@@ -2570,19 +2566,19 @@ turns a blind eye
 cold night
 the hallway nightlight
 flickers on and off
-heavy rain--
+heavy rain—
 the rotten boat 
 tries to float again
-heavy rain--
+heavy rain—
 in the farm belt
 barbershops fill up
 desert landscape
 rain will come and the water...
 remembers each path
-heavy rain--
+heavy rain—
 the old rubber boots
 not tall enough
-heavy rain--
+heavy rain—
 my flower seeds sprout
 in the neighbor's yard
 small town café
@@ -2603,7 +2599,7 @@ their wedding
 evening voices
 the window curtains
 flutter
-winter solstice--
+winter solstice—
 her passing
 bends the candle's flame
 lakeside
@@ -2615,16 +2611,16 @@ a can of worms
 the moose grunts.again.
 the nylon tent walls
 seem thinner
-steady rain~~
+steady rain
 she rants about her boss
 all through supper
-first frost warning -
+first frost warning—
 she no longer
 pours his coffee
 afternoon card parties
 the rumor mill's
 farm system
-recycling--
+recycling—
 old stories get a new twist
 at the rumor mill
 city hall scandal
@@ -2633,13 +2629,13 @@ adds a third shift
 mid April
 even in the shadows
 the ice melts
-avalanche warnings -
+avalanche warnings—
 more tails of rain
 and radiation
 winter returns
 one stubborn maple still drips
 ever.so.slowly
-head cold -
+head cold—
 running out of tissue
 before noon
 patience.
@@ -2690,7 +2686,7 @@ ancient granite
 opening fishing
 fancy lures 
 catch branches too
-small town -
+small town—
 the welcome wagon
 slowly rusts away
 thick river ice
@@ -2705,7 +2701,7 @@ sorted by mothers
 desert highway
 in the rear view mirror
 blue flashing lights
-lonesome train whistle. . . 
+lonesome train whistle...
 suddenly grandpa's mind
 becomes sharp again
 giant moon.
@@ -2714,7 +2710,7 @@ the same yard light
 young lake ice sings
 a tune more ancient
 than footprints
-crossroads ~~
+crossroads
 each "O" in stop
 has bullet holes
 deep April snow
@@ -2741,7 +2737,7 @@ don't need batteries
 moonless night-
 out on the island someone
 lays on the horn
-harvest moon--
+harvest moon—
 in the heartland her laughter
 still fills the kitchen
 ebb tide-
@@ -2765,7 +2761,7 @@ old memories
 morning fog
 the bluebird's call
 clearly audible
-night shift--
+night shift—
 in the parking lot car lights
 dim near morning
 rabbit trail
@@ -2783,7 +2779,7 @@ stand on two legs
 georgia peach
 sweet cream and wrinkle remover
 in the shopping cart
-sea breeze --
+sea breeze—
 under full sail
 a pregnant skipper
 road closed
@@ -2798,7 +2794,7 @@ winter solstice
 strong wind
 back and forth on lake ice
 streetlight reflections
-homework --
+homework—
 after the school bus passes
 a spider rebuilds
 sultry afternoon
@@ -2807,13 +2803,12 @@ crosses the dirt road
 black hole
 near beaver dam a whirlpool spins
 autumn leaves vanish
-long journey back home --
+long journey back home—
 a forgotten bale of hay
 slowly rots away
 balmy evening
 the stillness of sheets
 on the line
-soir embaumé
 strong April wind
 the smell of Iowa hogs
 in Minnesota
@@ -2835,10 +2830,10 @@ By raindrops.
 in the treetops
 lingering,
 remains of the day
-autumn evening -
+autumn evening—
 the silence
 of ripe pears
-autumn woods -
+autumn woods—
 the smell
 of last night's rain
 another birthday
@@ -2854,7 +2849,7 @@ windy day;
 the first flurry
 of leaves
 after the storm,
-floating -
+floating—
 the tranquil moon
 her name on the marble;
 birth and death,
@@ -2865,151 +2860,151 @@ rattles the windows
 taking a breather;
 the rustle 
 of poplar leaves
-pale moon -
+pale moon—
 the sun-bleached bones
 of a sparrow
 stepping out
-for another log -
+for another log—
 ah, the stars!
-midwinter -
+midwinter—
 rain blurs the other side
 of the valley
-day long rain -
+day long rain—
 my breath
 fogs the window
 sake clear
-to the bottom of my cup -
+to the bottom of my cup—
 winter stars
 midwinter slush;
 the gray breast
 of a chipping sparrow
-cold rain -
+cold rain—
 the bus pulls back
 onto the highway
-early snow -
+early snow—
 one more winter
 for that old horse
-cold night -
+cold night—
 stars so near
 we speak in whispers
 stone Jesus
-with outstretched arms -
+with outstretched arms—
 the falling snow
-starry night -
+starry night—
 out on the highway
 a truck changes gears
 day-long rain;
 I organize
 my watercolors
-autumn woods -
+autumn woods—
 the smell
 of last night's rain
 abandoned by geese
-heading south -
+heading south—
 my autumn birthday
-late summer -
+late summer—
 copper wishes collect
 in the bottom of the well
-sultry day -
+sultry day—
 the tumult of rain
 on my umbrella
-a hole in the meadow -
+a hole in the meadow—
 lowering
 the farmer's body
-lone guest gone –
+lone guest gone
 the ticking 
 of the parlor clock
 in the darkening yard,
 the sun strikes 
-the cockscomb’s red
+the cockscomb's red
 between the treetops
-and bright stars –
+and bright stars
 puffs of white clouds drift
 late night
-with Ryokan –
+with Ryokan
 I warm the rice wine
 held together
-by its label –
+by its label
 a crushed whiskey bottle
 whatever the weather,
-his soft smile – 
+his soft smile—
 the buddha in the garden
 worn in places
-to the bare wood –
+to the bare wood
 the golden buddha
 travelers still catch
-the Greyhound there –
+the Greyhound there
 the boarded up diner
-rain at graveside –
+rain at graveside
 mourning clothes
 soaked a deeper hue
-after the burial –
+after the burial
 a day moon
 rising
-he looks perplexed -
+he looks perplexed—
 the scarecrow,
 chest deep in the river's flood
-zazen -
+zazen—
 the hum
 of the Fridgidaire
-bridge night -
+bridge night—
 trying to remember
 our last passionate kiss
-flag ceremony -
+flag ceremony—
 the old vet's uniform
 hangs loosely
 between Cassiopeia
-and me -
+and me—
 fireworks!
 lilac shadows
 scale the garden wall;
 slip off into the woods
-full moon -
+full moon—
 even the dilapidated barn
 looks majestic
-mountain rain -
+mountain rain—
 the beetle and i
 scurry for cover
-snowmelt -
+snowmelt—
 the garden blooms
 with children's toys
-love letters -
+love letters—
 i rake the embers
 of the fire
-camellia buds -
+camellia buds—
 my wife begins
 to cradle her belly
-a second glass of wine -
+a second glass of wine—
 the poem goes
 unwritten
-credit crunch -
+credit crunch—
 a half-dozen fireworks
 greet the new year
-head cold -
+head cold—
 missing the scent
 of winter heliotrope
-new highway -
+new highway—
 every mile or so
 the corpse of a buzzard
-september morning -
+september morning—
 fresh flowers
 on the roadside shrine
-night fishing -
+night fishing—
 my rod-tip brushes
 the milky way
-traffic lights -
+traffic lights—
 just enough time
 to scribble a poem
-midwinter dusk -
+midwinter dusk—
 oak branches fracture
 the western sky
-autumn lake -
+autumn lake—
 half-hidden by drifting leaves
 a carp's bronzen flanks
-autumn chill -
+autumn chill—
 struggling to remember
 my father's voice
-september rays -
+september rays—
 my son's shadow
 lengthens
 old woman
@@ -3045,7 +3040,7 @@ under the ice.
 under the oak
 blue feathers
 black cat
-thunder storm--
+thunder storm—
 on the sidewalk
 earthworm slick
 sudden thunderstorm-
@@ -3066,7 +3061,7 @@ just out of reach
 Tropical storm warning
 Wet sand in our kisses
 The opening sky
-first time--
+first time—
 your curly hair
 tickled my thighs
 tornado
@@ -3084,7 +3079,7 @@ oh, that wind, that wind
 summer afternoon
 the scent of evergreens
 slowly spreading
-Autumn night --
+Autumn night—
 Puddles by the wayside
 filling with the stars
 Cautiously the cat with each step measuring
@@ -3098,7 +3093,7 @@ in my coffee
 hunter's moon
 the old tabby
 refuses to come in
-north winds –
+north winds
 snow flakes and
 the smell of smoke
 honeymoon site
@@ -3125,7 +3120,7 @@ a dyed egg
 rainstorm
 ants drink
 from a droplet
-meteor watching --
+meteor watching—
 a match lights up
 an unknown face
 monsoon-
@@ -3137,7 +3132,7 @@ in the light of dawn
 mating season
 two radiators making
 one cloud of steam
-raining--
+raining—
 last night's baked chicken
 tonight's curried soup
 beginning of winter
@@ -3152,23 +3147,23 @@ glaucoma wins
 glowing
 over the city dump
 Harvest Moon
-autumn rain --
+autumn rain—
 refinery lights remind me
 of Christmas
 topless,
 the skyscraper
 in rain mist
-fading light -
+fading light—
 the stone steps brighter
 than the foliage
 sundown
 summer evening melts in dark
-fragrance of tea~
+fragrance of tea
 misty summer rain
 calling pheasant
 in Zen temple
 a wild violet
-on the sunny hill~
+on the sunny hill
 noon time nap
 Spring equinox
 Pray the ancestor grave
@@ -3179,7 +3174,7 @@ a doe stops to drink
 his eyes
 watching their eyes
 watching her
-spring cleaning --
+spring cleaning—
 a family of raccoons
 empties the goldfish pond
 campfire embers
@@ -3203,16 +3198,16 @@ white jet trail above...
 Sky dewed with stars
 cool air listening in news
 a man was hanged.
-foggy glasses . . .
+foggy glasses...
    a blurry paragraph
        above the bath water
-new year's day . . .
+new year's day...
      spent bottle-rockets
            in the road
-wolf prints . . .
+wolf prints...
   the gas lantern
      splutters
-novocain prick--
+novocain prick—
 the warmth where
 the dental nurse leans
 the smell
@@ -3221,19 +3216,19 @@ in this old hunting shirt
 cinco de mayo
 horses roll
 in the shallows
-vanishing difference . . .
+vanishing difference...
   gliding geese settle onto
     their reflections
 folding chair
 the newborn colt tries
 to stand
-damp straw . . .
+damp straw...
    the day-old colt mesmerized
        by the radio
 prying
-   at the window . . .
+   at the window...
        wind
-silhouette. . .
+silhouette...
   a shining snow path to
      a pale moon
 hillside thunder
@@ -3242,17 +3237,17 @@ of smoke
 morning camp
 only an ember remains
 but it's enough
-storm warnings . . .
+storm warnings...
 sunday afternoon by the fire
 mail from an old friend
 leftover summer grass
-... horses browse
+...horses browse
 through crusted snow
 old leather saddle
 cherry colored and shiny
 smells of horse
 the same moon
-shines on us both --
+shines on us both—
 these cold sheets
 last leaves
 shaking on a branch
@@ -3353,7 +3348,7 @@ Latino men
 internet break
 the smell of rain
 and boggy earth
-shortcut. . .
+shortcut...
 the railway tracks
 still vibrating
 past midnight
@@ -3435,19 +3430,19 @@ red moon
 the calligraphy
 of charred trees
 the bent nail
-where garlic hung . . .
+where garlic hung...
 winter moon
 heat haze
 the miles
 of boundary fence
 a few notes
-from an untuned piano... 
+from an untuned piano...
 autumn rain
 old pond
 oil slick rainbows
 slip in
 the bent nail
-where garlic hung . . .
+where garlic hung...
 winter moon
 temple looting
 another buddha
@@ -3461,22 +3456,22 @@ for no dog
 beer garden table
 the blurred edges
 of many circles
-Saturday morning drizzle . . .
+Saturday morning drizzle...
 a driving lesson 
 with my dad
 after each haiku—
 the pencil
 a little shorter
 fresh sawdust
-among the birches --
+among the birches—
 his bent shoulders
 discarding
-the tea leaves--
+the tea leaves—
 distant thunder
-scent of roses --
+scent of roses—
 counting the stars
 one by one
-thunderstorm --
+thunderstorm—
 a shadow pauses
 at the gate
 autumn moon 
@@ -3486,12 +3481,12 @@ in the churchyard
 where my father found god 
 bruised apples
 forgetting his voice
-my dad’s apology letter 
+my dad's apology letter 
 crackles in the fire
 dad's suicide 
 a candle burns away
 its shadow
-slow dancing --
+slow dancing—
 snowflakes swirl to the sound
 of silence
 dead of winter
@@ -3500,7 +3495,7 @@ my breath
 midnight coffee
 a spoonful of sugar
 stirred into the darkness
-sleepless night -
+sleepless night—
 in the distance
 midnight express
 visakha moon
@@ -3509,7 +3504,7 @@ from another room
 Indian summer-
 farmer's
 cracked lip
-starry night. . .
+starry night...
 counting out my pills
 for chemo
 Purple nights
@@ -3517,7 +3512,7 @@ fold into morning
 whiteouts,
 your silence frosts
 my first cup of coffee.
-storm clouds -
+storm clouds—
 mother searches for
 candles
 lavender blooms
@@ -3526,9 +3521,6 @@ in a blue pot
 stars
 a full pool
 in the garden
-trempés
-dans le vieux marc
-on se câline --
 through closed eyelids
 lightning strikes
 my dream
@@ -3553,7 +3545,7 @@ till the battery dies
 out of the city,
 so many stars
 unnamed
-late summer rain --
+late summer rain—
 two kids break the bottles
 under the bridge
 acorn falls
@@ -3571,28 +3563,28 @@ concrete bunker
 white mountains
 as quick as it can
 train passes by
-campfire ~
+campfire
 steaming pot
 and shoes
-raking the leaves ~
+raking the leaves
 wind blows
 the wrong way
 hot beach sand...
 between my fingers
 a cigarette butt
 between the second
-and the third line -
+and the third line—
 short trip to bathroom
-stupid arab -
+stupid arab—
 he only wants to learn
 to fly straight
-dentist's office -
+dentist's office—
 cracks between tiles
 filled with dirt
 after a cold night
-a cup of coffee -
+a cup of coffee—
 oh, man!
-Xmas away from home -
+Xmas away from home—
 B-52 pilot
 dressed as Santa
 hedgehog in the fog
@@ -3600,17 +3592,17 @@ looking for apples
 under the wrong tree
 autumn deepens—
 a fish slides down
-the cormorant’s throat
+the cormorant's throat
 autumn deepens—
 a fish slides down
-the cormorant’s throat
+the cormorant's throat
 milky scent
-of the calf’s breath—
+of the calf's breath—
 morning moon
-feathers in the fire . . .
-a cardinal’s song
+feathers in the fire...
+a cardinal's song
 between thunderclaps
-breakfast alone--
+breakfast alone—
 I find the dove's feather
 he left for me
 late frost
@@ -3628,7 +3620,7 @@ pick them
 end of summer
 we no longer know
 what sleeps in the barn
-after the postman --
+after the postman—
 nothing in the mailbox
 except a lizard
 November afternoon
@@ -3643,199 +3635,199 @@ on the pine
 my stone Buddha
 sits in the dark
 snow, snow, snow
-A lull in the storm --
+A lull in the storm—
 the woodpecker darts
 to another tree.
 The thyme
-has gone to seed --
+has gone to seed—
 summer's end.
 cherry petals
-flying higher and higher -
+flying higher and higher—
 storm in my valley
 a cup of tea
-and a koan to go -
+and a koan to go—
 my cold morning
-severe frost -
+severe frost—
 the sparkling whiteness
 of my brown roof
-autumn deepens -
+autumn deepens—
 I wonder what my neighbour
 is writing today ?!
-voices of autumn -
+voices of autumn—
 the patter of raindrops
 on my rooftiles
-first cicada -
+first cicada—
 the hot day seems
 even hotter
 red poppy dolls
-sit alone by the beach -
+sit alone by the beach—
 dead children of Tohoku
 politicians play
-the same old games -
+the same old games—
 long rainy season
-late spring -
+late spring—
 the old kettle
 still shines
-earthquake night -
+earthquake night—
 the stars are as silent
 as ever
 table 4 2
 - a romance reduced
 to numbers
-cold sunshine -
+cold sunshine—
 the icicles refuse
 to melt
-cold night -
+cold night—
 the deeper levels of dreams
 and fears
 when celsius
-and farenheit meet -
+and farenheit meet—
 cold night
-New Year's morning -
+New Year's morning—
 I wipe some dirt
 from my glasses
-blizzard -
+blizzard—
 the heavy weight
 of snowflakes
-menopause -
+menopause—
 she even quarrels with
 the autumn moon
 fighting
-the summer heat -
+the summer heat—
 no time for poetry
 the future
-deep in the tea leaves ...
+deep in the tea leaves...
 spring growth
-first firefly -
+first firefly—
 the moon also shows
 his face
-wisteria blossoms . . .
+wisteria blossoms...
 the faint memories
 of grandmother's lace
-daybreak - - 
+daybreak—
 light and shadow 
 on the apricot blossoms
 how black !
 dirt on the last patch
 of snow
-rainy day -
+rainy day—
 I finally finished
 the Spring Saijiki
-computer crash ...
+computer crash...
 I wish I were
 this butterfly
 my daily bread
-on the empty table ...
+on the empty table...
 spring equinox
-old plum tree in bossom ...
+old plum tree in bossom...
 last year the old owner
 died
 moonlight
-on the temple roof -
+on the temple roof—
 and silence
-autumn equinox -
+autumn equinox—
 all the crows celebrating
 with grave offerings
 the dance of
-echoes inside a crypt . . .
+echoes inside a crypt...
 winter chill
-dinner outside ...
+dinner outside...
 the crumbs walk along
 the brick wall
 a tiny world
-unfolds and thrives -
+unfolds and thrives—
 summer rain
 the backyard
-of a poor man's home ...
+of a poor man's home...
 summer heat
-more rain -
+more rain—
 lavender leans
 on the stone Buddha
-no fireflies ...
+no fireflies...
 moonlight reflects
 on camellia leaves
-first firefly ...
+first firefly...
 a quiet night and then
 lightning
-powlonia blossoms -
+powlonia blossoms—
 a haiku floating
 in the sky
 a centipede
-takes its morning walk ...
+takes its morning walk...
 aah, my kitchen table
-winter,s end ...
+winter,s end...
 my warm socks
 with big holes
 spring sunshine
-on the cat's belly ...
+on the cat's belly...
 mountain hermitage
 late snow ..
 a pheasant calls
 in the morning mist
-Ides of March ...
+Ides of March...
 anyone remembers
 the history teacher?
-spring blossoms ...
+spring blossoms...
 the old farmer
 coughs blood
-winter sunset -
+winter sunset—
 half of my Buddha
 still in the light
-remembering you -
+remembering you—
 the sparkle of the last
 icicle
-first sunrise -
+first sunrise—
 a fallen camellia
 shines on my path
-winter sunshine -
+winter sunshine—
 the slow growth of a stone's
 shadow
-autumn equinox ...
+autumn equinox...
 the murmur of waves
 slowly changes
-high autumn sky ...
+high autumn sky...
 in the world of men
 voices of insects
-autumn deepens ...
+autumn deepens...
 these tiny pink flowers
 on my wildest weeds
 in the shade
-of the full moon ...
+of the full moon...
 distant fireworks
-summer heat ...
+summer heat...
 the cats sleep
 on the barbeque
-looking for fireflies ...
+looking for fireflies...
 I almost miss
 the dramatic night sky
 meditating
-on a rainy day ...
+on a rainy day...
 new green tea
-morning prayers -
+morning prayers—
 the graves of the ancestors
 in deep silence
 day moon
 the clock has stopped
 ticking
-autumn evening -
+autumn evening—
 the lingering warmth
 of this old deck chair
 autumn colors
 I remember mother's
 favorite quilt
-summer's end -
+summer's end—
 my cat still high
 on the hot tin roof
-autumn with alzheimer -
+autumn with alzheimer—
 she breaks the bread
-.. ... .. carefully
-globalization -
+....... carefully
+globalization—
 he serves the sushi fish
 on french bread
 lightning
-far away in the sky -
+far away in the sky—
 first firefly
-summer in the temple -
+summer in the temple—
 the horns of the dragon
 just visible
 may rain
@@ -3844,52 +3836,52 @@ shades of green
 Confucius
 another long path
 to the old pond
-late spring -
+late spring—
 the old kettle
 still shines
-war in Iraq -
+war in Iraq—
 a spider hides
 in the cherry blossom
-blue mountains -
+blue mountains—
 the old tombstone
 keeps watch
-spring storm -
+spring storm—
 the tall pine leans
 toward the short
-rosebuds in snow -
+rosebuds in snow—
 the softness of his hand
 on my shoulder
 spring storm
 the wind rings our
 visitor's bell
-mandarin ducks -
+mandarin ducks—
 a silent pair on
 the dinner table
-winter in town --
+winter in town—
 the stone memorial of the
 God of Water
 winter morning
 a few dewdrops on
 my last rose
-winter sunshine -
+winter sunshine—
 the many shadows of
 a small camellia
 wedding anniversary
 does he still love me
 like the red winter berries ?
-cold winter day -
+cold winter day—
 hot tea from Kenya
 in my cup
-mountain temple -
+mountain temple—
 a prayer overgrown
 with moss
 autumn deepens
 a last sunray
 on the pines
-misty morning -
+misty morning—
 a black and white world
 behind the graves
-doing the dishes -
+doing the dishes—
 a tiny soap bubble rises
 toward heaven
 summer sunset
@@ -3967,7 +3959,7 @@ high tide
 antique store window
 looking at dirty street snow
 through colored bottles
-cold attic -
+cold attic—
 faded cigar box
 filled with seashells
 windless day
@@ -3982,7 +3974,7 @@ of what to do
 white clouds drift
 in the August sky,
 a child dreams
-Eating alone --
+Eating alone—
 The sound of cold milk
 Into a glass.
 beer bottles
@@ -4010,9 +4002,9 @@ Soprano, clear and cool,
 and pale violin float;
 Above the freeway noise.
 the winter sun 
-in the cancer ward -
+in the cancer ward—
 a quiet old couple
-old pond -
+old pond—
 another lily
 in bloom
 no real reason
@@ -4046,7 +4038,7 @@ into the gaps
 the first dusk of may
 it's suddenly there
 a pale orange poppy
-dandelions . . .
+dandelions...
 two drinkers unzip
 by the path
 scrunched-up clouds
@@ -4076,7 +4068,7 @@ left padlocked
 under streetlight
 orion's bike
 past the pleiades the silent flight of many white birds
-christmas lights . . .
+christmas lights...
 high above the street a skein
 of twilight geese
 in the walled garden
@@ -4084,7 +4076,7 @@ the scent
 of decaying apples
 another day
 another apple crumble
-. . . autumn deepens
+...autumn deepens
 Heavy the heads of darkened sunflowers, I wonder, how long do I have
 autumn days
 the weight of my life's
@@ -4238,7 +4230,7 @@ neatly stacked
 the scents
 of sawn timber
 plum blossom
-the haiku poet's mind . . .
+the haiku poet's mind...
 elsewhere
 spring sunshine
 on a high branch a plastic bag
@@ -4256,7 +4248,7 @@ the proper word for brackets escapes me crescent moon
 a cut glass bowl
 holds the shells of our summers
 this life in exile
-hard frost -
+hard frost—
 deep in my coat pocket
 summer sea-glass
 that same music
@@ -4268,10 +4260,10 @@ through the winter fog
 icebleak
 no colour but the rail bridge
 graffiti
-still life -
+still life—
 at the lake's edge a tree's reflection
 caught in the ice
-november sun -
+november sun—
 leaning on the old stone wall
 a shadow tree
 winter solstice
@@ -4283,7 +4275,7 @@ sous les pas
 war memorial
 snow has almost covered
 the poppy wreaths
-November -- 
+November— 
 her nipple ring cools
 pumpkin moon:
 tai chi movements time
@@ -4292,12 +4284,12 @@ frost
 on the pumpkin:
 lunar eclipse
 earthquake
-with the typhoon -- more coins
+with the typhoon— more coins
 at the temple
-Memorial Day --
+Memorial Day—
 a shadow for each
 white cross
-spring moonset --
+spring moonset—
 a rice ball for
 breakfast
 in the grasses
@@ -4334,10 +4326,10 @@ Atlanta traffic
 easy to see why Sherman
 burned this city down
 a hundred streets named
-peachtree - no wonder sherman
+peachtree—no wonder Sherman
 burned this city down
 I saw that finger!
-yes you in the Intrepid -
+yes you in the Intrepid—
 we shall meet again
 he's a stop and go
 christopher columbus in
@@ -4346,15 +4338,15 @@ brooklyn bridge walkway
 bombsquad found a stray backpack 
 homeland traffic jam
 keep an eye open
-for food, gas and ten-year-old - 
+for food, gas and ten-year-old—
 an amber alert!
 the mailbox
 captive in snowdrift
 a letter from war
-late afternoon –
+late afternoon
 a wind chime softly sings
 in snowy garden
-autumn bonfire –
+autumn bonfire
 all my summer dreams
 scatter with the smoke
 growing darkness
@@ -4364,22 +4356,22 @@ concentration camp
 winter branches touch
 the statue's shoulders
 stripping off
-her sweatshirt ~
+her sweatshirt
 sparks in the dark
 valentine's day
 only rain
 on the scarecrow
-aged painter ~
+aged painter
 trembling leaves
 from the tip of his brush
-a new month - 
+a new month—
 different seeds 
 on the spaniel's ears 
 dream catcher
 the shifting colours
 of rain
 wild wind
-on dry sedge--
+on dry sedge—
 what more on her mind? 
 oak stump-
 i remember the hornets
@@ -4461,15 +4453,15 @@ harvest moon
 words
 we've left unsaid-
 Indian summer
-crocus buds--
+crocus buds—
 secrets we've kept
 from each other
 cherry blossoms
-shedding in the moonlight--
+shedding in the moonlight—
 the Milky Way
-winter sky--
+winter sky—
 the white cat's eyes
-bluer--
+bluer—
 the coming of summer-
 all the petals
 i brushed off my hair
@@ -4483,9 +4475,9 @@ this sunless spring day
 chickadees chatter on-
 my indecisions
 watching rain
-drum beat on window pane--
+drum beat on window pane—
 the deaf cat
-spring fever--
+spring fever—
 shoots among the lilies
 she can't name
 mirror-
@@ -4500,7 +4492,7 @@ sudden hail
 from haiku scribblings
 to a prayer
 on a giant wave
-secrets--
+secrets—
 burrowing in sand dunes
 a pale sunlight
 left out in the rain
@@ -4515,17 +4507,17 @@ budding crocus
 frosted dawn-
 his words hang
 over coffee
-deep winter--
+deep winter—
 nothing much to say
 even among crows
-on street -
+on street—
 a shower of petals
 for no one
-first frost--
+first frost—
 the last of the roses
 have lost their names
 girl in Sunday dress
-in her father's shadow--
+in her father's shadow—
 lost too soon
 day after Christmas-
 crows waddling to bus stop
@@ -4533,7 +4525,7 @@ no one awaits
 blizzard-
 the slanting lines, piercing lines
 our locked hands
-first frost--
+first frost—
 the chapel two hours darker
 for vespers
 white sun
@@ -4581,11 +4573,11 @@ the cry of a loon
 crow browsing grass
 steps on camellia blossom-
 fractured silence
-cloudy day--
+cloudy day—
 my thoughts stuck
 on a spider web
 A red berry falls
-Staining the snow --
+Staining the snow—
 A silent sunset.
 This dark night;
 Only white spots move
@@ -4596,7 +4588,7 @@ after rain
 spring thaw
 water from the fridge drips
 onto the floor
-Post Office --
+Post Office—
 stamped on the sidewalk
 pink blossoms
 Withering daisies
@@ -4617,7 +4609,7 @@ Gray August sunrise
 Orion rises
 dragging Autumn behind him
 Late August morning
-Foggy day --
+Foggy day—
 On the Verrazano
 the car vanishes
 wooden Buddha
@@ -4627,15 +4619,15 @@ hibiscus
 under the eaves
 frost burned petals
 the fish lazily surface
-in the pond nearby ~
+in the pond nearby
 the sun on my teacup
 dusk-
 an unfinished sweater
 on the rocking chair
-sleepless night -
+sleepless night—
 the whistle of a distant train
 going  where ?
-last straw rejection --
+last straw rejection—
 the telemarketer tells me
 I'm too old
 a gloomy sunday
@@ -4650,21 +4642,21 @@ here and there
 breaking through the dusk's mist
 bright lights
 a back road
-and a flat tire . . .
+and a flat tire...
 the peach blossoms
 voices of loons
 cross the misted cove
 call and response
-storm clouds -
+storm clouds—
 the roofer talks about
 overtime
-nearly eighty -
+nearly eighty—
 opening
 a jar of preserves
 long after
 the funeral service
 - the unspoken words
-rainy day--
+rainy day—
 they give me back
 my shoelaces
 outlined in rain the contours of a spring love affair
@@ -4677,7 +4669,7 @@ in the corner
 Earth Day...
 slowly the anesthetic
 takes effect
-August 6--
+August 6—
 my father does not say
 good morning
 cloudburst 
@@ -4698,64 +4690,64 @@ clings to the yard
 snow glare
 onion bulbs sprouting 
 from the bag
-geriatric ward--
+geriatric ward—
 the table groans
 when they fold it up
-sun dog--
+sun dog—
 so many names
 carved on the cliff 
-Easter--
+Easter—
 an anxious mother calls
 in the wind
-breathless --
+breathless—
 camellias falling
 one by one
-starless night--
+starless night—
 Las Vegas spills
 over the desert
-fragile morning--
+fragile morning—
 a blue psilocybin in the middle
 of the garden
-dusk--
+dusk—
 the space between us
 filling with snow
-spring wind --
+spring wind—
 the magnolia sweeps
 the sky
-night shift --
+night shift—
 he tree frogs sing a road
 through the forest
 a dark horse
-with a blue harness --.
+with a blue harness—.
 winter solstice
-cold spring --
+cold spring—
 burnt waffles
 and raspberry jam
-mid-summer --
+mid-summer—
 the nighthawk cries between
 Pittsburgh and heaven
-on the roof late --
+on the roof late—
 my brother hammers nails
 in the moon
 New sheets.
 I remember
 your hands.
 the beggar
-counting coins . . .
+counting coins...
 first stars
 twin towers
 repeating their absence
 day after day
 waiting for a call
-from the son who never calls –
+from the son who never calls
 Mother's Day
 post-election
 washing the dishes
 doing the laundry
 wave from a kid
-riding the carousel . . .
+riding the carousel...
 summer's end
-abandoned factory . . .
+abandoned factory...
 parking spaces marked
 Reserved
 eighty-third birthday
@@ -4767,13 +4759,13 @@ June 6
 night rain 
 drumming on
 my mind
-old friends . . .
+old friends...
 the garden fading
 into twilight
 Central Park
 pigeons circling
 our quarrel
-petals in the wind . . .
+petals in the wind...
 my neighbors practise
 tai-chi
 home for Christmas
@@ -4785,13 +4777,13 @@ of falling
 cold moon
 the sound of my words
 in her eyes
-the heat . . .
+the heat...
 a silent fountain
 drenched in moonlight
 trick or treat
 I promise the vampire
 the dog won't bite
-fireworks over . . .
+fireworks over...
 the silence
 of the stars
 walking home
@@ -4814,13 +4806,13 @@ black no sugar
 children's voices
 who will tell the dandelion
 it's a weed
-her obituary . . .
+her obituary...
 the things we did
 that summer
 a homeless man
 rises from the sidewalk
 Easter morning
-snowmelt . . .
+snowmelt...
 my neighbor and I forget
 we're not speaking
 brightening sky
@@ -4854,7 +4846,7 @@ where the carpet
 is wearing thin
 autumn sunlight
 as old as I feel
-on a gray morning . . .
+on a gray morning...
 autumn equinox
 evening calm
 her garden the color
@@ -4865,7 +4857,7 @@ the darkness
 narrow path
 I make way
 for the butterfly
-coming home . . .
+coming home...
 the scent of the ocean
 before the sound
 Labor Day
@@ -4886,7 +4878,7 @@ at my name tag
 Easter vigil
 candle flames tremble
 at our breath
-just passing through . . .
+just passing through...
 a parking lot where I saw
 Gone with the Wind
 train window
@@ -4923,10 +4915,10 @@ twelve years old
 learning to pronounce
 Hiroshima
 an infant asleep
-on her mother's lap . . .
+on her mother's lap...
 this heat
 the silence
-around our words . . .
+around our words...
 fireflies
 winter moon
 a tired old man
@@ -4935,7 +4927,7 @@ the laughter of children
 running uphill . . ;
 Gettysburg
 waiting up
-for their teenaged daughter . . .
+for their teenaged daughter...
 distant fireworks
 evening rain
 she lets down
@@ -4950,7 +4942,7 @@ only the wind
 off the ocean
 Omaha Beach
 a few petals
-left by the sweeper . . .
+left by the sweeper...
 sunset clouds
 locked out
 I write a haiku
@@ -4968,7 +4960,7 @@ Valentine's Day
 shaking the snow
 from the roses
 a toast
-to the departing year -
+to the departing year—
 snow turns to rain
 after a storm
 the absence
@@ -4982,17 +4974,17 @@ no one talks about
 the morning sun
 on grandma's grave
 first butterfly
-writer's block -
+writer's block—
 staring out the window
 at snowflakes
 Easter Sunday
 the carefully trimmed beard
 of the young priest
 reading
-the tea leaves . . . the gray
+the tea leaves...the gray
 in her hair
 the doctor wants
-to take a closer look . . .
+to take a closer look...
 coffee gone cold
 good news
 from the cardiologist
@@ -5025,13 +5017,13 @@ Valentine's Day
 we let the champagne
 go flat
 her head
-bent over tea leaves . . .
+bent over tea leaves...
 how old she's grown
 long winter
 my wife slows her pace
 to mine
 undressing for bed
-I find a hole in my sock -
+I find a hole in my sock—
 the winter wind
 returning spring
 in the dawn light she looks like
@@ -5047,21 +5039,21 @@ I walk through a puddle
 because I can
 her Alzheimer's
 a dragonfly
-goes . . . comes
+goes...comes
 last of his line
 the year of his death
 still uncarved
 snow falling
-on the headstones . . .
+on the headstones...
 just and unjust wars 
 petals in the wind
 my neighbors practice tai-chi
 in the parking lot
-first firefly . . .
+first firefly...
 she asks me to repeat
 what I just said
 wrinkles in the bedsheet early dawn
-first light . . .
+first light...
 after the car alarm
 birdsong
 second martini—
@@ -5083,7 +5075,7 @@ garden Buddha
 morning rain washes away
 the snow
 the age
-I used to call old . . .
+I used to call old...
 winter solstice
 quiet Sunday
 a winter fly
@@ -5129,7 +5121,7 @@ to light a candle
 Ash Wednesday
 this is the year
 he'll quit
-thin crescent . . .
+thin crescent...
 I wonder what
 she meant by that
 packing up the creche
@@ -5153,17 +5145,17 @@ a sex shop window
 twentyfourseven
 an empty laundromat
 at dawn
-overtime . . .
+overtime...
 through an office window
 the harvest moon
 a night of fireflies
-and cricket song . . .
+and cricket song...
 the end of summer
 rain on the lake
 turning down
 the volume
 where do I
-put the accent --
+put the accent—
 Hiroshima
 brookside
 whales are roaring
@@ -5226,18 +5218,18 @@ early summer
 old women in the shade
 of the bus shelter
 a boy and his dad
-playing catch out back . . .
+playing catch out back...
 long shadows
 main street-
 ribbons that used to be
 yellow
-terminal . . . 
+terminal...
 his favorite ice cream 
 melts in the cup
 spring morning
 those young men have noticed 
 what she's not wearing
-old western --
+old western—
 black hats white hats 
 in shades of gray
 spring rain
@@ -5261,28 +5253,28 @@ autumn afternoon
 streetlight
 my shadow growing
 fading
-do I know you --
+do I know you—
 my young face looks ta me
 from an old photo
 the burnt-out 
 apple tree blooms
 rain drops
-that shade of green--
+that shade of green—
 the first fireflies clenched
 in small hands
-tube station ...
+tube station...
 the homeless man still
 in yesterday's news
 city traffic
 ants in and out
 of a sparrow
-shaking the stone from her shoe -
+shaking the stone from her shoe—
 a white opal swings
 from between her brown breasts
 one hundred views
-of the sunrise -
+of the sunrise—
 appartment block
-winter twilight -
+winter twilight—
 she studies the face
 in her mirror
 just one more page
@@ -5291,22 +5283,22 @@ endless rain
 winter rain...
 she places his flowers
 in the second-best vase
-fading light -
+fading light—
 a red leaf bouquet
 at the smallest grave
-spring rain -
+spring rain—
 as the doctor speaks
 i think of lilacs
 false dawn
 sometimes i still
 think of home
-first frost -
+first frost—
 a twirl of yellow leaves
 as the bus passes
-plasma tv -
+plasma tv—
 in high resolution
 the homeless man's face
-sparrow song--
+sparrow song—
 two ladies on the verandah
 just before the rain
 summer wind
@@ -5318,17 +5310,17 @@ my window
 solstice
 a shaft of sunlight
 through rock
-rainburst--
+rainburst—
 thoughts of you
 fading
-straw hat -
+straw hat—
 flowers fading
 under the sun
 Spring rain-
 I sit looking
 out the window
 cold nose
-burrow of warm flannel -
+burrow of warm flannel—
 morning light
 cool night air
 city noises fade away
@@ -5576,7 +5568,7 @@ counting new wrinkles
 Cloudy sky
 the sun a bright red
 first cup of coffee
-(Rain filled morning
+Rain filled morning
 i hold my face upward
 tears like rain
 Cool and cloudy day
@@ -5630,7 +5622,7 @@ Spring wind
 Ides of March
 her letter to him
 pain in his heart
-Lights of the ferry --
+Lights of the ferry—
 leave the island of cedars
 in deep dark shadow
 The full December moon
@@ -5639,34 +5631,34 @@ snow on the temple
 The Advent wreath
 candles lighting the dim room
 his old eyes shinning
-November morning --
+November morning—
 counting the many
 shades  of grey
-Chilly morning --
+Chilly morning—
 mountains topped with first snow
 warm coffee cup
-Snow covered temple --
+Snow covered temple—
 lone woman in a red coat
 kneels to pray anyway
-Indian Summer --
+Indian Summer—
 his voice in the fall
 of the leaves
 Through the  pulp mill smoke
-A long red line is showing --
+A long red line is showing—
 Start of a sunrise
-The rushing river --
+The rushing river—
 full of the Summer's
 rainfall
-The Budapest square --
+The Budapest square—
 Autumn leaves drift  here and there
 on  young protestors
 Dark August sky
-the moon an orange egg --
+the moon an orange egg—
 her shadow trailing
-Summer morning --
+Summer morning—
 the sound of wind chimes
 on every balcony
-This Dark and grey day --
+This Dark and grey day—
 a soft rain falling down on
 the heat-dried roses
 Tonight on my deck
@@ -5691,7 +5683,7 @@ Five years of haiku
 in a  large paper box
 on top, the cat
 The morning birds
-such a clear sweet sound --
+such a clear sweet sound—
 making my bed
 A Rainy cool day
 promise of Kona coffee
@@ -5700,7 +5692,7 @@ Belated and elated
 your gift of a blue candle
 for my birthday
 In the early morning
-down on the white beach --
+down on the white beach—
 a turtle without eyes
 Heavy March rain
 the Daffodils hang their heads
@@ -5718,7 +5710,7 @@ In the rainforst
 moss hung trees
 sound of silence
 I check the calendar
-to see if this is a special day --
+to see if this is a special day—
 International Women's Day
 Late Winter
 the yellow roses still  out
@@ -5809,7 +5801,7 @@ maple leaves fall
 on the memorial
 Light-studded ferry
 passes in the starless night
-another week-end
+another weekend
 A tunnel of fog
 connects the two islands
 warmth of my duvet
@@ -5841,7 +5833,7 @@ At last some sunshine
 blue Pacifc this morning
 boiling tea water
 In this desert
-a memory of blue sea --
+a memory of blue sea—
 shells in the sand
 Autumn mist obscures
 the island in the distance
@@ -5877,10 +5869,10 @@ after the party
 a lone woman drinks
 a birthday gift
 Wind howls and
-the cedars sway --
+the cedars sway—
 drunken sailors
 An ocean breeze
-flips through empty pages --
+flips through empty pages—
 haijin's notebook
 long after
 the witching hour
@@ -5894,16 +5886,16 @@ in last century's water
 Grey and blue Spring morning
 the lumber mill making clouds
 my first cup of Melitta
-An orange and pink sky -
+An orange and pink sky—
 from the pulpmill a grey cloud
 on the cool Spring day
-the dog star --
+the dog star—
 feeling the bite
 of winter wind
 cherry trees
 fifty shades
 of pink
-one small step... 
+one small step...
 I trace my toe in sand 
 dream of lunar dust
 Still under white sheet
@@ -5919,7 +5911,7 @@ a thousand prayers
 from valley folds and mountains
 paper cranes
 only two pinecones
-on the park bench ~
+on the park bench
 Valentine's day
 after the storm
 puddles of water
@@ -5955,7 +5947,7 @@ low tide
 against the black mud
 bright egrets
 As I struggle
-with a heavy gate . . .
+with a heavy gate...
 the crescent moon
 Stopping
 by the pharmacy
@@ -5989,28 +5981,28 @@ joins the cicada
 spring tea—
 through bone china
 her thin hand
-death watch. . .
+death watch...
 I freshen the water
 of her bedside iris
-late afternoon -
+late afternoon—
 the fulness
 of the cow's udder
 late summer
 butterfly wings clap
 a little slower
-full moon--
+full moon—
 pumpkins in the field
 ready to pick
 overcast-
 curls of smoke
 over a shared fence
-New Year's Eve--
+New Year's Eve—
 the warmth of his eyes
 over cold champagne
-solstice birthday--
+solstice birthday—
 blowing out a candle
 for each decade
-overcast day. . .
+overcast day...
 even the poppies
 stay curled up
 early dawn...
@@ -6034,31 +6026,31 @@ withered sunflowers
 candlelit pumpkin
 the moths reflection
 in the cat's eyes
-New Year's Eve--
+New Year's Eve—
 bubbles rise again
 in the old crystal flutes
 at dusk...
 the sweetness
 of the roses
-winter pears--
+winter pears—
 eating around
 the bruises
-gibbous moon--
+gibbous moon—
 the baby stirs
 in her belly
-autumn deepens--
+autumn deepens—
 dusting off an old
 bottle of port
-election results--
+election results—
 low tide clams
 spit seawater
-evening walk--
+evening walk—
 acorn shells crunch
 into the silence
-empty bus stop--
+empty bus stop—
 autumn leaves swirl
 in the car's wake
-flu season--
+flu season—
 to kiss
 or not to kiss?
 drought-
@@ -6067,10 +6059,10 @@ near the sprinkler
 death watch...
 I freshen the water
 of her bedside iris
-at the cottage . . .
+at the cottage...
 last year's mosquitoes
 on the bedroom wall
-spring cleaning . . .
+spring cleaning...
 painting over
 last year's mosquitoes
 midnight.
@@ -6082,28 +6074,28 @@ of horse piss
 drought...
 the first raindrops
 bounce
-overcast -
+overcast—
 the next door pianist
 hits a sour note
-downpour -
+downpour—
 the pumpkin's smile
 goes out
 we sip sweet tea
-in silence. . .
+in silence...
 a soldier's mother
-autumn visit -
+autumn visit—
 over war news we talk
-of babies . . .
-fireside -
+of babies...
+fireside—
 a son's face smiles down
 from the mantelpiece
 in the yard
-between our argument -
+between our argument—
 a red dragonfly
-more rain -
+more rain—
 mildew colors
 the old roof
-half asleep -
+half asleep—
 the rhythm of the
 receding rain
 wild iris
@@ -6178,28 +6170,28 @@ over the chair
 empty bottle
 we start singing
 another old tune
-black ice--
+black ice—
 dad's last radiation
 treatment
-fresh peaches --
+fresh peaches—
 the wet print of your body
 on the pool deck
-night on the town --
+night on the town—
 the scent of mackerel
 on the fog
-indian summer --
+indian summer—
 an unsealed letter
 on the table
-flute song --
+flute song—
 the faint scent
 of the easter lily
-april stars --
+april stars—
 two brass buttons
 on the nightstand
-lunch break --
+lunch break—
 the scent of apple blossoms
 in the sunshine
-nightfall --
+nightfall—
 shooting stars
 on the power lines
 mixed rain and sleet
@@ -6208,13 +6200,13 @@ another petal
 distant siren
 the hurricane lantern swings
 on its hook
-fine rain --
+fine rain—
 a faded plastic flower
 on the window
 october clouds
 grease stains in relief
 on the highway
-indian summer --
+indian summer—
 the ceiling fan creaks
 on startup
 cold snap
@@ -6229,13 +6221,13 @@ from the kitchen
 winter twilight
 the warmth of his back
 against mine
-summer stars --
+summer stars—
 my husband starts snoring
 again
 chemo drip
 i wish i could give you the moon
 instead
-evening --
+evening—
 the scent of water
 on asphalt
 day is done
@@ -6243,7 +6235,7 @@ poppies amidst the dying grass
 day moon
 cottonwoods shimmer
 in the breeze
-distant thunder --
+distant thunder—
 another iris opens
 its petals
 prayer group
@@ -6267,7 +6259,7 @@ beyond the old Dodge
 somber skies
 drifts of dead fir needles
 on the road
-erosion ~
+erosion
 a flattened possom
 in the road
 mosquitoes rise
@@ -6276,7 +6268,7 @@ on the line
 hot and humid
 the tea kettle dribbles
 onto the counter
-first light --
+first light—
 cherry leaves heavy
 with rain
 ethnic cleansing
@@ -6297,7 +6289,7 @@ after my comment
 blind curve
 dogwood flowers unfold
 in the rain
-new book --
+new book—
 the hands of the clock move
 faster
 march warmth
@@ -6309,13 +6301,13 @@ of his kiss
 popping gum
 the vacant look
 in her eyes
-wind and rain --
+wind and rain—
 wisteria blooms entwine
 the barbed wire fence
 sensuous lips
 the young man tells me
 about his fresh fruit
-sudden chill --
+sudden chill—
 my aunt corrects
 the children's manners
 winter's end
@@ -6370,7 +6362,7 @@ neglected garden
 the sweet peas
 stage a riot
 prayers
-for a dying friend ~
+for a dying friend
 azaleas in bloom
 tax morning
 my undrunk tea cold
@@ -6384,7 +6376,7 @@ to the mattress
 drought's end
 she scribbles haiku on the back
 of her grocery list
-chocolate santas --
+chocolate santas—
 do you bite the head off
 or nibble the toes?
 california dreaming
@@ -6399,7 +6391,7 @@ before they close the lid
 no moon
 the hiss of the ocean
 against the cliff
-half-mast --
+half-mast—
 september sunshine streams
 through green maple leaves
 october haze
@@ -6417,13 +6409,13 @@ by bark beetles
 all souls day
 the scent of smoke lingers
 in my hair
-slow river --
+slow river—
 a wave of cirrus clouds breaks
 across the sky
-summer fog --
+summer fog—
 layers of color
 in the sand
-summer twilight --
+summer twilight—
 the clock ticks twice
 for each cricket chirp
 fog lifting
@@ -6432,21 +6424,21 @@ a little higher
 afternoon nap
 the hippopotamus opens
 its nostrils
-fourth of july ~
+fourth of july
 a mosquito waves its striped leg
-slug trail --
+slug trail—
 the truck dumps asphalt
 in the paver
-finished compost --
+finished compost—
 the vegetable garden feasts
 on chocolate cake
-full summer --
+full summer—
 yellow leaves among the green
 in the laurel
-four am ~
+four am
 the silence between tick
 and tock
-temper tantrum ~
+temper tantrum
 the ring of the axe blade
 on redwood
 same old moon
@@ -6456,69 +6448,69 @@ hot morning
 a bright red poppy buzzes
 with seven bees
 brake lights
-on the beach freeway ~
+on the beach freeway
 heat rise
-scent of autumn ~
+scent of autumn
 the first bite of an apple
 crunchy and sweet
-october wind ~
+october wind
 the baby drops the leaf
 again
-back porch campout ~
+back porch campout
 the tall trees darker than
 the summer sky
-almost dusk ~
+almost dusk
 the quarrel of children
 in the treehouse
-empty teacup ~
+empty teacup
 the laundry basket
 overflows
-open suitcase ~
+open suitcase
 she reads the oncology report
 backwards
-tilted fence ~
+tilted fence
 layers of shadows
 on the ivy
-autumn twilight ~
+autumn twilight
 an algebra book open
 on the couch
-sleepless night ~
+sleepless night
 a new tooth
 in the baby's smile
-twilight ~
+twilight
 pools of lupine
 in the deep meadow grass
-high bridge ~
+high bridge
 the soundless splashes
 of dropped stones
-shaking out crumbs ~
+shaking out crumbs
 the smell of rain
 on asphalt
 fourth of july
 a cottonwood blizzards
 on the picnic
-spent tea leaves ~
+spent tea leaves
 the scent of almonds
 and cinnamon
 black lace and moonlight
 her underthings draped
 over the chair
-rainy day ~
+rainy day
 precipitation
 in the baby's nappy
 coming home
 piles of laundry on the floor
 light and dark
-morning tai chi ~
+morning tai chi
 a breeze stirs the spent petals
 of the cherry blossoms
-cloudburst ~
+cloudburst
 an apple tree rains petals
 on the asphalt
-haiku ~
+haiku
 attentive to this moment
 i smile
-wet starless night --
+wet starless night—
 a smiling moon shines
 on her umbrella.
 autumn chill
@@ -6527,19 +6519,19 @@ in the shower
 march sunshine
 the distant call
 of a robin
-mountain cabin --
+mountain cabin—
 the voices of people hidden
 by the night
-flute song --
+flute song—
 the faint scent
 of the easter lily
-nightfall --
+nightfall—
 shooting stars
 on the power lines
-endless summer --
+endless summer—
 another beach boys tune
 on the oldies station
-labor day --
+labor day—
 another company cuts
 health benefits
 distant hawk
@@ -6560,19 +6552,19 @@ in the cookie box
 lost friendship
 a stray wisp of fog clings
 to the canyon
-open suitcase ~
+open suitcase
 she reads the oncology report
 backwards
-contact lenses ~
+contact lenses
 the pines on that hill clear
 for the first time
-birdsong ~
+birdsong
 the rush of the river
 over stones
-spring afternoon ~
+spring afternoon
 the leaf shadow spreads
 on the pond
-morning tai chi ~
+morning tai chi
 a breeze stirs the spent petals
 of the cherry blossoms
 machine gun fire
@@ -6591,36 +6583,36 @@ unconcerned
 with divorce rates
 mating butterflies
 the skipping stone
-all the way across . . .
+all the way across...
 end of summer
 family dinner
 our teen speaks
 in hashtags
-night rain -
+night rain—
 Chopin's nocturne
 drowns it out
-summer rain -
+summer rain—
 lightning whites out
 the street lights
-the crow -
+the crow—
 balancing on a wire
 and now, in the wind
-dawn haze -
+dawn haze—
 the bulbul's trills
 so clear
-midnight -
+midnight—
 only jasmine now
 and cricket song
-equinox -
+equinox—
 the bulbul's song on the edge
 between day and night
-spring evening -
+spring evening—
 a boy hums the tune I heard
 half a mile ago
-tattered clouds -
+tattered clouds—
 the moon's whiteness is
 icier tonight
-unaimed day -
+unaimed day—
 beneath the flipped stone
 five black beetles
 cricket song
@@ -6629,10 +6621,10 @@ the trucks
 red poppies...
 the butterfly always just
 out of reach
-night silence -
+night silence—
 despite the dogs, despite
 a crying baby
-monsoon clouds - 
+monsoon clouds—
 a heron bathes in a pool
 of light
 night rain
@@ -6642,7 +6634,7 @@ unhurried
 the egret whiter
 than the clouds
 veins of lightning
-split the sky - 
+split the sky—
 smell of wet earth
 moonless
 suddenly the silence
@@ -6653,28 +6645,28 @@ the water sounds
 grey-yellow dawn
 a dove's urgent cooing
 and the rain
-that cricket -
+that cricket—
 it's THERE
 or THERE!
-still night -
+still night—
 the smell of fried fish drowns out
 the traffic sounds
 through the window
 half a mirror showing
 a quarter room
-cool breeze -
+cool breeze—
 a thousand things undone
 I watch the moon
-storm-washed sky -
+storm-washed sky—
 the bird songs
 clearer
-midnight -
+midnight—
 my earphones
 keep out the silence
-darkening street -
+darkening street—
 two babblers on a wire
 and then the moon
-midnight -
+midnight—
 the windy silence
 of the sickle moon
 after the solstice
@@ -6686,35 +6678,35 @@ filled with pain?
 hot oil sizzles
 on an iron frying pan
 kitchen god speaks
-darkening trees -
+darkening trees—
 a flight of parakeets
 brightly lit
 silver moon
 a loudspeaker barks
 at the night
-midday heat - 
+midday heat—
 the insistent call
 of a dove
-noon heat - 
+noon heat—
 a pigeon shadow shimmers
 across the tar
 unanswered
 the dog's howl fades
 into the night
-roadside cricket song - 
+roadside cricket song—
 the full moon's risen
 above the wires
 moonless night
 dead silence but for
 one cricket
-day of remembrance -
+day of remembrance—
 the night silence
 same as always
-Internet break - 
+Internet break—
 evening voices
 the moon
 so huge
-rusty fence - 
+rusty fence—
 a sunbird
 in one of the diamonds
 the rising moon pales
@@ -6729,7 +6721,7 @@ in my tea cup
 lakeside
 the long silence
 before the loon's reply
-getting the phone - 
+getting the phone—
 the soft tapping
 of the rocking chair
 rabbit in the moon
@@ -6759,7 +6751,7 @@ under the trees
 last light
 listening for the silence
 behind the rain
-night rain -
+night rain—
 baking smells from the house
 with the jasmine
 brown earth
@@ -6843,7 +6835,7 @@ a man's voice somewhere
 neon light
 the leaves of the bush
 almost black
-wedding band --
+wedding band—
 smoke from the fireworks
 dissolves against the stars
 half-empty train
@@ -6858,7 +6850,7 @@ in the car's headlights
 distant temple drums
 close by the sound of a dog
 shaking itself
-hot night -
+hot night—
 after my bath
 the world seems cleaner
 steaming tea
@@ -6867,7 +6859,7 @@ the late owner's photo
 lemon slice moon
 a kite glides past
 the palmyra palm
-cycle cart -
+cycle cart—
 the office chairs' legs
 point to the moon
 muezzin's call
@@ -6897,7 +6889,7 @@ in the inbox
 Valentine's Day
 a red rose
 stuck in the snow
-snow melt --
+snow melt—
 chewing gum spots appear
 on the pavement
 loud pub music
@@ -6996,7 +6988,7 @@ in the house
 soft rain
 the sound of hammering
 from the construction site
- day moon -
+ day moon—
 the girl brushing her hair
 smiles suddenly
 home again
@@ -7033,11 +7025,11 @@ empty street
 the For Sale sign
 overgrown with weeds
 gust of wind
-a woman’s face lights up
+a woman's face lights up
 by the cooking fire
 a bullock cart
 loaded high with shoe boxes
-the driver’s cracked feet
+the driver's cracked feet
 small talk
 sixteen ants on the wall...
 seventeen...
@@ -7060,7 +7052,7 @@ smoky moon
 a cloud of insects around
 the street light
 burnt house
-the owner’s name
+the owner's name
 on the iron gate
 smell of newsprint
 twenty beauty queens
@@ -7110,23 +7102,23 @@ or maybe blue
 along the pavement
 snatches of the same song
 from different radios
-empty room -- 
+empty room— 
 endless TV ads 
 for nobody
-pastry shop --
+pastry shop—
 so many candy smiles
 around me
-summer's end -
+summer's end—
 under a lamp on the path
 a moth's dying
-parking for lovers --
+parking for lovers—
 many crocuses between
 the wheel's traces
 funeral procession
-of the friend passes --
+of the friend passes—
 the crocus field
 playing bowls,
-playing at cards ...
+playing at cards...
 old warriors
 driving towards
 crematorium along
@@ -7134,50 +7126,50 @@ the frozen road
 Independence Day
 after the rainy morning
 a sunny afternoon
-autumn equinox --
+autumn equinox—
 fox's eyes shining
 in the twilight
 overturned boat,
-drawn high on the shore -
+drawn high on the shore—
 drumming of rain
-meteor shower --
+meteor shower—
 crickets occupied
 by its song
-watching Perseids --
+watching Perseids—
 a moth makes noise
 on the porch
 moths fluttering
 in the paper lantern ?
 a shadow play
-nobody's here -
+nobody's here—
 only a cricket guards
 the alpine hut
-long lasting rain -
+long lasting rain—
 the dog-rose petals clung
 to the pavement
-traffic jam -
+traffic jam—
 a crow flutters in the place
 over the bridge
-summer's end  -
+summer's end —
 under a lamp on the path
 a moth's dying
 summer's end .
-their chirping slows down -
+their chirping slows down—
 good-bye, cicadas!
 above the cemetery
-laser beams from the disco --
+laser beams from the disco—
 a calm cricket chirp
 the rose hides
 the date of death
 on her grave
-sultry twilight --
+sultry twilight—
 pauses between bird's singing
 become longer
-courtyard of my childhood --
+courtyard of my childhood—
 after so many dead people
 the old lilac in bloom
 under floating clouds
-the cherry blossom snow --
+the cherry blossom snow—
 in the same direction
 I completely forgot
 the magnolia-tree,
@@ -7186,19 +7178,19 @@ I light on again
 the candle on her grave
 extuinguished by wind
 first crowing
-breaks my sleep --
+breaks my sleep—
 year of Rooster
 drinking mulled wine
-on the square --
+on the square—
 white breaths
-late harvester --
+late harvester—
 sickle moon in the sky
 over the mature corn
 deep in the night
-my computer turned off --
+my computer turned off—
 sound of autumn rain
 crickets' songs
-in the pitch-dark night --
+in the pitch-dark night—
 how many secrets
 nobody here
 a table in the mountain
@@ -7219,272 +7211,272 @@ your footprints in the snow
 from last night
 how to absorb these echoes
 of what we shared
-her father's grave -
+her father's grave—
 the little girl leaves a picture
 of a dinosaur
 Handel's Messiah
 the same tapes my late-grandmother
 listened to
 Ashes, what was once a man, and the full moon. Bright, big, yellow.
-sunrise---
+sunrise—
 a ray of light hits
 my bathroom mirror
-Winter sunset---
+Winter sunset—
 the whistle of a
 Florida bound train
-skyline fog---
+skyline fog—
 all these CEO's don't look
 out the window any way
-after the rain stops---
+after the rain stops—
 the skyline lights
 glitter
-Autumn---
+Autumn—
 New York State green apples
 flood the market
-overcast Autumn---
+overcast Autumn—
 a teacher asks her kids
 to draw a rainbow
-morning blue sky---
+morning blue sky—
 the windows of a hot yoga class
 fog out
-First Day of Autumn---
+First Day of Autumn—
 a soccer referee pulls out
 his yellow card
-late night---
+late night—
 as city lights dim out
 August full moon
-August blue sky---
+August blue sky—
 a window washer
 runs out of soap
-Ramadan starts tomorrow---
+Ramadan starts tomorrow—
 Moslems will fast
 from dawn to dusk
-July morning---
+July morning—
 the smell of coffee
 from an abandoned building
-two men out on Mother's Day---
+two men out on Mother's Day—
 discuss Freud's
 Oedipus Complex
-old laptop---
+old laptop—
 I back up my data
 to the cloud
-afternoon fog---
+afternoon fog—
 the day's news
 in HD
 a parked car has
-its windows steamed---
+its windows steamed—
 a rainy beach day
-next to the sunflowers---
+next to the sunflowers—
 pumpkins are
 on sale
-after the hurricane---
+after the hurricane—
 the skyline lights
 burn bright
-sunset---
+sunset—
 the clean up
 after a hurricane
-pigeons are flying again---
+pigeons are flying again—
 Irene downgraded
 to tropical storm
-a hurricane---
+a hurricane—
 the flies think
 my kitchen is a storm shelter
-August Friday happy hour---
+August Friday happy hour—
 the bartenders have time
 to listen
-evening fog---
+evening fog—
 the steam room
 is empty
-the debt ceiling will rise---
+the debt ceiling will rise—
 clouds break 
 for the sunset
-evening fog---
+evening fog—
 the sound of
 a sax player
-Summer blue sky---
+Summer blue sky—
 a teakettle 
 whistles
-blue clouds at sunset---
+blue clouds at sunset—
 an American flag
 is lowered for the night
-Summer strawberries---
+Summer strawberries—
 they always remind me
 of soul kissing
-July---
+July—
 I skip the sunset
 and wait for the fireflies
 this morning thunder and lightening-
 tomorrow's night:
 July Fourth
-IN GOD WE TRUST---
+IN GOD WE TRUST—
 an immigrant looks at
 a dollar bill first time
-July sunset---
+July sunset—
 the redness of people
 coming back from the beach
-June---
+June—
 as the sun sets
 the ac gets cooler
-Manhattan afternoon haze---
+Manhattan afternoon haze—
 gay people no more
 have to hide
-afternoon fog---
+afternoon fog—
 Jimi Hendrix
 sings
-dense fog---
+dense fog—
 a math teacher re-explains how
 to clear parentheses
-Summer---
+Summer—
 a fly informs me
 of dirt places in my kitchen
-sunrise---
+sunrise—
 the granite of the skyline
 lightens up
-morning blue sky---
+morning blue sky—
 a baker cleans
 his oven
-Sunday morning---
+Sunday morning—
 two dogs sniff each other
 while their owners chat
-crescent moon---
+crescent moon—
 some one took a bite
 of the Big Apple
-morning haze---
+morning haze—
 I finally adjust
 the tv picture
 workers on scaffolds 
-paint a building---
+paint a building—
 second day of a heat wave
-the heat wave---
+the heat wave—
 thunder and lightening:
 I go take a shower
-Saturday night fog---
+Saturday night fog—
 only when they talk
 I notice
-East River nice June day---
+East River nice June day—
 a bank rat comes out
 to look around
-a foggy day---
+a foggy day—
 she buys yellow daffodils
 on her way home
-steady Spring drizzle---
+steady Spring drizzle—
 a couple stop
 to kiss
-evening fog---
+evening fog—
 a gift shop has a poster of
 the Empire State Building
-morning blue sky---
+morning blue sky—
 a bakery runs out
 of croissants
-Saturday night fog---
+Saturday night fog—
 the bars also
 dim their lights
-morning fog---
+morning fog—
 a man disappears behind
 the Times front page
-evening fog---
+evening fog—
 nothing but the lights
 of Queensborough bridge
-May dawn---
+May dawn—
 it's the same fog as
 yesterday's dusk
-Kentucky Derby---
+Kentucky Derby—
 the kids in bars are too busy
 for a horse race
-Friday the Thirteenth---
+Friday the Thirteenth—
 my train arrives
 on time
-morning Spring drizzle---
+morning Spring drizzle—
 a long line at
 the bathroom
-afternoon haze---
+afternoon haze—
 the park chess players
 need more time
-a Spring cloudless sunset---
+a Spring cloudless sunset—
 the barmaid buttons up
 her blouse
 stock market closed
-a trader invests in the afterlife---
+a trader invests in the afterlife—
 Good Friday
-fog and rain---
+fog and rain—
 I pass a closed
 nudists club
-evening fog---
+evening fog—
 only the sound of high heels
 registers
-morning dense fog---
+morning dense fog—
 my neighbor forgets
 her curtains open
-year's first hot day---
+year's first hot day—
 East River lovers
 smooch in their cars
-morning fog---
+morning fog—
 a driver stops to ask
 where is Manhattan
-nice Spring day---
+nice Spring day—
 kids draw in colored chalk
 on the sidewalk
 the sun shines into
-my kitchen as it sets---
+my kitchen as it sets—
 the smell of baked sugar
-Saturday night wedding---
+Saturday night wedding—
 the bride
 is a man
-fog over the skyline---
+fog over the skyline—
 I steam up my windows
 cooking pasta
-Libya---
-only ones with money play---
+Libya—
+only ones with money play—
 others die
-rebels retake Ajdabiya---
+rebels retake Ajdabiya—
 finally the no-fly-zone
 gets teeth
-fog at happy hour---
+fog at happy hour—
 the bartender forgets 
 my tequila sunrise
-sunny Spring day---
+sunny Spring day—
 old graffiti catches
 the eye
-blue sky---
+blue sky—
 a man climbs the fire escape stairs
 to the roof
-Spring fever---
+Spring fever—
 a cobra escapes from
 the Bronx Zoo
-afternoon fog---
+afternoon fog—
 the cat watches TV
 instead of the window
-crescent moon over the skyline---
+crescent moon over the skyline—
 she shows lots
 of cleavage
-Japan's power plant radiation---
+Japan's power plant radiation—
 the wind will decide
 who dies
-cloudy at sunset---
+cloudy at sunset—
 black and white graffiti 
 shows more leg
-a rain storm ends---
+a rain storm ends—
 the graffiti looks
 dirtier than before
-sunset---
+sunset—
 the Empire State Building is lit
 in red and yellow
-Saturday night fog---
+Saturday night fog—
 so many girls here
 have a hoarse voice
-sunset---
+sunset—
 her gray sweater lifts
 to show her navel
-her eyes---
+her eyes—
 a hesitant dog leads
 a woman into a subway car
-I put out the night garbage---
+I put out the night garbage—
 a Wolf
 Moon
-fresh snow on the roofs---
+fresh snow on the roofs—
 the old graffiti looks
 dirtier 
-Saturday night---
+Saturday night—
 talk of the recent snow storms
 is a good ice breaker
 1-1-11
@@ -7493,1127 +7485,1124 @@ single
 1-11-11
 too many smoking
 chimneys
-morning cloudy sky---
+morning cloudy sky—
 she comes out of the shower
 wrapped in a towel
-crescent moon---
+crescent moon—
 she paints only the tips
 of her finger nails
 the noise of a garbage truck
-wakes me up---
+wakes me up—
 December harvest moon
-Christmas Day nears---
+Christmas Day nears—
 the shopping bags
 get smaller
-candle light at sunset---
+candle light at sunset—
 Hanukkah
 starts
-a crack in dark clouds---
+a crack in dark clouds—
 a kid works out Rubik Cube
 as he walks
-blue sky---
+blue sky—
 the wind disperses the scrips
 of a stocks broker
-December cold night---
+December cold night—
 the sole sign of life
 is the smell of cars exhausts
-evening fog---
+evening fog—
 a Salvation Army soldier
 rings his bell louder
-sunrise---
+sunrise—
 a yogi does
 the Cobra
-evening fog---
+evening fog—
 the cat comes back
 with an appetite
-morning fog---
+morning fog—
 the dry cleaner says
 he can't find my coat
-evening fog---
+evening fog—
 some one behind me
 speaks in Cockney
-Daylight Saving Time starts---
+Daylight Saving Time starts—
 the cat still awakes
 when it's hungry
-crescent moon at sunset---
+crescent moon at sunset—
 she hesitates then
 kisses me
-as she sits at the bar---
+as she sits at the bar—
 her jeans slide
 a half moon
-evening fog---
+evening fog—
 the cars parked on the beach
 have their windows fogged out
-East Side skyline---
+East Side skyline—
 the UN building looks
 more like a hospital
 dark clouds move
-in between skyscrapers---
+in between skyscrapers—
 the Dow goes down
-East River warm Autumn day---
+East River warm Autumn day—
 a red oil tanker
 zigzags
-Summer barber shop---
+Summer barber shop—
 sudden silence
 as a blonde bombshell comes in
-Summer sunset---
+Summer sunset—
 she ties her bikini top
 before she gets up
-flea market shopping---
+flea market shopping—
 you may have to pay in blood
 the bedbugs scare
-sunset---
+sunset—
 as the train starts
 to enter the tunnel
 East River night
-cool September wind---
+cool September wind—
 lovers stay in their cars
-late August garbage bags---
+late August garbage bags—
 a jasmine tree
 near by
-August blue sky---
+August blue sky—
 the smell of sunscreen
 in the subway
-morning haze---
+morning haze—
 a beach beauty goes
 topless
-Hiroshima Day---
+Hiroshima Day—
 a Japanese ballerina
 dances on pointe
-Summer park---
+Summer park—
 every one is busy
 viewing their phone screens
-July sunset---
+July sunset—
 after a hot day
 the watermelon tastes cool
-sunrise---
+sunrise—
 my neighbor in her underwear
 July's last day
-no more dirty jokes---
+no more dirty jokes—
 the new barber is
 a woman
-July early morning---
+July early morning—
 a jogger carries
 two bottles of water
-morning fog---
+morning fog—
 Citibank building loses
 the other half of its top
-Summer hot day---
+Summer hot day—
 the sound of some one
 playing the flute
-afternoon walk---
+afternoon walk—
 the buzz of air conditioners
 and flies
-promenade d'après-midi ---
-le bourdonnement des aircos
-et des mouches
-dark bar---
+dark bar—
 old man younger woman
 and a condom machine
-June swings from warm to cold---
+June swings from warm to cold—
 I recall my ex
 mother in law
-sunset---
+sunset—
 an ice cream vendor forgets
 to put a cherry on top
-blue sky---
+blue sky—
 a woman wearing a burka
 looks up
 Madison Square Park
-nice Spring day---
+nice Spring day—
 no stock brokers 
-dangerous intersection---
+dangerous intersection—
 always fresh flowers
 on one way sign pole
-sunrise---
+sunrise—
 a yogi faces
 the wrong direction
 Gulf oil spill reaches
-the wet lands---
+the wet lands—
 bird songs black out
-Saturday night fog---
+Saturday night fog—
 too many women
 wear pants 
-cocktail lounge---
+cocktail lounge—
 the more we order
 the more the waitress leans 
 forward
-April sunset---
+April sunset—
 from the patio of
 a foreclosed house for sale
-first day of Spring---
+first day of Spring—
 two sweethearts kiss
 under a leafless tree
 she closes her
-bathroom curtains---
+bathroom curtains—
 a setting full moon
-March warms up---
+March warms up—
 the barmaid opens
 another button on her skirt
-morning snow---
+morning snow—
 I tell my barber do something
 about my gray hairs 
-morning fog---
+morning fog—
 the subway is full
 of steaming spirits
-Superbowl Sunday---
+Superbowl Sunday—
 no smell
 of cooking
-blizzard---
+blizzard—
 the bars are crowded
 but the subway is empty
 the cat starts
-to have an attitude---
+to have an attitude—
 the year of the tiger
-Martin Luther King Day---
+Martin Luther King Day—
 Obama is busy
 at work
-I turn off my cell---
+I turn off my cell—
 crescent moon
 over the skyline
 as the train passes
-graffiti murals---
+graffiti murals—
 sunset paints the sky red
-as I pass her boyfriend's house---
+as I pass her boyfriend's house—
 a full moon
 Winter's chill
-the new year---
+the new year—
 a homeless man
 has a new sign
 an old woman asks
-for directions to a bar---
+for directions to a bar—
 Winter
-Claude Levi Strauss dies---
+Claude Levi Strauss dies—
 a florist has
 wild forget-me-nots
-October dead leaves---
+October dead leaves—
 a witch passes me
 hat less
-Columbus Day---
+Columbus Day—
 the UPS guy knocks
 on the wrong door 
-morning train---
+morning train—
 everyone is
 on the same page
 September Eleven morning
-in a coffee shop---
+in a coffee shop—
 the silence
-August heat---
+August heat—
 an ice cream truck
 ran out of gas
-blue sky---
+blue sky—
 August dust
 on the radiator
-morning haze---
+morning haze—
 I postpone
 cleaning my windows
-morning fog---
+morning fog—
 a street artist
 draws with charcoal
-blue sky---
+blue sky—
 the smell of
 suntan lotion
-Hiroshima Day---
+Hiroshima Day—
 the reason why
 we must keep talking
 an octopus spills
-its ink---
+its ink—
 clouds at sunset 
-dense fog---
+dense fog—
 a nudist beach
 empties up
-Sunday blue sky---
+Sunday blue sky—
 a kid comes out
 of confession
-starless night---
+starless night—
 a fisherman talks
 to himself
-morning fog---
+morning fog—
 a beggar wears
 an orange coat
-blue sky---
+blue sky—
 I order my eggs 
 sunny side up
-eclipse of the sun---
+eclipse of the sun—
 monks in orange
 pray
-hot July night---
+hot July night—
 my neighbor opens
 her curtains
 morning fog
 graffiti artists are
 busy working
-Summer moonless night---
+Summer moonless night—
 in the light of fireflies
 we kiss 
-a beach downpour---
+a beach downpour—
 they come out of the ocean
 into a shower
-late night on the beach---
+late night on the beach—
 the only light on
 is that of the lighthouse
 beautiful weather
-on July Fourth---
+on July Fourth—
 in God we trust
-Central Park green house gases---
+Central Park green house gases—
 a carriage horse shits
 as he passes me
-cool July day---
+cool July day—
 the ice cream man
 goes for a coffee break
-late June crowded subway---
+late June crowded subway—
 but no one has
 a sun tan
-Saturday night rain---
+Saturday night rain—
 a couple eye the lobsters
 in a water tank
-June sunset---
+June sunset—
 when we wake up
 how many died in Iran?
-lunch hour---
+lunch hour—
 a long line of women
 at the ice cream cart
-Upper East Side---
+Upper East Side—
 their graffiti
 is cooler
-June morning---
+June morning—
 a line of ants
 at the subway entrance
-the recession---
+the recession—
 more nude entertainment bars
 open
-a June downpour takes a break---
+a June downpour takes a break—
 I go out to buy
 more water
-morning fog---
+morning fog—
 too much steamed milk
 in my espresso
-morning fog---
+morning fog—
 a garbage truck
 makes no noise
-New York---
+New York—
 opposite a church a mosque
 both have their doors open
-morning fog---
+morning fog—
 she wears sunglasses
 in the subway
-Hudson River cool breeze---
+Hudson River cool breeze—
 so many men
 go topless
-late night---
+late night—
 she shows me her garden
 I taste her tomatoes
-blue sky---
+blue sky—
 as if last night fireworks
 never happened
 kids fight a gun battle
-in the swimming pool---
+in the swimming pool—
 Memorial Day
-ozone level too high---
+ozone level too high—
 a woman wears nothing
 under her skirt
-sunset---
+sunset—
 the sound of people singing
 as I pass a church
-East River green waters---
+East River green waters—
 a friend gives me a sip
 of his absinthe
-dense fog---
+dense fog—
 a blind man crosses
 the street alone
-Friday afternoon downpour---
+Friday afternoon downpour—
 a beer truck stops
 to unload
-rainy May Sunday---
+rainy May Sunday—
 at a bus stop
 an empty can of beer
-morning mist---
+morning mist—
 she takes off her eyeglasses
 to see me better
-cold rainy day---
+cold rainy day—
 Cherry blossom petals
 carpet the sidewalk
-still no sunshine---
+still no sunshine—
 I eat
 an orange
 the sound of women
-chuchotant -
+chuchotant—
 moonless night
-morning fog---
+morning fog—
 more talk about more
 pictures of detainees' torture
-afternoon dense fog---
+afternoon dense fog—
 the barmaid gives me
 another for the road
-over night trash---
+over night trash—
 the smell of
 acetone breath
-April warms up---
+April warms up—
 the cat has
 a new friend
-Sunday morning haze---
+Sunday morning haze—
 she wants
 her coffee spiced
-Spring in the park---
+Spring in the park—
 two homeless men play poker
 for empty cans
-Obama's news conference---
+Obama's news conference—
 I turn off
 Mozart
-Spring drizzle---
+Spring drizzle—
 a newly homeless man
 views an abandoned house
-Sunday morning blue sky---
+Sunday morning blue sky—
 I need more
 Alka-Seltzer
-rainy day---
+rainy day—
 I bet the barmaid
 I can guess her age
 a little girl blows
-bubble gum---
+bubble gum—
 cherry trees blossom
-a sign on the door---
+a sign on the door—
 our sun tanning machines
 are solar
-lonely Spring Saturday---
+lonely Spring Saturday—
 I look at the graffiti
 for a haiku
-Spring drizzle---
+Spring drizzle—
 the sound of high heels
 behind me
-clear day---
+clear day—
 I view Citibank skyscraper
 but where is the aura
-waiting for a blizzard to come---
+waiting for a blizzard to come—
 the bar tender ran out
 of white rum
 she puts the pads
-in her bra---
+in her bra—
 a half moon
-East River nice day---
+East River nice day—
 a used condom
 on a pile of dirty snow
-morning fog---
+morning fog—
 the new graffiti is
 minimal
-late night drizzle---
+late night drizzle—
 she carries her belongings
 in a kids cart
 the night watchman
-almost closes his eyes---
+almost closes his eyes—
 waning crescent
-windy night---
+windy night—
 a smoker finds shelter
 behind a garbage truck
-it starts to snow---
+it starts to snow—
 the cat wants
 the milk warmed
-blue sky---
+blue sky—
 dew drops on the cover
 of the garbage can
-blue sky---
+blue sky—
 a banker smokes
 a US made cigar 
-a cockroach climbs the wall---
+a cockroach climbs the wall—
 Charles Darwin is today
 two hundred 
-January warms up---
+January warms up—
 my neighbor walks
 in her underwear
-sunset---
+sunset—
 as I walk on thin ice
 I remember her
-dawn---
+dawn—
 a Christmas tree
 sticks out of the garbage
-the recession---
+the recession—
 my neighbor puts
 another lock on his door
-cloudy January---
+cloudy January—
 a white plastic bag
 on a leafless tree
-chilly night---
+chilly night—
 I ask
 if I can sleep with her
-sunset---
+sunset—
 I turn off
 the Christmas lights
-snow in the forecast---
+snow in the forecast—
 my neighbor's husky
 wags his tail
-fresh snow---
+fresh snow—
 the graffiti looks 
 dirtier 
-dawn---
+dawn—
 last year dust
 on the Christmas ornaments
-first snow---
+first snow—
 bride walks out
 of a church
 back home
-I wipe her lipstick off my cheek---
+I wipe her lipstick off my cheek—
 a half moon 
-cold morning---
+cold morning—
 a cockroach warms up
 under my coffee cup 
-first frost---
+first frost—
 I feed
 the aquarium fish
-dawn---
+dawn—
 a drunk pisses
 on today's newspaper 
-gas station---
+gas station—
 a GM car
 needs a push
-late November farm---
+late November farm—
 a turkey looks
 well fed
 her winter night gown
-suddenly opens---
+suddenly opens—
 crescent moon 
-Saturday night---
+Saturday night—
 she wears her red high heels
 Christmas nears
-the recession---
+the recession—
 the sun sets behind
 Citibank skyscraper
-my watch stopped---
+my watch stopped—
 I ask a beggar
 what time it is
-morning haze---
+morning haze—
 Wall Street has
 disappeared
-Thanksgiving day---
+Thanksgiving day—
 walking past
 empty houses 
-Sunday morning fog---
+Sunday morning fog—
 my neighbor's wife
 is naked
-Saturday night---
+Saturday night—
 a carriage horse
 flirts with another 
-dawn---
+dawn—
 waiting for the light
 at the end of the tunnel
-Armistice Day---
+Armistice Day—
 I buy
 more Euros
-the crunch of Autumn leaves---
+the crunch of Autumn leaves—
 as I pass
 a dentures shop
-November drizzle---
+November drizzle—
 I turn off
 the Zen music
-daylight saving time ends---
+daylight saving time ends—
 the cat wakes me
 an hour early
 black cat tries to
-open a garbage bag---
+open a garbage bag—
 moonless night 
-cold morning---
+cold morning—
 the bus has no heat
 she knits a sweater
-late October wind---
+late October wind—
 her blond hair flies
 along with the leaves
-October night---
+October night—
 who cares how stocks did
 crescent moon
-windy night---
+windy night—
 a witch walks home
 Halloween nears
 as I walk
-on wet Autumn leaves---
+on wet Autumn leaves—
 a poster of McCain
-blue sky---
+blue sky—
 no liquidity
 at the banks 
-clear October night---
+clear October night—
 the smell
 of cinnamon
-very dry night---
+very dry night—
 a half moon
 hardly moving
-Autumn courtyard---
+Autumn courtyard—
 as leaves fall
 algae grows
-September sunset---
+September sunset—
 a dead leaf
 at my feet
-blue sky---
+blue sky—
 I listen to her
 tell me a lie
 I rush to buy
-her birthday present---
+her birthday present—
 crescent moon
-Autumn downpour---
+Autumn downpour—
 I stand under the canopy
 of a house for sale
-evening fog---
+evening fog—
 I watch my neighbor
 smoke his waterpipe
 blue sky
-changes to grey---
+changes to grey—
 Paul Newman dies
-Madison Square Park---
+Madison Square Park—
 why are bankers
 looking down
-September Eleven---
+September Eleven—
 I remember to fix
 lock of my backdoor 
-a long weekend---
+a long weekend—
 I ran out
 of chocolate
-blue sky---
+blue sky—
 no milk left
 for the kittens 
-hot August night---
+hot August night—
 she stands
 staring out of her window
-dawn---
+dawn—
 the smell of watermelon
 from last night garbage
-early morning---
+early morning—
 a yogi pisses
 in a drinking glass
-dawn---
+dawn—
 a Coca- Cola sign
 turns off
-August blue sky---
+August blue sky—
 a Chinese dragon
 fuming
-Summer thunderstorms---
+Summer thunderstorms—
 a surfer puts his board
 on his head
-my train is late---
+my train is late—
 I watch a cockroach
 going home
-dawn---
+dawn—
 a line waits outside
 the dialysis center
-morning---
+morning—
 smell coffee from house
 of difficult neighbor
-Summer haze---
+Summer haze—
 she wears
 a beige bikini
-morning haze---
+morning haze—
 she asks
 who picked our lilacs
-Summer crowded subway---
+Summer crowded subway—
 the smell
 of sardines
 she wears tight blue jeans
-and hijab---
+and hijab—
 July Fourth
-July Fourth fireworks---
+July Fourth fireworks—
 I stand next to
 an Iraqi refugee 
-sunrise---
+sunrise—
 a black woman in purple dress
 glares at me 
-a man at the beach yells---
+a man at the beach yells—
 I need oil to drive home
 late June sunset
-sunrise---
+sunrise—
 heavy dust on my copy
 of Paradise Lost
-June rain stopped---
+June rain stopped—
 a drunk waters some more
 the lilacs
-morning haze---
+morning haze—
 an exhibitionist keeps
 the curtains closed
-sudden Spring showers---
+sudden Spring showers—
 her mascara
 runs
-tough bar---
+tough bar—
 she just returned
 from Iraq
-low tide---
+low tide—
 she's on seaweed
 diet
-Memorial Day---
+Memorial Day—
 waiting for George Bush
 to leave office
-Spring warms up---
+Spring warms up—
 tattoos
 not just on the arms
 hearing the call for prayer
-as I pass a mosque---
+as I pass a mosque—
 Spring sunset
-wind swept cold rain---
+wind swept cold rain—
 truck makes stops
 to deliver bottled water
 her blond hair shines
-over her business suit---
+over her business suit—
 full moon at dusk
 the price of rice
-goes up---
+goes up—
 I start hoarding sake
-foggy morning---
+foggy morning—
 she wipes the dust
 off her portrait
-blue sky---
+blue sky—
 my neighbor tells
 another big fish story
-Tax Day---
+Tax Day—
 the sun shines
 on a house for sale
-blue sky---
+blue sky—
 her windows are all
 fogged up
-new driver---
+new driver—
 my bus arrives
 on time
-foggy day---
+foggy day—
 the rest of this
 is at present not available
-sunny Spring day---
+sunny Spring day—
 at the corner store
 firemen buy charcoal
-dawn---
+dawn—
 a pile of black trash bags
 wait for pick up
-Spring first day---
+Spring first day—
 she wears
 no bra
-full moon---
+full moon—
 the barmaid kisses me
 on the cheek
 snow
-at dawn---
+at dawn—
 no more milk
-windy day---
+windy day—
 the mailman
 arrives early
 holding the binoculars
-in her hands---she has
+in her hands—she has
 more rings than Saturn
-rainy night---
+rainy night—
 the clicks of high heels
 behind me
-for the new year ---
+for the new year—
 a temple nun
 washes Buddha
 a construction site
-on a Winter day---
+on a Winter day—
 got sand in my shoes
 alone on a pier
-he plays the trombone --
+he plays the trombone—
 Winter sunset
-blue sky---
+blue sky—
 white lilies stick out
 of a garbage bag 
-sunrise---
+sunrise—
 new graffiti
 in black and white
-new year's day---
+new year's day—
 there is rice
 on the sidewalk
-blue sky---
+blue sky—
 who cares how white
 her satin dress is
-strong wind---
+strong wind—
 an inflatable Santa
 decides to fly back north
-Thai restaurant---
+Thai restaurant—
 Christmas songs
 only in the kitchen
-gloomy day---
+gloomy day—
 the Christmas lights
 shine brighter
-morning fog---
+morning fog—
 the graffiti
 looks subtle
-walking in first snow storm---
+walking in first snow storm—
 no one
 in a hurry
-Christmas shopping---
+Christmas shopping—
 I forgot
 her present size
-wrong address---
+wrong address—
 the doorman wears
 a diamond earing
-waiting for dawn---
+waiting for dawn—
 I put milk
 in my coffee
 she has a twinkle
-in her eyes---
+in her eyes—
 I order more oysters
-morning haze---
+morning haze—
 I watch
 high definition TV
-Thanksgiving Day---
+Thanksgiving Day—
 a rat awaits
 arrival of the garbage
 Black Friday
-starts at midnight---
+starts at midnight—
 a long line to buy bagels
-Thanksgiving leftovers---
+Thanksgiving leftovers—
 a harvest moon
 wrapped with clouds
-geometry lesson---
+geometry lesson—
 day moon
 next to a contrail
-Madison Square Park---
+Madison Square Park—
 cold wind makes it
 harder to day dream
 putting diamonds
-on the heads of rusty nails---
+on the heads of rusty nails—
 first frost
-Veterans Day---
+Veterans Day—
 smart people
 start wars
-late October warmth---
+late October warmth—
 a witch
 smiles at me
-dark clouds at sunset---
+dark clouds at sunset—
 my neighbor
 lights up his pumpkin
-the flu shot---
+the flu shot—
 my last time
 mother held my hand
-Indian reservation---
+Indian reservation—
 too few home owners
 for a subprime crisis
-sunset---
+sunset—
 a balloon moves up
 till it disappears
-crowded subway---
+crowded subway—
 he gives his girl friend
 a long kiss
-overcast sky---
+overcast sky—
 he hands out fliers
 for a tanning salon
-morning stillness---
+morning stillness—
 the cat watches
 a butterfly
-October sunset---
+October sunset—
 have to go to the kitchen
 window to view it
-sudden October downpour---
+sudden October downpour—
 her cigarette
 got wet
-blue sky---
+blue sky—
 my neighbor left
 his garage door open
-October cold wind---
+October cold wind—
 her yellow skirt
 rises
 going out she hides
-her wedding band---
+her wedding band—
 crescent moon
-dusk---crescent moon
+dusk-crescent moon
 amongst dark clouds
 I light more candles
 a bride walks up
-the steps of a church---
+the steps of a church—
 September blue sky
-morning haze---
+morning haze—
 her bubble bath
 is ready
-Madison square Park---
+Madison square Park—
 I watch the moon
 through an American Elm
-dry late September day---
+dry late September day—
 the sun shines
 on her freckles
 the UN General
-Assembly meets---
+Assembly meets—
 all the doves left town
-blue sky---
+blue sky—
 outside a clinic
 a nurse takes a smoke break
-Labor Day---
+Labor Day—
 a migrant worker sells
 American flags
-hot afternoon---
+hot afternoon—
 she's lost in her book
 I in her décolleté
-hot September day---
+hot September day—
 homeless man stands
 by ice cream truck
 a street artist
-soon finished the skyline---
+soon finished the skyline—
 September fog
 cutting up red pepper
-for the salad---
+for the salad—
 a drop of blood
 she ties her grey hair
-in a bun---
+in a bun—
 August blue sky
-cold in August---
+cold in August—
 a pigeon retracts
 its neck
-eating chicken---
+eating chicken—
 the wish-bone so small
 I wish better weather
 the remnants
-of a hurricane arrive---
+of a hurricane arrive—
 and his mother-in-law
 arguing with my neighbor
-across the fence---
+across the fence—
 a sparrow changes sides
-happy hour---
+happy hour—
 she tells the bartender
 she lost her wedding ring
-dark August clouds---
+dark August clouds—
 looking up Hiroshima
 on the map
-morning fog---
+morning fog—
 listening
 to minimalist music
 Madison Square Park
-live folk music---
+live folk music—
 no one wears red suspenders
-Summer haze---
+Summer haze—
 the nude beach
 is empty
-July dawn---
+July dawn—
 the pier is littered
 with beer bottles
 old couple view
-a distant lighthouse---
+a distant lighthouse—
 July moonless night
-Fourth of July---
+Fourth of July—
 another day
 at Guantanamo Bay
-Independence Day---
+Independence Day—
 an illegal immigrant
 serves me a meal
-the long days of Summer---
+the long days of Summer—
 I start reading
 Marcel Proust again
-hot day---
+hot day—
 she writes a haiku
 in minimal clothes
-cool breeze---
+cool breeze—
 the cicadas
 sing louder
-Summer Solstice---
+Summer Solstice—
 an air conditioner drips
 on my neck
-end of the month---
+end of the month—
 no bread left over
 to feed the sparrows
-Summer carnival---
+Summer carnival—
 a flat chested woman
 enters the wrong rest room
-grey day---
+grey day—
 the mailman passes me
 with no "have a nice day"
-Summer---
+Summer—
 a tree's luscious green
 covers the walk signal
-late night---
+late night—
 fireflies rise up
 in the cemetery
-brilliant blue sky---
+brilliant blue sky—
 I finally washed
 my windows
 overcast morning
-the smell of steaming rice---
+the smell of steaming rice—
 Summer
-hurricane season started---
+hurricane season started—
 my neighbor buys
 a hybrid car
-a cool breeze---
+a cool breeze—
 finally
 she says something
 an ice cream truck
-stands on Fifth Avenue---
+stands on Fifth Avenue—
 it tastes the same
 listening to a sermon
-on Saturday night---
+on Saturday night—
 no mention of hell
-the UN tower---
+the UN tower—
 all the windows
 have the same color
-Memorial Day---
+Memorial Day—
 starts Iraq's
 scorching Summer
-morning haze---
+morning haze—
 she's still wearing
 her chiffon nightgown
 a baby fly
 has not found yet
-the kitchen---Spring
-a bright Spring day---
+the kitchen—Spring
+a bright Spring day—
 some graffiti
 looks bigger than before
-Spring dark clouds---
+Spring dark clouds—
 my barber asks
 if I want all the grey out
-warm Spring night---
+warm Spring night—
 her cleavage glistens
 under a crescent moon
-blue sky---
+blue sky—
 a cleaning lady takes
 the morning train home
-sunrise---
+sunrise—
 the purple buds
 in her flat garden
-cold and dark Spring day---
+cold and dark Spring day—
 a dead squirrel
 in a tree pit
-morning rush---
+morning rush—
 the usual
 black knights
 downpours
-on Tax Day---
+on Tax Day—
 but for me no refunds
-heavy Spring rain---
+heavy Spring rain—
 in a bar the beer
 runs like rivers
-morning rain---
+morning rain—
 umbrellas
 go to work
 wearing a white mask
-because of the pollution---
+because of the pollution—
 a day moon
-Good Friday---
+Good Friday—
 my neighbor prays
 in a mosque
-gloomy day---
+gloomy day—
 a blind man passes
 a blooming cherry tree
-warm Spring night---
+warm Spring night—
 a setting moon
 takes its time
-all the snow melted---
+all the snow melted—
 she wears her
 angora sweater
-early March---
+early March—
 new graffiti
 shaped like a tulip
-a silent movie---
+a silent movie—
 the audience
 keeps on talking
-morning rush---
+morning rush—
 light
 at the end of the tunnel
-foggy day---
+foggy day—
 I visit
 the Turkish baths
-a hawk flies high---
+a hawk flies high—
 traffic crawls
 on the highway
-the Ides of March---
+the Ides of March—
 a cat has passed
 nine dogs
-morning stillness---
+morning stillness—
 a crow finally
 flies away
-Fat Tuesday---
+Fat Tuesday—
 an ice cream truck
 parks on melting snow
-Ash Wednesday---
+Ash Wednesday—
 no line
 at the halal food cart
 she speaks English
-with a Provence accent---
+with a Provence accent—
 I order a glass of rosé
 on a fire hydrant
-I tie my shoes---behind me
+I tie my shoes—behind me
 a dog waits its turn
-winter morning---
+winter morning—
 too many men
 wearing grey suits
-cold night---I pass the statue
+cold night—I pass the statue
 of a man wearing
 a winter coat
-February First---
+February First—
 a sun ray dances
 on her cell phone
-extreme cold weather---
+extreme cold weather—
 the stars shine
 more brightly
-very cold day---
+very cold day—
 a stuffed bear
 stays under the bed covers
 the price of tortillas
-goes up---
+goes up—
 let them eat ethanol
-soft spoken---
+soft spoken—
 her jewelry and music
 are heavy metal
-blizzard---
+blizzard—
 too much powdered sugar
 even for Valentine Day
-gloomy afternoon---
+gloomy afternoon—
 a red haired woman
 smiles at me
 snacking on
-blue corn chips---
+blue corn chips—
 moonless night
-at a general statue---
+at a general statue—
 a dog salutes
 by raising its leg
-cold Saturday night---
+cold Saturday night—
 the barmaid puts sake
 in my green tea
-beautiful winter dawn---
+beautiful winter dawn—
 I ran out of
 Jasmine tea
 strange faces are out
-this saturday night---
+this saturday night—
 the moon
-early morning---
+early morning—
 last night stardust
 is on the lilacs
-morning haze---
+morning haze—
 I keep recounting
 how many Santas
-morning commute---
+morning commute—
 the silence
 of end of the year stress
-overcast morning---
+overcast morning—
 not enough sugar
 in the rice pudding
-morning rush---
+morning rush—
 a blonde
 with no lipstick
-Autumn sunset---
+Autumn sunset—
 a birthday balloon
 rises
-Fifth Avenue station---
+Fifth Avenue station—
 the sound of hoofs
 on the pavement
-grey morning---
+grey morning—
 I check out a new
 tanning salon
 a bartender
-needs more olives---
+needs more olives—
 the bridge lights turn on
 a dog patiently
-waits for his plate---
+waits for his plate—
 Thanksgiving Day
-Black Friday---
+Black Friday—
 so many turkeys
 at the sales
 the harvest is over
-I hang the sickle---
+I hang the sickle—
 crescent moon
-Autumn morning---
+Autumn morning—
 neighborhood graffiti
 has changed colors
-hell---
+hell—
 a homeless man
 wears a new garbage bag
-overcast day---
+overcast day—
 I look at old pictures
 in black and white
 my morning train
-delayed---a seagull
+delayed—a seagull
 flies above the tracks
-Autumn night---
+Autumn night—
 a homeless man
 has a pumpkin
 she wears a purple blouse
-at sunset---
+at sunset—
 I order espresso
-October last Sunday---
+October last Sunday—
 lost an hour
 resetting an old clock
 bamboo flute
@@ -8626,16 +8615,16 @@ waiting
 for the meds to kick in
 full moon
 everything
-i’m not
+i'm not
 winter rain
 war vet on the corner
 holding a sign
-…someone’s son
+...someone's son
 two pills
 past midnight
 hidden moon
 autumn chill
-last night’s mascara
+last night's mascara
 around my eyes
 divorce court
 red heels
@@ -8658,34 +8647,34 @@ the quiet blue hills
 spring thaw
 everything drips
 including my nose
-autumn chill--
+autumn chill—
 time for a hot bowl
 of chili
-frozen pond--
+frozen pond—
 the moon trapped
 in a crack
-November night--
+November night—
 the smell of burning leaves
 and marshmallows
-high summer--
+high summer—
 the sounds and smells
 of a traveling fair
-gentle breaths--
+gentle breaths—
 the window's
 frost etchings
-quiet lake--
+quiet lake—
 the only sound
 a jumping fish
-meteor shower--
+meteor shower—
 in the cold our gasps
 become visible
-failing light--
+failing light—
 the ash tree
 heavy with  birds
-fall equinox--
+fall equinox—
 another day
 in the  90's
-evening   news--
+evening   news—
 the burden of  snow
 on my son's   balcony
 under the snowpack
@@ -8694,13 +8683,13 @@ still keeps his smile
 stoplight
 each of us tapping
 to our own beat
-Mass over--
+Mass over—
 the rush to be first
 out of the lot
-5am--
+5am—
 bird songs lost
 in air conditioner noise
-guided hike~
+guided hike
 beyond the talk
 quiet woods
 at the feeder
@@ -8712,7 +8701,7 @@ strawberry preserves
 while washing spinach
 how nice to find
 a haiku there
-picnic -
+picnic—
 butterflies and
 flies in the butter
 tree less corners
@@ -8731,7 +8720,7 @@ faded asters
 the cortege pauses at her gate
 moves on
 biopsy
-just a cyst - this time
+just a cyst—this time
 a break in the clouds
 plastic flowers
 placed beside the highway
@@ -8748,76 +8737,76 @@ to the pouring rain
 Fragrant spring blossom
 children play outside until
 there is no more light.
-cold starry night -
+cold starry night—
 from the forest edge the sound
 of animal kill
-unripe pomegranates --
+unripe pomegranates—
 all that's left
 between us
-morning thunder --
+morning thunder—
 the garbage man's
 early start
-Day of the Dead --
+Day of the Dead—
 my unshaved face
 in the mirror
 in the ruins
 of a beach house
 wild orchids bloom
-equinox -- 
+equinox— 
 we split
 the last beer
 despite all my worry
 the fragrance
 of honeysuckle
-gibbous moon --
+gibbous moon—
 all that's left
 of summer
-end of summer --
+end of summer—
 watching the Dow
 fall
-late summer chill --
+late summer chill—
 a young man's
 obituary
-lightning --
+lightning—
 her nightgown
 comes off
-sturgeon moon --
+sturgeon moon—
 an ancient
 burial site
-heat wave --
+heat wave—
 she stops adjusting
 her shoulder strap
-windless night --
+windless night—
 a slow dance
 of fireflies
-approaching storm --
+approaching storm—
 children playing
 with matches
-a final date --
+a final date—
 mingling their ashes
 in the lake
 missing in action
 the hollow eyes
 of a veteran
-spring sunshine --
+spring sunshine—
 another freckle
 to kiss
-dogwood blossoms --
+dogwood blossoms—
 an ultrasound
 of my newest grandson
-morning fog --
+morning fog—
 a second cup
 of bad coffee
-Good Friday --
+Good Friday—
 dandelion seeds
 in the wind
-Good Friday --
+Good Friday—
 an unexpected
 phone call
 a long conversation
-about Mom --
+about Mom—
 slow soaking rain
-Golden Globes --
+Golden Globes—
 the plunging necklines
 over leftovers
 an argument about
@@ -8825,107 +8814,107 @@ the causes of war
 news of her death —
 winter moon descending
 beyond the trees
-restless night --
+restless night—
 footprints
 on the moon
-a break in the fog --
+a break in the fog—
 my daughter's
 new address
-death of a dictator --
+death of a dictator—
 the ebb and flow
 of the sea
-election eve --
+election eve—
 driving home
 in the dark
-cactus flower --
+cactus flower—
 I didn't realize
 she knew my name
-Day of the Dead --
+Day of the Dead—
 walking into
 a strong perfume
 defying
-the autumn gloom --
+the autumn gloom—
 red maple
 in the hollow stump
 of the old tree
 wild poppies bloom
-deep autumn --
+deep autumn—
 a row
 of empty beach houses
-hurricane watch --
+hurricane watch—
 the tall tree's shadow
 over our house
-hunter's moon --
+hunter's moon—
 she asks if I've found
 what I needed
-off-season --
+off-season—
 the bartender
 doesn't look up
 from her phone
-migrating geese --
+migrating geese—
 no one asks them
 where they're from
-troubled sleep --
+troubled sleep—
 sparks
 from a high-tension wire
-summer haze --
+summer haze—
 someone murmurs
 "Alzheimer's"
-harvest moon --
+harvest moon—
 her updated
 relationship status
-summer twilight --
+summer twilight—
 the instructions
 for my ashes
 blood-tinted soil
 where the sugar plantation
 used to be
-Walden Pond --
+Walden Pond—
 all parking lots
 full
-crowded train --
+crowded train—
 the bright red glare
 of her lipstick
-hay moon --
+hay moon—
 the farmer's daughter
 in heels
 the enlightened man
 wearing lipstick
 on his collar
-starless night --
+starless night—
 the deep croak
 of a bullfrog
-thunderstorm --
+thunderstorm—
 a late-night
 visitor
-overcast night --
+overcast night—
 the mouse trap
 snaps
-summer rain --
+summer rain—
 the garden gnome's
 weary smile
-threatening sky --
+threatening sky—
 the hum
 of a power line
 roadside puddle
 a street dog licks
 the winter moon
-impenetrable haze --
+impenetrable haze—
 the other side
 of the bridge
 biker couple
 covering their tattoos
 with sunscreen
-ocean view --
+ocean view—
 the old dog
 on a leash
-empty ferris wheel --
+empty ferris wheel—
 the last time
 we kissed
 crossing the border
-without a passport --
+without a passport—
 great blue heron
-strawberry moon --
+strawberry moon—
 the ribbon
 in my granddaughter's hair
 another meeting
@@ -8943,58 +8932,58 @@ in front of the TV
 guarding
 the suburban lawn
 a smiling Buddha
-gibbous moon --
+gibbous moon—
 her unfinished
 tattoo
-Delta blues --
+Delta blues—
 a bead of sweat
 on my beer bottle
-stationary front --
+stationary front—
 the same haiku
 I wrote yesterday
 invisible on radar
 the lingering mist
 between us
-thunder clouds --
+thunder clouds—
 he tells me how many days
 he's been sober
-pink moon --
+pink moon—
 a taste
 of what comes next
 after the rain
 my mother forgets
 who I am
-crowded cafe --
+crowded cafe—
 the barrista misspells
 my name
 from a windowless room
 the ocean view
 on my screensaver
-starless night --
+starless night—
 my favorite pub loses
 its liquor license
-cold spring rain --
+cold spring rain—
 where I buried
 the puppies
-black ice --
+black ice—
 the doctor would like
 to run more tests
-new moon --
+new moon—
 the darkness
 within
-a mother's vigil --
+a mother's vigil—
 the rhythm
 of the ventilator
-mezcal morning --
+mezcal morning—
 the church bells
 out of sync
-new construction --
+new construction—
 chopping down
 my childhood
 over Monday coffee
 the conversation shifts to
 "The Walking Dead"
-end of the weekend --
+end of the weekend—
 I finished that beer
 too quickly
 my retirement plan
@@ -9006,19 +8995,19 @@ about her scars
 "spring sleet"
 he hisses
 through clenched teeth
-city lights --
+city lights—
 the glitter
 of broken glass
-St. Patrick's Day --
+St. Patrick's Day—
 the first green buds
 on the old tree
-writer's block --
+writer's block—
 heating up
 the leftovers
-starless night --
+starless night—
 I finish the wine
 too quickly
-melting snow --
+melting snow—
 the nurse searches
 for a pulse
 a neat pile
@@ -9027,25 +9016,25 @@ before I burn them
 crickets
 in imperfect
 harmony
-spring cleaning --
+spring cleaning—
 cropping her out
 of a photograph
-news of his relapse --
+news of his relapse—
 how slowly
 the rain falls
-moonless night --
+moonless night—
 apologies made
 in the passive voice
-early bird special --
+early bird special—
 at least fifty
 shades of grey
-snow flurries --
+snow flurries—
 trying to remember
 when I first turned gray
-secluded highway --
+secluded highway—
 we turn
 the radio off
-winter rain --
+winter rain—
 a birthday reminder
 for a dead friend
 stopping
@@ -9057,58 +9046,58 @@ of smartphones
 zazen—
 that fly battering itself
 against the sunny window
-morning meditation -- 
+morning meditation— 
 a steaming
 manhole cover
-winter rain --
+winter rain—
 the dog and I
 exchange sighs
-pure blue --
+pure blue—
 a broken
 robin's egg
 asleep at the wheel
 the ghost cabbie
 of my nightmares
-gibbous moon --
+gibbous moon—
 she's not telling
 the whole truth
-two-hour meeting --
+two-hour meeting—
 shadows creep
 across the table
-frost on the windshield --
+frost on the windshield—
 I remember how much
 I drank last night
-budget cuts --
+budget cuts—
 a crescent moon
 on the horizon
-Ash Wednesday --
+Ash Wednesday—
 a dusting
 of snow
-police sirens --
+police sirens—
 another night
 without the moon
-final approach -
+final approach—
 she pencils in
 her eyebrows
-melting snow -
+melting snow—
 an unfinished
 haiku
-the Dow falls -
+the Dow falls—
 rose petals
 in the wind
 between doses
 of cough medicine
 silence
-snow flurries -
+snow flurries—
 my unborn grandchild's
 perfect fingers
 stuck behind
-a schoolbus -
+a schoolbus—
 thunderclouds
-crescent moon -
+crescent moon—
 leaning her head
 against my shoulder
-icy conditions -
+icy conditions—
 another slide
 on Wall Street
 converting to condos
@@ -9118,13 +9107,13 @@ in a dark place
 quietly fermenting
 homebrew
 graffiti glistening in the flickering streetlight
-new moon -
+new moon—
 time to lose
 the beard
-emptying the wine bottle -
+emptying the wine bottle—
 another conversation
 about Mom
-my stock portfolio -
+my stock portfolio—
 puddles filled
 with winter rain
 occupying Wall Street
@@ -9133,373 +9122,373 @@ of my retirement dreams
 that recurring dream
 in which I pull the fire alarm
 and run
-epiphany -
+epiphany—
 Jesus and Mary
 stopped at the border
-epiphany -
+epiphany—
 the gift of a dead mouse
 at the door
 not softened
 by sepia tones
 images of war
-first thaw -
+first thaw—
 someone should have warned
 the daffodils
-snow turns to rain -
+snow turns to rain—
 wondering when
 it all went wrong
-war -
+war—
 fathers
 burying sons
-domestic terrorism --
+domestic terrorism—
 winter moths
 at the door
-harvest moon --
+harvest moon—
 grass gone to seed
 on the tennis court
-huddled smokers --
+huddled smokers—
 another conversation
 about The Cloud
 hazard lights
 through raindrops
 October leaves
-cold stethoscope --
+cold stethoscope—
 I lie to the doctor
 about my drinking
-starless night --
+starless night—
 I can't believe
 the weekend is over
 after the rain
 a puddle filled
 with stars
-abandoned school --
+abandoned school—
 a soft breeze ripples
 through the weeds
 after the conference
 pigeons feasting
 on crumbs
-still pond --
+still pond—
 a dragonfly lands
 on the moon
-severe thunderstorm warning --
+severe thunderstorm warning—
 a murder
 of crows 
-daylight fades --
+daylight fades—
 my mother asks
 the same question twice
-ghost town -- 
+ghost town— 
 a rooster crows
 for no reason at all
-end of the road --
+end of the road—
 three big dogs
 with nothing to do
 an oasis
-in the Bible Belt --
+in the Bible Belt—
 adult book store
 after the storm
 the streets
 have no names
-early autumn --
+early autumn—
 the golden highlights
 in her green hair
-half moon --
+half moon—
 something
 I'm forgetting
-mixed precipitation --
+mixed precipitation—
 a flat finish
 on Wall Street
-a long meeting --
+a long meeting—
 permanent marker
 on the erasble whiteboard
 sipping absinthe
 the impressionist painting
 of night
-urban incense --
+urban incense—
 a steaming
 manhole cover
 sailing the seas
-of my subconscious --
+of my subconscious—
 her fishnet stockings
-cold snap --
+cold snap—
 the junkyard dog's
 heavy chain
-wolf moon --
+wolf moon—
 suddenly I see her
 in a different light
-laundry day --
+laundry day—
 the search
 for matching socks
-Christmas leftovers --
+Christmas leftovers—
 my mother forgets
 why she called
-the sudden chill--
+the sudden chill—
 a fresh layer of ice
 on the fire escape
-bad beer --
+bad beer—
 the stock market
 goes flat
-mixed precipitation --
+mixed precipitation—
 she tells me I look good
 for my age
-enlightment --
+enlightment—
 a police car
 on fire
-Thanksgiving night --
+Thanksgiving night—
 an empty parking lot
 at the nursing home
-Thanksgiving rain --
+Thanksgiving rain—
 the unblinking eyes
 of a shelter dog
-Thanksgiving rain --
+Thanksgiving rain—
 the dog
 no one wanted
 alone at the bar
 the missing letters
 in a neon light
-new moon --
+new moon—
 the doctor schedules
 a biopsy
-morning fog --
+morning fog—
 an empty
 tequila bottle
 asleep
 on the subway floor
 the unknown soldier
-Veteran's Day --
+Veteran's Day—
 the old dog's
 gray muzzle
-Dia de los Muertos --
+Dia de los Muertos—
 her elegant cheek bones
 on a cold night
 the hollow echo of your voice
-tornado watch --
+tornado watch—
 now available
 in HD
 under attic dust
 another unopened envelope
-my daughter's birthday --
+my daughter's birthday—
 a child's balloon
 above the clouds
-spring mist --
+spring mist—
 my granddaughter cries
 in my arms
-a sudden chill --
+a sudden chill—
 my credit card
 declined
-Patriot's Day --
+Patriot's Day—
 a homeless veteran's
 weathered sign
-dusk --
+dusk—
 that song
 still makes me cry
-Holy Week --
+Holy Week—
 three bare trees
 against a gray sky
-morning mist --
+morning mist—
 the fragrance
 of strong coffee
-bitter wine --
+bitter wine—
 time for that conversation
 about Mom
 the old oak tree
 where we first kissed
 marked with an "X"
 new photos
-of my granddaughter --
+of my granddaughter—
 crocuses in bloom
-twilight --
+twilight—
 she tells me she has
 a spare toothbrush
-crescent moon --
+crescent moon—
 the fullness
 of her hips
-still pond --
+still pond—
 koi swim
 through the sky
-tempest in a teapot --
+tempest in a teapot—
 my mother
 serves me decaf
-equinox --
+equinox—
 an 18-wheeler crossing
 the double yellow line
-equinox --
+equinox—
 splitting
 the last of the wine
 still wandering
-the empty corridor --
+the empty corridor—
 cheap perfume
-winter storm watch --
+winter storm watch—
 beware of falling
 stock prices
-empty terminal --
+empty terminal—
 headline news
 for ghosts
-wolf moon --
+wolf moon—
 the sway
 of her hips
-mid-winter thaw --
+mid-winter thaw—
 an unscratched
 lottery ticket
-crowded train --
+crowded train—
 a clash
 of perfumes
-new moon -- 
+new moon— 
 forgetting
 old acquaintances
 the blank page
 learning nothing
 from the pine
-abandoned playground --
+abandoned playground—
 the graffiti
 fades 
-first date --
+first date—
 trying not to talk
 to her cleavage
-crescent moon --
+crescent moon—
 the dog sleeps
 with one eye open
 dusting off
-the Christmas lights --
+the Christmas lights—
 gibbous moon
-cold coffee --
+cold coffee—
 the crunch of a Christmas ball
 under foot
 her lips
-beckoning mine --
+beckoning mine—
 highway billboard
-snow flurries --
+snow flurries—
 my unborn granddaughter's
 heartbeat
-darkening skies --
+darkening skies—
 the final hours
 of the weekend
 the moon
 and my wine glass
 half full
-town landfill --
+town landfill—
 old timers
 arguing politics
-stock market report --
+stock market report—
 a stalled car
 in the intersection
-Day of the Dead --
+Day of the Dead—
 all the leftover
 Halloween candy
-hunter's moon --
+hunter's moon—
 searching
 for my keys
-cold night --
+cold night—
 I become
 the dog's pillow
-first snow --
+first snow—
 an almost
 perfect shave
-fair-weather clouds --
+fair-weather clouds—
 an ultrasound
 of my next grandchild
-a true wonder of the world --
+a true wonder of the world—
 how she fills
 her Grand Canyon t-shirt
-my rising blood pressure -
+my rising blood pressure—
 a vapor trail
 in the sky
-hot city night --
+hot city night—
 the sizzle
 of a broken sub-woofer
-her long legs ...
+her long legs...
 I walk right into
 a spider web
 loosening
 the top button of her blouse
 with my eyes
-snow turns to rain --
+snow turns to rain—
 the afterglow
 of the plow lights
-snow day --
+snow day—
 more white than I remember
 in my beard
 footprints in the snow
 words
 I can't take back
-New London winter --
+New London winter—
 the gleam of pleasure boats
 wrapped in plastic
-winter chill -
+winter chill—
 shredded plastic
 in a barbed wire fence
-lazy midtown morning -
+lazy midtown morning—
 another layer of paint
 on the rusty fire escape
-lazy midtown morning -
+lazy midtown morning—
 do those green copper gargoyles
 feel the cold?
-first of December -
+first of December—
 the darkness
 before dawn
-first of December -
+first of December—
 police tape clinging
 to a burned-out barn
-first of December -
+first of December—
 another cold cup
 of coffee
-winter clouds -
+winter clouds—
 my gray hair
 grayer
-December rain -
+December rain—
 the long night
 longer
-a break in the clouds --
+a break in the clouds—
 my third cup of coffee
 grows cold
-clear skies --
+clear skies—
 a solitary crow
 on a high-voltage wire
-November dusk --
+November dusk—
 do the streetlights know
 how early it is?
-November dusk --
+November dusk—
 the warmth
 of a familiar song
-overcast --
+overcast—
 just one more game
 of solitaire
-more rain --
+more rain—
 a mouse trapped
 between walls
-new moon --
+new moon—
 an abandoned car
 on lover's lane
-new moon --
+new moon—
 a missing
 mouse trap
-new moon --
+new moon—
 the mouse in the ceiling
 awakens
-autumn equinox --
+autumn equinox—
 my baseball glove
 right where I left it
-sudden chill --
+sudden chill—
 an empty bird feeder
 outside the nursing home
-waning moon --
+waning moon—
 a hand-printed sign reads:
 "lost dog"
-stifling heat --
+stifling heat—
 our new neighbors'
 argument
-heat wave --
+heat wave—
 the dog moves slowly
 from shadow to shadow
-restless night --
+restless night—
 a tree frog
 in and out of tune
-morning haze --
+morning haze—
 one light rinse of the coffee cup
 is good enough
-Memorial Day --
+Memorial Day—
 stars obscured
 by distant smoke
-red dragonfly --
+red dragonfly—
 my newest granddaughter's
 tiny fingers
 June cold snap
@@ -9508,47 +9497,47 @@ house for sale
 after the rain
 a light on in the basement
 of an empty house
-finally Friday --
+finally Friday—
 the dog so attentive
 around the grill
-cold April rain --
+cold April rain—
 I no longer remember
 your name
-cold April rain --
+cold April rain—
 my daughter's birthday
 on another continent
-cold April rain --
+cold April rain—
 the sediment
 at the bottom
 of a wine glass
 going out of business — 
-the naked mannequin’s 
+the naked mannequin's 
 Mardi Gras beads
-caffeine buzz --
+caffeine buzz—
 snow in the forecast
 somewhere else
-moonless night --
+moonless night—
 an ambulance speeds by
 with its lights out
-moonless night --
+moonless night—
 an empty can
 of whipped cream
-moonless night --
+moonless night—
 pulling the dog
 from shadow to shadow
 too wired to sleep
 too tired to dream
 winter wind
-crowded train --
+crowded train—
 her perfect lips
 pierced
-autumn rain --
+autumn rain—
 the warmth of one too many
 glasses of wine
-wolf moon --
+wolf moon—
 the dog
-won’t come in
-blue moon --
+won't come in
+blue moon—
 I wonder where my children
 are tonight ?
 bitter cold —
@@ -9560,91 +9549,91 @@ from my son
 December rain —
 a deer tail
 and then nothing
-April overcast --
+April overcast—
 my son turns twenty
 in Iraq
-March --
+March—
 a broken umbrella
 crosses the street
-deep winter --
+deep winter—
 a stray dog sniffs
 an empty coffee cup
-late train --
+late train—
 all the highlighted passages
 in his bible
 one week before Christmas
 a three-legged dog
 sniffs the trash
-crowded train --
+crowded train—
 the drunk offers me his seat
 for five dollars
-the trainyard at dawn --
+the trainyard at dawn—
 new graffiti
 on an old caboose
-equinox --
+equinox—
 two limes
 in my margarita
-Veteran's Day --
+Veteran's Day—
 a frightened dog
 at the animal shelter
-twilight --
+twilight—
 I direct a stranger
 to the wrong train
-Valentine's Day --
+Valentine's Day—
 awakened by a kiss
 from the dog
-burning leaves --
+burning leaves—
 Kerry concedes
 the election
-rumors of war --
+rumors of war—
 removing decorations
 from the Christmas tree
 dirty snow
 the conductor flirts
 with school girls
-troubled sleep --
+troubled sleep—
 steam rises
 from a storm sewer
-my daughter's 18th birthday --
+my daughter's 18th birthday—
 the warming sunshine
 in her hair
-Wall Street watch --
+Wall Street watch—
 the unnerving plunge
 of her neckline
 stood up
-by a part-time lover --
+by a part-time lover—
 shooting star
-orthopedist's office --
+orthopedist's office—
 all paintings tilted
 slightly off center
-afghan invasion --
+afghan invasion—
 the dog
 on my side of the bed
-approaching storm --
+approaching storm—
 my twelve year-old's fascination
 with war
-Autumn colors --
+Autumn colors—
 the receptionist's
 bright red hair
-first frost --
+first frost—
 I trim
 my graying beard
 three shades too dark
 the lipstick
 on his collar
 a familar name
-on the victims list --
+on the victims list—
 my coffee grows cold
 between
 silent construction cranes
 the Milky Way
-the end of summer --
+the end of summer—
 my light beer
 suddenly darker
-my daughter starts college --
+my daughter starts college—
 another empty
 pint of beer
-first day of vacation --
+first day of vacation—
 shooting star
 on a moonless night
 train running late
@@ -9653,13 +9642,13 @@ the station wall
 planning our trip
 lightning flashes
 beyond the horizon
-distant thunder --
+distant thunder—
 a shower of pollen
 falls from the trees
-the haze lifts --
+the haze lifts—
 she tosses her hair
 over her shoulder
-dangerous lightning --
+dangerous lightning—
 she watches me
 watching her
 unhooking her bra
@@ -9668,7 +9657,7 @@ over the treetops
 my daughter's graduation
 tightening the knot
 on my necktie
-crowded train station --
+crowded train station—
 the tap tap thump
 of a blind man's cane
 mist turns to rain
@@ -9688,13 +9677,13 @@ from an empty cup of coffee
 wedding night
 the parents of the bride
 in separate beds
-Spring snow --
+Spring snow—
 an expecting mother rests
 her hands on her belly
-energy crisis --
+energy crisis—
 long line
 at the coffee shop
-Ash Wednesday --
+Ash Wednesday—
 the priest
 lights a cigarette
 where dirty snow
@@ -9702,34 +9691,34 @@ meets road salt
 a dozen roses
 after so many thorns
 a rare and perfect rose
-snow mixes with rain --
+snow mixes with rain—
 my mother keeps calling me
 by my brother's name
-away on business --
+away on business—
 the restless cat
 on your side of the bed
-lunch hour --
+lunch hour—
 the automatic teller machine
 eats my card
 staring at her neckline
 the deep plunge
 of the NASDAQ
-the NASDAQ falls --
+the NASDAQ falls—
 moss clings
 to a weathered tombstone
-troubled sleep --
+troubled sleep—
 somewhere in the darkness
 an unlocked door
-commuter daydream --
+commuter daydream—
 I follow the slit in her skirt
 into oncoming trafic
 her well-tanned shoulders
-wrapped in a sweater --
+wrapped in a sweater—
 the end of summer
 asleep on the train
 the gentle rise and fall
 of her breasts
-first date --
+first date—
 under the streetlight
 our shadows hold hands
 tent revival
@@ -9741,7 +9730,7 @@ of her lipstick
 reflecting
 the graffiti landscape
 Soho rain
-my son's eleventh birthday --
+my son's eleventh birthday—
 miles of cold gray rain
 between us
 in the produce aisle
@@ -9777,7 +9766,7 @@ in the mud
 temple courtyard
 through the morning fog
 peach blossoms
-abandoned house --
+abandoned house—
 children picking mangoes
 in the yard
 late summer
@@ -9801,16 +9790,16 @@ planted in remembrance
 first raindrops
 the freight train I passed
 two states ago
-hard winter ground -
+hard winter ground—
 we argue about
 the constellations
-walking to work -
+walking to work—
 the blossoms on my street
 late this year
 snow outside
 a small bowl
 of imported oranges
-Veterans' cemetery--
+Veterans' cemetery—
 a wide expanse of lawn
 beyond the graves.
 A pear;
@@ -9832,11 +9821,11 @@ dusk
 the old gate sags
 into its shadow
 all day rain
-the refrigerator’s
+the refrigerator's
 ommmmm
 jumping ice cubes
 all over the floor
-... a hair in my whiskey
+...a hair in my whiskey
 new freedom
 blue dress now
 a table cloth
@@ -9850,7 +9839,7 @@ langs zijderoute
 dansende rupsencocons
 in kokend water
 her garden bench
-she was always sitting----
+she was always sitting——
 butterfly on moss
 a temple garden
 snowy path to bronze bell
@@ -9858,7 +9847,7 @@ having deep footprints
 wiping the full moon
 from a wet glossy table
 with my bare hand
-flea market -
+flea market—
 a sitting buddha
 on his left side
 early winter...
@@ -9879,13 +9868,13 @@ I just noticed
 rain scented air
 a thousand frogs
 croaking
-Mekong river--
+Mekong river—
 the swaying of our hammocks
 bone dust
 after cremation
 the winter sky
 behind the cafe
-the sound of children--
+the sound of children—
 or crows
 on the clothesline
 his and her shirts
@@ -9938,13 +9927,13 @@ scatter the lawn
 Christmas Day
 a present of rain
 on the pony's back
-november blossom --
+november blossom—
 a brightness to find
 what might have been lost
 deep autumn
 there's wind enough to winnow
 wild rice
-shortening days ...
+shortening days...
 the petals fall
 into dust
 leaver's day
@@ -10086,16 +10075,16 @@ we race dry leaves
 down the road home
 the north wind and me
 her plastic lifelines
-in harsh hospital light -
+in harsh hospital light—
 even fresh flowers, fade
 a dog stares
 his cataract eyes
 the colour of moons
-five star hotel -
+five star hotel—
 a cockroach scurries
 pool-side
 his old hands
-working the soil -
+working the soil—
 smell of brewed tea
 rain all day stacks of old magazines closer to the door
 church ruins
@@ -10110,7 +10099,7 @@ covers his urn
 six years
 presents under the tree
 still wrapped
-hawk's hover -
+hawk's hover—
 the view of calm seas
 through a gunport
 at the memorial
@@ -10134,16 +10123,16 @@ subway in may
 spring wind
 on my neck
 cooler than your breath
-parting . . .
+parting...
 the clatter of train tracks
 into dark
 fading bougainvillea
- in the night sky . . .
+ in the night sky...
     mars!
-splatting drops . . .
+splatting drops...
   moments ago they held
       a rainbow
-after the long wait . . .
+after the long wait...
   two unattended dove eggs
       in summer rain
 from the armoire,
@@ -10159,15 +10148,15 @@ mothers' day
 I let the phone ring longer
 for her
 scenting two pages
-of the Webster's Unabridged . . .
+of the Webster's Unabridged...
 wild lilac
-Valentine's dinner--
+Valentine's dinner—
 nothing on the menu
 suits him
-stroke of  . . .
+stroke of ...
 his snoring punctuated
 by fireworks
-stillness . . .
+stillness...
 a few flat stones
 beneath the pine
 purple irises
@@ -10185,18 +10174,18 @@ around my shoulders
 computer drone
 overtaken by the sound
 of pounding rain
-deeper into autumn--
+deeper into autumn—
 she aches for an honest touch
-heat storm--
+heat storm—
 a quick breath between flash
 and crashing thunder
 in the mirror
 a much older woman
 returns my glance
-April shower -
+April shower—
 last drop
 of green tea
-Morning fog -
+Morning fog—
 only the scent of
 eucalyptus
 summer solstice
@@ -10272,7 +10261,7 @@ flickering street light
 from darkness to darkness
 the flight of a bat
 a love letter
-in mother's handwriting... 
+in mother's handwriting...
 asters gone to seed
 first notes
 of a busker's clarinet...
@@ -10293,55 +10282,55 @@ heavy snowfall
 a hawk on a fence post
 almost white
 winter depression the colour of rain in the river
-high sun -
+high sun—
 his daughter
 on his shoulders
-ruined stadium -
+ruined stadium—
 all that remains
 are bird songs
-long day -
+long day—
 a warm breeze carries
 the smell of the brewery
 a wide open bay 
 as far as the eye can see 
 the herring gull's call
-waiting for you~
+waiting for you
 the changeful rhythm 
 of the rain
-airport gate ~
+airport gate
 the undetected poison
 of your words
 spring changes...
 I clean rust off the latch
 of an old desire
-spring in the air -
+spring in the air—
 the stone path to the mailbox
 well polished
-autumn light - 
+autumn light—
 in the silent glades
 me and the gun...
-late fall -
+late fall—
 the scent of rain
 in your hair
 watching
 the lunar eclipse
 a dead rose
-autumn leaves--
+autumn leaves—
 the harvest moon
 fades
-sudden hail--
+sudden hail—
 the argument breaks off
 mid-sentence
-sudden hail--
+sudden hail—
 she tells me to be careful
 what I wish for
-distant thunder--
+distant thunder—
 I dream I've forgotten
 where my parents live
-first frost--
+first frost—
 the squirrel plants acorns
 where we buried the cat
-fall equinox--
+fall equinox—
 a black squirrel running
 on the power line
 mudslide
@@ -10356,7 +10345,7 @@ out pumpkin eyes
 snow fury—
 the coffeecup still warm
 in my hand
-winter leaf --
+winter leaf—
 how she cups the pills
 in her hand
 climbing the walls
@@ -10364,7 +10353,7 @@ of the disused youth club:
 flowering hops
 The bassline slinks deeper with the dusk,
 sinks deep into the vein.
-mussel-blue skies . . .
+mussel-blue skies...
 the cherry blossom bright
 by the brick wall
 around the headstone
@@ -10445,7 +10434,7 @@ turning
 waiting by the door
 the sun
 rising
-shortest day--
+shortest day—
 her countdown to christmas
 quickens
 dusk breeze
@@ -10457,19 +10446,19 @@ to an absent moon
 still smiling
 water beads and drips
 off Buddha's nose
-forest silence. . .
+forest silence...
 the cool green glow of lichen
 wet with sunlit steam
-old village. . .
+old village...
 mosquitos enough
 for everyone
-sweeping leaves. . .
+sweeping leaves...
 her lovesong interupted
 by a sigh
-Infinite white -
+Infinite white—
 a solitary tree
 supporting the sky
-rush hour -
+rush hour—
 one leaf's journey
 to the ground
 autumn trail
@@ -10478,9 +10467,6 @@ lingers
 pouring sunset
 from a beer bottle
 the first star
-(coucher de soleil ruissellant
-d'une bouteille de bière
-la première étoile)
 the owl
 i hear but never see
 november dusk
@@ -10728,7 +10714,7 @@ these gnawing doubts
 a famished mallard
 has emigrated
 to the city zoo
-blackout --
+blackout—
 how bright Mars shines
 this summer night!
 skyscraper
@@ -10740,7 +10726,7 @@ has it too
 afternoon rain-
 a neighbor opening her curtains
 too
-Full moon night -
+Full moon night—
 the shape of the mannequins' breasts
 in the shop-window
 New-York September
@@ -10749,28 +10735,28 @@ the billowing cloud
 hurry up
 to cross the trail
 reckless snail !
-midnight ...
+midnight...
 a cricket's falsetto
 from the lingerie drawer
-the last dance -
+the last dance—
 her cheap perfume
 don't matter
-farm stand ...
+farm stand...
 he squeezes the melons
 she checks the zucchini
 almost home
 pausing by the pond
 to reflect
-day's end --
+day's end—
 a cloud of fireflies
 in the field
-autumn chill . . .
+autumn chill...
 the distant whistle
 of the evening train
-the earth softened ...
+the earth softened...
 we planted tulips
 when he loved me
-winter rain --
+winter rain—
 one flowered umbrella
 at the funeral
 the coastal road...
@@ -10779,38 +10765,38 @@ with sunset
 he kissed me
 on the fourth of july
 fireworks!!
-old teahouse --
+old teahouse—
 a swear word from
 the green parrot
 good news
 the headlines blurred
 in morning rain
-almost dawn . . .
+almost dawn...
 thoughts of you
 when we were us
-rainbow flags ...
+rainbow flags...
 the haunting sounds
 of amazing grace
-seasons stilled--
+seasons stilled—
 a red paper poppy
 in memoriam
 boyhood friends
-home once again --
+home once again—
 side by side
 husband gone-
 his watch ticks it's last tock
 at her garage sale
-first date --
+first date—
 wondering if the hat
 is too much
-afternoon tryst ...
+afternoon tryst...
 thunder bangs overhead
 in the sticky heat
-closet renovation--
+closet renovation—
 removing all her clothes
 she nails the carpenter
 steamy sex
-in the church parking lot -
+in the church parking lot—
 amazing Grace
 the pastor's daughter
 her Sunday dress
@@ -10821,13 +10807,13 @@ on the painted pony
 husband at work ?
 the mailman knocks
 to see the newborn
-house renovation -
+house renovation—
 the magic mushrooms
 he hid 25 years ago
 hail storm
 rearranging gravel
 in the Zen garden
-winter rain --
+winter rain—
 a flowered umbrella
 at the funeral
 late night date
@@ -10836,40 +10822,40 @@ all day long
 Sunday brunch
 his eyes on the crumb
 kissing her cleavage
-morning overcast--
+morning overcast—
 she adds more blush 
 to her cheeks
-sudden hail--
+sudden hail—
 we sip bitter coffee
 rehashing last night
 tasting
 the freckle on her cleavage
 with my eyes
-rummage sale --
+rummage sale—
 her husband in the chair
 not worth keeping
-garage sale --
+garage sale—
 the flowered couch on which 
 I became a woman
-arguing downstairs --
+arguing downstairs—
 she shuts the windows
 in her doll house
 meditating and 
-resplendent in sunlight--
+resplendent in sunlight—
 she finally swats the fly
-first snow . . .
+first snow...
 next to the new calendar
 a clean slate
-train whistle . . .
+train whistle...
 palm prints linger
 against the glass
-wedding anniversary--
+wedding anniversary—
 my parent's ashes, together
 in the moonlight
 surprise sneeze
 the dandelion blows away
 without a wish
-seasons stilled --
+seasons stilled—
 a red paper poppy
 in memoriam
 an ancient path
@@ -10893,19 +10879,19 @@ of an apple
 lifting fog
 the face of an old friend
 on my morning walk
-daybreak ...
+daybreak...
 still sipping bitter coffee
 we rehash last night
 stars at dusk
 a spray of willow buds
 by the gate
-requiem mass -
+requiem mass—
 flecks of dust drift
 in stifling air
-tense meeting --
+tense meeting—
 my chewing gum
 out of flavor
-inhaling spring -
+inhaling spring—
 her new breast
 two months old
 morning rush
@@ -10914,7 +10900,7 @@ on his coffee cup
 never in darkness
 ground zero lights the night
 New Year's Eve
-moonless night -
+moonless night—
 the bell buoy
 talks to itself
 morning tea
@@ -10930,15 +10916,15 @@ snail mail
 delivered
 in the cold rain
 mother and daughter
-chess game --
+chess game—
 two queens
-haiku conference --
+haiku conference—
 lecturer delivers address
 in three short sentences
-haiku moment --
+haiku moment—
 she writes her number
 on his napkin
-against the glass -
+against the glass—
 her palm prints
 linger
 nude beach
@@ -10947,10 +10933,10 @@ and sighs
 on her nape
 beads of rain
 slowly I follow them down
-kitchen encounter ~
+kitchen encounter
 tasting the wine
 from his lips
-summer sidewalk -
+summer sidewalk—
 drops of rain
 steam
 water bed
@@ -11008,7 +10994,7 @@ awake too early
 trees shrouded in mist
 the slow tick of a clock
 the damp stain on the wall
-only looks like a damp stain -
+only looks like a damp stain—
 Monday morning
 sunset over the sea
 I remember when my mother
@@ -11115,17 +11101,17 @@ after the rain
 the Big Dipper—
 rows of corn connect
 farm to farm
-autumn chill -
+autumn chill—
 the silence
 of the bee hive
-cloudy skies -
+cloudy skies—
 different shades of shadow
 in the cauliflower
 tai chi
 slicing the morning mist
 in quarters
 the therapist says nothing
-I haven't told myself -
+I haven't told myself—
 rainless clouds
 late night at the airport
 the shoe shine man
@@ -11136,11 +11122,11 @@ the Big Dipper
 hot summer day
 a bowl of picked berries
 without sugar
-beach house -
+beach house—
 unlocking the gate
 to the ocean
 in and out
-of the haiku lesson -
+of the haiku lesson—
 the fragrance of the lilies
 open window
 the moon's reflection
@@ -11160,7 +11146,7 @@ little Buddha
 Near dusk
 a flash of gold
 in the heron's beak
-Dead robin -- 
+Dead robin— 
 its breast still
 burning red.
 Not so good
@@ -11187,16 +11173,16 @@ on the newspaper
 just before dawn
 the bright moon
 of the computer screen
-first snow fall - 
+first snow fall—
 covered with maple leaves
 at sunrise
 first light
 broken blue shell
 under the maple
-All Saints Day -
+All Saints Day—
 in the field only small
 pumpkins are left
-December dusk -
+December dusk—
 a solitary pine tree
 all lit up
 We talk in the street,
@@ -11205,13 +11191,13 @@ and mad rushing crowd
 silent phone
 only the ring
 from his teacup
-her fresh flowers -
+her fresh flowers—
 his fresh grave
 valentine's day
-valentines -
+valentines—
 the mailman's steps
 break the ice
-rush hour ~
+rush hour
 closing the car window
 on my hair
 rainy Baltimore
@@ -11244,53 +11230,53 @@ after all this time
 steam billows
 from the cooling tower ::
 sunrise
-morning mist--
+morning mist—
 a canada goose
 asleep on the dock
 painting
-the dark side of the house--
+the dark side of the house—
 solstice
-midnight--
+midnight—
 the changing wind
 in the silver maples
-the boat crests a wave -
+the boat crests a wave—
 tracing my finger around
 an ancient stone
-urban geese -
+urban geese—
 voices extemporise
 around a sitar
-so cold -
+so cold—
 a goose honks its way
 across the night sky
-sodium light -
+sodium light—
 a darker world beneath
 the puddles
-lockerbie -
+lockerbie—
 the long walk from graveyard
 into town
-silbury hill -
+silbury hill—
 my wife pregnant with our
 first child
-cold snap -
+cold snap—
 more than my prints
 on the camera
 summer haze-
 a lone grey wolf pads south
 along the highway
-thrill of her flute -
+thrill of her flute—
 twenty three years
 of our lips touching
-stilled by the stream -
+stilled by the stream—
 delicate frost flowers
 crunch under work boots
-evening traffic -
+evening traffic—
 caught in a low moon
 the heron's flight
-Distant thunder--
+Distant thunder—
 the smell of rain
 before the storm.
 Under the Magnolia
-red seeds float away--
+red seeds float away—
 November rain.
 april noon
 out come the sun
@@ -11319,7 +11305,7 @@ realigning
 riding down the escalator
 the scent of snow
 on damp coats
-cracking walnut--
+cracking walnut—
 there might be
 another universe
 around where the
@@ -11329,12 +11315,12 @@ from an old temple
 to an old temple
 autumn wind
 hundreds of
-gentians blooming--
+gentians blooming—
 class reunion
-typhoon passed--
+typhoon passed—
 one watering can
 in the sandbox
-typhoon passed--
+typhoon passed—
 comes the
 local circus
 red dragonflies
@@ -11431,7 +11417,7 @@ on bamboo branches
 rain clouds
 fragrance of
 sweet basil
-hunter's moon --
+hunter's moon—
 the end of the path
 darker
 after the guests leave
@@ -11447,7 +11433,7 @@ growing up her favourite doll now lives alone
 frost
 on the spent firework casing
 new year's day
-winter park -
+winter park—
 white wings and blue lights
 flashing
 photo archive
@@ -11459,10 +11445,10 @@ last apples
 clematis climbing
 climbing through
 the climbing rose
-fifteen elephants -
+fifteen elephants—
 after the storm
 the cockerels waking
-anti social behaviour -
+anti social behaviour—
 all night the wind
 kicks a can around
 day long weeding
@@ -11498,7 +11484,7 @@ the same resolution
 morning mizzle
 the screech of a gull
 far from the sea 
-tinted windows -
+tinted windows—
 through the gap
 his fingers wriggle thanks
 approaching storm
@@ -11508,10 +11494,10 @@ April 2nd
 the snow
 still lying
 two dog walkers
-meet -
+meet—
 two conversations
 the broken panes
-of the old greenhouse -
+of the old greenhouse—
 still the new shoots
 school fair
 on the fireman's helmet
@@ -11522,28 +11508,28 @@ in his own steam
 morning rush hour
 at the side of the road
 wild damsons
-Caruso recording -
+Caruso recording—
 the gramophone crackle
 lights the fires in his eye
-the police car slows -
+the police car slows—
 suburban foxes
 looting from bins
-restless -
+restless—
 across the summer night
 siren upon siren
 still the spent firework's
-cordite smell -
+cordite smell—
 nest of serpents
 the name
-I didn't want to see -
+I didn't want to see—
 bitter coffee
-airborne again -
+airborne again—
 the roadkill's
 feathers
 road trip
 at the end of the argument
 a patch of blue
-the heather still in bloom -
+the heather still in bloom—
 we take Mum the long way
 back to the hospice
 chuntering at something
@@ -11555,7 +11541,7 @@ a white butterfly
 bringing only
 silence
 the storm cloud's weight
-roadside memorial -
+roadside memorial—
 the faded plastic windmills
 still racing
 two minutes silence
@@ -11567,22 +11553,22 @@ watching me
 looking at
 the mirror's reflection
 is that really you ?
-riverside promenade --
+riverside promenade—
 seniors stroll through
 falling leaves
 a koi rises
-to meet a falling leaf -
+to meet a falling leaf—
 autumn afternoon
 Empty eyes
 gaze at a poppy field...
 journey's end.
 a layer of ice
-forms on the red sleigh--
+forms on the red sleigh—
 february rains
-high tide--
+high tide—
 feeling the moon's pull
 in the waves
-january freeze--
+january freeze—
 koi chase each other
 above the television
 groundhog day...
@@ -11600,20 +11586,20 @@ white snow cover
 new widescreen tv:
 watching junk in
 high definition
-winter day's end... 
+winter day's end...
 a bowl of brown rice miso, 
 warm in the hands
 december warm spell
 the neighborhood snowmen
 are all plastic
-frosty meadow-- 
+frosty meadow—
 another dawn
 reaches across
-between sips... 
+between sips...
 reading a book 
 about sake
 her piano-playing 
-comes to an end... 
+comes to an end...
 sounds of autumn hail
 first snowfall
 the dog's legs
@@ -11624,7 +11610,7 @@ to be mailed, last year
 at a desk,
 i write
 this ku
-a bluejay takes flight--
+a bluejay takes flight—
 the neighbour's car
 needs washing
 in the back alley
@@ -11648,7 +11634,7 @@ and the wind
 moss covered church
 creeping through the open door
 the warmth of May
-crackling in the air–
+crackling in the air
 on a frigid afternoon
 tea and ginger snaps
 ripe wheat fields
@@ -11664,7 +11650,7 @@ field of dandelions
 thousands of wishes
 going unused
 my umbrella
-flipped in the wind–
+flipped in the wind
 uncertain days
 masons at work
 creeping along the stone wall
@@ -11807,13 +11793,13 @@ fireflies
 cricket in the house-
 if only we shared
 the same bedtime
-the Thanksgiving meal -
+the Thanksgiving meal—
 after eating the talk
 slows down
-black-out--
+black-out—
 the holiday glow
 of fireflies
-black-out--
+black-out—
 in my neighbor's house
 a room to room glow
 A rippled moon :
@@ -11830,10 +11816,10 @@ among the shifting hues
 of dusk
 the faint calligraphy
 of swans
-crocus breeze -
+crocus breeze—
 my dying mother's words
 come back to me
-sudden downpour -
+sudden downpour—
 the memory of a butterfly
 washed away
 the corridor
@@ -11842,42 +11828,42 @@ news of your death
 closer
 with each step
 from one year
-to another -
+to another—
 the same moon
-day moon -
+day moon—
 the distance between us
 full of silence
 new moon
 blue shadows in grey light
 and week old snow
 yellow walnut leaves
-slowly appear on the lawn--
+slowly appear on the lawn—
 early morning light
-the mulberry--
+the mulberry—
 one brief smell of cut wood
 in two hours work
 homebound ferry
 thoughts zigzagging
 with the terns
 the tall corn's shadow
-stretched across the grave yard --
+stretched across the grave yard—
 coming of Autumn
 eye to eye
-with a flight of geese --
+with a flight of geese—
 lingering heat
 cicada song
-all through the twilight --
+all through the twilight—
 the moon also rises
-strong wind, little snow --
+strong wind, little snow—
 scraps and notes I've neglected
 to throw away
 the tang of hot tar
-carried on a breeze --
+carried on a breeze—
 summer's end
-summer clouds --
+summer clouds—
 not enough paint to hide
 the graffiti
-rabbit and the hawk -
+rabbit and the hawk—
 an awful truth stains
 the fresh snow red
 medicine wheels
@@ -12012,19 +11998,19 @@ from the ice cream truck
 waiting for the moon
 before departing
 ducks on the roof
-night shift - still
+night shift—still
 I put on some make up
 to lighten my darkness
-green rimmed eye -
+green rimmed eye—
 a glimmer of youth buried
 in the fading iris
-muddy grave -
+muddy grave—
 the rich scent of roses
 so red
-full moon -
+full moon—
 the bride tells me
 it was forced
-fridge magnet -
+fridge magnet—
 snack after snack
 wasting away
 advanced Parkinsonism
@@ -12038,7 +12024,7 @@ more present than the past
 gale force wind
 dandelion seeds
 in ocean depth
-old barn --
+old barn—
 the swallows' nests
 long abandonned
 Eid's sale
@@ -12048,11 +12034,11 @@ wild Foehn
 another murder
 goes unsolved
 mango flavoured tea
-in a silver tin - departing guests
+in a silver tin—departing guests
 linger a while
-alphabet soup -
+alphabet soup—
 my best haiku ever
-...... digested
+......digested
 oh moon, moon
 above so much powdery snow
 father is still ill
@@ -12062,18 +12048,12 @@ insect onboard
 first snow
 the asylum seeker
 thoughts on the land
-lune des pluies
-même plus long le jour
-si sombre encore
 checking dividends
 on the cashpoint screen
 to and fro...an ant
 roaches, cockroaches
 heroins and cracks
 in pavements and minds
-longue péniche
-lente sur le canal
-la lune
 Remembrance Day-
 even the traffic
 pauses for 2 minutes
@@ -12110,7 +12090,7 @@ silently day becomes night in this childless house
 picking up his toys
 still in my funeral clothes
 the very last time
-solitary walk -
+solitary walk—
 at nightfall the flash
 of distant fireworks
 stroke of midnight
@@ -12127,7 +12107,7 @@ smells of French toast
 and cinnamon...
 mother-in-law's face
 on the biggest pumpkin
-harvest moon --
+harvest moon—
 untwisting
 the rose bud
 spring rain
@@ -12148,7 +12128,7 @@ he says my name
 with a sigh
 full moon—
 a swollen tick
-on the sow’s ear
+on the sow's ear
 washday gossip—
 curtains flapping
 in the breeze
@@ -12177,7 +12157,7 @@ detox center—
 dry curling leaves
 litter the doorway
 full moon—
-the old dog’s howl
+the old dog's howl
 falls into a yawn
 falling leaves—
 the cemetery
@@ -12252,7 +12232,7 @@ the heat
 end of an affair—
 the ligustrum tree
 no longer in bloom
-mother’s day—
+mother's day—
 she wears her best apron
 to wash the dishes
 news of
@@ -12274,7 +12254,7 @@ mother's faded notes
 for dewberry jam
 first blossoms—
 three speckled eggs
-in the wren’s nest
+in the wren's nest
 spring rain
 my tears fall for the nestling
 the cat gifts me
@@ -12313,7 +12293,7 @@ the length
 of our quarrel
 spring storm—
 a small blue feather
-in the cat’s whiskers
+in the cat's whiskers
 the bottle empty
 but my head still
 full of you
@@ -12341,7 +12321,7 @@ and the jeans of
 her latest boyfriend
 whiskey moon—
 a morning after
-at the bottle’s end
+at the bottle's end
 a lake
 brimming with mountains—
 trout ripple the sky
@@ -12363,9 +12343,9 @@ leave the system
 house clearance
 room by room by room
 my mother disappears
-rain on the river– 
+rain on the river—
 when does white become
-its darkest colour --
+its darkest colour—
 Kirkstone Pass
 a sheepdog gathers
 its part of the world
@@ -12439,7 +12419,7 @@ garlic snores
 the rain
 almost a friend
 this funeral
-tired new mom -
+tired new mom—
 brown leaves
 falling from the green trees
 curly morning clouds
@@ -12463,10 +12443,10 @@ long winter nights
 two moons
 on August 27th
 Mother's birthdate
-saw grass--
+saw grass—
 bluebottles teeming
 on a white skull
-late afternoon--
+late afternoon—
 the first cow
 heads to the barn
 porn shop-
@@ -12491,10 +12471,10 @@ a hundred thousand spectators
 three laureates
 a moth
 flooded paddies
-floating rice shoots -
+floating rice shoots—
 relentless rain
 unmown grass
-in the cemetery -
+in the cemetery—
 lighting bugs
 the colour of wind
 through pine trees
@@ -12502,7 +12482,7 @@ must be blue
 lighthouse
 above the sound
 silence
-cancer ward -
+cancer ward—
 a yellow woman
 applies lipstick
 mother daughter
@@ -12619,7 +12599,7 @@ summer haze
 the thin gauze
 of her white dress
 pale legs
-under a white moon~
+under a white moon
 shivering aspen
 beach house
 a bit of sand
@@ -12629,7 +12609,7 @@ the pattern in your eyes
 before death drained their color
 and left you in that vacant room
 to dream of open skies
-dark lamp shade--
+dark lamp shade—
 squinting her eyes in low light
 to read your letter
 tuesday sunrise
@@ -12653,10 +12633,10 @@ of autumn light
 heavy leaves
 in the evening rain
 heaps of darkness
-winter morning --
+winter morning—
 this egg and me
 in the kitchen
-air-raid alarm --
+air-raid alarm—
 traffic lights are working
 for no one
 persimmon tree
@@ -12677,37 +12657,37 @@ goes on their list
 first frost
 why did I never
 plant evergreens?
-harvest days--
+harvest days—
 a fat toad
 leaves the garden
-the coming rain-- 
+the coming rain—
 bird calls echo 
 along the creek
 early spring
 pallets of fertilizer
 on the loading dock
-steeping tea--
+steeping tea—
 no more or less
 of the thin snow
-first snow--
+first snow—
 a dusting of flour
 in the cake pans
-cinco de mayo--
+cinco de mayo—
 I walk downhill to watch
 the moon rise again
-spring storm--
+spring storm—
 overripe bananas
 in the kitchen
-evening thunder--
+evening thunder—
 robin calls echo
 across the park
-the barn doors open--
+the barn doors open—
 dry leaves sweep
 into the muddy yard
-no moon--
+no moon—
 the individual
 songs of crickets
-passing monarchs --
+passing monarchs—
 a few leaves flutter
 to the road
 cicadas
@@ -12736,12 +12716,12 @@ during the vigil
 a withered flower
 on the tiled floor
 a gull gliding
-out of the cloud's shadow -
+out of the cloud's shadow—
 suddenly white
 freight train
 a load of snow
 going south
-a chill ~
+a chill
 just before the drizzle
 wind chime notes
 rail track
@@ -12768,7 +12748,7 @@ in the knife's blade
 The New Millenium
 brought to my window
 two new icycles
-concert under the stars --
+concert under the stars—
 a drop of sweat lost
 in her décolletage
 autumn melancholy
@@ -12781,7 +12761,7 @@ apricot blossoms
 the birth of our first
 granddaughter
 blades of grass
-between the flagstones ...
+between the flagstones...
 Easter afternoon
 Monday moon
 the bent backs
@@ -12813,7 +12793,7 @@ and moon
 half moon
 on the river the sound
 of cracking ice
-falling snow ...
+falling snow...
 she brings his urn closer
 to the window
 attractive
@@ -12822,7 +12802,7 @@ an oak leaf
 autumn mist...
 what is she doing now
 my mother?
-September rain ...
+September rain...
 unaware of any pain
 a peach falls
 old temple
@@ -12831,13 +12811,13 @@ are new
 murmurings
 in the old temple
 summer wind
-summer rain ...
+summer rain...
 drinking tea to the cadence
 of falling leaves
 warm afternoon
 a fly with nowhere
 to go
-flat moon ...
+flat moon...
 an aspirine tablet and a
 glass of water
 the teacup
@@ -12882,11 +12862,11 @@ the light turns green
 I wake beside
 my daughter's sick bed
 a howling dog
-night of meteorites --
+night of meteorites—
 enjoying the sound of rain
 instead
 winter window
-closed to the cold -
+closed to the cold—
 purple orchid
 sunflowers in bloom 
 white flags
@@ -12897,22 +12877,22 @@ On my short walk home
 morning sun
 a constellation of holes
 in the rhubarb leaf
-autumn equinox--
+autumn equinox—
 the snap
 of a plumb line
-forest bathing . . .
+forest bathing...
 the scent of her
 wildflower shampoo
-field of poppies . . .
+field of poppies...
 a light breeze
 fans the flames
 heavy air
 the mango tree thick
 with iguanas
-book group . . .
+book group...
 the cat chooses
 my lap
-Perseids . . .
+Perseids...
 soft thuds here and there
 in the orchard
 gurgles 
@@ -12927,37 +12907,37 @@ this familiar rain
 family photo
 the blur of
 the dog's tail
-snow cover . . .
+snow cover...
 the remaining panels
 of a greenhouse
-new moon . . . 
+new moon...
 the thud
 of a walnut
-Perseids . . . 
+Perseids...
 somewhere a cow
 calls for her calf
 summer solstice
 unrolling dust
 with the blinds
 just beyond
-the candle's reach . . .
+the candle's reach...
 fireflies
-200 miles . . .
+200 miles...
 this plum blossom
 on my windshield
-winter solstice . . .
+winter solstice...
 the reverse side
 of the needlepoint
 quietly joining
-the conversation . . .
+the conversation...
 prairie stars
-painted clouds . . .
+painted clouds...
 the pause before
 answering "fine"
 after the stroke
 only half
 a smile
-crossroads--
+crossroads—
 a spiderweb spans
 both signs
 open window
@@ -12969,13 +12949,13 @@ the cries of geese
 after our quarrel
 the frog resumes
 his croaking
-leap day --
+leap day—
 sitting on my suitcase
 I make it fit
 after
-the kite festival . . . 
+the kite festival...
 stars
-poetry workshop --
+poetry workshop—
 men compare
 fountain pens
 Ides of March
@@ -12984,16 +12964,16 @@ of buzzards
 in the attic
 an antique scale
 weighing dust
-middle of winter . . .
+middle of winter...
 the fresh scent
 of clean laundry
 early autumn
 a round orange leaf
 curled on the pavement
-foggy morning . . .
+foggy morning...
 blazing with bittersweet
 the cemetery wall
-leaden clouds . . .
+leaden clouds...
 the way the bare trees
 support them
 a whiff
@@ -13003,9 +12983,9 @@ writing I love you
 in the pollen dust
 on her windshield
 even the memory
-of winter is melted . . .
+of winter is melted...
 blazing summer day
-empty lot . . .
+empty lot...
 and still those tulips
 where once was a garden
 summer solstice
@@ -13017,29 +12997,28 @@ cut tulips
 riverside wedding —
 the flower girl
 picks a dandelion
-Terrassengärten . . .
 from a quiet corner
 the sound of a zither
 from nowhere
-to nowhere . . .
+to nowhere...
 bridge in fog
 saffron smudges
-in the evening sky . . . 
+in the evening sky...
  birdsong
-examinations ...
+examinations...
 blank sheets as students
 observe the falling leaves
-marble moon ...
+marble moon...
 the staccato of high heels
 at rush hour
 sampling my husband's
-home-made wine ...
+home-made wine...
 autumn evening
 stuck in traffic
 dreaming of the monsoon
 in a far-away land
 at the window
-the drumming of rain ...
+the drumming of rain...
 I catch up on sleep
 this morning the sun
 a fried egg on a plate
@@ -13047,7 +13026,7 @@ of blue china
 doves
 on the TV antenna
 war on TV
-chirping birds --
+chirping birds—
 the instant I press
 the stop button
 new year...
@@ -13056,23 +13035,23 @@ an old leaf
 too soon the darkness
 your last words lingering
 in mist
-moon and mist ~
+moon and mist
 night settles into silence
 and white breath
 my dead mother's voice
 on the answering machine
-. . . again and again . . .
-summer sunset ~
+...again and again...
+summer sunset
 the slow glide of a heron
 into shadows
-young girls in fog --
+young girls in fog—
 the fleet movement of hands
 fluffing tobacco
-Chechnya ~
+Chechnya
 blackened bones and ashes
 smouldering
 new leaves
-pattered by rain . . .
+pattered by rain...
 cardinal song
 the silence
 between us-
@@ -13087,49 +13066,49 @@ on the Solent
 ageing skin
 the warmth and softness
 of a baked apple
-open windows -
+open windows—
 all the contrails
 feathering
 spring clarity
 the local pub reveals
 its old name
 poetry books
-banished to the bathroom -
+banished to the bathroom—
 spring cleaning
-solar flare -
+solar flare—
 spring moon half-hidden
 in the clouds
-February rain -
+February rain—
 the word 'spring'
 on the Scrabble board
-February wind -
+February wind—
 the word 'crocus'
 on the Scrabble board
 sudden rainstorm
 my place in another world
 kept by a bookmark
-Satie -
+Satie—
 the rain
 eases
-Chinese market -
+Chinese market—
 a row of small gold buddhas
 share a smile
 pension plans
 the slow drone of a plane
 coming in to land
-strategic plan -
+strategic plan—
 the sound of distant
 foghorns
-light rain -
+light rain—
 water workers
 dig a hole in the road
-February sun -
+February sun—
 a street light still on
 in the daytime
 the smell of varnish
 lingers in the hall
 like winter
-Valentine's Day -
+Valentine's Day—
 recycling
 old gold
 grey day
@@ -13153,10 +13132,10 @@ with ivy
 evening sky
 over fallen petals
 a dark rose
-a drop of ink -
+a drop of ink—
 tadpoles wriggle
 on the water's surface
-spring storm -
+spring storm—
 the grey dawn briefly
 luminous
 atop the high wall...
@@ -13192,11 +13171,11 @@ the smell of cooking
 washing-up done-
 through netted windows
 a fading sunset
-winter ennui ... coming down with a slight touch of clouds
+winter ennui...coming down with a slight touch of clouds
 a ladder leans
-into the scent of apples ...
+into the scent of apples...
 orchard fog
-brewing storm ...
+brewing storm...
 how the clouds stir
 in my coffee
 skin mapping
@@ -13211,19 +13190,19 @@ barn owl
 brussel sprouts
 only the bitterness left
 on our table
-brewing storm ...
+brewing storm...
 how the clouds stir
 in my coffee
 a touch 
-of bluegrass ...
+of bluegrass...
 spring 
 the noir
 of a beetle's carapace
 passing rain
 bobble and bounce
-of the last marshmallow ...
+of the last marshmallow...
 hot cocoa
-cutting flowers ...
+cutting flowers...
 a honeybee lingers
 in the empty space
 the first scent 
@@ -13235,7 +13214,7 @@ the smell of wet sheep
 the rhythmic lift
 of her childbearing hips
 high tide
-another way out ...
+another way out...
 a backdoor slammin'
 in the wind
 Beware of Dog
@@ -13248,7 +13227,7 @@ left behind
 his scent of aftershave
 on my cheek
 wolf call
-in the distance ...
+in the distance...
 ice moon
 the hollow sound
 of sacred earth landing
@@ -13307,7 +13286,7 @@ of rain
 a steady drizzle-
 all day the weight
 of things unsaid
-sleet ticking windows--
+sleet ticking windows—
 the chemo drip
 in its last hour
 evening shadows
@@ -13319,11 +13298,11 @@ from our oldest clock
 dusty knickknacks
 I try to recall
 the scent of burning leaves
-midsummer morning--
+midsummer morning—
 the boat's gentle tug
 at the anchor
 an old woman
-with a lost look in her eyes--
+with a lost look in her eyes—
 chilled wind
 woodsmoke and fog
 along the river bank
@@ -13343,128 +13322,128 @@ this winter night
 our dusty truck-
 an Amish man walks barefoot
 across the village green
-that long-ago kiss--
+that long-ago kiss—
 and still Orion strides
 the winter sky
-bitter cold--
+bitter cold—
 we don't chase the lone crow
 from the sparrow's food
-deepening snow--
+deepening snow—
 she leaves our atlas open
 to her homeland
-warmed-over coffee--
+warmed-over coffee—
 the gray gray sound
 of winter rain
-3:00 a.m.--
+3:00 a.m.—
 through sounds of winter rain
 the mail plane landing
 no wind tonight
 across this reach of prairie
 all those stars
-sipping fresh cider--
+sipping fresh cider—
 both dippers
 among the far stars
-cool morning--
+cool morning—
 at the top of the rise
 deer pass in the fog
-meditation room--
+meditation room—
 books of wisdom
-lean left . . . and right
-turning north--
+lean left...and right
+turning north—
 sand from both oceans
 in little jars
 the wind all night
 rips limbs from the trees-
 a long wait for dawn
-nearly 60 --
+nearly 60—
 so many mountains around me
 still unclimbed
 a B-52
-thunders over the bay--
+thunders over the bay—
 blue heron lifting
 Sentinels of spring...
 kites bobbing for attention
 in saucy March winds
 waiting
-for my illness to end --
+for my illness to end—
 November rain
 seeps slowly, slowly
 into the ground
 my body
 aching and feverish
-after nightfall --
+after nightfall—
 the autumn wind rises
 moaning louder
 three days
-of cold autumn rain --
+of cold autumn rain—
 a dull ache
 settles deep
 inside my breasts
 the crowd 
-holding blossoms . . . 
+holding blossoms...
 thunder!
 sifting shadows
 with remnants
 of rain
 stars falling
-from the sky . . .
+from the sky...
 autumn moon
 making pancakes
-between whispers . . .
+between whispers...
 morning mist
-humid morning . . .
+humid morning...
 words dangle
 from her lips
-humid night . . .
+humid night...
 the darkness
 between your thighs
 upstairs, swathed
 in neon, the
 scent of jasmine
-lanternless night . . .
+lanternless night...
 a whisper passing
 through leaves
 a slower
-moon this evening . . .
+moon this evening...
 the cold!
-autumn depths . . .
+autumn depths...
 a mole dreaming
 of darkness
-the egg seller . . .
+the egg seller...
 her cracked hands
 speak of winter
-high noon . . .
+high noon...
 young girls harvest
 rice from a mirror
 after the storm,
 an egret fording
 darkness
-early spring . . .
+early spring...
 young women collecting
 peach blossoms
-after midnight . . .
+after midnight...
 a shooting star beneath
 the wharf
-mid-summer . . .
+mid-summer...
 she shares with me
 a ripe melon!
 no longer a
 mirror, this lake chasing
 geese into darkness
-almost summer . . .
+almost summer...
 eating an especially
 ripe mango
 gusts of wind
 dancing together under
 a harvest moon
 the fullness
-of ripe melons . . .
+of ripe melons...
 this summer moon
-summer leaves . . .
+summer leaves...
 remembering
 mother's dry skin
 a mountain,
-the stone buddha . . .
+the stone buddha...
 and cold food
 daybreak
 your kiss on the lip
@@ -13472,34 +13451,34 @@ of a coffee cup
 the full moon
 and a rice field
 planted with stars
-day moon . . .
+day moon...
 a paper lantern floating
 down river
 kissing you
-under a paper moon . . .
+under a paper moon...
 the stars!
-cool morning . . .
+cool morning...
 your smile pasted on
 a coffee cup
 a monkey listens
-to his own breath . . .
+to his own breath...
 autumn rain
 watching
-my wife's ashes float by. . .
+my wife's ashes float by...
 autumn moon
 memories of you
-in rice field shadows . . .
+in rice field shadows...
 september moon
-incoming tide . . .
+incoming tide...
 your breasts
 rise and fall
-humid morning . . .
+humid morning...
 planting rice in a
 field of mirrors
 your reflection
 floating in a tea cup
 too hot to drink
-harvest moon . . .
+harvest moon...
 a new song in
 the rice field
 a laborer
@@ -13510,32 +13489,32 @@ fish scales and the letter
 you didn't send
 laborers sink
 into the rice field
-.. . . autumn dusk
-lanternless night . . .
+....autumn dusk
+lanternless night...
 a woman too old
 to dream
 almost dawn
-. . . a young girl
+...a young girl
 gathering eggs
-morning haze . . .
+morning haze...
 a post office clerk
 opening letters
 morning twilight
-. . . the rice field
+...the rice field
 in her eyes
-sunday morning . . .
+sunday morning...
 her shadow
 on a clothesline
-harvest moon . . .
+harvest moon...
 a shadow
 sorting laundry
-passing dreams . . .
+passing dreams...
 the night scented
 with laundry soap
 a cockroach
-in my rice bowl . . .
+in my rice bowl...
 unaware of dawn
-autumn cool . . .
+autumn cool...
 wondering what an ant thinks
 about after work
 in the clouds,
@@ -13544,10 +13523,10 @@ seen before
 ah, crickets!
 the neighbors ceased
 playing mahjong
-summer rain . . .
+summer rain...
 the mountain sinks
 into a rice field
-high noon . . .
+high noon...
 fish in the marketplace
 gasping for water
 the stillness of
@@ -13556,43 +13535,43 @@ reach the moon
 petals pressed
 between pages of a book
 i never read
-bamboo depths . . .
+bamboo depths...
 a carp circles
 your smile
-short night . . .
+short night...
 thoughts of you and
 a paper thin moon
 speaking
 to her ashes
 between summer moons
-humid day---
+humid day—
 her t-shirt refuses
 to dry
-day moon---
+day moon—
 her skin a half
 shade lighter
 memories of her
 floating in a leftover
 cup of tea
-summer grass---
+summer grass—
 my mother's
 rice paper skin
 laying in bed
 with dreams plucked
-from summer rain just you . . .
+from summer rain just you...
 and the scent
 of melon
-moonless night---
+moonless night—
 remembering
 her small breasts
-short night---
+short night—
 an egret standing
 knee deep in mud
 twilight
 watching my shadow
 float downriver
 sipping more than
-just tea----
+just tea——
 the moon in passing
 eyeing
 the apple
@@ -13600,29 +13579,29 @@ at buddha's feet
 the farmer,
 planting corn under
 a pregnant moon
-drunk tonight---
+drunk tonight—
 an elixir of cherry blossoms
 and moonlight
 memories
-floating in a tea cup---
+floating in a tea cup—
 autumn moon
 his shadow
-passes me by---
+passes me by—
 the charcoal seller
 the potter's fingers
-wet with clay---
+wet with clay—
 first rain
 saying the rosary
 a laborer
 planting rice
-rainy night---
+rainy night—
 her phone number
 in my wallet
 cold night
 the clink of bottles
 in a grocery cart
 contemplating
-nightfall---
+nightfall—
 the stone buddha
 the offering
 in front of the stone buddha
@@ -13630,41 +13609,41 @@ eaten by cats
 between two rivers,
 the echo of
 his mallet
-sunday afternoon---
+sunday afternoon—
 a steam train
 pushes back the fog
-eating rice---
+eating rice—
 how many stars are
 in the sky ?
-falling leaves---
+falling leaves—
 a trail of clothing
 leads to the bed
 biting his nails,
 a little boy watches
 the outgoing tide
-cold night---
+cold night—
 my reflection
 sipping coffee
-moon viewing---
+moon viewing—
 just me and spider
 tonight
-moon viewing---
+moon viewing—
 warming my hands
 with a cup of coffee
-all hallows eve---
+all hallows eve—
 stars paint the
 cemetery ground
-all saints day---
+all saints day—
 spent candles
 in the cemetery
-dark clouds---
+dark clouds—
 a student drawing
 with charcoal
 egrets
 plucking shadows
 at dusk
 fading this
-autumn night---
+autumn night—
 the heron's legs
 sculpting
 clay, the potter
@@ -13672,7 +13651,7 @@ at dawn
 master wind
 sweeping the temple
 zealously
-house cleaning---
+house cleaning—
 the forest fire
 at dawn
 metal birds
@@ -13681,20 +13660,20 @@ forest fire
 even my pee
 stays inside this
 cold winter night
-snowfall---
+snowfall—
 a milk mustache
 on my daughter's face
-geese honking---
+geese honking—
 children in the
 bathtub playing
 lakeside,
-below the egret---
+below the egret—
 a city of lights
 thousands of miles
-away, her first birthday---
+away, her first birthday—
 fresh mango
 swimming across
-the moonlit sky---
+the moonlit sky—
 a gray carp
 half moon
 darkness drinking from an
@@ -13702,32 +13681,32 @@ alabaster teacup
 floating
 down river
 an egret's shadow
-dried wheat grass---
+dried wheat grass—
 a bleached blond
 combing her hair
 no stars
 in the sky tonight
 hungry carp
 burning leaves
-this foggy evening---
+this foggy evening—
 two kinds of smoke
-waiting for winter---
+waiting for winter—
 eating rice balls
 under a full moon
 scooping steamed rice,
 the laborer
 at sundown
-windswept afternoon---
+windswept afternoon—
 tea scent
 on my tongue
-thank you, mango---
+thank you, mango—
 for a moment i was
 somewhere else
 passing cars
 replace sheep
 this sleepless night
 reoccurrence
-of cancer ---
+of cancer—
 no spring this year
 hospice window
 the roar of the spring tide
@@ -13736,7 +13715,7 @@ only the winter
 chrysanthemums remain
 morning moon
 the red cap
-of a green woodpecker. . .
+of a green woodpecker...
 first flakes of snow
 how else to know
 the shape of the breeze
@@ -13748,18 +13727,18 @@ gentle
 on my window
 summer rain
 and his whispers rising
-falling, rising. . .
+falling, rising...
 winter solstice
 each day the boy's smile
 wider
 in memory of Quentin Crisp:
-season of mists. . .
+season of mists...
 a calling of wild geese
 arrows south
 amber leaves
 caught between 'for sale'
 and 'sold'
-again and again -
+again and again—
 news of his wife's death
 old manor house
 each empty room has
@@ -13803,7 +13782,7 @@ on her chin
 cold, foggy night—
 only the echo
 of a buoy's bell
-gathering dusk --
+gathering dusk—
 with each swell of sea
 a buoy dips deeper
 shouldering coals
@@ -13812,14 +13791,11 @@ in a metal bucket
 sun blaze—
 the flash of chrome
 outside a biker bar
-après la dispute,
-seulement le claquement
-des perches à haricots
 after the argument only the snapping of pole beans
 wisp of clouds
 the slow spiral of cream
 in my espresso
-almost dusk - 
+almost dusk—
 the zigzag flight
 of linked dragonflies
 dusk-
@@ -13864,9 +13840,6 @@ tinged a deeper hue
 another day
 the stilled heartbeat
 on the ultrasound
-(un autre jour
-le battement de coeur calmé
-à l'échographie)
 day lilies
 the dormant spark of death
 within me
@@ -14078,301 +14051,301 @@ heavy in my hand
 this winding river 
 confluence of what I know 
 and what I don't
-overcast Sunday---
+overcast Sunday—
 the lilacs
 remind me of last night
-bus stop -
+bus stop—
 all eyes
 on the migrating geese
-desert wind --
+desert wind—
 even the stones
 in unfamiliar colors
 the mixed calls
-of courting birds --
+of courting birds—
 scent of damp earth
-she tucks the sonogram photo --
+she tucks the sonogram photo—
 back in her wallet
 spring sun
-biting cold --
+biting cold—
 frost on the nail heads
 of the old fence
-winter solstice --
+winter solstice—
 the fog lifts from a tree
 filled with ravens
-closing time --
+closing time—
 an expensive fingernail
 on the mall floor
-Friday the 13th --
+Friday the 13th—
 a bit of volcanic ash
 in the winter fog
-sunrise --
+sunrise—
 a view of the sky through
 a worm-eaten leaf
-Indian Summer --
+Indian Summer—
 ducks make their way
 from shade to shade
-afternoon heat --
+afternoon heat—
 bird song fades as I enter
 the tunnel
-summer solstice --
+summer solstice—
 a flock of sandpiper splits
 and splits again
-the old log --
+the old log—
 moss grows around
 an obscene word
-first roses --
+first roses—
 just enough heat to
 settle the mosquitoes
 mid-day heat
 my eyes follow
 the swallow's flight
-whale watching --
+whale watching—
 a distant cloud rains
 into the sea
-morning haze --
+morning haze—
 a mosquito above
 the pond ice
 a soda can
-shot full of holes --
+shot full of holes—
 spring sun
-Easter morning --
+Easter morning—
 I head out into
 trackless snow
-first pussy willows --
+first pussy willows—
 the sound of a woodpecker
 shifts again
-home sick --
+home sick—
 just the sound
 of icicles dripping
-spring frost --
+spring frost—
 a tower light pierces
 the sunset
-spring in the air --
+spring in the air—
 my walking stick pierces
 crusted snow
 a fly beats
-against the window --
+against the window—
 melting snow
-subzero --
+subzero—
 a moth flies towards
 the moonlit door
-year's end --
+year's end—
 a few tentative steps
 on the river ice
-dawn --
+dawn—
 the maple's colors
 spread through the fog
-a new day --
+a new day—
 the priest's robes
 fill with snow
-overnight rain --
+overnight rain—
 the scent of orange blossoms
 in a desert town
-polished oak --
+polished oak—
 the freesia's shadow ends
 in coffee foam
-scattered sun --
+scattered sun—
 one chickadee
 louder than the rest
-morning delivery --
+morning delivery—
 snow comes in
 with the FedEx man
-dog days --
+dog days—
 the hill carried away
 a truck at a time
-lingering day --
+lingering day—
 I study the moss
 in a park bench
-sunset --
+sunset—
 the day's heat
 still in the car
-end of the drought --
+end of the drought—
 a mushroom tilts
 under the spruce
-slow boats --
+slow boats—
 the wind pushes a butterfly
 out to sea
-deepening dusk --
+deepening dusk—
 a fish leaps
 between grebes
-cloud shadows --
+cloud shadows—
 and eagle picks over
 what the tide left
-ebb tide --
+ebb tide—
 a photo of a missing girl
 flutters in the breeze
-first raindrops --
+first raindrops—
 frog bones in
 the middle of the path
-untrodden snow --
+untrodden snow—
 my breath clouds the way
 into the trees
-crescent moon --
+crescent moon—
 I follow the trail of
 a dragged Christmas tree
-end of the year --
+end of the year—
 tracks along the edge
 of thin ice
-full moon --
+full moon—
 last week's snow
 slips from a wire
-steady drizzle --
+steady drizzle—
 a snore from the man
 on the next yoga mat
-moonless night --
+moonless night—
 a bath oil bead
 melting in the rain
-winter doldrums --
+winter doldrums—
 the rain drips from
 plastic candy canes
-night of meteors --
+night of meteors—
 the first Christmas lights
 go up on the block
-approaching winter --
+approaching winter—
 I leave the seashell
 at the bottom of my purse
-the empty bench --
+the empty bench—
 spilled coffee
 turned to ice
-working Saturday --
+working Saturday—
 the small shadows of pigeons
 in the fog
-the puddled field --
+the puddled field—
 blades of grass
 pierce a cloud
-morning haze --
+morning haze—
 ice drifts around
 the river stones
 berry stains
-along the sidewalk --
+along the sidewalk—
 hint of frost
-a bright morning --
+a bright morning—
 the mud pulls away
 from a frosty stone
-walking meditation --
+walking meditation—
 I pass through
 a cloud of breath
-new coolness --
+new coolness—
 a train's light moves
 along the mountainside
-wispy clouds --
+wispy clouds—
 the last blossom hangs
 on the fireweed
-new coolness --
+new coolness—
 a pool at the center
 of the lupine leaves
-sirens --
+sirens—
 the wind pushes
 a butterfly to the ground
-noon glare --
+noon glare—
 the wind blows sand
 out to sea
-dog days --
+dog days—
 driving to the lake
 to watch the icebergs drift
-after the rain --
+after the rain—
 a frog-shaped shadow
 wavers in the puddle
-hugs --
+hugs—
 the spider on my
 old friend's arm
-spray painted log --
+spray painted log—
 I try not to sit
-on the word f***
-a few yellow leaves --
+on the word "fuck"
+a few yellow leaves—
 the construction site grows
 towards my favorite tree
-week of rain --
+week of rain—
 the insect's trail
 on the flattened leaf
 a winged ant
-crawls on hot asphalt --
+crawls on hot asphalt—
 end of summer
-discount store --
+discount store—
 the unfinished tatoo
 on the cashier's arm
-summer dust --
+summer dust—
 a caterpillar under
 the whale bone arch
-a white night --
+a white night—
 salmon bones
 curled against a log
-scent of new leaves --
+scent of new leaves—
 a caterpillar swings
 in a shaft of light
 half-frog pose
 I lie and listen
 to the rain
-spring currents --
+spring currents—
 the first gulls
 picking bones
 a hawk searches
-the dry grass --
+the dry grass—
 sundogs
 the courtship songs
-of so many birds --
+of so many birds—
 wind through my shirt
-scent of rain --
+scent of rain—
 a whale-shaped cloud
 hangs over the bay
 lulled to sleep
-by gutter sounds --
+by gutter sounds—
 spring dreaming
-a cold morning --
+a cold morning—
 goose honks echo
 off the pavement
-steamed milk --
+steamed milk—
 snowmelt running from
 the coffee shop roof
 between the yoga
-and chi gung classes --
+and chi gung classes—
 scent of burning sage
-dawn storm --
+dawn storm—
 a bit of mountain ash
 stirred into the snow
-horizonless --
+horizonless—
 sky-colored ice
 turns in the bay
-sharp air --
+sharp air—
 the patch of blue
 changes shape
-daylight moon --
+daylight moon—
 the shadows of bubbles
 under the ice
-fog patches --
+fog patches—
 a second little face
 in the sonogram
-spin cycle --
+spin cycle—
 snow flakes swirl outside
 the laundromat
-lifting fog --
+lifting fog—
 a few white feathers
 in the raven's breast
-bank thermometers --
+bank thermometers—
 the temperature changes
 all the way home
-subzero --
+subzero—
 the icicles filled
 with moonlight
-long cold snap --
+long cold snap—
 the icicle
 begins to fork
-low clouds --
+low clouds—
 a gull circles above
 the police car light
-snowy banks --
+snowy banks—
 the drifting duck leans
 into a curve
 a long split
-in the black inky cap --
+in the black inky cap—
 snow clouds
-dusk--
+dusk—
 a yellow leaf passes
 through the beaver dam
-season's end --
+season's end—
 the scent of fish
 drifts downstream
-new coolness --
+new coolness—
 a cloud passes through
 the mountain notch
 soft rain
@@ -14382,57 +14355,57 @@ evening light
 following the anchor line
 into the sea
 how quickly
-the nights grow longer --
+the nights grow longer—
 fireweed in bloom
 the evening train
-almost empty --
+almost empty—
 sundogs
-week of rain --
+week of rain—
 the henna tatoo
 fading fast
-low tide --
+low tide—
 a shorebird's call
 rises from the mud
-Sunday drive --
+Sunday drive—
 all the rain clouds
 toward home
-summer salad --
+summer salad—
 a nasturtium burns
 the tip of my tongue
 a spider web
 caught in my hand;
 scent of rain
-a damp evening --
+a damp evening—
 each of us with
 our own cloud of gnats
 wildfire haze
-between the icebergs --
+between the icebergs—
 the blue wind
-dandelions --
+dandelions—
 I lose sight of
 the yellow butterfly
 someone whistling
-Blue Moon at the falls --
+Blue Moon at the falls—
 the mist
-lenghtening days --
+lenghtening days—
 a bird's shadow crosses
 the yellow wall
-new moon --
+new moon—
 lamplight fills the holes
 in a shot-out sign
 moss growing
-on the manhole cover --
+on the manhole cover—
 winter rain
-news of his death --
+news of his death—
 I can't stop looking
 at the sickle moon
-daybreak -
+daybreak—
 ice between
 the river stones
-locking it -
+locking it—
 moonlight at the back
 of the mailbox
-silence -
+silence—
 the evening snow falls
 onto moss
 distant thunder-
@@ -14441,19 +14414,19 @@ from a ragged leaf
 first light
 the perfect symmetry
 of a moth
-noon --
+noon—
 the morning clouds
 roll from the valley
-slowly ...
+slowly...
 a loon preens
 in the mountains reflection
 waiting...
 dandelion fluff
 lands on the table
 a twilight sun
-between two peaks -
+between two peaks—
 white lilacs
-boardwalking--
+boardwalking—
 the dragonfly's shadow
 drops through a crack
 water lilys
@@ -14461,11 +14434,11 @@ a leaping fish
 catches the light
 in the far shadows
 something swimming
--- or a log
+—or a log
 flashing against
 the winter killed grass
 a swan's whiteness
-April -
+April—
 a gull's cry passing
 through morning snow
 spring evening
@@ -14475,18 +14448,18 @@ sunny afternoon
 the scent of leaf mold
 mixed in the ice
 water changing
-into ice --
+into ice—
 the pale moon
 hazy afternoon
 the woodpecker's call
 bounces off the ice
-dusky clouds --
+dusky clouds—
 a patch of blue
 hangs over the valley
-February --
+February—
 the heart-shaped tracks
 of a moose
-returning birds --
+returning birds—
 three notes pass through
 morning fog
 somewhere
@@ -14508,7 +14481,7 @@ by hand
 between memories
 and the parents' grave
 the curtain of rain
-my sweaty skin --
+my sweaty skin—
 enough for three weeks
 his ironed shirts
 broken
@@ -14532,10 +14505,10 @@ little hut
 no run-of-the-mill
 New Year's Day
 for the slob
-First Month, second day--
+First Month, second day—
 my wrinkled
 hands
-First Month--
+First Month—
 recording the cash spent
 on sake
 on the cat's grave
@@ -14547,13 +14520,13 @@ spring's first dawn
 at my hut
 what will come of it?
 spring's first dawn
-spring's first dawn--
+spring's first dawn—
 the priest pretending
 to sweep
-amazing--
+amazing—
 in the house I was born
 spring's first morning
-amazing--
+amazing—
 in the house I was born
 spring begins today
 even for this body of dust
@@ -14562,16 +14535,16 @@ blossoming spring
 now begins
 the Future Buddha's reign...
 spring pines
-spring at my hut--
+spring at my hut—
 tall as a sleeping man
 the mist
 spring begins
 as it has deigned to do
 for a thousand ages
-my province--
+my province—
 even the smoke
 an ancient thing
-spring begins--
+spring begins—
 sparrows at my gate
 with healthy faces
 from where the gods live
@@ -14592,7 +14565,7 @@ tea smoke
 welcoming in loads
 of new year's rain...
 trashy house
-big field--
+big field—
 my New Year's walk
 follows holes made by canes
 O New Year's god
@@ -14601,19 +14574,19 @@ send help!
 plum blossoms fall
 in the hairdo...
 lowering the basket
-sickle moon--
+sickle moon—
 hauling up the basket
 through branches
-a fast day--
+a fast day—
 drawn by the uproar
 to Ueno
-servant on holiday--
+servant on holiday—
 the mountain festival
 ended yesterday
 on the homecoming servant's
 face too...
 peach blossoms
-Servants' Holiday--
+Servants' Holiday—
 two in a row
 on Meditation Bridge
 yanking up a little pine
@@ -14640,22 +14613,22 @@ just as it is...
 how many times
 a New Year's gift?
 the fan returns
-my humble hut--
+my humble hut—
 all morning they come
 for New Year's gifts
-New Year's gift of tea--
+New Year's gift of tea—
 where did you go
 on your journey back to me?
 the naughty child
 attempts first...
 year's first writing
-treasured child--
+treasured child—
 his cane dragging
 the year's first writing
-world of man--
+world of man—
 even in mountain shade
 New Year's water
-first hot bath--
+first hot bath—
 for my journey's lice
 first sin
 into the year's first
@@ -14670,7 +14643,7 @@ Ocha-no-Mizu
 hugging his kite
 soon he's sound asleep...
 the child
-lion puppet at the gate--
+lion puppet at the gate—
 from his mouth
 plum blossoms
 teeth to harden
@@ -14679,7 +14652,7 @@ not even one
 New Year's tooth-hardening
 meal...the cat wins
 and laughs
-spring peace--
+spring peace—
 a mountain monk peeks
 through a fence
 the grass and wheat
@@ -14688,10 +14661,10 @@ sunlight stretches on
 water spider
 on spring's last day...
 laughing face
-spring departs--
+spring departs—
 the old clothes buyer
 ignores me
-light snow--
+light snow—
 a dog digs a hole
 by the road
 the little crow
@@ -14706,10 +14679,10 @@ spring rain
 the priest is mending
 a rip...
 spring rain
-spring rain--
+spring rain—
 growing side by side
 whispering pines
-spring rain--
+spring rain—
 at night, too, making love
 on Mount Matchi
 night sermon
@@ -14718,7 +14691,7 @@ spring rain
 rice cake with bean paste
 for the crossroads Buddha...
 spring breeze
-spring breeze--
+spring breeze—
 a female servant's
 short sword
 faces of devils
@@ -14733,16 +14706,16 @@ down the slope
 while the spring breeze blows
 a healing
 bath
-spring breeze--
+spring breeze—
 the round reed hut's
 one door
-spring breeze--
+spring breeze—
 the priest gives his sermon
 walking along
 out of the dyer's-weed
 it blows...
 spring breeze
-hazy moon in the pine--
+hazy moon in the pine—
 passing through
 passing through
 a lucky fox
@@ -14757,7 +14730,7 @@ little house
 in the misty day
 not growing older...
 grave tablets
-misty day--
+misty day—
 behind the big inn
 a pine
 farewell! farewell!
@@ -14769,19 +14742,19 @@ grave tablet
 the lake is slowly
 lost in mist...
 evening falls
-heat shimmers--
+heat shimmers—
 missing a child
 the parent's face
-heat shimmers--
+heat shimmers—
 a field mouse chased
 by the dog
-heat shimmers--
+heat shimmers—
 to the top of the weed
 a wet mouse
 float away
 my snow too...
 Chikuma River
-before the gate--
+before the gate—
 my cane makes a river
 of melting snow
 melting the big snow
@@ -14790,13 +14763,13 @@ a child
 mother dog
 testing the depth...
 snow-melt river
-garden at the gate--
+garden at the gate—
 forming the word "rice"
 the melted snow
-garden at the gate--
+garden at the gate—
 with my cane digging
 a snow-melt river
-my gate's adornment--
+my gate's adornment—
 the rice seedlings
 turning green
 in honor of the equinox
@@ -14814,7 +14787,7 @@ low tide crows
 the crane and the tortoise's
 playground...
 burnt field
-windblown clouds--
+windblown clouds—
 the fires of burning fields
 bring sunset
 when this pine sapling
@@ -14829,10 +14802,10 @@ comes home
 on his whisker tips
 rice grains tremble...
 the lover cat
-cherry blossoms scatter--
+cherry blossoms scatter—
 snap! the buck's antlers
 come off
-baby sparrow--
+baby sparrow—
 even when people come
 opening his mouth
 the bird's nest, too
@@ -14850,7 +14823,7 @@ gambling at the crossroads
 the nightingale's
 "I'm perfect" face...
 Higashi Mountains
-nightingale--
+nightingale—
 even while pooping, sings
 Lotus Sutra
 even among nightingales
@@ -14868,16 +14841,16 @@ well bucket
 the nightingale
 splashes too...
 purification font
-nightingale--
+nightingale—
 from one corner to another
 his searching eyes
-evening lark--
+evening lark—
 which pine island's
 good for sleeping?
 even the field's
 radishes blooming...
 the lark singing!
-ripples on water--
+ripples on water—
 mingling with the larks
 a fishing boat
 "I won't fall
@@ -14910,7 +14883,7 @@ returning geese
 up to today
 such great perserverance...
 wild geese! wild geese!
-geese honking--
+geese honking—
 now they leave behind
 Japan
 after seeing rice planting
@@ -14919,7 +14892,7 @@ the geese depart
 thinking of taking off?
 goose on tiptoe
 on tiptoe
-old pond--
+old pond—
 "let me go first!"
 jumping frog
 now they're quarreling
@@ -14946,28 +14919,28 @@ a frog
 on the flower pot
 does the butterfly, too
 hear Buddha's promise?
-drinking tea alone--
+drinking tea alone—
 every day the butterfly
 stops by
-a butterfly flits--
+a butterfly flits—
 even Shinran's pine
 seems to know
 sharing tree shade 
 with a butterfly...
 friends in a previous life
-baby in a basket--
+baby in a basket—
 licking the edge of her mouth
 little butterfly
 creeping through
 the rice farmer's legs...
 little butterfly
-garden butterfly--
+garden butterfly—
 the child crawls, it flies
 crawls, it flies...
-butterfly at the gate--
+butterfly at the gate—
 the child crawls, it flies
 crawls, it flies...
-first butterfly--
+first butterfly—
 without formal greeting
 entering the alcove
 evening
@@ -14985,22 +14958,22 @@ silkworms
 don't be mean
 to that horsefly
 skylight!
-evening moon--
+evening moon—
 pond snails singing
 in the kettle
 O clams
 meet the geese and gulls
 of Greater Kamakura!
-bush clover sprouting--
+bush clover sprouting—
 when people aren't looking
 the deer eats
-pricking people--
+pricking people—
 new grasses of the plain
 are precocious!
 wiping their feet
 on the baby grass...
 doorway
-baby grass--
+baby grass—
 the stylish woman leaves
 her butt print
 in my province
@@ -15012,7 +14985,7 @@ sun
 a visitor views
 the field of rape...
 villa shed
-flowering mustard--
+flowering mustard—
 and looking west
 Zenko Temple
 drunk on sake
@@ -15027,13 +15000,13 @@ in bloom
 the setting place
 for the spring sun...
 wisteria blossoms
-blooming plum--
+blooming plum—
 the voices of children
 sound reverent
-plum blossoms--
+plum blossoms—
 riding a dog
 the Golden Boy
-red plum blossoms--
+red plum blossoms—
 on the porch
 the bathed cat dries
 the family's good fortune
@@ -15045,13 +15018,13 @@ plum blossoms
 the cloth monkey
 in high spirits...
 plum blossoms
-plum blossom scent--
+plum blossom scent—
 at the fox's hole
 red beans and rice
-plum tree--
+plum tree—
 on my hut's unlucky side
 blooming!
-plum in full bloom--
+plum in full bloom—
 a house without sake
 can't be found
 even the heavenly gods
@@ -15063,7 +15036,7 @@ plum branch
 the first and best
 of Shitaya Ward...
 plum blossoms
-abandoned fan--
+abandoned fan—
 I return it
 to the plum blossom thief
 not giving a damn
@@ -15081,19 +15054,19 @@ umbrella-hatted blossom viewers
 two voices that sound alike
 make their way...
 clouds of blossoms
-honestly--
+honestly—
 even more than blossoms
 I love dumplings!
-cherry blossoms--
+cherry blossoms—
 under every tree
 a Buddha on display
-world of blossoms--
+world of blossoms—
 even the stone Buddhas
 parents and children
-world of blossoms--
+world of blossoms—
 even the holy Jizos
 parents and children
-cherry blossoms--
+cherry blossoms—
 around grandpa's waist
 a name tag
 sky-blue parasols
@@ -15108,7 +15081,7 @@ gamblers
 when cherry blossoms
 scatter...
 no regrets
-curled to sleep--
+curled to sleep—
 the important official
 in cherry blossom shade
 my dirty blossom-viewing
@@ -15129,7 +15102,7 @@ cherry blossoms!
 "No soldiers
 allowed!"
 say the cherry blossoms
-cherry trees in bloom--
+cherry trees in bloom—
 yet some people
 are tired of it
 the home village
@@ -15156,22 +15129,22 @@ is work!
 a hearty meal
 of Great Japan's rice...
 cherry blossoms
-without you--
+without you—
 the cherry blossoms
 just blossoms
-cherry trees in bloom--
+cherry trees in bloom—
 warmed by a brazier
 blossom-gazing
 trickling from
 a village child's sleeve...
 cherry blossoms
 the master being dead
-just ordinary... 
+just ordinary...
 cherry blossoms
-cherry blossoms fall--
+cherry blossoms fall—
 come out and play
 devil in me!
-cherry blossoms scatter--
+cherry blossoms scatter—
 even the devil in me
 has lost his horns
 in falling cherry blossoms
@@ -15180,7 +15153,7 @@ temple dog
 the neighbor expresses
 his condolences...
 late-blooming cherry tree
-lying down in a row--
+lying down in a row—
 discussing the distant
 cherry blossoms
 lording over
@@ -15195,10 +15168,10 @@ cherry blossoms
 pouring onto
 the faces of sinners...
 cherry blossoms
-peach blossoms--
+peach blossoms—
 riding a dog
 the naughty boy
-keeping their cool--
+keeping their cool—
 the crow
 the willow
 the sleeping puppy
@@ -15210,25 +15183,25 @@ just because
 to the old woman
 doing laundry, the evening
 willow bows
-waking from sleep--
+waking from sleep—
 drip-dripping willow
 in the night
-cemetery font--
+cemetery font—
 the willow at the gate
 bathes
 moon to the right
 water to the left...
 the evening willow
-water rising--
+water rising—
 the shrimp crawls up
 the willow
 peeking out
 from the willow tree...
 face of a fox
-waking from summer sleep--
+waking from summer sleep—
 moon gazing
 on the levee
-summer night--
+summer night—
 the moon by the river
 just a sliver
 in the summer night
@@ -15237,7 +15210,7 @@ Mount Tsukuba
 popping open
 in the short summer night...
 cherry blossoms
-hot night in the trees--
+hot night in the trees—
 I'm getting used to it
 arm for a pillow
 today too, heat
@@ -15255,25 +15228,25 @@ birdsong
 facing the cool breeze
 straight on...
 a lake
-cool air--
+cool air—
 "Third Month has passed!'
 sings the bird
 the cool breeze
 through my neighbor's bamboo
 just a remnant
-morning cool--
+morning cool—
 fishing for soup stock
 in his back door sea
-cool air--
+cool air—
 my wife chases a mosquito
 with a spoon
-cool air--
+cool air—
 he beckons with his fan
 a rain of golden coins
 three raindrops
 a greeting card from heaven...
 midsummer heat
-Fifth Month rain--
+Fifth Month rain—
 in a mountain field at night
 voices
 in Fifth Month rain
@@ -15285,7 +15258,7 @@ Fifth Month rain
 a small child
 a bundle of hay on his back...
 Fifth Month rain
-rainstorm--
+rainstorm—
 a beggar with his potted
 pine
 showing off
@@ -15294,13 +15267,13 @@ mountain's water
 tomorrow morning
 a humdrum river beach again?
 summer moon
-summer moon--
+summer moon—
 this river beach crowd
 gone tomorrow
 the man's whiteness
 walking in the house's shadow...
 summer moon
-wind on the greenery--
+wind on the greenery—
 the weary faces
 of people
 to where the grazing
@@ -15315,7 +15288,7 @@ pure water
 selling straw sandals
 in the shade, an old man...
 pure water
-green rice field--
+green rice field—
 grabbing the chopsticks
 he watches
 chopsticks in hand
@@ -15342,10 +15315,10 @@ thatch of irises
 Great Japan!
 even a beggar's house
 has a summer banner
-weary cormorant--
+weary cormorant—
 no festival holiday
 for you
-mopping sweat--
+mopping sweat—
 at his tomb I tell my story
 then go
 even the little girl
@@ -15354,7 +15327,7 @@ new summer robe
 taking a tiny trip
 to see and be seen...
 new summer robes
-new summer robes--
+new summer robes—
 listening to the pine breeze
 they emerge
 amid scented cedars
@@ -15366,19 +15339,19 @@ summer kimono
 one and all
 in white summer kimonos...
 riverbank
-temple toddler--
+temple toddler—
 how long will you wear
 your little red kimono?
 evening's old
 summer kimono...
 my world
-at my gate--
+at my gate—
 one straw mat
 my summer room
-secluded house--
+secluded house—
 if I die may the bamboo blinds
 still be green
-a rain shower--
+a rain shower—
 in her little mosquito net
 touched by the breeze
 tomorrow night and the next
@@ -15390,7 +15363,7 @@ a siesta
 like the humans
 a monkey too
 curled up for siesta
-pine tree shade--
+pine tree shade—
 he beckons with his fan
 a rain of golden coins
 after re-papering
@@ -15420,7 +15393,7 @@ evening cool
 not knowing the bell
 rings away life...
 evening cool
-evening cool--
+evening cool—
 with my feet counting
 the mountains of Shinano
 turning to face
@@ -15429,7 +15402,7 @@ evening cool
 as night falls
 even next to a sewer...
 cool air
-rainy day--
+rainy day—
 alone and diligent
 planting rice
 even asking directions
@@ -15438,7 +15411,7 @@ rice planters
 ashamed
 napping, hearing
 the rice-planting song
-Shinano road--
+Shinano road—
 higher and higher
 the rice-planting songs
 you, too, nightingale
@@ -15474,10 +15447,10 @@ mountain cuckoo
 the priceless nightingale
 warbles
 even in summer
-nightingale--
+nightingale—
 don't catch old age!
 thatched house
-nightingale--
+nightingale—
 don't catch old age!
 house in the trees
 taking credit
@@ -15486,7 +15459,7 @@ reed thrush
 a flower big
 as an umbrella-hat...
 fly there firefly!
-mosquito smudge smoke--
+mosquito smudge smoke—
 soon the fireflies
 leave too
 from the tea water's
@@ -15501,7 +15474,7 @@ drinking alone
 left out all night
 the tofu gleams...
 mosquitoes
-evening falls--
+evening falls—
 the whine of mosquitoes
 pretty
 midday's mosquitoes
@@ -15540,7 +15513,7 @@ the peony
 petals scattered
 by the sweeper's butt...
 peony
-midday nap--
+midday nap—
 the scent of lotuses
 meanders
 suddenly
@@ -15549,19 +15522,19 @@ lotus blossoms!
 blooming pinks
 behind and in front
 of holy Jizo
-duckweed--
+duckweed—
 rescuing a fish scooped up
 with a little sedge hat
 hurled at the head
 of morning Fuji...
 rice plants
-Kisa Lagoon--
+Kisa Lagoon—
 sparkling with fireflies
 the rice planting boat
 blooming in a nook
 of ripened barley...
 camellias
-newborn bamboo--
+newborn bamboo—
 straight up the morning sun
 climbing
 the thicket's bamboo
@@ -15576,7 +15549,7 @@ sickly
 in leafy shade
 a melon for a pillow...
 a kitten
-my hut--
+my hut—
 the only cooling melon
 is the moon
 the gateway shelters
@@ -15600,7 +15573,7 @@ deep tree shade
 persimmon blossoms
 falling...
 only now noticed
-deutzia blossom hedge--
+deutzia blossom hedge—
 famous straw sandals
 for sale
 circled by a hedge
@@ -15612,7 +15585,7 @@ turn red
 added to
 holy Jizo's jewel...
 a plum
-moon at the gate--
+moon at the gate—
 as the heat dwindles
 so do people
 by the next room's lamplight
@@ -15639,13 +15612,13 @@ autumn dusk
 the night is long
 my bottle, empty
 my house, set apart
-evening cicada--
+evening cicada—
 a last nearby song
 to autumn
 frost has formed
 on the futon...
 Milky Way above
-charming--
+charming—
 in rural bamboo too
 the Milky Way
 where the moon is rising
@@ -15654,16 +15627,16 @@ cove
 on the river back home too
 no doubt...
 moon gazing
-tonight's moon--
+tonight's moon—
 no mountain not like
 the ones back home
-tonight's moon--
+tonight's moon—
 how many mountains resemble
 the ones back home?
-tonight's moon--
+tonight's moon—
 mountains just like
 the ones back home
-harvest moon--
+harvest moon—
 side by side with the boat
 a Heike crab
 counting mountains
@@ -15684,19 +15657,19 @@ wildflowers
 harvest moon night
 on the mountain, like any other...
 autumn rain
-harvest moon--
+harvest moon—
 hiding with their coats
 lust and piss
-harvest moon--
+harvest moon—
 sitting cross-legged
 like Buddha
 Sumiyoshi's lamps
 die out again...
 autumn wind
-autumn wind--
+autumn wind—
 singing in the duckweed
 how many insects?
-a bird takes flight--
+a bird takes flight—
 a shout in the duckweed
 autumn wind
 a barracks amid waves
@@ -15711,13 +15684,13 @@ autumn gale
 warm rain falling
 splish-splash...
 autumn gale
-autumn gale--
+autumn gale—
 but the new leaves
 hang tough
 rainbow over the mountain
 yet on the lake
 an autumn gale
-sleeping mat--
+sleeping mat—
 the autumn gale blowing
 the soles of my feet
 just the other day
@@ -15735,7 +15708,7 @@ they frolic
 even among silver
 dewdrops...
 some big, some little
-lightning flash--
+lightning flash—
 in plume grass ensconced
 a fifty year-old's face
 the lightning flash
@@ -15744,7 +15717,7 @@ cooling at the gate
 in morning fog
 a frenzy of drops
 from the tree
-autumn fog--
+autumn fog—
 the river beach's pinks
 have bloomed in a flash
 the orphan child
@@ -15756,13 +15729,13 @@ brings the broom
 stoking it
 to find my shoes...
 lantern for the dead
-a gathering of stars--
+a gathering of stars—
 children, grandchildren
 great-great-grandchildren
 upstream a village
 for just a little while...
 fireworks
-silence--
+silence—
 the mountain's fireworks
 fly into water
 in a flash the lake
@@ -15774,7 +15747,7 @@ fireworks
 at verandah's edge
 two-penny fireworks
 in the night
-defeated sumo wrestler--
+defeated sumo wrestler—
 his father
 must be watching
 protecting the camphor tree
@@ -15783,7 +15756,7 @@ scarecrow
 like people
 an upright scarecrow
 can't be found
-my old age--
+my old age—
 even facing a scarecrow
 ashamed
 when I ask the way
@@ -15798,37 +15771,37 @@ a rainy night
 into the grass
 at the shrine, pouring...
 new sake
-pleasure boat--
+pleasure boat—
 on the mountain a deer
 calls his wife
 making a duet
 with my flute...
 cry of a deer
-solitude--
+solitude—
 that song the shrike
 is singing!
-a shrike sings--
+a shrike sings—
 rain puddles dry
 on the back road
-geese landing--
+geese landing—
 the farmer's field too
 a famous site
-celestial geese--
+celestial geese—
 none of them come down
 to my pine
-geese at my gate--
+geese at my gate—
 another seductive rain
 falls today
-geese descend--
+geese descend—
 the ancient rushes
 a famous site
-geese honking--
+geese honking—
 this damned year, too
 moon gazing interrupted
 the titmice split
 to the left and right...
 Yashima Island
-high tide--
+high tide—
 atop the moon's head
 insects singing
 the insect's song
@@ -15843,10 +15816,10 @@ from a branch
 the bagworm
 sings a song...
 "I love rice cake!"
-a cicada chirrs--
+a cicada chirrs—
 my shadow's umbrella-hat
 makes a halo!
-sunset--
+sunset—
 the town is buzzing
 with dragonflies
 the dragonfly's
@@ -15861,7 +15834,7 @@ locusts
 a quick dip
 in the water bowl...
 locust
-song of the katydid--
+song of the katydid—
 even the field cow
 a connoisseur
 laugh at my piss
@@ -15885,7 +15858,7 @@ hermit chrysanthemum
 the smell of sake
 around about dusk...
 chrysanthemum
-cat's bell--
+cat's bell—
 in the long night the chrysanthemum
 has bloomed
 the emaciated chrysanthemum
@@ -15906,16 +15879,16 @@ maiden flower
 woven into
 the deer fence...
 bush clover blooms
-mountain field--
+mountain field—
 blooming buckwheat's whiteness
 makes me shiver
 it's cold!
 a cicada in the eaves
 with hot peppers
-plumes of plume grass--
+plumes of plume grass—
 the thin hearts
 swishing
-evening's fall colors--
+evening's fall colors—
 the rainbow in the valley
 fades away
 to a place
@@ -15936,13 +15909,13 @@ roses of Sharon
 butterflies never
 tire of them...
 roses of Sharon
-roses of Sharon--
+roses of Sharon—
 the hedge too good
 for the house
 such roses of Sharon!
 yet the village
 looks empty
-roses of Sharon--
+roses of Sharon—
 too good for the house
 they bloom
 its shadow moves
@@ -15951,13 +15924,13 @@ the gourd
 after cutting
 the loofah vine...
 strangers
-horse chestnut--
+horse chestnut—
 how many days till you roll
 down the mountain?
 having a tumble
 with the acorn...
 kitten
-rain is over--
+rain is over—
 on the post a splendid
 mushroom
 though I'm loving
@@ -15966,16 +15939,16 @@ it's cold!
 leaving it to melt
 on the wall by the gate...
 round ice
-clamoring geese--
+clamoring geese—
 over there is the year
 ending too?
-an arm for a pillow--
+an arm for a pillow—
 the year ends
 or doesn't end
-first winter rain--
+first winter rain—
 going out to buy
 dinner
-Kyoto--
+Kyoto—
 falling straight down
 the first winter rain
 the mountain pigeon
@@ -15984,7 +15957,7 @@ winter rain
 the winter rain
 dumps and dumps...
 Buddha in the field
-mountain temple--
+mountain temple—
 on bean-parching day
 the first winter rain
 the door latch
@@ -15993,25 +15966,25 @@ winter rain
 the blooming cockscomb
 dies standing up...
 steady winter rain
-winter rain--
+winter rain—
 the lame chicken
 limps away
 the mountain hermit's
 fire is rising...
 winter rain
-winter wind--
+winter wind—
 behind the wall
 Echigo mountains
-winter wind--
+winter wind—
 and the great temple hall
 is ceiling-less
-winter wind--
+winter wind—
 he can't find his roost
 the evening crow
 stone still
 he lets the snow fall
 colt in the pasture
-falling snow--
+falling snow—
 yesterday it wasn't there
 "House for Rent" sign
 looking delicious
@@ -16026,16 +15999,16 @@ hailstones
 a mirage running
 and hiding...
 withered fields
-Basho's Death-Day--
+Basho's Death-Day—
 another year in good health
 my journey's lice
-midwinter bathing--
+midwinter bathing—
 his head, the moon
 in the water
 sweeping the soot
 washing the pine...
 sickle moon
-remote field--
+remote field—
 even in a thicket
 Twelfth Month singers!
 the beautiful courtesan
@@ -16044,16 +16017,16 @@ Twelfth Month singer
 is the next batch of rice cakes
 for the crow?
 Saiho Temple
-pounding rice cakes--
+pounding rice cakes—
 even the god of wealth
 watches eagerly
 from their son in Edo
 a gift for country parents...
 new clothes
-Ryogoku Bridge--
+Ryogoku Bridge—
 even on a boat, people
 drinking away the year
-about ten years old--
+about ten years old—
 the calendar
 on my hut's wall
 mother and children
@@ -16071,10 +16044,10 @@ nagging
 hey mice
 no pissing on my old
 winter quilt!
-the boat arrives--
+the boat arrives—
 peeling off
 the quilts
-snowshoes--
+snowshoes—
 children show me how
 to put them on
 a man pulls a snow sled
@@ -16083,7 +16056,7 @@ the cargo
 the big dog
 wriggles in butt-first...
 snow shed
-weak with age--
+weak with age—
 can't even break kindling
 with my knee
 a war lord too
@@ -16095,7 +16068,7 @@ dawn
 straw-wrapped natto
 smolders...
 little wood fire
-my life alone--
+my life alone—
 all the way to Ryogoku Bridge
 for medicine
 after pufferfish soup
@@ -16110,10 +16083,10 @@ do you realize it's Ninth Month
 if I just whisper
 the flock of plovers
 bursts into flight
-cold--
+cold—
 the withered grasses
 with prickles
-my gate--
+my gate—
 just four or five radishes
 in store
 still I see them
@@ -16131,16 +16104,16 @@ Mount Tsukuba
 on New Year's Day
 lucky! lucky!
 a pale blue sky
-a long day--
+a long day—
 the eel catcher writes pictures
 on the water
-migrating servants--
+migrating servants—
 even frogs and geese
 cry when they part!
-dancing butterflies--
+dancing butterflies—
 my journey forgotten
 for a while
-solitude--
+solitude—
 whichever way I turn...
 violets!
 colorful birds
@@ -16161,10 +16134,10 @@ late cherry blossoms
 after getting drunk
 even our talk...
 double cherry blossoms
-Kisa Lagoon--
+Kisa Lagoon—
 the morning sun rising
 autumn dusk
-Kisa Lagoon--
+Kisa Lagoon—
 from an island's shadow
 a rice barge
 for three pennies
@@ -16173,28 +16146,28 @@ telescope
 another two miles
 for tomorrow's walk...
 summer moon
-mountain cuckoo--
+mountain cuckoo—
 early afternoon
 on a mountain road
 up to now
 people tramped there...
 field of flowers
-mountain temple--
+mountain temple—
 deep under snow
 a bell
 messing up
 the smooth-raked salt...
 plovers
-heat shimmers--
+heat shimmers—
 they look like dear friends
 the two graves
-pheasant crying--
+pheasant crying—
 it's a plum blossom-filled
 beggar's world now!
 resting his hands
 on the green plum, asleep...
 a frog
-the coastal wall--
+the coastal wall—
 camellias
 in bloom
 my blossom comrades
@@ -16206,37 +16179,37 @@ under this tree
 descending the mountain
 a cherry blossom-viewing mood
 sets in
-Fifth Month rain--
+Fifth Month rain—
 where's your snow now
 Shinano mountains?
 even the tree by the gate
 safe and sound...
 evening cool
-cuckoo--
+cuckoo—
 is this rain falling
 only on me?
 O mountain cuckoo
 don't try being
 like me!
-lotus blossoms--
+lotus blossoms—
 just the place for discarded
 lice
 thorny wild roses
 "Step over us here!"
 as they bloom
-Kisa Lagoon--
+Kisa Lagoon—
 riding on the waves
 insects singing
-windy rain--
+windy rain—
 shaded by the house
 insects singing
 from meeting rooms
 of pine and bamboo...
 year's first dawn
-spring ends in the town--
+spring ends in the town—
 umbrella-hat, bamboo blind
 vendors
-spring breeze--
+spring breeze—
 the pine on the ridge
 whispers it
 when will we meet again?
@@ -16251,7 +16224,7 @@ the far mist
 the plowman stacks
 volcanic rocks...
 evening
-sea foam--
+sea foam—
 in the fleeting wave
 a Heike crab
 cutting off my hair
@@ -16266,19 +16239,19 @@ blossom clouds
 creeping through white
 cherry blossom clouds...
 the mountain
-high noon--
+high noon—
 the reed thrush sings
 to a silent river
 in the summer night
 I'm covered with a bath towel...
 the inn
-cool air--
+cool air—
 in just one dream
 seventy miles!
 coolness!
 everything in sight
 at Kiyomigata
-stillness--
+stillness—
 in the depths of the lake
 billowing clouds
 from deep in the cloud's
@@ -16302,7 +16275,7 @@ evening cool
 escorted by
 phosphorescent fires...
 the cool air
-moonlight--
+moonlight—
 evening's cool reaches
 Akasaka
 skillful courtesans!
@@ -16314,10 +16287,10 @@ fireflies flitting
 let him pass
 like a mosquito, a fly...
 solitary priest
-Hamamatsu beach--
+Hamamatsu beach—
 helping out the cicadas
 singing waves
-day flowers--
+day flowers—
 over the withered grass
 they creep
 the peony falls
@@ -16326,13 +16299,13 @@ rain
 the plum tree
 with heart at peace...
 leafing green
-Toh Temple--
+Toh Temple—
 just its pagoda shows
 over the summer trees
 hey boatman
 no pissing on the moon
 in the waves!
-Matsushima--
+Matsushima—
 clapping three or four times
 then again, the moon
 blowing from the east
@@ -16344,10 +16317,10 @@ mountain
 paying a visit
 to the Weaver Star...
 a sneaky Romeo
-defeated sumo wrestler--
+defeated sumo wrestler—
 is his father
 watching too?
-Kamakura--
+Kamakura—
 these days scarecrows
 are the gatekeepers
 people depart
@@ -16365,31 +16338,31 @@ cold wind
 while I looked at the duckweed
 the pond
 froze
-night wind--
+night wind—
 the shrine's icicles
 reflect the lights
 the ice of the moat
 cracking...
 winter moon
-mountain temple--
+mountain temple—
 like it's lying down
 on the winter wind
 outside, snow
 inside, soot-caked...
 my home
-a long ride--
+a long ride—
 hailstones drumming
 umbrella-hats
-first frost--
+first frost—
 the beggar's stove
 a welcome sight
-first frost--
+first frost—
 one hates buckwheat noodles
 one loves 'em
-an old man's ways--
+an old man's ways—
 my backside warmed
 by the wood fire
-a wood fire--
+a wood fire—
 her shadow in the window
 pulling thread
 warming up
@@ -16404,13 +16377,13 @@ of zoni
 pretty girls multiply
 day by day...
 spring days!
-heat shimmers--
+heat shimmers—
 the morning sun
 crosses the threshold
 the village child
 makes a river branch...
 melting snow
-such is life--
+such is life—
 the burning field's bugs
 a feast for birds
 the plowman
@@ -16419,7 +16392,7 @@ evening
 even birds
 make their nests...
 beggars under the bridge
-evening falls--
+evening falls—
 the kite and the lark
 come down
 birds in the clouds
@@ -16437,34 +16410,34 @@ bamboo grove
 my sleepy mind
 counting cherry blossoms...
 a rainy night
-windy rain--
+windy rain—
 pouring over the blossoms
 a temple bell
 when the snake comes out
 there's a brave soldier...
 blossom viewers
-cool air--
+cool air—
 with one cracked pot
 my life alone
-summer moon--
+summer moon—
 in the vacant lot a ruckus
 of voices
-mountain wind--
+mountain wind—
 house after house
 with summer banners
-a new summer robe--
+a new summer robe—
 for a little while
 no lice
 through green bamboo blinds
 a pretty woman
 in white
-night work--
+night work—
 outside the mosquito net
 she thinks of her child
 his child massages
 his shoulders...
 cool air at the gate
-burning mosquitoes--
+burning mosquitoes—
 in the paper lamp
 my dear one's face
 only one
@@ -16473,10 +16446,10 @@ mosquito
 proud branches
 are trimmed...
 fresh leaves of the hedge
-Great Japan--
+Great Japan—
 under thick summer leaves
 Jesus-Buddha
-chrysanthemum month--
+chrysanthemum month—
 for every mountain village
 days of sake
 out of sake
@@ -16485,13 +16458,13 @@ a cold night
 his grinding teeth
 wake me...
 a cold night
-autumn evening--
+autumn evening—
 a traveling man busy
 stitching
 not only waiting
 for the harvest moon to rise...
 streetwalker
-field of flowers--
+field of flowers—
 whose umbrella-hat
 marked you?
 hands clapping
@@ -16500,40 +16473,40 @@ the dance
 in the lake
 alongside the duck...
 the sneaky Romeo Star
-draining the rice field--
+draining the rice field—
 a fish also
 heads home
 on the saddle
 three, four, six...
 locusts
-katydid--
+katydid—
 for a little while
 on my futon
-distant sight--
+distant sight—
 in withered fields
 a little house's lamp
 Great Japan!
 even for a Buddhist temple
 Ise Shrine's calendar
-Great Japan--
+Great Japan—
 a foreigner also attends
 the year's end service!
-winter seclusion--
+winter seclusion—
 cooking a chicken
 praising Buddha
 squeezing in next
 to my lover...
 quilt-covered brazier
-an all-day job--
+an all-day job—
 digging one small chunk
 of firewood
 from crappy ground
 to the plum tree
 the wren
-winter withering--
+winter withering—
 amid the storm
 a sacred lantern
-winter withering--
+winter withering—
 even the cherry tree
 a place for straw
 I too celebrate
@@ -16542,37 +16515,37 @@ spring journey
 in the year's first dream
 my home village...
 tears
-lovers parting--
+lovers parting—
 looking back at her house
 until only mist
 opening the window
 I see the butterfly off...
 into the field
-Mount Taka--
+Mount Taka—
 while viewing blossoms
 a temple pilgrimage
-Narazaka--
+Narazaka—
 even as night's blossoms bloom
 the cry of a deer
-peach blossoms--
+peach blossoms—
 a belated "Happy New Year!"
 for the inn's guests
 the tea smoke
 and the willow
 together trembling
-summer dawn--
+summer dawn—
 riding an ox, asleep
 the hay cutter
-cool air--
+cool air—
 the half moon moves
 across a puddle
 my walking stick
 sends the trash floating...
 cloudburst
-billowing clouds--
+billowing clouds—
 the mountains in the rain
 all black
-peaks of clouds--
+peaks of clouds—
 looking down, down...
 Mount Aso's smoke
 the hated barnyard grass
@@ -16584,7 +16557,7 @@ mosquitoes
 while looking
 at poppies, poppies...
 a storm
-irises--
+irises—
 where that rainbow
 starts from
 in the dewy field
@@ -16593,25 +16566,25 @@ morning sun
 bad luck!
 into the bonfire for the dead
 a tiger moth
-bonfire--
+bonfire—
 a scarecrow also ends up
 in evening's smoke
-a gutter--
+a gutter—
 racing over ice
 the cooking water
-winter moon--
+winter moon—
 more and more and more
 tall peaks
 in first snow
 last night's pine torch
 remnant
-shady side of the house--
+shady side of the house—
 the blizzard blows
 a pile
 lamplight flickers
 in the smallpox shack...
 a blizzard
-plowing the field--
+plowing the field—
 the clatter
 of hailstones
 morning frost melts
@@ -16626,13 +16599,13 @@ knocking
 morning after morning
 damn roasted radishes!
 winter seclusion
-boar hunt--
+boar hunt—
 swiftly through the plume grass
 evening shouts
-burning leaves--
+burning leaves—
 sweet potatoes wrapped
 in black paper
-New Year's Day--
+New Year's Day—
 that I'm still on this journey
 unbelievable
 even beggars toast
@@ -16656,7 +16629,7 @@ to cherry blossoms
 houses here and there
 fly kites, three...four...
 two
-New Year's kite--
+New Year's kite—
 out of green leaves
 then back in
 sunny day rain
@@ -16665,25 +16638,25 @@ it seems
 pounding the seven herbs
 doesn't drown him out...
 crow
-spring peace--
+spring peace—
 after rain, a gang war
 garden sparrows
-spring peace--
+spring peace—
 the rained-on field's
 morning smoke
-waking up--
+waking up—
 the spring rain hasn't cleared
 the day hasn't ended
-spring rain--
+spring rain—
 one Buddhist sermon
 two haiku
-spring breeze--
+spring breeze—
 pilgrims on their way
 to rites for the dead
 in hazy night
 stepping into water...
 losing my way
-morning mist--
+morning mist—
 the castle's shutters
 bang open
 at the gate
@@ -16713,16 +16686,16 @@ outer hot spring
 amid the white
 of the whitebait
 duckweed's green
-Heike crabs--
+Heike crabs—
 long ago they moon-gazed here
 on boats
 resigning himself
 to this oceanless province...
 pond snail
-wisteria in bloom--
+wisteria in bloom—
 voices of pilgrims
 voices of birds
-plum blossom scent--
+plum blossom scent—
 when I open my paper door
 a bright moon
 for the plum blossom moon
@@ -16740,16 +16713,16 @@ drip down
 amid his grave's
 blossoms I bow...
 missing him
-distant mountain--
+distant mountain—
 looking at the blossoms
 then hurrying on my way
-divine providence--
+divine providence—
 throughout Japan gods
 guarding blossoms
 peach blossoms and willow
 decorate the eaves...
 blossom viewing
-rain on the eaves--
+rain on the eaves—
 the potted cherry tree
 calm and still
 an off-the-cuff haiku
@@ -16758,10 +16731,10 @@ mountain cherry blossoms
 turning 'round
 just missing a pretty woman...
 willow tree
-Fifth Month rain--
+Fifth Month rain—
 the five thousand five hundredth
 rented umbrella
-far distance--
+far distance—
 above green rice fields
 three mountains
 the cormorants stare
@@ -16776,16 +16749,16 @@ purification water
 for the potted bamboo
 and me...
 cool air
-daybreak--
+daybreak—
 the rooster-less village
 has a cuckoo!
 the weary cormorant
 sees off the cuckoo
 in the sky
-temporary shrine--
+temporary shrine—
 acting like he owns it
 a snail
-green plums--
+green plums—
 the baddest of bad boys
 bare-chested
 vast sky
@@ -16827,13 +16800,13 @@ mist
 watching rain fall
 on the rice seedlings...
 from the doorway
-crackling in the rainstorm--
+crackling in the rainstorm—
 field fires
 mountain fires
 amid mustard flowers
 till the ten o'clock bell...
 morning tea
-plum blossom moon--
+plum blossom moon—
 descending the ladder
 I see it
 this morning I'm one
@@ -16845,19 +16818,19 @@ clouds of blossoms
 the blossom clouds
 over Mount Miwa...
 pitch black
-cherry blossoms--
+cherry blossoms—
 over there an edge
 of Old Japan
-cherry blossom clouds--
+cherry blossom clouds—
 over there an edge
 of Old Japan
 in cool air
 slicing the falling rain...
 lightning!
-wind on the greenery--
+wind on the greenery—
 a weary cloud
 hangs over
-wind on the greenery--
+wind on the greenery—
 coming to see my house
 the morning sun
 in the thick weeds
@@ -16869,7 +16842,7 @@ a firefly
 in an alley
 beating fleas off a mat...
 a bright moon
-harvest moon--
+harvest moon—
 when my heart's had its fill
 it's dawn
 leaving now
@@ -16878,7 +16851,7 @@ spring mist
 though Mount Obasute
 is hateful...
 pure water
-evening mountain--
+evening mountain—
 how long will the cold wind
 blast?
 by the hearth
@@ -16893,16 +16866,16 @@ a little bird
 it seems to wash
 the summer mountains...
 sunrise
-Katsushika--
+Katsushika—
 mostly rice planters
 on the ferry
 his lock is worthless
 he's told...
 plowing the rice field
-if my father were here--
+if my father were here—
 dawn colors
 over green fields
-wind shakes the bamboo grass--
+wind shakes the bamboo grass—
 mother deer
 returns
 shooing flies too
@@ -16917,7 +16890,7 @@ snail
 splashing me
 the survivor...
 grassy dew
-New Year's pine--
+New Year's pine—
 alone, listening to
 the evening rain
 eye-catching
@@ -16932,10 +16905,10 @@ spring moon
 from the temple's
 noon bath rising...
 spring mist
-heat shimmers--
+heat shimmers—
 snow in the little thicket
 winking
-ice melting--
+ice melting—
 in the threshold
 early evening's moon
 behind me I hear
@@ -16944,7 +16917,7 @@ Ueno Hill
 no Fox Festival ruckus
 on this hill...
 plum blossoms
-Fox Festival--
+Fox Festival—
 what village is this
 in the mountain's nook?
 below the nightingale's
@@ -16956,7 +16929,7 @@ swallow swarm
 stopping to watch
 the evening pines...
 geese flying north
-darkening dusk--
+darkening dusk—
 in one nettle tree
 croaking frogs
 a meadow butterfly
@@ -16965,7 +16938,7 @@ from the eaves
 flecked with sand
 from the whirlwind...
 little butterfly
-rain shower--
+rain shower—
 yesterday at this time
 meadow butterflies
 someone's draped them
@@ -16974,10 +16947,10 @@ bracken
 one branch makes
 Kyoto's sky...
 plum blossoms
-like old times--
+like old times—
 plum blossoms here and there
 evening's wooden drum
-cherry blossoms scatter--
+cherry blossoms scatter—
 the servant Taro
 is relieved
 holding up
@@ -16986,7 +16959,7 @@ willow tree
 the main road
 dry from drought...
 midsummer
-pitter-patter rain--
+pitter-patter rain—
 a wild cormorant mother
 cries on a branch
 from my bed
@@ -17007,7 +16980,7 @@ rice field moon
 rain on the beach
 stamping out
 the wood fire
-removing my skullcap--
+removing my skullcap—
 at everywhich gate
 spring blossoms
 even at my penned-in
@@ -17052,19 +17025,19 @@ on the rice cake mill
 scattering onto
 my purple sleeves...
 spring snow
-Kitasaga--
+Kitasaga—
 in evening rain
 a pestle from olden times
 at my dinner tray
 a sparrow chirps...
 spring rain
-spring rain--
+spring rain—
 elsewhere the shrines
 are wonderful
 a crow's feather
 on the toasted rice cake...
 spring rain
-spring breeze--
+spring breeze—
 though deep in the grasses
 my home village
 seeing Kyoto
@@ -17073,10 +17046,10 @@ spring mist
 on horseback
 making a silent bow...
 thin mist
-heat shimmers--
+heat shimmers—
 having lost a child
 the bird's face
-melting snow--
+melting snow—
 at the foot of the mountain
 a festival!
 saved from the fire
@@ -17085,13 +17058,13 @@ the crow moves on
 when the nightingale
 moves into the pine...
 voice of the pine
-nightingale singing--
+nightingale singing—
 to the south a goose
 clacking
-pine islands--
+pine islands—
 which one's good for sleeping
 evening lark?
-evening lark--
+evening lark—
 which pine island's
 your sleeping place?
 the dawn moon in raindrops
@@ -17106,7 +17079,7 @@ departing geese
 the rice field geese
 all head north...
 a lucky spring day
-geese flying north--
+geese flying north—
 the stage barn's lamplight
 in mist
 departing geese
@@ -17130,10 +17103,10 @@ frogs singing
 even in the well bucket
 croaking all night...
 a frog
-while croaking he jumps--
+while croaking he jumps—
 frog in the rainy
 grass
-picking mulberry leaves--
+picking mulberry leaves—
 the baby on her back
 stretches a hand
 with thin arms
@@ -17148,7 +17121,7 @@ plum blossoms
 plum trees bloom
 nightingales sing...
 all alone
-plum moon--
+plum moon—
 facing the blossoms
 sewer water
 a branch of blooming plum
@@ -17187,10 +17160,10 @@ blossom viewing
 an old man's
 flattering laughter...
 blossom shade
-blossom clouds--
+blossom clouds—
 the loyal retainers
 of Old Japan
-evening--
+evening—
 a bird of prey flies home
 into blossoms
 by tomorrow
@@ -17211,7 +17184,7 @@ Yoshino Hill
 the mountain cherry blossoms
 fell yesterday...
 visitors from Edo
-evening cherry blossoms--
+evening cherry blossoms—
 people with homes
 hurry home
 for the strange village
@@ -17226,10 +17199,10 @@ willow trees
 it's still
 a Sixth Month sky...
 summer's last day
-short summer night--
+short summer night—
 at the gate a happy
 nettle tree
-short summer night--
+short summer night—
 a deer pokes his face
 through the fence
 such cool air!
@@ -17247,7 +17220,7 @@ Fifth Month rain
 in Fifth Month rain
 hidden by bamboo...
 farmhouse
-Fifth Month rain--
+Fifth Month rain—
 the second floor room
 has wildflowers!
 even the branches
@@ -17256,7 +17229,7 @@ Fifth Month rain
 on the river's bank
 already it's a moonlit night...
 billowing clouds
-billowing clouds--
+billowing clouds—
 have the pine trees
 shrunk a bit?
 emerging under
@@ -17280,7 +17253,7 @@ summer moon
 finally a clear sky
 yet no moon...
 summer mountain
-summer mountain--
+summer mountain—
 with each step more
 of the sea
 a rumble of thunder
@@ -17316,7 +17289,7 @@ with parasols
 gate after gate
 the rain has cleared...
 green bamboo blinds
-wind blows--
+wind blows—
 lots of rips, my so-called
 mosquito net
 his starched summer
@@ -17331,7 +17304,7 @@ with paper fan
 sweeping off three drops
 of rain in passing...
 paper fan
-moon on the sea--
+moon on the sea—
 he's under his fan
 sleeping
 my old face rests
@@ -17370,7 +17343,7 @@ evening cool
 if you get too close
 the nettle tree will curse you!
 evening cool
-pine sapling--
+pine sapling—
 before long, strangers enjoy
 evening's cool
 going too far
@@ -17385,7 +17358,7 @@ fawn
 lingering
 under the paper umbrella...
 a fawn
-dawn--
+dawn—
 from atop the wheat
 "cuckoo!"
 so is haiku hell
@@ -17394,7 +17367,7 @@ mountain cuckoo?
 from the fir tree too
 two are singing...
 mountain cuckoos
-reed thrush--
+reed thrush—
 the cow doesn't answer
 his question
 lit by the mosquito-murdering
@@ -17415,7 +17388,7 @@ cicada chorus
 the moonflowers
 strike it rich!
 the stars
-moonflowers--
+moonflowers—
 one by one the wind
 rustles them
 heat shimmers
@@ -17448,10 +17421,10 @@ lilies
 staring at me
 on and on...
 toad in the lilies
-duckweed blooms--
+duckweed blooms—
 and below that
 a street
-duckweed--
+duckweed—
 a little black butterfly
 flitting
 a Mount Fuji viewing spot
@@ -17466,7 +17439,7 @@ young bamboo
 just when the young bamboo
 starts to straighten...
 lightning
-also running late--
+also running late—
 my garden's
 eggplants
 growing where
@@ -17487,10 +17460,10 @@ Sleeping Tree's blossoms
 the green plum
 also accepts the feeling
 of the ant
-groping for plums--
+groping for plums—
 the frog on the branch
 is magnanimous
-autumn cold--
+autumn cold—
 wherever I go people
 have homes
 paying no heed
@@ -17500,7 +17473,7 @@ he checks the bamboo
 with concern...
 morning cold
 beating the empty
-straw bag--nothing!
+straw bag—nothing!
 a cold night
 while leaning on it
 it's turned chilly...
@@ -17517,7 +17490,7 @@ in the long night
 the pine wind
 blows in my ear...
 a long night
-Milky Way--
+Milky Way—
 maybe the fools of Kyoto
 are crying
 a cloud zigzags
@@ -17553,10 +17526,10 @@ for foreigners, too!
 there's water
 beyond the stubble...
 clear fall weather
-autumn rain--
+autumn rain—
 the lamplight lights
 my knees
-autumn rain--
+autumn rain—
 night begins now
 for the nettle tree
 the pony leaves
@@ -17595,10 +17568,10 @@ autumn wind
 shining up
 the evening moon...
 autumn wind
-humidity--
+humidity—
 from beneath a stone
 wildflowers
-humidity--
+humidity—
 even one blade of grass
 is autumn
 clinging to the lord's
@@ -17607,7 +17580,7 @@ evening dew
 a wrinkled face
 he's my age...
 lanterns for the dead
-Bon lanterns--
+Bon lanterns—
 yesterday's tiles
 today are weeds
 stopping to watch
@@ -17622,7 +17595,7 @@ good stars tonight
 for the fisherman's
 rising smoke too...
 good stars tonight
-Tanabata in Great Japan--
+Tanabata in Great Japan—
 one out of three
 are male
 the sun sets
@@ -17655,7 +17628,7 @@ evening cloth-pounding
 the lord of Sarashina's
 buckwheat fields...
 evening cloth-pounding
-Sarashina--
+Sarashina—
 in a dark direction
 evening cloth-pounding
 this afternoon in Suma
@@ -17697,7 +17670,7 @@ someone else's house
 morning-glories
 utterly drenched...
 a passing rain
-pine's ivy--
+pine's ivy—
 after leaves turn red
 cut down
 Sir Horse's fart
@@ -17724,7 +17697,7 @@ on the mushroom
 keeping his cool
 under a Twelfth Month moon...
 nettle tree
-a traveler's sky--
+a traveler's sky—
 Twelfth Month
 29th day
 even from falling rain
@@ -17748,31 +17721,31 @@ mountain home
 cedars are tall
 in my hometown...
 first winter rain
-first winter rain--
+first winter rain—
 even the warlord's horse
 wears his crest
 right away
 a second winter rainfall...
 mountain home
-cold northern rain--
+cold northern rain—
 the fire-starter's face
 smells burnt
 on the neighbor's house
 where smoke rises...
 winter rain
-winter rain--
+winter rain—
 led by a cow
 to Zenko Temple
-windblown here they come--
+windblown here they come—
 the winter rain
 the thin man
-mountain house--
+mountain house—
 it's off, it's on
 the winter rain
-rainy winter night--
+rainy winter night—
 the horse neighs too
 toward his home village
-evening of winter rain--
+evening of winter rain—
 a rice field crane
 stands tall
 in night's winter rain
@@ -17793,13 +17766,13 @@ ceramic lamp
 settling into a night
 of winter wind...
 nettle tree
-winter wind--
+winter wind—
 smoke from a sawdust fire
 house at the crossroads
-winter wind--
+winter wind—
 looking in the gate
 with a little lantern
-winter wind--
+winter wind—
 on the wall's ledge
 the horse's bucket
 hearing of first snow
@@ -17817,7 +17790,7 @@ snowflakes
 the imperial guard's fire
 blazes still more...
 hailstones
-strange--
+strange—
 the moon shining
 while sleet falls
 my sake keg
@@ -17826,10 +17799,10 @@ sleet pours down
 my tea-boiled rice
 in the palm of my hand...
 falling sleet
-sweeping sleet--
+sweeping sleet—
 at the rafter's metal tip
 a bright moon
-night sleet--
+night sleet—
 even my bamboo plant
 in a rotten mood
 steam from boiling soup
@@ -17922,7 +17895,7 @@ morning's charcoal fire
 in careful bits
 your life slips away too...
 charcoal bag
-my charcoal goes quickly--
+my charcoal goes quickly—
 bag's bottom
 lit by a sickle moon
 in just a twinkling
@@ -17931,7 +17904,7 @@ charcoal bag
 no sooner than I thought
 it an obstacle...
 charcoal bag
-rainy day--
+rainy day—
 tramping over firewood
 to my evening's gazing
 happiness
@@ -17961,13 +17934,13 @@ pufferfish soup
 red leaves
 flitting down...
 pufferfish soup
-pufferfish soup--
+pufferfish soup—
 putting on airs
 like a great courtier
 a pufferfish soup-lover
 in the facing window...
 rented house
-pufferfish soup--
+pufferfish soup—
 not wanting to eat
 the head
 in Kyoto
@@ -18000,7 +17973,7 @@ house for sale
 those red seeds
 are poisonous!
 withered plume grass
-withered plume grass--
+withered plume grass—
 a solitary house
 for sale
 that one is
@@ -18036,16 +18009,16 @@ walking out alone
 on New Year's Day
 tall as a sleeping man...
 the clouds
-First Month--
+First Month—
 the plum trees blooming
 elsewhere
 once again
 I've managed not to die...
 blossoming spring
-spring begins--
+spring begins—
 forty three years
 fed by strangers
-spring begins--
+spring begins—
 in Yoshino the faces
 of fools
 without a shred
@@ -18063,10 +18036,10 @@ Mount Oshio
 the homecoming servant
 stands in front
 visiting graves
-homecoming servant--
+homecoming servant—
 Shinto dances on the mountain
 ended yesterday
-homecoming servant--
+homecoming servant—
 the graveyard's pine
 safe and sound
 Servants' Holiday!
@@ -18078,7 +18051,7 @@ first day of Rat
 yanking up trees
 he saves one for moon gazing...
 little pine
-down comes my New Year's pine--
+down comes my New Year's pine—
 let the God of Wealth
 be shocked!
 a Sumiyoshi shrine charm
@@ -18105,13 +18078,13 @@ pounding New Year's herbs
 to my home village
 the water flows...
 springtime
-spring peace--
+spring peace—
 last year which tree root
 was my pillow?
 the spring day's
 remnants...
 only in the water
-spring evening--
+spring evening—
 he comes out to pet
 the gourd
 watching the river
@@ -18129,13 +18102,13 @@ lamp-lit house in the trees
 standing tall
 in the spring rain...
 nettle tree
-spring rain--
+spring rain—
 at the edge of the spray
 my dear one's gate
-spring rain--
+spring rain—
 a sparrow begs
 by my dinner tray
-spring rain--
+spring rain—
 a delightful fire
 under the kettle
 steam on the bay
@@ -18156,7 +18129,7 @@ spring breeze
 not a blade of grass
 untouched by the spring breeze...
 country jelly
-spring breeze--
+spring breeze—
 golden flowers in bloom
 on Mount Mutsu
 the pine saplings
@@ -18171,7 +18144,7 @@ bare feet
 splashed with slush
 close to the ground...
 a monk's face
-secluded house--
+secluded house—
 even here, crowd-sick
 spring mountain
 the old priest
@@ -18189,16 +18162,16 @@ Doll Festival
 the mist covers up
 the women first...
 shell gathering
-solitude--
+solitude—
 even on a low tide day
 Sumida River
 low tide
 in a soft, soft rain...
 darkness coming
-low tide--
+low tide—
 to my woman's house
 a long way to go
-low tide--
+low tide—
 the mist wrecks my view
 of the women
 low tide
@@ -18213,7 +18186,7 @@ a driving rain
 a house
 with a rooster crowing...
 low tide
-rain falling--
+rain falling—
 for the low tide gatherers at last
 the sunset bell
 from the temple
@@ -18231,7 +18204,7 @@ Amida's priest
 the bird nest
 in plain sight for all to see...
 nettle tree
-bird's nest--
+bird's nest—
 tomorrow the pine by the gate
 will be cut down
 the baby sparrow
@@ -18258,7 +18231,7 @@ lark singing
 at Sumiyoshi
 lamps are burning
 larks are singing
-a skylark sings--
+a skylark sings—
 a man facing
 sunset
 singing skylark
@@ -18273,16 +18246,16 @@ Great Japan!
 my home village
 no longer in sight...
 singing lark
-evening rushes in--
+evening rushes in—
 someone on the tideland
 a lark singing
 evening lark
 don't let the field's smoke
 annoy you
 mingling
-with the thunder--
+with the thunder—
 a pheasant's cry
-a pigeon cries--
+a pigeon cries—
 even deep in the Thousand Islands
 it's Buddha's world
 celebrate the morning rain
@@ -18312,7 +18285,7 @@ departing goose
 geese taking off
 have a drink on me...
 Kyoto's water
-traveling geese--
+traveling geese—
 those rice fields weren't flooded
 yesterday
 don't go geese!
@@ -18324,13 +18297,13 @@ the goose departs
 a lovely night lit
 with oil lamps...
 croaking frogs
-croaking frogs--
+croaking frogs—
 my first night
 visiting this house
 the kettle's soot
 in his mouth and eyes...
 croaking frog
-spring's first frog--
+spring's first frog—
 another drop falls
 from the twig
 on a hurry-scurry
@@ -18342,7 +18315,7 @@ a little flitting butterfly
 nervously
 through the raindrops...
 spring butterfly
-riverbank--
+riverbank—
 the butterfly's bed
 a kettle's bottom
 the mountain sunset
@@ -18378,10 +18351,10 @@ little butterfly
 a group of women
 overtake me...
 field of violets
-violets on the gate--
+violets on the gate—
 even at night
 sweet nostalgia
-blooming violets--
+blooming violets—
 some worthless grass
 dug up too
 before me
@@ -18411,16 +18384,16 @@ plum blossoms
 behind me
 laughter at my rags...
 plum blossoms
-plum blossom scent--
+plum blossom scent—
 for whoever shows up
 a cracked teacup
 in plum blossoms
 kettle soot won't come off...
 my wrinkled hands
-plum in bloom--
+plum in bloom—
 even wood chopping
 a morning scene
-plum blossoms--
+plum blossoms—
 last year's unemployed worker
 from Echigo
 plum trees bloom
@@ -18456,7 +18429,7 @@ plum blossoms
 not very devoted
 to blooming...
 plum tree at my gate
-quite a feat--
+quite a feat—
 in utter silence
 the plum tree blooms
 my hut's
@@ -18480,7 +18453,7 @@ Sumida River
 eating my pickle
 rind and all...
 blossom shade
-first flowers--
+first flowers—
 boiled mountain millet
 sweet nostalgia
 are you falling
@@ -18498,7 +18471,7 @@ cherry blossoms
 blown to the big river
 floating away...
 cherry blossoms
-heavy rain--
+heavy rain—
 in cherry blossom shade
 I stayed too long
 blended in 
@@ -18519,7 +18492,7 @@ in bloom
 the first cherry blossoms
 soon scatter and stick...
 people's faces
-cherry blossoms--
+cherry blossoms—
 tree after tree
 of good karma
 an evening
@@ -18531,19 +18504,19 @@ first cherry blossoms
 half-hidden
 in the rain shower...
 cherry blossoms
-evening--
+evening—
 in the area with no pond, too
 cherry blossoms scatter
-cherry blossoms--
+cherry blossoms—
 whichever side I sleep on
 within hand's reach
 Lucky the Toad, too
 swaggers out...
 peach blossoms
-green willow--
+green willow—
 thinking of a night
 of calling fireflies
-green willow--
+green willow—
 soon we'll be calling
 fireflies here
 Shiruyoshi's bell
@@ -18573,10 +18546,10 @@ people's faces
 all day, all day
 day after day...
 Fifth Month rain
-Fifth Month rain--
+Fifth Month rain—
 in the town how long
 this flute ban?
-Fifth Month rain--
+Fifth Month rain—
 postponed by Amida
 till yesterday
 cawing crow
@@ -18588,7 +18561,7 @@ Fifth Month rain
 a pretty sleeping mat
 also in view...
 cloudburst
-rainstorm--
+rainstorm—
 a one-bamboo
 little farm field
 billowing clouds
@@ -18606,7 +18579,7 @@ billowing clouds
 in soup kettle
 and outhouse
 the summer moon
-summer moon--
+summer moon—
 in one pet of the post
 it's dawn
 how much longer
@@ -18615,10 +18588,10 @@ summer moon
 my parents' house
 no longer in sight...
 summer mountain
-summer mountain--
+summer mountain—
 just when I sight Kyoto
 rain!
-summer mountain--
+summer mountain—
 a glowing
 little pilgrim
 a man wiping
@@ -18627,16 +18600,16 @@ the summer mountain
 even in the rushes
 if the moon is shining...
 pure water
-secluded house--
+secluded house—
 no moonlight
 but gushing pure water
-pure water gushes--
+pure water gushes—
 looking at tomorrow's mountain
 lying down
 the moon shines
 up to the pine...
 pure water gushes
-gushing pure water--
+gushing pure water—
 Mount Asama's smoke
 appears again
 the hated grasses
@@ -18645,10 +18618,10 @@ green rice field
 hidden by trees
 mother's side-field...
 rice so green
-new summer robes--
+new summer robes—
 the thicket's become
 opulent
-new summer robes--
+new summer robes—
 now I want
 a pine tree!
 on Takasago
@@ -18687,7 +18660,7 @@ cool air at the gate
 tomorrow
 Buddha will be shaved...
 evening cool
-cooling at the gate--
+cooling at the gate—
 morning-glories have bloomed
 elsewhere
 even cool air basking
@@ -18726,19 +18699,19 @@ fireflies flit
 even the little bamboo
 isn't mine...
 flitting fireflies
-flitting fireflies--
+flitting fireflies—
 another annoying night
 in the house
 big rain
 big moon
 cicada in the pine
-secluded house--
+secluded house—
 a hot bath
 and cicadas in the pines
 tired of listening
 the man walks away...
 cicada on a branch
-cicadas chirr--
+cicadas chirr—
 house in the willows
 morning moon
 glimmer of tea water
@@ -18747,7 +18720,7 @@ a snail
 viewed in passing
 after summer's first bonito...
 Mount Fuji
-summer's first bonito--
+summer's first bonito—
 even at the mountain's edge
 a taste of Edo
 half of it showing
@@ -18762,7 +18735,7 @@ but it's a lotus!
 sparrows bathing
 have scattered it...
 lotus water
-lilies in bloom--
+lilies in bloom—
 from morning on
 sunset colors
 the melon cooling
@@ -18780,22 +18753,22 @@ deep tree shade
 in deutzia blossoms
 the priest buries
 the frog
-deutzia blossoms--
+deutzia blossoms—
 the children play
 funeral
-deutzia blossoms--
+deutzia blossoms—
 in the water's gleam
 a croaking frog
 in solitude
 walking on oyster shells...
 deutzia in bloom
-autumn begins--
+autumn begins—
 I thought by now this journey
 would've ended
 from the roof's overhang
 three drops...
 first autumn morning
-a cold morning--
+a cold morning—
 but the same pine tree
 as last year
 facing the gate
@@ -18807,7 +18780,7 @@ a cold night
 the field's smoke
 crawls into my sleeves...
 a cold night
-autumn evening--
+autumn evening—
 from elsewhere another horse
 neighs in reply
 even the pestle
@@ -18822,28 +18795,28 @@ bright moon
 cawing in the tree
 are you a widow, crow?
 Milky Way above
-shaded by thicket--
+shaded by thicket—
 the moon breaks through...
 my house
 harvest moon
 on a clear, rainless night
 elsewhere!
-harvest moon--
+harvest moon—
 people on the stone
 with pale faces
-harvest moon--
+harvest moon—
 even in Kyoto
 growing old
 watching the bridge
 as evening falls...
 autumn sky
-autumn rain--
+autumn rain—
 not a soul in sight
 the back gate
-autumn rain--
+autumn rain—
 he's just like me
 the snail
-autumn rain--
+autumn rain—
 for a lonely pine
 day's end
 the sold pony
@@ -18855,19 +18828,19 @@ autumn rain
 all night looking
 at my wrinkled hands...
 autumn rain
-mountain village--
+mountain village—
 a rainy autumn evening's
 long walk
-autumn wind--
+autumn wind—
 a beggar looking
 sizes me up
-autumn wind--
+autumn wind—
 the cicadas' grumbling
 is louder
 does this autumn wind
 come from the Mountain
 of Swords?
-autumn wind--
+autumn wind—
 on my pilgrimage
 to which hell?
 the little pine tree
@@ -18879,13 +18852,13 @@ autumn gale
 bit by bit
 trimming the horse's hooves...
 autumn gale
-festival at the mountain's foot--
+festival at the mountain's foot—
 in the cauldron
 an autumn gale
 travelers set out
 the sun rises...
 a world of morning dew
-autumn fog--
+autumn fog—
 the river beach's pinks
 barely visible
 when the fog clears
@@ -18912,7 +18885,7 @@ dewdrops scatter
 the Bon Festival
 flickers out too...
 lanterns for the dead
-evening wind--
+evening wind—
 for the tree-less gate
 a tall Bon lantern
 someone else's affair
@@ -18921,19 +18894,19 @@ lanterns for the dead
 an isolated house
 in mountain shade
 but a festival dance!
-mountain village--
+mountain village—
 the old man doesn't know
 the dance
 Tanabata Night
 in Kyoto, the same
 autumn mountain
-sky over Kazusa--
+sky over Kazusa—
 is my star up there
 prowling?
 Muen Temple's bell
-clangs too... 
+clangs too...
 great fireworks
-autumn sumo tournament--
+autumn sumo tournament—
 from day one
 mountain clouds
 heading straight
@@ -18948,7 +18921,7 @@ Sumida River
 in the outcastes' village too
 a lovely night...
 pounding cloth
-evening cloth-pounding--
+evening cloth-pounding—
 a cycad tree wrapped
 in a reed mat
 even the bald mountain
@@ -18957,7 +18930,7 @@ evening cloth-pounding
 a sakaki tree planted
 for good luck...
 cloth-pounding
-young buck--
+young buck—
 when he starts to make love
 mountain rain
 his dying place
@@ -18975,7 +18948,7 @@ autumn butterfly
 don't be bewildered
 by the cold weather!
 dragonfly
-dragonfly--
+dragonfly—
 flying two feet
 then two feet more
 the katydid next door
@@ -18987,7 +18960,7 @@ katydid
 a burned field
 but soon he's singing...
 katydid
-evening moon--
+evening moon—
 surviving the flood
 a katydid
 in the rain gutter too
@@ -19017,10 +18990,10 @@ chrysanthemum
 a standing priest
 a standing crane...
 field chrysanthemums
-morning-glories--
+morning-glories—
 amid the mosquitoes
 standing tall
-red-leaf ivy--
+red-leaf ivy—
 lipstick is applied
 to the roof
 the Shinano road
@@ -19080,22 +19053,22 @@ evening
 in winter wind
 in three-foot wide lodgings...
 my night
-winter wind--
+winter wind—
 in a little ditch smoke
 and bamboo tongs
-winter wind--
+winter wind—
 a street singer at dusk
 hunkers to the ground
 in first snowfall
 though slurping only hot water...
 my home
-first snowfall--
+first snowfall—
 tomorrow's smoke one
 bundle of straw
-first snowfall--
+first snowfall—
 in the bamboo evening
 sleeping alone
-first snowfall--
+first snowfall—
 my home village in a hole
 in the wall
 thicket's chrysanthemum
@@ -19110,7 +19083,7 @@ frost on the window
 rain on withered fields
 resounds...
 my pillow
-withering fields--
+withering fields—
 oh for a bite to eat
 in my hut!
 safe and sound
@@ -19119,10 +19092,10 @@ chrysanthemum
 in western mountains
 a nightingale already?
 a monk beats his bowl
-a monk beats his bowl--
+a monk beats his bowl—
 by now a dent
 in the mountain!
-shining moon--
+shining moon—
 the year's end fair
 on Mount Matsuchi
 year's end fair
@@ -19131,13 +19104,13 @@ they ask
 at my home
 the flies too, a year older...
 seacoast
-winter seclusion--
+winter seclusion—
 all night the sound
 of mountain rain
-empty charcoal bag--
+empty charcoal bag—
 in the mud so quickly
 trampled
-wood fire--
+wood fire—
 oh happy age!
 on every face
 under tall oaks
@@ -19167,16 +19140,16 @@ in the tofu tank
 at dawn a keepsake
 left on the window
 red leaves
-a new year begins--
+a new year begins—
 before sunrise
 a pine-decorated boat
 it's become
 a First Month scene...
 snow on the mud
-birds singing--
+birds singing—
 on a tatami mat in a field, too
 happy New Year
-my spring--
+my spring—
 one charcoal ball
 and a bundle of greens
 a cracked kettle
@@ -19191,7 +19164,7 @@ my hut
 the offbeat clomping
 of clogs...
 must be spring!
-spring begins--
+spring begins—
 even for a gate
 without grass
 spring comes too
@@ -19200,10 +19173,10 @@ evening rain
 two houses, three, four...
 an evening
 of kites
-a kite--
+a kite—
 Mokubo Temple settles
 into evening
-mountain shade--
+mountain shade—
 deep in a thicket
 a kite
 on this misty day
@@ -19215,7 +19188,7 @@ morning herbs
 picking herbs
 the heron also
 seems lonely
-herb garden--
+herb garden—
 picking one, he shouts
 "Over here!"
 the earth mound's
@@ -19230,7 +19203,7 @@ this year
 on the spring day
 all day, rain...
 Kyoto
-spring day--
+spring day—
 visible even after sunset
 Higashi Mountains
 grating on sand
@@ -19257,28 +19230,28 @@ spring rain
 the Black Gate
 just half visible...
 spring rain
-spring rain--
+spring rain—
 ducks waddle-waddle
 to the gate
-spring rain--
+spring rain—
 to the dinner tray's edge
 the tea grove
-spring rain--
+spring rain—
 the morning moon
 is a clam shell
 the spring breeze
 blows in the dark...
 house on the shore
-spring breeze--
+spring breeze—
 the clay doll
 gets some color
 on the tip of the pole
 the tea strainer dries...
 spring breeze
-shallow river--
+shallow river—
 on hands rinsing a kettle
 spring moon
-spring moon--
+spring moon—
 if I touched it
 it would drip
 the spring moon
@@ -19287,13 +19260,13 @@ falls again
 even at dawn
 spring haze hovers...
 Sumida River
-green moss--
+green moss—
 all the way to my lap
 spring's rainbow
 grilling sardines
 in a mountain field...
 thin mist
-thin mist--
+thin mist—
 night after night
 vegetable soup
 at the back window
@@ -19302,7 +19275,7 @@ mist
 the misty day, too
 viewed out back...
 my humble hut
-misty day--
+misty day—
 in evening mountain's shadow
 candyman's flute
 peeking in, peeking out
@@ -19320,10 +19293,10 @@ evening
 standing deep inside
 the heat shimmers...
 weeds
-heat shimmers--
+heat shimmers—
 traces of a dear friend's
 walking stick
-heat shimmers--
+heat shimmers—
 umbrella-hat's handprints too
 a sign of spring
 moonlight halos
@@ -19350,10 +19323,10 @@ they burn the mountain
 another mountain
 set on fire...
 the haze thickens
-dead grass burning--
+dead grass burning—
 on my eyebrows pattering
 evening rain
-sowing herbs--
+sowing herbs—
 the smell of fish cooking
 a little past noon
 looking for a wife
@@ -19365,7 +19338,7 @@ nightfall
 even the wild cat
 looks for sex...
 peeking in the gate
-wild cat--
+wild cat—
 after making love
 he's the town pet
 no break for the bird's nest
@@ -19377,19 +19350,19 @@ birds who've left the nest
 "There's human goblins
 in the fields and mountains!"
 bird leaving the nest
-Asakusa--
+Asakusa—
 on the day the swallows fly
 rented clogs
 blades of grass
 swish in the tide...
 a swallow flies
-blades of grass--
+blades of grass—
 swallows start arriving
 prettily
 high tide
 and a happy morning...
 swallows flying
-a swallow--
+a swallow—
 not at all bothered
 by my smoke
 the swallows, too
@@ -19398,10 +19371,10 @@ patch of weeds
 a happy night
 even among the rushes...
 a pheasant cries
-a pheasant cries--
+a pheasant cries—
 yesterday it wasn't there
 mountain field
-a pheasant cries--
+a pheasant cries—
 bedded down in tall grass
 a horse's face!
 poking his face
@@ -19413,7 +19386,7 @@ rice field geese
 celebrating the rain
 in the reeds
 croaking frogs
-sunset--
+sunset—
 tears shine in a frog's eyes
 too
 on one knee
@@ -19428,7 +19401,7 @@ a frog
 in grassy shade
 what's that grumbling?
 evening frog
-frogs singing--
+frogs singing—
 "Tonight let the weeds
 grow taller!"
 in leafy shade
@@ -19446,10 +19419,10 @@ little butterfly
 clinging to
 the pestle's trough...
 little butterfly
-a butterfly flits--
+a butterfly flits—
 two houses with piss-poor
 gardens
-flitting butterfly--
+flitting butterfly—
 after dinner, a temple
 pilgrimage
 a flitting butterfly
@@ -19476,13 +19449,13 @@ tonight
 for two or three days
 its pure fun...
 for silkworms
-a sickle moon--
+a sickle moon—
 hands groping
 for pond snails
 even the clams
 are related to the great
 men of old
-parsley pickers--
+parsley pickers—
 don't let the crane
 think you're clumsy!
 one more dawn
@@ -19500,7 +19473,7 @@ outcaste's home
 giving Holy Binzuru
 a rub...
 the budding tree
-my hut's camellias--
+my hut's camellias—
 not a shoddy one
 among them
 a calf's face
@@ -19509,10 +19482,10 @@ camellias
 I'll put on shell-sandals
 too!
 village plum blossoms
-plum blossoms--
+plum blossoms—
 the sound of a three-penny
 flute
-plum blossoms--
+plum blossoms—
 in a mountain nook
 somebody's house
 plum blossoms scatter
@@ -19530,16 +19503,16 @@ he was big!
 in cuffs dragging
 through the dirt...
 plum blossoms
-while I slept--
+while I slept—
 night unfurled all kinds
 of plum blossoms
 catching its breath
 on the pine tree's root...
 plum blossom
-plum blossoms--
+plum blossoms—
 they've come to see Edo
 child tourists
-plum blossoms--
+plum blossoms—
 in a metal tub
 a sickle moon
 even the hot water vendor
@@ -19551,16 +19524,16 @@ his stern face
 in scattering blossoms
 I've lived too long...
 evening
-cherry blossoms scatter--
+cherry blossoms scatter—
 even the clay Saigyo
 looks merry
 bloom, cherry trees!
 Izen's snoring
 may stop
-rain on blossoms--
+rain on blossoms—
 under a hemp tarp
 his stern face
-blossoming mountain--
+blossoming mountain—
 the little food shop
 lost in mist
 from behind me
@@ -19578,10 +19551,10 @@ another hot water?
 it's how the village
 makes a living...
 cherry trees in bloom
-peach blossoms--
+peach blossoms—
 at the gate he weighs
 the cat
-green willow--
+green willow—
 jointly owned by neighbors
 a tea-drinker's bridge
 dawn's glow
@@ -19596,7 +19569,7 @@ Kyoto
 annoyingly
 it hides one wall...
 willow
-willow tree graft--
+willow tree graft—
 tomorrow you leave
 the hut
 the earth-dyed cotton
@@ -19605,7 +19578,7 @@ willow tree
 in sweltering heat
 sunshine kills...
 my poor head!
-summer night--
+summer night—
 the disdained gate's
 wildflowers
 crushed
@@ -19617,7 +19590,7 @@ billowing clouds
 billowing clouds
 on the move...
 before my umbrella-hat
-a reedy place--
+a reedy place—
 in summer moonlight, distant
 cloth-pounding
 the nightingale
@@ -19629,13 +19602,13 @@ back into the hot tub
 barnyard grass too
 rustles, rustles...
 like the green rice field
-a happy sight--
+a happy sight—
 on purification evening
 the Milky Way
-evening purification--
+evening purification—
 a splash of water on bamboo
 will do
-my life--
+my life—
 if I die may the bamboo blinds
 still be green
 after re-papering
@@ -19644,7 +19617,7 @@ weeds
 with my wastepaper fan
 striking poses...
 alone
-evening shadows--
+evening shadows—
 rain pitter-patters
 on my fan
 all the bought water
@@ -19656,7 +19629,7 @@ cool air
 every evening
 at the canal's edge...
 evening cool
-evening cool--
+evening cool—
 the toad who comes out
 I call "Lucky"
 this falling rain
@@ -19677,22 +19650,22 @@ fireflies
 on the moonlit spider web
 an evening
 cicada
-cicada chorus--
+cicada chorus—
 for the butterfly too
 no sunburn
-a cicada chirrs--
+a cicada chirrs—
 covering the pears
 a paper bag
 does the red dawn
 delight you
 snail?
-snail--
+snail—
 the butterfly in a mad
 hurry
 day flowers
 along with the hay...
 clipped
-lotus blossom--
+lotus blossom—
 a dragon once rode you
 people say
 dusting off
@@ -19707,7 +19680,7 @@ blooming irises
 the melon
 can't sink completely...
 the well
-Kamo River--
+Kamo River—
 after making a melon soak
 the moon sets
 a hedge where no priests
@@ -19719,10 +19692,10 @@ deutzia blossoms
 little morning-glories
 big morning-glories...
 it's Ninth Month!
-so cold in morning's cold--
+so cold in morning's cold—
 vegetable vendor
 winnow vendor
-morning cold--
+morning cold—
 the toad's eyes too
 open wide
 green willow at the gate
@@ -19737,7 +19710,7 @@ nettle tree
 even tortoise and crane
 meet their fate...
 autumn evening
-Katsushika--
+Katsushika—
 a moonlit house
 by a sewer
 the village fires
@@ -19749,10 +19722,10 @@ bright moon
 on Musashi Plain
 complementing a house...
 autumn moon
-Musashi Plain--
+Musashi Plain—
 over the dog's toilet too
 a bright moon
-mountain moon--
+mountain moon—
 father pulls the bell rope
 his child prays
 almost a harvest moon
@@ -19770,13 +19743,13 @@ twice
 after renting the house
 moon-gazing there...
 twice
-a big rain--
+a big rain—
 on the moon-gazing boat
 watching it fall
-growing old--
+growing old—
 even while moon gazing
 praising Buddha!
-Ninth Month moon--
+Ninth Month moon—
 in the mountain's shade
 a food festival
 rain, rain!
@@ -19800,7 +19773,7 @@ autumn rain
 today too, today too
 autumn rain...
 mountainside house
-mountain field--
+mountain field—
 pigeons cooing
 in autumn rain
 in autumn wind
@@ -19809,10 +19782,10 @@ little butterfly
 an autumn wind's
 blowing! blowing! night...
 open window
-autumn wind--
+autumn wind—
 without even a house
 the "big man"
-autumn wind--
+autumn wind—
 topping the grasses
 someone's face
 reaching the face
@@ -19830,7 +19803,7 @@ in the willow
 over one thicket
 a custom-made shroud...
 evening fog
-autumn mountain--
+autumn mountain—
 is he banging that gong
 because he's alive?
 autumn mountains
@@ -19857,10 +19830,10 @@ lanterns for the dead
 the pine breeze too
 blows carefully...
 lanterns for the dead
-at the hermit's hut, too--
+at the hermit's hut, too—
 an upturned face awaits
 the stars
-awaiting the stars--
+awaiting the stars—
 even a turtle cools
 his behind
 lined up perfectly
@@ -19872,10 +19845,10 @@ scarecrow
 one by one
 the frigid gusts...
 bird clapper
-Mount Asa--
+Mount Asa—
 even when cloth-pounding stops
 sweet nostalgia
-new house--
+new house—
 here too, three or four
 cloth-pounders
 rising smoke
@@ -19884,13 +19857,13 @@ cloth-pounding
 the owl comes
 to lend a hand...
 cloth-pounding
-remote province--
+remote province—
 even in the haunted field
 pounding cloth
 I leave my chrysanthemum
 for the evening...
 fresh-brewed sake
-high tide--
+high tide—
 splish-splash
 goes the buck
 the young buck
@@ -19914,19 +19887,19 @@ all through sunset
 the woodpecker
 pecks it to death...
 the post
-honking geese--
+honking geese—
 I picture skies
 over inns
 just today and tomorrow
 left of autumn!
 rice field geese
-an insect chirps--
+an insect chirps—
 yesterday it wasn't there
 hole in the wall
-cricket--
+cricket—
 you too have adapted to life
 in Edo
-katydid--
+katydid—
 "katy-katy!" not dead
 yet
 not a thicket
@@ -19938,7 +19911,7 @@ there's autumn blooms
 even in the sky
 Buddha dwells...
 wildflowers
-blocking the gate--
+blocking the gate—
 morning-glories
 and a slob
 into morning-glories
@@ -19965,7 +19938,7 @@ a morning scene
 selling morning-glories
 wet with morning dew...
 a tough character
-voice of the bell--
+voice of the bell—
 the morning-glories are the first
 to stir
 on the busy gate, too
@@ -19977,7 +19950,7 @@ greet the dawn
 on one branch
 tumbling head over heels...
 autumn colors
-mountain field--
+mountain field—
 the mouse's hole too
 under red leaves
 in autumn frost
@@ -20022,22 +19995,22 @@ paper dog
 waiting for spring
 sparrows also make a home
 in the bamboo
-year's end--
+year's end—
 the bell of my death place
 tolls too
-year's end--
+year's end—
 when will my turn come
 temple bell?
-bamboo thicket--
+bamboo thicket—
 on the year's last day, too
 evening rain
-first snowfall--
+first snowfall—
 the crows of Kasai
 happily caw
 just existing
 I exist...
 snow flitting down
-night snow--
+night snow—
 in a hush people
 passing
 hurry along!
@@ -20046,19 +20019,19 @@ on wooden clogs
 expecting a night
 of spring...
 night frost
-harvest moon--
+harvest moon—
 the pine tree's head too
 swept for soot
-pine breeze--
+pine breeze—
 in the middle of a field too
 Twelfth Month singers
 pounding rice cakes
 gliding into evening...
 Sumida River
-pounding rice cakes--
+pounding rice cakes—
 the gate is the sparrows'
 playground
-pounding rice cakes--
+pounding rice cakes—
 the holy man's goose, too
 alive and well
 at night a sound
@@ -20073,7 +20046,7 @@ new clothes
 a Pure Land temple's
 bell of old age...
 listen!
-falconry--
+falconry—
 a barley field's rising sun
 on one sleeve
 plain, light-blue
@@ -20085,16 +20058,16 @@ morning's charcoal fire
 every evening
 you're also more depleted...
 charcoal bag
-rain falling--
+rain falling—
 tomorrow's chance of firewood
 is nil
 by the wood fire
 comparing our wrinkles...
 Mount Kagami
-banked fire--
+banked fire—
 gulls clamor
 in the redbud tree
-banked fire--
+banked fire—
 the mountain pine wind
 at my pillow
 when the deer cries
@@ -20103,19 +20076,19 @@ fall like tears
 moonlight! shadow!
 even en route to Yoshiwara
 winter's withering
-a man's shadow--
+a man's shadow—
 even on St. Jizo's monument
 winter withering
 even for winter's withering
 an indifferent face...
 sea gull
-winter withering--
+winter withering—
 departing from mother
 the pony's face
 another year
 just taking up space...
 thatched hut
-spring peace--
+spring peace—
 no plum blossoms yet
 this First Month
 even my house
@@ -20136,7 +20109,7 @@ bright moon
 rain from the eaves
 drip-drip...
 a late sunset
-forest ranger--
+forest ranger—
 he sweeps away spring
 with a broom
 departing spring's
@@ -20145,7 +20118,7 @@ mountain pass
 down to two leaves
 the lonely morning-glory...
 spring frost
-shelter in the reeds--
+shelter in the reeds—
 even when I turn over
 spring rain
 not missing
@@ -20154,19 +20127,19 @@ blades of grass
 spring rain
 on an ancient road...
 the pickle vendor
-spring rain--
+spring rain—
 there's one window
 per person
 through a window big
 as an umbrella-hat...
 spring breeze
-spring breeze--
+spring breeze—
 the mop on the fence
 drying
-spring breeze--
+spring breeze—
 let the grass also
 drink sake!
-temple mountain--
+temple mountain—
 under a spring moon heading
 to a poem party
 every evening
@@ -20178,7 +20151,7 @@ secluded temple
 in the misty day
 no window can be seen...
 a prison
-misty day--
+misty day—
 grasses at the gate
 at noon
 on one sleeve
@@ -20187,22 +20160,22 @@ spring mist
 fat little sparrows
 in the farm field too...
 in mist
-spring mist--
+spring mist—
 not taking up a hoe
 a shameless loafer
-Musashi Plain--
+Musashi Plain—
 our dwelling too
 in mist
 draping the mountain
 village's sleeping face...
 mist
-heat shimmers--
+heat shimmers—
 the mosquito-breeding thicket
 is pretty too
 in my dear one's house
 not one provincial doll
 on Doll's Day
-my home village--
+my home village—
 even the doll's face
 made of weeds
 their colorful umbrellas
@@ -20211,13 +20184,13 @@ low tide
 plowing the rice field
 dewdrops fall too...
 entrance gate
-plowing fields--
+plowing fields—
 festivals, festivals
 all over!
-back road--
+back road—
 even on top of grasses
 sowing herbs
-mountain field--
+mountain field—
 "Nice job of seeding!"
 sing the birds
 the nightingale aims
@@ -20226,10 +20199,10 @@ my fence
 mountain crows
 bring the mountain nightingales
 when you come
-hey nesting swallows--
+hey nesting swallows—
 grassy green mountains
 are elsewhere
-flying swallows--
+flying swallows—
 wherever there's grass
 hail Great Japan!
 entrusting the thicket
@@ -20247,13 +20220,13 @@ through town
 even in mountain shade
 a plowed field!
 the pheasant cries
-geese fly north--
+geese fly north—
 how they yearn to see
 Mount Sarashina
 the geese I know
 by sight, are they gone?
 rice field of Nara
-frogs croaking--
+frogs croaking—
 "This rain on the grass
 is unsanctioned!"
 in Adashi Field
@@ -20274,10 +20247,10 @@ a spring butterfly
 gate after gate
 making the rounds...
 little butterfly
-heron on a post--
+heron on a post—
 butterflies in a breathless
 flurry
-meadow butterflies--
+meadow butterflies—
 the cow also
 gazes
 flitting butterfly 
@@ -20292,7 +20265,7 @@ chirping sparrow
 chiding the new grass
 for not being ready...
 sunset bell
-straggly violets--
+straggly violets—
 here, too
 the moon's dwelling
 a swish-swish
@@ -20307,7 +20280,7 @@ trees budding bright
 springtime
 yet it blooms reluctantly...
 the camellia
-my home village--
+my home village—
 even lying-down cows
 look at camellias
 in plain old everyday
@@ -20316,31 +20289,31 @@ plum blossoms!
 may the wind send
 this plum blossom scent
 to Kyoto!
-plum blossom scent--
+plum blossom scent—
 even the weasel passes
 with a song
 wrapped in the scent
 of plum blossoms...
 little house
-plum blossom scent--
+plum blossom scent—
 through a needle's eye
 the light
 even weeds under the tree
 smell nice...
 plum blossoms
-mountain village--
+mountain village—
 wiping greasy hands
 on plum blossoms
 that dog ought to poop
 pure gold!
 blossom shade
-scattering blossoms--
+scattering blossoms—
 today too
 like olden times
 up close
 even the cherry blossoms of Ueno
 pass on
-cherry blossoms--
+cherry blossoms—
 I also hear a temple bell
 from my twenties
 in cherry blossom shade
@@ -20355,7 +20328,7 @@ cherry blossoms
 most end up
 stuck in mud...
 cherry blossoms
-an idler--
+an idler—
 under the cherry blossoms
 I live
 even in sleep
@@ -20370,7 +20343,7 @@ castle mountain
 all night
 under the cherry blossoms
 nagging
-vacant temple--
+vacant temple—
 industriously blooming
 peach and cherry
 Japan's night sky
@@ -20385,22 +20358,22 @@ back window
 in summer's early dawn
 a bird comes chirping...
 nettle tree
-the moon shining--
+the moon shining—
 no carousing
 this summer night!
-evening cool--
+evening cool—
 for each little village
 one little hill
-evening cool--
+evening cool—
 a Buddha of healing
 in a thicket
 in a cloudburst
 another festival shrine
 passes by
-rainstorm--
+rainstorm—
 hanging over the village
 that doesn't pray
-rainstorm--
+rainstorm—
 a wildflower blooms
 at my pillow
 only when a scrap of cloud
@@ -20415,10 +20388,10 @@ for green rice fields
 an arm for a pillow
 imagining the green rice field
 is mine
-Buddha's birthday--
+Buddha's birthday—
 fat little sparrows
 and their parents
-picking flowers--
+picking flowers—
 everyone with a different
 style of fan
 a butterfly deigns
@@ -20427,28 +20400,28 @@ summer flowers
 a cool wind today
 the first of the month...
 Mount Fuji
-irises on the eaves--
+irises on the eaves—
 before they shrivel
 to bed I go
-new summer robes--
+new summer robes—
 the town today
 at the low-tide beach
 a "Good fortune!" wish
 even for the pigweed...
 paper fan
-sunset bell--
+sunset bell—
 one ear covered
 with my paper fan
-smoke rising--
+smoke rising—
 the bats' world, too
 is good
-cuckoo--
+cuckoo—
 laughing at the man
 in the burning house?
 even a penny teahouse
 a happy thing!
 mountain cuckoo
-mountain cuckoo--
+mountain cuckoo—
 the cherry blossoms of Shinano
 have bloomed!
 when you step one foot
@@ -20463,7 +20436,7 @@ clinging
 my house
 where the town's fireflies
 hide out
-my gate--
+my gate—
 lodging for the fireflies
 there being no grass
 in my thicket
@@ -20484,7 +20457,7 @@ a snail
 one little tub
 one lotus
 one evening falls
-lotus blossoms--
+lotus blossoms—
 the beggar's smoke
 wafts over
 among lotus blossoms
@@ -20493,7 +20466,7 @@ grow old
 Lucky the Toad
 crawl out!
 lotus blossom
-foggy rain--
+foggy rain—
 let the lilies in the desolate field
 bloom!
 the bamboo shoots suffer
@@ -20502,7 +20475,7 @@ storm
 the scrawny plum tree
 is fruitless too...
 my life
-Ninth Month--
+Ninth Month—
 the sky wears a colorful
 kimono
 the blooming pink
@@ -20511,10 +20484,10 @@ a cold night
 the pink flaunts
 a single bloom...
 a cold night
-people's voices--
+people's voices—
 in the grove the cold night
 isn't
-mountain village--
+mountain village—
 a cold night's
 night walker
 a chill running
@@ -20535,7 +20508,7 @@ little house
 on a soot-grimed
 straw mat too...
 moon gazing
-autumn wind--
+autumn wind—
 a face used to its blast
 in his mountain home
 behind me
@@ -20550,7 +20523,7 @@ an autumn gale blows
 soon enough
 for the murderer too...
 dew on the grass
-dewdrops forming--
+dewdrops forming—
 on the hill, of course
 smoke rising
 dewdrops on the grass
@@ -20559,7 +20532,7 @@ so cool!
 in beads of dew
 one by one my home
 village
-lightning flash--
+lightning flash—
 a rain shower party
 for the wild grasses
 is that dew
@@ -20568,7 +20541,7 @@ autumn mountain
 such cool air!
 Tanabata clouds
 and evening
-Tanabata Night--
+Tanabata Night—
 a single eggplant
 standing up
 the Boy Star
@@ -20580,10 +20553,10 @@ classics
 once upon a time
 he was the champ...
 humble cottage
-evening--
+evening—
 the wind also chills
 the sumo wrestler
-scarecrows standing--
+scarecrows standing—
 a house without rice cakes
 can't be found
 the pine saplings
@@ -20601,7 +20574,7 @@ water drains away
 in Yoshino's
 ancient night...
 someone pounding cloth
-rice field geese--
+rice field geese—
 not a single voice
 sounds old
 once they settle down
@@ -20613,7 +20586,7 @@ are honking
 geese honking
 hasten the evening...
 little house
-evening wind--
+evening wind—
 the geese turn around
 honking
 the day is short
@@ -20634,7 +20607,7 @@ a chrysanthemum
 born again
 morning-glories make
 autumn bloom
-morning-glories--
+morning-glories—
 they also aren't tired
 of blooming
 morning-glories
@@ -20706,7 +20679,7 @@ rice cake tub
 hot water on rice
 and I'm happy...
 sleet falling
-first frost--
+first frost—
 my teeth could crack radishes
 up to last year
 frost on the grass
@@ -20721,7 +20694,7 @@ withered fields
 all sorts of fools
 moon-gaze too...
 winter prayers
-ashamed--
+ashamed—
 eating then going to bed
 I hear the winter prayers
 all the tea at hand
@@ -20745,19 +20718,19 @@ sparrows
 the plum tree too
 is soon snowed in...
 winter seclusion
-early winter seclusion--
+early winter seclusion—
 whose thin smoke
 over there?
-winter seclusion--
+winter seclusion—
 the wild geese labor
 till evening
 for three months
 my winter seclusion...
 old age
-wild boar--
+wild boar—
 it looks like you just
 woke up
-wind blows--
+wind blows—
 the wild boar's sleeping face
 so innocent
 trampling my house
@@ -20781,7 +20754,7 @@ first day
 may the gods grant
 prosperity!
 the emperor's spring
-spring begins--
+spring begins—
 I send up my smoke
 like everyone else
 at my gate
@@ -20802,7 +20775,7 @@ the kite
 the trainer lets
 his monkey hold it...
 New Year's kite
-sound of a loom--
+sound of a loom—
 hidden in bamboo
 a New Year's kite
 sleeping through New Year's
@@ -20820,7 +20793,7 @@ springtime
 rising over
 the swishing grasses...
 spring sun
-spring sun--
+spring sun—
 over the swishing grasses
 gliding up
 for the turtle on a rock
@@ -20841,7 +20814,7 @@ clinging
 spring snow sprinkles
 the earth god's
 festival song
-my home village--
+my home village—
 rice cakes soaked
 with spring snow
 going to see
@@ -20859,13 +20832,13 @@ the sleeping child
 over rice cakes and jelly
 the good spring breeze
 blows
-misty day--
+misty day—
 the meal at the mountain's foot
 marvelous
 through heat shimmers
 the murmuring
 rain
-heat shimmers--
+heat shimmers—
 in that hole perhaps?
 a katydid
 on Devil's Island
@@ -20877,10 +20850,10 @@ Doll Festival
 by ones and twos
 in little nooks they crouch...
 low tide
-Fukagawa--
+Fukagawa—
 from a peach tree gathering
 low tide shells
-threshing tea--
+threshing tea—
 leaves fly at a fat sparrow's
 face too
 sowing seeds to the edge
@@ -20895,7 +20868,7 @@ at the branch I grafted
 even the stray cat
 begging
 for a wife!
-nestling--
+nestling—
 even when people come
 opening its mouth
 while I watch
@@ -20904,10 +20877,10 @@ baby sparrow
 after the nightingale drinks
 water is drawn...
 old well
-nightingale--
+nightingale—
 what don't you know
 about people?
-the nightingale sings--
+the nightingale sings—
 no trace of a country
 accent
 nightingale sings
@@ -20916,13 +20889,13 @@ plum blossoms
 even on the little islands
 Buddha's law...
 swallows
-baby swallows in the nest--
+baby swallows in the nest—
 eyes glued
 on the evening sky
-mountain village--
+mountain village—
 even the swallows sing
 in celebration
-evening swallows--
+evening swallows—
 no hope for tomorrow
 for me
 through a gap
@@ -20931,7 +20904,7 @@ a skylark
 singing since morning
 skylark, your throat
 is parched
-singing lark--
+singing lark—
 little grasses too
 become money
 getting used to drinking
@@ -20940,7 +20913,7 @@ a pheasant
 a pheasant crying
 the old woman's plot of wheat, too
 all green
-a pheasant cries--
+a pheasant cries—
 burnt black yesterday
 this ancient pine
 the pheasant's cry sounds
@@ -20949,7 +20922,7 @@ spring begins
 giving these skinny legs
 new life...
 a pheasant
-geese have gone--
+geese have gone—
 the field's grass chafing
 people
 the departing goose
@@ -20961,7 +20934,7 @@ departing geese
 the traveling geese
 check it out thoroughly...
 sooty mat
-traveling geese--
+traveling geese—
 the human heart, too
 wanders
 from the tub in the reeds
@@ -20994,7 +20967,7 @@ now and then, sleeps
 thicket bees
 in the next life don't
 be like me
-cogon grass--
+cogon grass—
 the horse gazes
 at plum blossoms
 for the pony
@@ -21009,19 +20982,19 @@ blossom shade
 like the sky
 over Katsushika...
 clouds of blossoms
-cherry blossoms--
+cherry blossoms—
 I've been living in Edo
 for this day!
-rain of cherry blossoms--
+rain of cherry blossoms—
 this year, too
 I've sinned
-cherry blossom shade--
+cherry blossom shade—
 "That was good thunder!"
 he says
-cherry blossom clouds--
+cherry blossom clouds—
 leaving Edo
 tomorrow
-blossoming mountain--
+blossoming mountain—
 even men who've knocked over Buddha
 are here
 for the poor
@@ -21036,7 +21009,7 @@ cherry blossoms!
 bells and big drums
 all stop...
 cherry blossoms
-cherry blossom guard--
+cherry blossom guard—
 not much
 of a Buddhist
 simply trust,
@@ -21051,16 +21024,16 @@ thin kimono
 the village child
 clutching the willow
 sound asleep
-planting grass--
+planting grass—
 the nights are growing
 shorter
-short summer night--
+short summer night—
 this morning on my pillow
 dewdrops
-Fifth Month rain--
+Fifth Month rain—
 the crow scorns
 my thatched house
-Fifth Month rain--
+Fifth Month rain—
 they watch from two houses
 wildflowers
 looking again
@@ -21078,10 +21051,10 @@ asleep
 the rivers have
 an ancient darkness...
 cuckoo
-cuckoo--
+cuckoo—
 since you're in Kyoto
 look at that moon!
-cuckoo--
+cuckoo—
 this year again, nothing
 but weeds
 the cuckoo's becoming
@@ -21102,19 +21075,19 @@ my snail
 fresh green leaves
 blowing, blowing...
 where I lie
-Echigo mountains--
+Echigo mountains—
 a chill runs up
 my spine
 a chill runs up
 my spine...
 Echigo mountains
-autumn chill--
+autumn chill—
 my spine feels
 the mottled mountain
-autumn evening--
+autumn evening—
 this is nothing like
 my home village
-departing clouds--
+departing clouds—
 "Autumn won't return"
 the cicadas sing
 a glimpse of moon
@@ -21123,10 +21096,10 @@ then clouds
 even the moon
 over my home village...
 brings tears
-bright moon--
+bright moon—
 in a little thicket too
 a festival!
-mountain fog--
+mountain fog—
 the beautiful voice
 of the dung-hauler
 does it delight
@@ -21162,7 +21135,7 @@ red dragonfly
 people call it
 the "Buckwheat Place"
 red dragonfly
-the dragonfly's redness--
+the dragonfly's redness—
 chased away
 by people
 the dragonfly's tail, too
@@ -21186,7 +21159,7 @@ bush clover blooms
 after blooming day
 twining 'round my legs...
 bush clover
-barren bush clover--
+barren bush clover—
 softly, softly its blooms
 have scattered
 the little crow
@@ -21201,10 +21174,10 @@ autumn leaves
 before people do
 herons raise a clamor
 "Ice!"
-the year ends--
+the year ends—
 how long will that turtle
 hang there?
-winter storm, winter wind--
+winter storm, winter wind—
 the cow's sweat
 blown away
 in winter wind
@@ -21216,16 +21189,16 @@ snow is falling
 sleeping side by side
 Shinano's mountains too...
 evening snow
-snowy day--
+snowy day—
 people of my village too
 unwelcoming
-first frost--
+first frost—
 what are you praying for
 katydid?
 my grave too
 will soon need his prayer...
 a monk beats his bowl
-sweeping soot--
+sweeping soot—
 even the sparrow's bed
 in the thicket
 grumble, grumble
@@ -21258,16 +21231,16 @@ year's first day
 a shiny-new year
 has come again...
 for my lice
-First Month--
+First Month—
 at the cat's grave too
 plum blossoms
-First Month--
+First Month—
 in a nook of the village
 plum blossoms!
-my old coat--
+my old coat—
 a long First Month
 creeps by
-stand of trees--
+stand of trees—
 even from poor grasses
 flowering spring
 the wild daisies
@@ -21276,7 +21249,7 @@ spring's first day
 a new spring
 and a monkey!
 viewed through my cuff
-spring's begun--
+spring's begun—
 the sky over my house too
 like old times
 while I slept
@@ -21291,7 +21264,7 @@ plum blossoms
 on the Servants' Holiday
 there's no hiding
 the white hair
-Soba Field--
+Soba Field—
 on the first day of Rat
 picking a pine tree
 stockpiling rice
@@ -21303,16 +21276,16 @@ my house
 putting on my
 New Year's clothes...
 the mountain owl laughs
-New Year's water--
+New Year's water—
 an unfortunate soul
 ladles it
-begging actors--
+begging actors—
 the olden times return
 today
 now it's a springtime
 befitting old men...
 evening rain
-spring day--
+spring day—
 the outhouse sandals
 are new
 the nightingale's
@@ -21327,22 +21300,22 @@ a long day
 Sumida River
 from whence will spring's dusk
 come?
-spring evening--
+spring evening—
 the bamboo fire-feeding pipe
 is a treasure
-hole in the wall--
+hole in the wall—
 "blessed" spring's
 night rain
 in spring rain
 Kamakura's sparrow's...
 how they sing!
-home village--
+home village—
 spring rain on the grass
 Hoe Festival
 to my dinner tray
 evening's spring breeze
 comes wafting
-misty day--
+misty day—
 the great courtier
 with sand in his hair
 a precious harp
@@ -21354,13 +21327,13 @@ spring mist
 heat shimmers rise
 even from my hand's
 wrinkles!
-heat shimmers--
+heat shimmers—
 tomorrow's sake price
 on a little brushwood fence
-heat shimmers--
+heat shimmers—
 yesterday it sang
 pond snail shell
-heat shimmers--
+heat shimmers—
 someone listening to
 a snail shell
 by Doll Festival time
@@ -21381,7 +21354,7 @@ tea pickers
 even bird-eating birds
 lose their nests
 in the burning grass
-the butterfly sleeps--
+the butterfly sleeps—
 until the burning field's smoke
 covers it
 giving shade
@@ -21408,13 +21381,13 @@ the fence
 adding themselves
 to the bird's nest...
 cherry blossoms
-nightingale--
+nightingale—
 even the turtle wants
 to break into song
 not hushing up
 for the nightingale...
 sparrows
-nightingale--
+nightingale—
 the nursing baby also
 opens her mouth
 nesting swallows
@@ -21423,7 +21396,7 @@ darkness
 speeding along
 a lazy day, the singing
 of a skylark
-a pheasant cries--
+a pheasant cries—
 the teardrop rain
 of Umewaka Day
 its tail points
@@ -21432,10 +21405,10 @@ pheasant
 the field pheasant's
 hiding place...
 my hut
-Mokubo Temple--
+Mokubo Temple—
 even at dusk the pheasant
 still crying
-mountain temple--
+mountain temple—
 in the outhouse too
 a pheasant cries
 at my gate
@@ -21456,7 +21429,7 @@ a frog
 ensconced behind
 the day flower...
 a frog
-mountain temple bell--
+mountain temple bell—
 the frog too
 must feel old
 watching me
@@ -21465,7 +21438,7 @@ a frog
 on the offering shelf
 does the butterfly also hear
 Buddha's promise?
-Adashi Field--
+Adashi Field—
 preceding the dewdrops
 butterflies
 gate's butterfly
@@ -21480,10 +21453,10 @@ wild plum
 spring's first butterfly
 sleeps one night...
 dog's bowl
-first butterfly--
+first butterfly—
 before long some crow's
 bite
-spring butterflies--
+spring butterflies—
 the cow has no desire
 to be young again
 like a mountain bird's
@@ -21495,13 +21468,13 @@ plays too
 darting whitebait
 suddenly are born...
 night haze
-whitebait--
+whitebait—
 yesterday they parted ways
 with the turtle
 in new grass
 even I'm in fashion!
 this year's sleeves
-new grass--
+new grass—
 a sparrow and I
 just playing
 in round numbers
@@ -21513,16 +21486,16 @@ Yoshino Hill
 mustard flowers bloom
 while lying down...
 my hut
-flowering mustard--
+flowering mustard—
 even on a rainy night
 Higashi Mountains
 tied to the trellis
 it blooms no more...
 wisteria
-the way things are--
+the way things are—
 the bark-stripper's plum trees
 are in bloom
-plum blossom scent--
+plum blossom scent—
 slurping it in
 with the vegetable soup
 getting used to this blanket
@@ -21546,19 +21519,19 @@ blossom shade
 among cherry blossoms
 not so soldierly...
 Sir Horse
-cherry blossoms--
+cherry blossoms—
 how long
 since olden times?
 splish-splash
 the sparrow takes
 a blossom bath
-cherry blossoms scatter--
+cherry blossoms scatter—
 a nightingale sings
 I cry
-cherry trees in full bloom--
+cherry trees in full bloom—
 colds, no doubt
 are spreading
-cherry blossoms--
+cherry blossoms—
 birds with eyes stitched shut
 singing
 rain of blossoms
@@ -21582,7 +21555,7 @@ mountain cherry blossoms
 even the rice grinders
 stop singing...
 cherry blossoms scatter
-cherry blossoms--
+cherry blossoms—
 to my lowly sleeve
 they cling
 that they're no good at dying
@@ -21594,22 +21567,22 @@ on cherry blossom day
 the cursed cedar
 growing fat...
 cherry blossoms fall
-cherry blossoms scatter--
+cherry blossoms scatter—
 another day
 of life's chaos
 under the cherry tree
 in bloom
 a little gambling shack
-rice cakes and jelly--
+rice cakes and jelly—
 but too late
 cherry blossoms fall
 the Buddha too
 looks this way...
 cherry blossoms!
-mountain cherry blossoms--
+mountain cherry blossoms—
 hair decoration
 for a bald man
-mountain cherry blossoms--
+mountain cherry blossoms—
 the pine trees
 stand guard
 his peach sapling
@@ -21621,7 +21594,7 @@ peach blossoms
 in mosquito territory
 the double blossom
 yellow roses
-yellow rose--
+yellow rose—
 the cultivated grasses
 blocking your sun
 the yellow rose
@@ -21630,7 +21603,7 @@ for the cuckoo
 even in little nooks
 green willows...
 Kyoto
-killing a chicken--
+killing a chicken—
 the willow at the gate
 so green
 stitching together
@@ -21648,7 +21621,7 @@ sends its wind
 in the cloudburst
 paying no heed...
 sleeves of the dancers
-summer mountain--
+summer mountain—
 dewdrops in the grass
 all shapes and sizes
 from the plume grass
@@ -21660,13 +21633,13 @@ pure water
 the beehive dangles
 heavily above...
 pure water
-mountain's pure water--
+mountain's pure water—
 though shaded by trees
 it disperses
 deigning to guard
 the pure water...
 a stone Buddha
-old weeds--
+old weeds—
 the festival's breeze
 reaches them
 paying no heed
@@ -21690,10 +21663,10 @@ smudge pot smoke
 at my humble hut
 smoked by mosquito smudge...
 wildflowers
-dewdrops--
+dewdrops—
 evening's smudge pot smoke
 over wildflowers
-thin legs--
+thin legs—
 while cooling myself appraised
 by a horsefly
 the bats' home
@@ -21702,7 +21675,7 @@ the post
 get a move on, bat!
 it's dinnertime
 in Kyoto
-drinking cheap sake--
+drinking cheap sake—
 this cuckoo
 this grove
 the nightingale, too
@@ -21711,7 +21684,7 @@ mountain sake
 from deep inside
 the pretty flower...
 a mosquito
-mosquitoes whine--
+mosquitoes whine—
 even the rustling bamboo
 is slandered
 a great spot
@@ -21720,7 +21693,7 @@ but mosquitoes!
 swatting a fly
 but hitting
 the Buddha
-blades of grass--
+blades of grass—
 utterly drenched the cicada
 sings
 for the cicada too
@@ -21735,28 +21708,28 @@ makes her way
 in day flowers
 "Cricky! Cricky!" cricket
 sings
-day flower--
+day flower—
 as red
 as the devil's eggplant
-day flowers--
+day flowers—
 even on the smoke-covered
 rocks
 enjoy the moonflowers
 you gods
 of the outhouse!
-moonflowers--
+moonflowers—
 the pitter-pattering rain
 a good luck god
-bamboo shoots--
+bamboo shoots—
 the nightingale brings
 her children
 peeling a melon
 in the plume grass...
 a breeze
-Ninth Month--
+Ninth Month—
 the 29th day
 the chrysanthemum blooms
-autumn begins--
+autumn begins—
 lying down, looking at
 snowy mountains
 first autumn morning
@@ -21789,7 +21762,7 @@ little mountain
 no sight yet
 of the rising moon...
 holy men
-Shinano road--
+Shinano road—
 how many nights now
 that moon on the eaves?
 not looking smoky
@@ -21801,7 +21774,7 @@ moonlit night
 lit by the harvest moon
 no different...
 trashy house
-autumn heavens--
+autumn heavens—
 for one little bird
 so vast
 trusting its fate
@@ -21810,7 +21783,7 @@ duckweed
 in autumn wind
 this year's crop...
 red leaves
-autumn wind--
+autumn wind—
 death draws closer
 with every year
 through what teeth
@@ -21855,7 +21828,7 @@ to the poor town
 when a lantern comes
 the insect breaks out
 in song
-caged insect--
+caged insect—
 he's learned to sing
 in all this smoke
 five or six trembling
@@ -21867,7 +21840,7 @@ shrine
 Buddha and spoons
 the whole wide world!
 insects singing
-Musashi Plain--
+Musashi Plain—
 in its middle at a inn
 an insect cage
 singing all
@@ -21894,13 +21867,13 @@ wildflowers
 in grass where the wolf
 shed his fur...
 wildflowers
-wildflowers--
+wildflowers—
 high over people's heads
 the bell tolls
 out of the grasses
 the inevitable
 wildflowers!
-birds singing--
+birds singing—
 wild daisies too
 are blooming
 in the musket's
@@ -21912,7 +21885,7 @@ blooms
 children play
 with the deer
 bush clover blooming
-bush clover blooming--
+bush clover blooming—
 the big dog
 sound asleep
 every evening
@@ -21939,7 +21912,7 @@ mushrooms
 a "Praise Buddha!"
 pops to my lips...
 mushrooms
-pines shed their needles--
+pines shed their needles—
 come mushroom-hunting time
 who'll be here?
 among the reeds
@@ -21948,25 +21921,25 @@ a wooden drum
 standing
 in the dying year's sun...
 nettle tree
-plum tree--
+plum tree—
 the dumping ground for
 Kyoto's soot
-bamboo soot-broom--
+bamboo soot-broom—
 the horse's head too
 by and by
-bamboo soot-broom--
+bamboo soot-broom—
 the first nightingale's
 singing spot
 sweeping soot
 the sun sets in peace...
 vegetable field
-sweeping soot--
+sweeping soot—
 plum blossoms at the gate
 indifferent
 in the tree's shade
 pounding rice cakes
 for Amida Buddha
-pounding rice cakes--
+pounding rice cakes—
 in Kyoto all chickens
 are awake
 in a Sumiyoshi nook
@@ -21975,7 +21948,7 @@ sea gulls
 despised
 by the barrier guard...
 a plover sings
-cornerstone--
+cornerstone—
 on New Year's morning
 a bird without a nest
 on New Year's Day
@@ -21990,7 +21963,7 @@ mist
 missing the boat
 for First Month...
 spring breeze
-morning's laugh--
+morning's laugh—
 "How much do they cost,
 spring's blossoms?"
 now with homeless eyes
@@ -21999,10 +21972,10 @@ blossoming spring
 for this homeless body
 of mine, spring's
 first day
-homecoming servant--
+homecoming servant—
 pretending the persimmon
 is sweet
-homecoming servant--
+homecoming servant—
 the paulownia tree too
 grew up fast
 in the mop's
@@ -22026,22 +21999,22 @@ spring rain
 today too
 looking at the same mountain...
 spring rain
-spring rain--
+spring rain—
 better than the flowers of others
 my little thicket
 the spring breeze
 blows all evening too...
 Higashi Mountains
-spring breeze--
+spring breeze—
 drying in the grass
 a paper dog
-spring wind--
+spring wind—
 even in the pillar's hole
 pollen
-spring breeze--
+spring breeze—
 on a night journey to see
 Higashi Mountains
-spring breeze--
+spring breeze—
 even at night a market stand
 on Naniwa Bay
 accusing the pine
@@ -22059,13 +22032,13 @@ first mist
 in heat shimmers
 the vines people loathe...
 beautiful
-heat shimmers--
+heat shimmers—
 yesterday it wasn't there
 tea-and-dumpling shop
-snow melting--
+snow melting—
 for sparrows at the gate
 good as a harvest moon!
-snow melting--
+snow melting—
 at the gate the sparrows'
 New Year's bash!
 "I'm the first
@@ -22113,31 +22086,31 @@ in no time
 a butterfly flits
 as if wanting nothing
 in this world
-butterflies flitting--
+butterflies flitting—
 pretty little bamboo shoots
 shooting up
 nothing else blooming
 but rape...
 my hut
-wisteria trellis--
+wisteria trellis—
 behind it, in the light
 wildflowers
-plum blossom scent--
+plum blossom scent—
 I tell you spring
 is a night thing
 the plum tree
 where the stray cat carouses
 in bloom
-my home village--
+my home village—
 even in summer
 plum trees bloom
-plum blossom scent--
+plum blossom scent—
 the edict board furnished
 with sacred sake
 simply trust!
 cherry blossoms flitting
 down
-cherry blossoms scatter--
+cherry blossoms scatter—
 bad Buddhists
 carousing
 cherry blossoms!
@@ -22146,7 +22119,7 @@ country candy
 one cherry tree
 has kept blooming...
 the corrupt world
-secluded house--
+secluded house—
 the cherry blossoms late
 the bonito...late
 a windy place!
@@ -22164,28 +22137,28 @@ pit-a-pat
 even the frog's eyes
 can't turn away...
 cherry blossoms!
-green with envy--
+green with envy—
 blooming cherry trees
 little house
 the old cherry tree
 blooming
 till it drops
-mountain cherry blossoms--
+mountain cherry blossoms—
 in all 88
 sacred sites
 my mean peach tree
 nice and chubby
 with blossoms
-peach tree in bloom--
+peach tree in bloom—
 but first a prayer
 for the dewy barley
-green willows--
+green willows—
 at ten different holes
 gamblers tossing pennies
 rustling
 in Goddess Kannon's heart...
 the willow
-planting a willow--
+planting a willow—
 someday, in summer
 who'll enjoy its cool air?
 again there is splendor
@@ -22203,7 +22176,7 @@ plume grass
 every evening
 "Rain is coming!"
 cloud watchers
-night festival--
+night festival—
 a big cloudburst
 strolls through
 in the pine breeze
@@ -22221,7 +22194,7 @@ of cool air
 no Mount Fuji
 I can almost straddle
 this year
-let's thatch with irises--
+let's thatch with irises—
 Mount Asama's smoke
 looks calm
 swallows return
@@ -22236,7 +22209,7 @@ rice plants
 it's the nightingale's
 dinnertime...
 I change to a summer robe
-new summer robe--
+new summer robe—
 from morning on used
 by the pine
 Kasuga Field's deer
@@ -22257,13 +22230,13 @@ in my mosquito net, alone
 stopping to count
 my mosquito net's holes...
 sickle moon
-high noon--
+high noon—
 inside the mosquito net
 wildflowers blooming
-stroke victim--
+stroke victim—
 even holding a paper fan
 an ordeal
-smoking out mosquitoes--
+smoking out mosquitoes—
 soon the fireflies
 are gone too
 veiling the face
@@ -22287,7 +22260,7 @@ cuckoo
 hey cuckoo
 did you call out?
 logs for the temple
-cuckoo--
+cuckoo—
 in a province without rice fields
 splendid
 it has a sky
@@ -22305,10 +22278,10 @@ fireflies
 "Come, fireflies!"
 a single stalk of bamboo
 makes my night
-sparkling fireflies--
+sparkling fireflies—
 even the frog's mouth
 gapes
-evening falls--
+evening falls—
 fireflies dampen
 the thin tatami mat
 the pesky mosquito's
@@ -22329,7 +22302,7 @@ sparrows chirping
 the cat's bell tinkling
 in the peonies
 here and there
-at my hut--
+at my hut—
 rascally crows
 emaciated peonies
 staring at the shoots
@@ -22341,10 +22314,10 @@ buzz the bees
 thick drapes over
 the deutzia blossoms...
 willow
-deutzia blossoms--
+deutzia blossoms—
 by lantern light
 I bury the frog
-blooming deutzia--
+blooming deutzia—
 both of us
 Buddha's devotees
 a plum drops
@@ -22353,22 +22326,22 @@ beads of dew
 without fanfare
 they've borne plums!
 trees in the field
-mountain mansion--
+mountain mansion—
 the plum trees
 stand ripening
-moon in the autumn dawn--
+moon in the autumn dawn—
 to the pretty sky flies
 a mosquito
 the harvest moon
 hangs over it...
 rice cake gift
-harvest moon--
+harvest moon—
 I tell you it's cold
 on Shinano Mountain!
-harvest moon--
+harvest moon—
 wherever you are
 someone's annoyed
-autumn rain--
+autumn rain—
 the weaned pony
 goes to market
 O snail
@@ -22380,13 +22353,13 @@ autumn rain
 even in Sarashina
 one by one...
 rainy autumn nights
-mountain temple--
+mountain temple—
 fog covers up
 the wood shavings
 about halfway
 burned out...
 lanterns for the dead
-katydid--
+katydid—
 caught by someone
 waiting for the stars
 awaiting the stars
@@ -22398,7 +22371,7 @@ his tail waving goodbye
 the cricket's song
 is accompaniment...
 the rice field drains
-evening smoke--
+evening smoke—
 on the man playing pigeon flute
 it hangs
 for pine and bamboo
@@ -22407,31 +22380,31 @@ cloth-pounding
 like in Old China
 Yoshino, too, clonks...
 evening cloth-pounding
-this year's sake--
+this year's sake—
 first toast:
 to the weeds!
 in deep grass
 a quail sings...
 grandma starches clothes
-migrating birds--
+migrating birds—
 how many of your flocks
 have overtaken me?
 migrating birds
 haven't you seen me before
 in Japan?
-bagworm--
+bagworm—
 hanging in the plum tree
 his job
-bagworm--
+bagworm—
 hanging from flowers
 his job
-a cicada chirrs--
+a cicada chirrs—
 suddenly light breaks
 toward the lake
 atop the magistrate's
 folding fan...
 a locust
-flying locusts--
+flying locusts—
 the willow tree too
 grows old
 on the raw slices
@@ -22449,7 +22422,7 @@ mosquitoes whisper
 "Praise Buddha!
 All praise to Amida Buddha!"
 manjusa flower
-the rice I planted--
+the rice I planted—
 I know it
 by sight
 four or five rice stalks
@@ -22467,7 +22440,7 @@ a man
 little chestnuts
 it's not yet your day
 to burst
-a reedy place--
+a reedy place—
 from the gate onward
 gathering mushrooms
 the horsefly calls
@@ -22476,13 +22449,13 @@ are this way!"
 "This way
 to the mushrooms!"
 the horsefly flies
-one by one--
+one by one—
 even the mouse's hole
 has mushrooms
-it suits me--
+it suits me—
 even the former owner's
 winter cold
-first snowfall--
+first snowfall—
 what are you praying for
 katydid?
 will I be the next one
@@ -22494,19 +22467,19 @@ in Edo
 even cows and horses
 with New Year's faces...
 mountain home
-my home village--
+my home village—
 even the horse
 with a New Year's face
-great Edo--
+great Edo—
 even for a monkey without tricks
 spring blossoms
-Shimogyo Town--
+Shimogyo Town—
 in the dark before dawn
 spring blossoms
 for my life too
 help arrives...
 spring blossoms
-my hut--
+my hut—
 just two green leaves
 my blossoming spring
 muddy clogs
@@ -22518,19 +22491,19 @@ Ueno Hill
 even my ramshackle
 hut, home
 to the New Year's god
-big field--
+big field—
 the late homecoming servant
 late plum blossoms
-homecoming servant--
+homecoming servant—
 behind the graveyard's pines
 the wind
-New Year's Day--
+New Year's Day—
 a one-penny kite, too
 in Edo's sky
 the monkey with
 a dancer's fan...
 a tear rolls down
-morning shadows--
+morning shadows—
 someone who has parents
 picking herbs
 tottering in the seaside
@@ -22548,7 +22521,7 @@ spring rain
 in spring rain
 chasing the elusive fish...
 dog on the shore
-spring rain--
+spring rain—
 showing a sake cup
 calling foxes
 in spring rain
@@ -22560,7 +22533,7 @@ the spring rain falls
 seeing it
 on a spring breeze night...
 my house
-spring breeze--
+spring breeze—
 completely gone now
 the holy men
 in the spring breeze
@@ -22593,13 +22566,13 @@ melting!"
 a winter's worth of snow
 melting...
 a humongous moon
-snow melting--
+snow melting—
 tonight a fat round
 moon
-melting snow--
+melting snow—
 the morning voices
 of pilgrims
-snow melting--
+snow melting—
 where ducks are nesting
 soft moonlight
 "Snow's melting! Melting!"
@@ -22617,7 +22590,7 @@ the doll
 first one to blow
 on the hot herb cakes...
 Mount Tsukuba's east wind
-herb cakes--
+herb cakes—
 the garden's nightingale
 wants this one
 from the tip
@@ -22641,13 +22614,13 @@ mother sparrow
 "Beware the human goblins!"
 is that what you're chirping?
 mother sparrow
-living in harmony--
+living in harmony—
 the sparrow has
 both parents!
-evening--
+evening—
 how the orphan sparrow
 cries!
-Asakusa--
+Asakusa—
 behind the house Mount Fuji
 and a singing lark
 today too, today too
@@ -22659,7 +22632,7 @@ a pheasant cries
 looking like ants
 people at dusk...
 a pheasant cries
-the sake bucket--
+the sake bucket—
 where the pheasant
 goes to sing
 the crying pheasant
@@ -22668,10 +22641,10 @@ Sumida River
 my hut's thin
 thread of smoke...
 a pheasant's cry
-my evening--
+my evening—
 a village dog barks
 a pheasant cries
-dawn--
+dawn—
 a Buddha-praising goose
 flies too
 in a mood for farewell
@@ -22689,19 +22662,19 @@ the geese depart
 on a flower petal
 clucking his tongue...
 a frog
-stand of trees--
+stand of trees—
 the inevitable croaking
 frog
-evening shadows--
+evening shadows—
 separated from his friends
 a frog croaks
 aware of the sun
 setting, the butterfly
 flits away
-Kiso Mountains--
+Kiso Mountains—
 butterflies fill your sky
 so briefly!
-butterfly flitting--
+butterfly flitting—
 I too am made
 of dust
 she had a husband
@@ -22710,7 +22683,7 @@ widow butterfly
 the flitting butterfly
 not bothered at all...
 smoke
-what a shame--
+what a shame—
 the butterfly flits off
 to the Other Shore
 shame, shame!
@@ -22725,7 +22698,7 @@ horse dung raking
 living on the mountain
 I'm used to the bees...
 evening pillow
-sunset--
+sunset—
 a ruckus of cherry blossoms
 a ruckus of trout
 "Be brave, cherry blossoms
@@ -22749,7 +22722,7 @@ flock of sparrows
 the dandelions too
 have shaved heads...
 festival day
-straggly violets--
+straggly violets—
 the cherry blossom spring
 has passed
 the katydid
@@ -22761,7 +22734,7 @@ their capital
 his detested wife's
 violets...
 all have bloomed
-violets blooming--
+violets blooming—
 the camellia spring
 has passed
 do your headwaters horde
@@ -22770,22 +22743,22 @@ Sumida River
 herb cake herbs
 join in the rustling
 violets
-flowering mustard--
+flowering mustard—
 the little courtesan
 worries about her sleeves
-deep mountain trees--
+deep mountain trees—
 soon as buds appear
 they're eaten
 plum blossom lovers
 who planted plum trees...
 parents
-plum blossoms--
+plum blossoms—
 spreading into the countryside
 lice of Edo
 the child
 clutches them tightly...
 plum blossoms
-world of man--
+world of man—
 even in the country bowing
 to plum blossoms!
 to be alive like this
@@ -22797,16 +22770,16 @@ in this world
 amid cherry blossoms
 he speaks bluntly...
 old man
-cherry blossoms--
+cherry blossoms—
 residents of this world
 a short time
-ripples on water--
+ripples on water—
 mingling with cherry blossoms
 an old clog
-cherry blossoms scatter--
+cherry blossoms scatter—
 my life too is heading
 downhill
-blossoms scatter--
+blossoms scatter—
 my years too
 on a downhill slide
 all by itself
@@ -22818,22 +22791,22 @@ world of craving
 in falling blossoms
 growling to Amida Buddha...
 temple dog
-rain of cherry blossoms--
+rain of cherry blossoms—
 not a face
 without a fan
-cherry blossom shade--
+cherry blossom shade—
 a fox spirit
 has enchanted me!
 just touching
 the cherry blossom petals
 brings tears
-even my inner devil--
+even my inner devil—
 come out, look!
 blossoming mountain
 in the evening
 my usual journey...
 blossoming mountain
-a defiled priest--
+a defiled priest—
 before the cherry blossoms
 he stands
 stubborn they are
@@ -22854,16 +22827,16 @@ cherry blossoms!
 before blooming
 they already seduce...
 cherry blossoms
-cherry tree--
+cherry tree—
 the same blooming splendor
 for Father Emperor
 cherry blossoms
 cherry blossoms
 Third Month, 30th day!
-hey cherry blossoms--
+hey cherry blossoms—
 why the rush
 to scatter so soon?
-ripples on water--
+ripples on water—
 fair to middling
 cherry blossoms
 "Get ready, get ready
@@ -22875,13 +22848,13 @@ cherry blossoms
 cherry blossoms
 brush my sweaty underwear...
 windblown
-fall, cherry blossoms--
+fall, cherry blossoms—
 stop up
 their foul mouths!
 is today the 30th?
 the 30th?
 cherry blossoms scatter
-even to these old eyes--
+even to these old eyes—
 cherry blossoms!
 cherry blossoms!
 how they bloom
@@ -22890,79 +22863,79 @@ cherry trees
 mountain cherry blossoms
 cherry blossoms!
 even on the 29th
-mountain cherry trees--
+mountain cherry trees—
 the blossoms quite
 sickly
 seeing the mountain
 cherry blossoms...
 I miss my teeth
-evening cherry blossoms--
+evening cherry blossoms—
 the devil is moved
 to tears
-evening cherry blossoms--
+evening cherry blossoms—
 today too
 like olden times
-growing old--
+growing old—
 even the cherry blossoms
 a bit annoying
-yellow roses--
+yellow roses—
 hidden in the grass
 they rustle
 in the summer night
 out the back door too...
 Mount Matchi
-summer's early dawn--
+summer's early dawn—
 in a dark little corner
 a willow
-hot night--
+hot night—
 in an Edo nook
 rude words
 I gaze at straw sandals
 with stripes...
 the heat
-evening at the gate--
+evening at the gate—
 a cool sky
 coming soon
-a cool breeze--
+a cool breeze—
 the katydid brims
 with energy
 the cool breeze
 a gift from Buddha...
 pine by the grave
-in this cool air--
+in this cool air—
 grateful drops
 of evening dew
-cool summer air--
+cool summer air—
 viewed from the mountain
 a big sitting room
-cool air--
+cool air—
 a dark little nook
 on Sumida River
 cool moon
 and a cool pine tree
 standing
-Fifth Month rain--
+Fifth Month rain—
 pressing on my chest
 Chichibu mountain
 with dignity
 in the cloudburst drooping...
 willow
-little festival--
+little festival—
 people in the tree shade
 while it pours
 in the cloudburst
 an enormous morning-glory
 has bloomed!
-summer mountain--
+summer mountain—
 the maiden flower
 happy by herself
 in an old, old kettle
 from olden times...
 pure water
-evening shadows--
+evening shadows—
 he throws pure water
 on the horse
-flute pratice--
+flute pratice—
 the rice fields one and all
 so green!
 Kasuga Field's deer
@@ -22977,28 +22950,28 @@ now you're old
 toad parents
 bring their children...
 evening purification
-evening's shrine boats--
+evening's shrine boats—
 about ten snipes
 stand guard
-purification hoop--
+purification hoop—
 the first three times
 for Mother
 plague gods lag behind
 others in the lead...
 Sumida River
-plague gods--
+plague gods—
 how wise of them
 drifting west
-plague gods--
+plague gods—
 setting them on the water
 heavy traffic
-night storm--
+night storm—
 I rely on my little
 plague god
-bullheads sing--
+bullheads sing—
 he fishes the moonlit
 mountain stream
-night fishing--
+night fishing—
 the pleading
 of a katydid
 grow old
@@ -23043,19 +23016,19 @@ green bamboo blind
 green yesterday
 in the blowing wind...
 bamboo blind
-empty boat--
+empty boat—
 three herons guard
 the mosquito net
 O owl
 don't tell the world my house
 has no mosquito net!
-evening falls--
+evening falls—
 on the tip of my fan
 Mount Asama
-smoke from the mountain--
+smoke from the mountain—
 my paper fan
 speeds it along
-pretty--
+pretty—
 beyond the smudge pot smoke
 Sumida River
 rushing into
@@ -23064,13 +23037,13 @@ evening crow
 in grasses' shade
 where soon I'll enter...
 evening cool
-back gate--
+back gate—
 under the big nettle tree
 nobody cooling off
 the empty purse
 floats away...
 evening cool
-tea smoke--
+tea smoke—
 Buddha's little rice field
 is planted too
 following behind
@@ -23082,13 +23055,13 @@ grove of new bamboo
 gobble up
 my dawn dream...
 cuckoo!
-morning after morning--
+morning after morning—
 what day is it now
 cuckoo?
 he's not the type
 to wait around...
 cuckoo
-ten cloudy days--
+ten cloudy days—
 this is getting old
 cuckoo!
 it's New Year's
@@ -23097,10 +23070,10 @@ for the blooming pinks...
 wake up, pinks
 and plume grass...
 "cuckoo!"
-cuckoo--
+cuckoo—
 he even scolds
 the tree planter
-hey cuckoo--
+hey cuckoo—
 this lake doesn't
 belong to me!
 in all Musashi Plain
@@ -23124,7 +23097,7 @@ the incompetent thief
 a flower big
 as an umbrella-hat...
 flitting firefly
-an arm for a pillow--
+an arm for a pillow—
 though there's nagging
 a firefly guest
 so quickly they join
@@ -23145,13 +23118,13 @@ the only great feat
 the bell clangs
 "Come to mosquito country!
 Come! Come!"
-swarm of mosquitoes--
+swarm of mosquitoes—
 a five foot tall
 chrysanthemum
-mountain hermit--
+mountain hermit—
 deep in his sleeve
 singing, a cicada
-morning rain--
+morning rain—
 look! next to me
 a snail
 just as you are
@@ -23163,7 +23136,7 @@ bonito!
 simply trust
 mountain cuckoo!
 summer's first bonito
-the tofu vendor comes--
+the tofu vendor comes—
 the day flower
 blooms
 just being alive
@@ -23190,7 +23163,7 @@ to Amida Buddha
 quietly the lilies
 have bloomed...
 a skylark sings
-sleeping cow--
+sleeping cow—
 at one with the heart
 of lilies
 lilies blooming
@@ -23199,7 +23172,7 @@ evening
 lilies blooming!
 giving his all to his song
 the skylark
-nightingale--
+nightingale—
 in a floating world nook
 ripened barley
 blooming in a nook
@@ -23211,16 +23184,16 @@ while you can!
 wiggle wiggle
 wiggle young bamboo
 while you can!
-young bamboo--
+young bamboo—
 just two or three days
 of youth
 living apart
 from the bamboo shoots...
 wildflowers
-bamboo shoots--
+bamboo shoots—
 big brothers, little brothers
 growing up
-bamboo shoots--
+bamboo shoots—
 scraggly yellow roses, too
 grew overnight
 night after night
@@ -23229,22 +23202,22 @@ rise in the world
 morning and night
 yet still not smoldered...
 fresh green leaves
-mulberry tree--
+mulberry tree—
 tomorrow, tomorrow
 your new leaves
-deep tree shade--
+deep tree shade—
 some bush clover-like grass
 in bloom
-hard tofu--
+hard tofu—
 amid deutzia blossoms
 a farmhouse
 the closer I get
 to my village, the more pain...
 wild roses
-little post--
+little post—
 on a cold night
 my good luck god
-my home village--
+my home village—
 Lord Buddha
 in the cold night
 red-laced straw sandals
@@ -23259,34 +23232,34 @@ of Sumida River
 to my rib cage ribs
 O the night
 is long!
-autumn's end--
+autumn's end—
 a big man strolls
 along
-autumn ends--
+autumn ends—
 already the Buddha
 fills Kyoto's sky
 trying and trying
-to grasp the harvest moon--
+to grasp the harvest moon—
 toddler
-harvest moon--
+harvest moon—
 tonight even you
 are busy!
 the harvest moon
 drifts with the tide...
 a little boat
-evening falls--
+evening falls—
 like demons emerging
 autumn clouds
-autumn rain--
+autumn rain—
 a little sumo wrestler
 passes
-autumn wind--
+autumn wind—
 he was good-looking too
 in olden times
-autumn wind--
+autumn wind—
 landing on my belly
 a katydid
-blades of grass--
+blades of grass—
 lost among the raindrops
 autumn dew
 in the silver dewdrops
@@ -23295,7 +23268,7 @@ my house
 grateful
 for the cool, cool air...
 evening dew
-dewdrops scatter--
+dewdrops scatter—
 the sparrow sings
 of next-life enlightenment
 amid dewdrops 
@@ -23310,10 +23283,10 @@ this year
 a treasure at my gate
 pearls
 of dew
-bell for the ancestors--
+bell for the ancestors—
 in falling dewdrops
 it rings
-my ancestors--
+my ancestors—
 today too they wander
 to points unknown
 delighted by bonfires
@@ -23328,16 +23301,16 @@ of plume grass
 morning-glories
 make the fence bloom...
 sumo wrestling
-sumo wrestler--
+sumo wrestler—
 for you this maiden
 flower
-a scarecrow stands--
+a scarecrow stands—
 now the age
 of moonlit nights!
 where did this cold
 come from...
 Mr. Scarecrow?
-flute melody--
+flute melody—
 thanking the mountain
 scarecrow
 Great Japan!
@@ -23352,25 +23325,25 @@ pounding cloth
 one pink
 has bloomed...
 evening cloth-pounding
-home village--
+home village—
 pounding cloth at the temple
 and evening rain
-home village--
+home village—
 mother's cloth-pounding
 faintly heard
-old pine--
+old pine—
 my own life's autumn
 is like that
-old pine--
+old pine—
 my own life's autumn
 fills my eyes
-back door--
+back door—
 three spears of plume grass
 and Mr. and Mrs. Goose
-big bridge--
+big bridge—
 the hunter is followed
 by a goose
-evening falls--
+evening falls—
 wild geese, smoke
 and my bended knees
 the moon's out!
@@ -23379,7 +23352,7 @@ polite geese
 the red dragonfly
 savors the evening too...
 doesn't he?
-evening tide--
+evening tide—
 on the grass blade's tip
 a red dragonfly
 crickets sing
@@ -23388,7 +23361,7 @@ two young lovers
 making love
 in the withered fields...
 locusts
-night in the hut--
+night in the hut—
 a katydid forages
 for food
 a katydid walking
@@ -23403,7 +23376,7 @@ katydid!
 at evening tide
 clinging to flotsam...
 a katydid
-wildflowers--
+wildflowers—
 all we say or speak about
 is autumn wind
 when the owl hoots
@@ -23415,34 +23388,34 @@ maiden flowers
 you can't beat me
 in tottering!
 maiden flower
-dawn--
+dawn—
 the rice blossoms of a man
 with parents
-tea smoke--
+tea smoke—
 the upland rice
 trusts in the dew
 a great thing
 under the harvest moon...
 rice blossoms!
-evening moon--
+evening moon—
 the fantastically great
 rice blossoms!
 the young face
 of the sickle moon...
 a paulownia leaf falls
-looking at persimmons--
+looking at persimmons—
 someone's parents
 planted seeds
 Tenth Month
 on the tenth day...
 hail
-first winter month--
+first winter month—
 dimly in the mist
 selling temple cotton
-the year ending--
+the year ending—
 one bundle of firewood
 a luxury
-straw fire--
+straw fire—
 this year goes up
 in smoke
 the nightingale follows
@@ -23451,7 +23424,7 @@ first winter rain
 without fail
 the bathhouse, closed...
 first winter rain
-first winter rain--
+first winter rain—
 the world drowns
 in haiku
 in winter rain
@@ -23484,25 +23457,25 @@ Higashi Mountains
 the first snowfall
 becomes a nuisance...
 evening
-first snowfall--
+first snowfall—
 the worms in my belly
 sing
-first snowfall--
+first snowfall—
 early morning at my gate
 a beggar
-first snowfall--
+first snowfall—
 for a dog-less village
 the garbage remover
-first snowfall--
+first snowfall—
 a big deal for people
 in the world
-first snowfall--
+first snowfall—
 the rooster's morning crow
 at Senso Temple
-first snowfall--
+first snowfall—
 from Buddha's direction
 pure water gushes
-first snowfall--
+first snowfall—
 the temple walkway
 misty dim
 "First snowfall, snowfall!"
@@ -23511,10 +23484,10 @@ without teeth
 watching first snowfall
 in a rotten mood...
 Shinano Mountain
-hailstones--
+hailstones—
 even the gargoyle demon
 seems to cry
-hailstones falling--
+hailstones falling—
 the pigeons hear
 their fate
 into the mouth singing
@@ -23526,7 +23499,7 @@ first winter rain
 click-clack
 in a soot-sweeping mist...
 Mount Matchi
-sea gull--
+sea gull—
 even you
 covered in soot
 Twelfth Month singers
@@ -23553,34 +23526,34 @@ stolen chestnuts
 rapping on
 the banked fire's head...
 my pipe
-banked fire--
+banked fire—
 with my pipe rapping
 its head
-banked fire--
+banked fire—
 hot water burbles too
 evening rain
-frozen pickle water--
+frozen pickle water—
 my teeth
 crackle
 morning after morning
 just a half portion...
 natto
-dawn--
+dawn—
 for a bellyful of natto
 a trip to Kyoto
 at dawn red leaves
 blowing down...
 pufferfish soup
-O owl--
+O owl—
 let me shop for food
 first!
-nightingale--
+nightingale—
 with a shrill voice
 calling mother
-birdsong in bamboo grass--
+birdsong in bamboo grass—
 too shy
 for the fence
-evening plovers--
+evening plovers—
 bills are due
 people are crying
 you call that
@@ -23595,16 +23568,16 @@ sea slugs
 following custom
 all have withered...
 wild chamomile
-Katsushika--
+Katsushika—
 a heron guards the radish
 in the mud
-leaves falling--
+leaves falling—
 a prayer-chanting monk
 passes by
 forming a mountain
 for the nightingale...
 fallen leaves
-frost-killed grass--
+frost-killed grass—
 "No Begging Allowed"
 at the thicket's inn
 a typical New Year's Day
@@ -23613,7 +23586,7 @@ plum blossoms
 spring's first month
 in the town...
 snow falling
-First Month--
+First Month—
 on the servant no sign
 of a beard
 first spring morning
@@ -23622,7 +23595,7 @@ of blossoms
 this morning
 just a tiny bit of mist...
 it's springtime!
-spring's begun--
+spring's begun—
 I even dream about
 the grove of young pines
 hole in the wall
@@ -23638,7 +23611,7 @@ so that the year's
 first sky might come to be...
 tea smoke
 the color of the year's
-first sky fades--
+first sky fades—
 people's faces
 village at the edge
 of the year's first sky...
@@ -23649,10 +23622,10 @@ a hut
 rising into
 the year's first sky...
 smoke
-year's first sky--
+year's first sky—
 please allow
 my tea smoke!
-year's first sky--
+year's first sky—
 at the edges its color
 is faded
 to the eternal
@@ -23664,13 +23637,13 @@ Sumida River
 from under the eternal
 youth ornament rising...
 sun
-my eternal youth ornament--
+my eternal youth ornament—
 just three cents
 of emperor's pine
-my dream comes true--
+my dream comes true—
 this spring my god
 the god of the poor
-a trendy kite soars--
+a trendy kite soars—
 below
 a beggar's hut
 a trendy kite soars
@@ -23679,13 +23652,13 @@ home
 the street singer's
 kite also...
 rising and rising
-begging actors--
+begging actors—
 even the horse's rump
 gets a song
-begging actors at the gate--
+begging actors at the gate—
 pigeons and sparrows
 in a row
-begging actors--
+begging actors—
 even the wheat field
 gets a song
 the lion puppet
@@ -23694,16 +23667,16 @@ plum blossoms
 not shutting up
 New Year morning's late riser...
 the crow
-Second Month--
+Second Month—
 the heavenly gods'
 plum blossoms!
 moon shining
 on a one-penny bridge...
 springtime
-spring peace--
+spring peace—
 smash goes the sake bottle
 on Mount Matchi
-a pigeon coos--
+a pigeon coos—
 "That great thing, spring
 has passed!"
 swish-swish
@@ -23721,25 +23694,25 @@ spring rain
 in the spring rain
 a big yawn...
 pretty woman
-spring rain--
+spring rain—
 a little island too
 blooms golden
-spring rain--
+spring rain—
 here's my house's
 evening pine
-spring rain--
+spring rain—
 thatched with azaleas
 the doghouse
-spring rain--
+spring rain—
 in an old keg
 a plum tree blooms
 someone recites
 the Lotus Sutra...
 spring rain falls
-spring breeze--
+spring breeze—
 going down to the east
 a sumo wrestler
-spring breeze--
+spring breeze—
 a cow leads the way
 to Zenko Temple
 O peach
@@ -23751,22 +23724,22 @@ misty field
 in a flash
 the mist is mended...
 mountain home
-my home village--
+my home village—
 a poor "Praise Buddha!" too
 in spring mist
 the lake steams
 like a hot bath...
 evening mist
-heat shimmers--
+heat shimmers—
 Lord Dokan's
 lookout mound
 today
 my hut's little herbs too
 become cakes
-my child--
+my child—
 today's low tide
 little guide
-Fukagawa--
+Fukagawa—
 even in a five-foot garden
 low tide shell-gathering
 "Praise Amida!
@@ -23775,7 +23748,7 @@ threshing tea leaves
 mixed in
 with the second tea harvest
 azaleas
-plowing the rice field--
+plowing the rice field—
 the sky a paler and paler
 blue
 plowing the field
@@ -23793,7 +23766,7 @@ mother sparrow
 rising to the blue sky
 baby sparrow's
 first cry
-evening falls--
+evening falls—
 a stepchild sparrow
 cries in the pine
 the nightingale
@@ -23808,13 +23781,13 @@ in the kettle
 listening to the nightingale's
 Lotus Sutra...
 Shinano
-a nightingale--
+a nightingale—
 and made to order
 plum blossoms
 in deep mountains too
 now the nightingale
 sings!
-drinking country sake--
+drinking country sake—
 a country nightingale
 singing
 on the hoe's handle
@@ -23823,10 +23796,10 @@ Little-Plum village
 even the nightingale
 of Shinano sings it...
 Lotus Sutra
-sickle moon--
+sickle moon—
 through plum blossoms softly
 the nightingale
-daybreak--
+daybreak—
 a nightingale sings
 a bell rings
 at a little shrine
@@ -23835,25 +23808,25 @@ evening pheasant
 poking his head
 out the little shrine
 crying pheasant
-Third Month--
+Third Month—
 come the 30th day
 the geese depart
 in cogon grass
 croaking while walking...
 a frog
-Kisa Lagoon--
+Kisa Lagoon—
 bathing in cherry blossoms
 croaking frog
 frogs at my hut
 from the beginning have sung
 "We grow old!"
-butterflies flit--
+butterflies flit—
 deep in Shinano
 tracks of sandals
 such sweet harmony
 to be reborn
 a meadow butterfly!
-this world--
+this world—
 the butterfly also toils
 busily
 though infested with lice
@@ -23865,7 +23838,7 @@ rustling
 the holy man's
 westward waves of wisteria
 fresh-bloomed
-black kite--
+black kite—
 the rice cake dealer's wisteria
 in bloom
 wisteria in bloom
@@ -23874,7 +23847,7 @@ Ryodaishi Temple
 for the nightingale
 parents and children...
 plum blossoms!
-plum blossoms--
+plum blossoms—
 a new year begins
 on Moutn Tsukuba
 at the edge
@@ -23895,13 +23868,13 @@ plum blossoms
 cloth monkeys
 three in all...
 plum blossoms
-my home village--
+my home village—
 a dog stands guard
 over plum blossoms
 from plum blossoms
 he calls to the peddlar...
 country villa
-plum tree blooming--
+plum tree blooming—
 a plain and to-the-point
 little house
 the teahouse
@@ -23913,10 +23886,10 @@ pipes
 Saint Nyoirin
 in cherry blossom shade
 sleep talking
-cherry blossoms--
+cherry blossoms—
 with the Founder's blessing
 eating fish
-spring blossoms--
+spring blossoms—
 in the cherry grove
 a worldly priest
 in blossoming trees
@@ -23928,7 +23901,7 @@ wild dog
 someone has slapped on
 a price tag...
 cherry tree
-the big cherry blossoms--
+the big cherry blossoms—
 no buyers
 at all
 click-clack
@@ -23955,13 +23928,13 @@ evening cherry blossoms
 soon as the mountain
 cherry trees bloom...
 Buddhist whatnots are attached
-mountain cherry blossoms--
+mountain cherry blossoms—
 for you too
 an end-of-month sky
-mountain cherry blossoms--
+mountain cherry blossoms—
 over you too
 an end-of-month sky
-evening cherry blossoms--
+evening cherry blossoms—
 the ants also
 have a place to sleep
 the whole gang
@@ -23976,7 +23949,7 @@ by the fence
 the geese and ducks
 are brazen...
 willow at the gate
-keeping their cool--
+keeping their cool—
 the wild goose
 the willow
 one strand dangles
@@ -23985,7 +23958,7 @@ willow tree
 with each willow tree
 he plants
 "Praise Buddha!"
-the ducks have gone--
+the ducks have gone—
 peace and quiet
 of the willow
 on a short summer night
@@ -23994,7 +23967,7 @@ moon
 cool breeze
 you, too, surrender to Buddha
 this life!
-cool breeze--
+cool breeze—
 reaching even nooks
 the mouse doesn't know!
 on the cool air
@@ -24003,13 +23976,13 @@ relies
 in summer cool
 ambling down my road
 to hell
-cool evening--
+cool evening—
 at my gate the age
 of Buddha
-cool air--
+cool air—
 admiring the pine
 the shrine's snake
-cool air--
+cool air—
 the shape of the cloud
 is Buddha
 the cicadas' world
@@ -24018,10 +23991,10 @@ coming soon
 trusting the cloudburst
 to water it...
 back door Fuji
-rainstorm--
+rainstorm—
 plume grass, rushes,
 maiden flowers
-rainstorm--
+rainstorm—
 a crossroads beggar
 with a potted pine
 I swear
@@ -24033,10 +24006,10 @@ billowing clouds
 the little ones
 are all to the front...
 billowing clouds
-my humble hut--
+my humble hut—
 trusting in the sun
 rice field greening
-Buddha--
+Buddha—
 all the way to Hokkaido
 your birthday party!
 the swallows too
@@ -24054,16 +24027,16 @@ pretty
 umbrella-hats
 sun hats...
 trust in Buddha!
-fifty, sixty feet away--
+fifty, sixty feet away—
 the willow
 the parasols
-Katsushika--
+Katsushika—
 the cat seeks shelter
 in the mosquito net
-a white fan--
+a white fan—
 "Who gave it to you?"
 they ask
-cooling at the gate--
+cooling at the gate—
 the old man's swallows
 behaving
 even Mr. Moon
@@ -24072,19 +24045,19 @@ evening cool
 even the moon
 is slandered...
 evening cool
-rice planting--
+rice planting—
 today too, traveling geese
 flutter down
-Asakusa--
+Asakusa—
 the cuckoo stays close by
 in Ueno
-Asakura--
+Asakura—
 introducing himself in passing
 a cuckoo
 announce yourself
 to Lord Pine...
 cuckoo!
-outcaste village--
+outcaste village—
 instead of a cuckoo
 a mountain cuckoo
 is the night this nice
@@ -24093,7 +24066,7 @@ cuckoo
 oh cuckoo
 you also hate Kyoto
 don't you?
-a cuckoo--
+a cuckoo—
 the bridge beggar
 listens too
 are you a fool, too
@@ -24102,7 +24075,7 @@ singing no more
 scattered by
 Kumasaka's halberd...
 fireflies
-they have kids too--
+they have kids too—
 bridge beggars
 calling fireflies
 a night of fireflies
@@ -24117,13 +24090,13 @@ flitting firefly
 hut's mosquitoes
 this damned year, too
 feasting
-evening sky--
+evening sky—
 the whine of mosquitoes
 pretty
 in a sake cup
 a flea
 swimming! swimming!
-mountain village--
+mountain village—
 begging I borrow
 a flea-infested mat
 raising their chirr
@@ -24138,16 +24111,16 @@ summer cicada
 in a Sumiyoshi nook
 here too
 blooming irises
-Bancho Town--
+Bancho Town—
 deep in the valley
 melon blossoms
-evening shadows--
+evening shadows—
 a pigeon watches
 the melon cool
 a blizzard
 of deutzia blossoms
 on the fence
-behind me--
+behind me—
 big cold, little cold
 night cold
 just looking at the shark skin
@@ -24156,7 +24129,7 @@ the night turns cold
 brazenly
 the mouse sneaks in...
 a cold night
-Kisa Lagoon--
+Kisa Lagoon—
 on an island in a rice field, too
 autumn dusk
 every little island
@@ -24171,10 +24144,10 @@ autumn dusk
 this is Yoshiwara
 and yet...
 autumn dusk
-autumn evening--
+autumn evening—
 wind in the window's little hole
 plays flute
-autumn evening--
+autumn evening—
 the hole in the paper door
 blows flute
 delightful, the view
@@ -24189,28 +24162,28 @@ children?
 granny walks along
 drinking sake...
 a moonlit night
-harvest moon--
+harvest moon—
 from my gate then up
 Shinano Mountain
 just a tip remains
 of the harvest moon...
 Sumida River
-harvest moon--
+harvest moon—
 at the divine knees
 of Kannon
-harvest moon--
+harvest moon—
 Sumida River thick
 with mosquitoes
 the calf begins
 his journey...
 autumn rain
-autumn wind--
+autumn wind—
 graffiti on a wall
 the monk Hemamushiyo
 autumn wind
 stripping the birch tree's
 bark
-autumn wind--
+autumn wind—
 the face of the man
 planting pines
 the calf begins
@@ -24228,7 +24201,7 @@ over the autumn gale
 blowing two people
 after their fleas...
 autumn gale
-dew at the gate--
+dew at the gate—
 the sparrow licks it
 clean
 heron on a post
@@ -24237,7 +24210,7 @@ at dewdrops
 into the silver dew
 splashing struts
 the crow
-my humble hut--
+my humble hut—
 washing arms and legs
 in dewy grass
 the thin fog
@@ -24258,13 +24231,13 @@ the scarecrow
 the owl high above
 laughs to the beat...
 pounding cloth
-young buck--
+young buck—
 on his antler again
 the cicada sings
 hesitating
 at my hut
 the stray deer
-little eaves--
+little eaves—
 "It's smoky! smoky!"
 sings the quail
 geese at my gate
@@ -24273,7 +24246,7 @@ no rice
 stretching her neck
 the goose peeks in
 my gate
-rice field geese--
+rice field geese—
 the village's population
 surges
 autumn's first geese
@@ -24282,7 +24255,7 @@ fly on
 autumn's first geese
 hitting the mark...
 field by my hut
-autumn's first geese--
+autumn's first geese—
 plume grass beckons
 people chase
 Mr. Long-Beard's coming
@@ -24300,19 +24273,19 @@ the katydid
 the katydid
 breaks out into song...
 on the deer's antler
-like one long ago--
+like one long ago—
 the katydid rips
 its paper cage
-stone Buddha--
+stone Buddha—
 who gave you wildflowers
 to hold?
-Katsushika--
+Katsushika—
 praise the twentieth-day moon
 wildflowers!
-Katsushika--
+Katsushika—
 growing in a mosquito net
 a chrysanthemum
-a chrysanthemum blooms--
+a chrysanthemum blooms—
 just like me
 a would-be hermit
 the dragonfly
@@ -24324,7 +24297,7 @@ a palace
 on the month's first day
 last day, no vacation?
 maiden flowers
-graveyard--
+graveyard—
 all alone a maiden flower
 twisting
 the young buck
@@ -24333,10 +24306,10 @@ blooming bush clover
 the stray cat also
 picks this inn...
 bush clover blooming
-mountain village--
+mountain village—
 an old-style cat
 and bush clover
-green rice field--
+green rice field—
 razed to the ground
 still blooming
 waving in
@@ -24354,10 +24327,10 @@ poor!
 in darkness
 even on the tatami mat...
 ice
-children--
+children—
 Edo's ice tastes sweet
 I bet!
-my hut--
+my hut—
 from which hole
 will spring come?
 geese and ducks
@@ -24378,19 +24351,19 @@ bag of rice
 in winter wind
 a churning, churning
 in my belly
-winter wind--
+winter wind—
 and there's the Buddha's
 two-day moon
-first snowfall--
+first snowfall—
 the worms in my gut
 raise a ruckus
-first snow--
+first snow—
 the outhouse attendant's
 little lantern
-frost has formed--
+frost has formed—
 I see whiteness
 in my nostrils!
-frost on the graves--
+frost on the graves—
 the pilgrim geese above
 honking
 the bill collector
@@ -24402,7 +24375,7 @@ in my heart
 a year older
 sparrows in the bamboo...
 warm-hearted
-wood fire--
+wood fire—
 my white hair's luster
 gets a compliment
 eyeing the potato
@@ -24423,10 +24396,10 @@ a plover
 on holy Jizo's lap!
 in his sleeves!
 plovers singing
-plovers singing--
+plovers singing—
 "It's the last day
 of Ninth Month!"
-a plover sings--
+a plover sings—
 with a rice bag on his head
 he passes
 the winter fly
@@ -24444,10 +24417,10 @@ the pufferfish
 wrap it in straw
 or it'll show...
 face of the pufferfish
-wrapped in straw--
+wrapped in straw—
 of course! a pufferfish
 and plum blossoms
-winter trees--
+winter trees—
 an old sound
 from olden times
 let the fleeing people
@@ -24474,13 +24447,13 @@ blossoming springs
 amazing to reach
 my fiftieth year...
 blossoming spring
-spring begins--
+spring begins—
 no reed mat over my head
 fifty years now
-spring begins--
+spring begins—
 at least I'm human
 fifty years now
-spring begins--
+spring begins—
 the Future Buddha in ten more
 Years of the Dragon
 creating a pretty
@@ -24495,7 +24468,7 @@ New Year's pine
 a crossroads sermon
 gibberish
 spring peace
-spring peace--
+spring peace—
 in the great courtier's hem
 dust
 all of a sudden
@@ -24513,22 +24486,22 @@ spring rain
 in spring rain
 with a paper lantern...
 little beauty
-potted tree--
+potted tree—
 I blow a spring breeze on you
 again today
-spring breeze--
+spring breeze—
 the pleasure quarter's
 night life
-spring breeze--
+spring breeze—
 over the game stones
 ten at a time
-spring wind--
+spring wind—
 my thatched roof
 blown flat
-spring breeze--
+spring breeze—
 where my feet are pointed
 I'm on my way
-spring breeze--
+spring breeze—
 when did you come out
 noon moon?
 long and narrow
@@ -24537,13 +24510,13 @@ gentle slope
 turtle shells
 blown into a row...
 east wind
-spring mist--
+spring mist—
 the place where money trees
 are planted
 on a misty day
 they chat...
 horses in the field
-misty day--
+misty day—
 no doubt Heaven's saints
 bored stiff
 an old temple bell
@@ -24567,13 +24540,13 @@ Kan-ei Temple
 the night guest's lamp
 in mist...
 temple in a field
-heat shimmers--
+heat shimmers—
 how the cat talks
 in her sleep!
 in heat shimmers
 covering the rice...
 crows
-heat shimmers--
+heat shimmers—
 the lackey turns to look
 behind him
 the little tavern
@@ -24582,7 +24555,7 @@ spring mountain
 brushed by her sleeves
 every mountain
 is greening!
-herb cakes--
+herb cakes—
 when did you get here
 little butterfly?
 even tossing rice
@@ -24591,7 +24564,7 @@ sparring chickens
 blue skies
 nothing but blue skies...
 low tide
-picking herbs--
+picking herbs—
 the fox's hole gets
 a "Hello!"
 the village child
@@ -24609,10 +24582,10 @@ the grafted branch
 the mountain crow
 laughs at the branch
 I grafted
-mountain crow--
+mountain crow—
 he sees my grafted tree
 and laughs
-cats' love calls--
+cats' love calls—
 between them flows
 Sumida River
 the Edo cat
@@ -24621,19 +24594,19 @@ Sumida River
 jumping so well
 over the fire...
 the love-crazed cat
-Musashi Plain--
+Musashi Plain—
 just one house
 one love-crazed cat
 parent sparrows
 baby sparrows...
 a happy mountain
-baby sparrow--
+baby sparrow—
 his face unaware
 of his parents' fights
 are you the nightingale's
 only daughter
 behind the others, singing?
-nightingale--
+nightingale—
 his face doesn't look
 like a big shot's
 lining up
@@ -24642,10 +24615,10 @@ swallows
 at the little gambling shack
 the swallow
 prattles
-lovely--
+lovely—
 the sky after a lark
 has sung
-lovely--
+lovely—
 the sky where a noon lark
 is singing
 come down! come down!
@@ -24672,7 +24645,7 @@ in my gate
 crying pheasant, pounding mill
 morning till noon
 at the temple
-crying pheasant--
+crying pheasant—
 swallow the Eight Provinces
 in a gulp!
 the pheasant cries
@@ -24684,7 +24657,7 @@ his darling wife
 the green willow too
 tires of watching...
 departing geese
-departing geese--
+departing geese—
 human beings miss them
 terribly
 after the geese depart
@@ -24738,7 +24711,7 @@ three...five!
 the poop scooper
 utterly smeared...
 with butterflies
-little straw mat--
+little straw mat—
 Bodhidharma, butterfly
 and sparrows
 clinging to
@@ -24756,16 +24729,16 @@ in a dying deer
 three feet
 from the musket's barrel...
 little butterfly
-temple mountain--
+temple mountain—
 a baby tumbles
 a butterfly flits
 from dawn to dusk
 the butterfly couple
 makes their living
-a green lawn--
+a green lawn—
 come have a seat
 Sir Pond Snail!
-little tub--
+little tub—
 pond snails ready for shelling
 play sliding games
 making no fuss
@@ -24777,7 +24750,7 @@ but don't know it
 sound asleep
 there is peace on earth...
 pond snail
-Mokubo Temple--
+Mokubo Temple—
 a blossom-viewing pond snail
 and Mount Tsukuba
 a pretty thing
@@ -24786,10 +24759,10 @@ buds
 following the times
 even my hut's grasses
 so young!
-new grass--
+new grass—
 at the town's back door
 Mount Fuji
-croaking frogs--
+croaking frogs—
 "Mustard in the ditch
 has bloomed!"
 in the flowering mustard
@@ -24813,7 +24786,7 @@ have bloomed
 like they're calling
 to the nightingale...
 the bracken
-plum in bloom--
+plum in bloom—
 a beggar's blossoms too
 next door
 on his scrap of mat
@@ -24852,7 +24825,7 @@ people
 in scattering blossoms
 Buddha and Buddhism
 unknown
-scattering cherry blossoms--
+scattering cherry blossoms—
 thirsty for that faraway
 mist
 year after year
@@ -24864,7 +24837,7 @@ to Hokkaido
 in this world
 over hell...
 viewing spring blossoms
-stepchild cherry blossoms--
+stepchild cherry blossoms—
 not stunted
 at all
 where they dug up
@@ -24885,19 +24858,19 @@ old man
 as soon as it bloomed
 they dug up
 the cherry tree
-yellow roses--
+yellow roses—
 a horse tied
 to an old Jizo
 dangling
 in the yellow roses
 the bull's balls
-Sixth Month--
+Sixth Month—
 the brutal heat
 is no more
 over my head
 a Sixth Month night
 of moon
-summer's early dawn--
+summer's early dawn—
 dwindling night reveals
 a willow
 nighttime in Edo
@@ -24909,7 +24882,7 @@ sweet nostalgia
 all the short summer night
 hard at work puffing...
 Mount Asama
-short summer night--
+short summer night—
 little puff-ball flowers
 have bloomed
 "The summer night
@@ -24921,31 +24894,31 @@ of trees
 the beards of millet
 in good health...
 such heat!
-herons in a row--
+herons in a row—
 everywhere the same
 cool breeze
 trailing behind
 the cool air...
 the month's last day
-summer cool--
+summer cool—
 the puffy clouds
 like handballs
 when evening falls
 the willows of Edo
 chill
-old age--
+old age—
 even the cool moon
 soon grows tiresome
 a crab pinches
-the leaf of a reed--
+the leaf of a reed—
 Fifth Month rain
-Sakamoto--
+Sakamoto—
 thatched huts, thatched huts
 and Fifth Month rain
-Fifth Month rain--
+Fifth Month rain—
 not a rock
 without azaleas
-Mr. Toad--
+Mr. Toad—
 the Fifth Month rains
 have begun!
 the bagworm
@@ -24957,7 +24930,7 @@ and they call it
 just three raindrops
 "A cloudburst!
 A cloudburst!"
-rainstorm--
+rainstorm—
 at the edge of the sea
 it starts
 in the cloudburst
@@ -24978,7 +24951,7 @@ gargoyle
 standing in the cloudburst
 keeping her cool...
 maiden flower
-rainstorm--
+rainstorm—
 a poor sake bottle
 rolls along
 the cloud mountain
@@ -24987,16 +24960,16 @@ vanishes
 the peaks of clouds
 hiding
 in the grass
-festival day--
+festival day—
 even the little clouds
 forming peaks
 don't run away
 from the sickle moon
 billowing clouds!
-Musashi Plain--
+Musashi Plain—
 the flea also heads
 for the peaks of clouds
-Kisa Lagoon--
+Kisa Lagoon—
 a summer moon worthy
 of Noin
 the goddess of spring's
@@ -25011,19 +24984,19 @@ summer moon
 the door opens
 to Naniwa Bay...
 summer moon
-summer moon--
+summer moon—
 there's no such thing
 as a flawless night
 guarded by the goddess
 Kannon...
 pure water
-pure water over moss--
+pure water over moss—
 come, pigeons!
 come, sparrows!
 praise Buddha's
 compassionate saints!
 pure water
-my home village--
+my home village—
 even behind the outhouse
 pure water gushes
 come nightfall
@@ -25056,7 +25029,7 @@ my summer robe
 in the beggar's town, too
 in thicket shade
 new summer robe
-dawn--
+dawn—
 through my summer kimono shining
 moon in the pine
 a catfish caught
@@ -25080,7 +25053,7 @@ festival
 in the deep heart
 of the tall bamboo...
 an afternoon mosquito net
-my home village--
+my home village—
 from inside my mosquito net
 I watch
 wildflowers
@@ -25116,13 +25089,13 @@ evening cool
 live long!
 in your ceremonial robe
 enjoy the evening cool
-life in town--
+life in town—
 while enjoying the cool air
 "Praise Buddha!"
-the moon departs--
+the moon departs—
 in Kyoto even she enjoys
 the cool breeze
-night after night--
+night after night—
 even the beggarly vine
 enjoys the cool air
 hey nightingale
@@ -25149,37 +25122,37 @@ from the palace...
 entering Edo
 the first voice I hear
 "cuckoo!"
-Oyodo Town--
+Oyodo Town—
 leave in silence
 cuckoo
-worthy of Sir Cuckoo--
+worthy of Sir Cuckoo—
 the moon
 in the pine
-cuckoo--
+cuckoo—
 escaping the palace
 at night
-cuckoo--
+cuckoo—
 if you don't like the bamboo
 stay in the tree!
-cuckoo--
+cuckoo—
 azalea clotted fields!
 mountains!
-cuckoo--
+cuckoo—
 azaleas adorn
 my umbrella-hat
-oh cuckoo--
+oh cuckoo—
 swallow blossom-filled Edo
 in a gulp!
-a good match--
+a good match—
 the sickle moon
 the cuckoo
 don't let Muen Temple's
 prayers drown you out...
 cuckoo!
-mountain country--
+mountain country—
 why do you dislike it
 cuckoo?
-the boat departs--
+the boat departs—
 right next to his head
 a cuckoo
 to our ears
@@ -25194,10 +25167,10 @@ mountain cuckoo
 just one reed
 for the reed thrush...
 Sumida river
-hey reed thrush--
+hey reed thrush—
 it's four or five inches tall
 Mount Tsukuba
-a reed thrush--
+a reed thrush—
 Mount Tsukuba
 in a corner of the sky
 to the rhythm
@@ -25230,10 +25203,10 @@ smoky!
 called forth
 by Mr. Long-Beard...
 the first firefly
-a mouth calling fireflies--
+a mouth calling fireflies—
 one
 flies in
-evening falls--
+evening falls—
 to the just-sold grass
 fireflies flit
 one cocoon
@@ -25251,7 +25224,7 @@ they sleep with me
 a flea jumps
 in the laughing Buddha's
 mouth
-evening--
+evening—
 in a big sake cup
 moon and a flea
 cicadas chirring
@@ -25275,10 +25248,10 @@ summer's first bonito
 Sir Whiskers
 has first crack
 at summer's first bonito
-Musashi Plain--
+Musashi Plain—
 Mount Fuji and bonito
 on everyone's mind
-big tide--
+big tide—
 the day flower clings
 to the sand
 the day flower
@@ -25299,7 +25272,7 @@ poppies
 words
 are a waste of time...
 poppies
-the naked child crawls--
+the naked child crawls—
 the blooming
 poppies
 like a poppy
@@ -25314,7 +25287,7 @@ lotus blossoms
 holy Jizo
 in the blooming pinks...
 dead center
-a blooming pink--
+a blooming pink—
 the big bee
 stings it!
 geese and ducks
@@ -25326,7 +25299,7 @@ lilies
 all stretched out
 the dog naps
 in the lilies
-evening gloom--
+evening gloom—
 a fawn's spots
 on the lily
 over the duckweed
@@ -25338,13 +25311,13 @@ teahouse!"
 the duckweed too
 may have prayed...
 blooming in the west
-"barley's autumn"--
+"barley's autumn"—
 but in the hut of reeds
 "fish autumn"
-ripened barley--
+ripened barley—
 the rice paddy geese
 with hoarse voices
-home village--
+home village—
 even on a thin post
 moss has bloomed
 the thicket's bamboo
@@ -25353,13 +25326,13 @@ raising a ruckus
 depending on
 the young bamboo...
 little house
-summer's young bamboo--
+summer's young bamboo—
 joyful!
 joyful!
 smelling the melon
 shading his eyes to gaze...
 a weasel
-I smell melons--
+I smell melons—
 where might they be
 katydid?
 the year's first melon
@@ -25389,19 +25362,19 @@ thick summer grasses
 spreading so thick
 what an eyesore...
 nettle tree
-autumn begins--
+autumn begins—
 in a little pine island's
 little nook
 the red gems
 of a flower's buds...
 autumn evening
-autumn dusk--
+autumn dusk—
 a pretty little bird
 passes by
 going out to fart
 about ten times...
 a long night
-autumn wind--
+autumn wind—
 on the loafer's back
 it blows
 at dawn
@@ -25416,19 +25389,19 @@ made-up with dew
 taking a leak
 adding to the dew...
 Kogane Field
-such cool air--
+such cool air—
 big pearls, little pearls
 of dew
-dewdrop world--
+dewdrop world—
 clinging to dewdrops...
 cormorant fishermen
-a dewdrop world--
+a dewdrop world—
 dewy pinks
 big and little
 dewdrops falling
 drip-drip, this world
 is good!
-three dewdrops--
+three dewdrops—
 Ueno's cicadas
 break out into song
 blowing a flute
@@ -25440,7 +25413,7 @@ evening dew
 trying to catch
 the lightning bolt...
 a child
-dawn--
+dawn—
 Mount Asama's fog on the dinner tray
 crawls
 on a holy shrine
@@ -25452,13 +25425,13 @@ ancestors' altar
 even on the ancestors' altar
 they wriggle...
 maiden flowers
-ancestors' altar--
+ancestors' altar—
 for gnawing silkworms, too
 a tea offering
 like bonfires for the dead
 burning to nothing...
 autumn dew
-bonfires for the dead--
+bonfires for the dead—
 in every direction
 Heike crabs
 even the insects sing:
@@ -25479,22 +25452,22 @@ cloth-pounders
 where were you poked
 to make that sound...
 mountain deer?
-the rear goose--
+the rear goose—
 well, well
 a sore foot
 hut's evening
 sparrows in the bamboo
 geese in the rushes
-behind me--
+behind me—
 it's become a night
 of wild geese!
 rice field geese
 glare at me
 as I pass
-what an uproar--
+what an uproar—
 those wild geese
 are the Shogun's!
-geese honking--
+geese honking—
 into Mount Asama's fog
 a fire
 the wild geese
@@ -25506,10 +25479,10 @@ rest easy
 settling back
 to dead silence...
 rice field geese
-autumn's first geese--
+autumn's first geese—
 from you I could learn
 where to sleep
-autumn's first geese--
+autumn's first geese—
 from you I could learn
 about travels!
 not landing
@@ -25518,7 +25491,7 @@ the geese's plan
 aiming their butts
 at the evening moon...
 rice field geese
-cricket--
+cricket—
 on the young buck's antler's
 tip
 gorging himself
@@ -25572,7 +25545,7 @@ one leaf falls
 pushing up through
 seven feet of millet...
 rose of Sharon
-roses of Sharon--
+roses of Sharon—
 for generations
 thin smoke rising
 the aging gourd
@@ -25587,7 +25560,7 @@ cats making love
 truthfully
 it's cold, nothing more!
 first winter rain
-first winter rain--
+first winter rain—
 songs in the tavern
 become ripe
 the well bucket
@@ -25596,7 +25569,7 @@ first winter rain
 tea is steaming
 at the mountain temple...
 first winter rain
-first winter rain--
+first winter rain—
 a mad dash
 to the mountain house
 while tying up
@@ -25608,7 +25581,7 @@ winter rain
 the blooming cockscomb
 droops listlessly...
 winter rain
-winter rain--
+winter rain—
 stomping on the mum
 the croaking frog
 in winter rain
@@ -25620,13 +25593,13 @@ little house
 passing through evening
 clumsily...
 the winter rain
-first snow falling--
+first snow falling—
 close your mouth
 skillet!
 in first snow
 digesting his rice cake...
 the crow
-first snowfall--
+first snowfall—
 atop the rice bag
 a little lamp
 in first snow
@@ -25644,19 +25617,19 @@ my residence
 on my thin legs
 smack! smack!
 hailstones
-secluded house--
+secluded house—
 sweeping soot
 off the dog's head, too
-harvest moon--
+harvest moon—
 so much soot to sweep
 at Zenko Temple
-Twelfth Month singers--
+Twelfth Month singers—
 seven feet away
 a little one sings
-pounding rice cakes--
+pounding rice cakes—
 now, even I return
 to my home village
-mountain castle--
+mountain castle—
 even in a little field
 gifts of new clothes
 at the sunset bell
@@ -25674,7 +25647,7 @@ winter seclusion
 the nightingale
 alit on it first...
 charcoal bag
-Mount Saga--
+Mount Saga—
 with the natto soup
 plum blossoms
 my natto shares
@@ -25695,7 +25668,7 @@ of plovers
 slapping the big
 chrysanthemum's face...
 falling leaf
-fallen leaves--
+fallen leaves—
 not a single crow
 is irksome
 even newborn leaves
@@ -25707,10 +25680,10 @@ western sea
 what a shame!
 how many canes prop you up
 old pine?
-a five-inch nail--
+a five-inch nail—
 the pine tree
 is weeping
-not yet Buddha--
+not yet Buddha—
 the mindless old
 pine
 in pine-tree shade
@@ -25719,7 +25692,7 @@ sixty provinces!
 even for bamboo
 there's nothing but
 crookedness
-bamboo grove--
+bamboo grove—
 here, too, there's no
 perfection
 a thousand years
@@ -25752,13 +25725,13 @@ the thief cat
 born in the pines
 of Matsushima...
 this little nook
-my dead mother--
+my dead mother—
 every time I see the ocean
 every time...
 deep inside
 of everyone, Mount Asama's
 smoke
-First Month--
+First Month—
 instead of plum blossoms
 a blizzard
 no customary
@@ -25776,13 +25749,13 @@ spring blossoms
 do not think me
 a poor-spirited soul...
 mankind's spring
-Mankind's Day--
+Mankind's Day—
 but nothing special
 in my rice gruel
 back from holiday
 the servant brings a friend...
 Kyoto
-Servants' Holiday--
+Servants' Holiday—
 the great festival shrine
 passes by
 joining the travelers
@@ -25794,10 +25767,10 @@ Mount Matchi
 lucky beans
 and lucky tea
 just for me alone
-spring at my gate--
+spring at my gate—
 the first New Year's greeting
 from sparrows
-a Kyoto suburb--
+a Kyoto suburb—
 even flying kites
 is hard
 even the beggar
@@ -25833,10 +25806,10 @@ in my eyes
 letting her parent carry
 the paper lantern...
 spring rain
-spring rain--
+spring rain—
 the uneaten ducks
 are quacking
-spring rain--
+spring rain—
 a mouse licking up
 Sumida River
 in one boat
@@ -25851,16 +25824,16 @@ spring breeze
 his butt cooled
 by the spring breeze
 roof thatcher
-spring breeze--
+spring breeze—
 purified at a shrine
 the dog comes home
-spring breeze--
+spring breeze—
 a mouse licking up
 Sumida River
-spring breeze--
+spring breeze—
 Oman's cloth simply
 blowing
-spring breeze--
+spring breeze—
 the fence's tea strainer
 blowing
 crane in the rushes
@@ -25872,7 +25845,7 @@ Higashi Mountains
 even in spring mist
 it's snow-covered...
 my home
-misty day--
+misty day—
 with their eyes sewn shut
 geese honking
 all is misty
@@ -25893,13 +25866,13 @@ mist-covered
 you, too, turn to
 heat shimmers...
 my thatched house
-heat shimmers--
+heat shimmers—
 from inside the rice cake tub
 one more
-heat shimmers--
+heat shimmers—
 chasing the village crow
 with a hoe
-heat shimmers--
+heat shimmers—
 the child's lost chicken
 struts in the distance
 my hut's snow
@@ -25908,7 +25881,7 @@ at dying
 geese and ducks
 honking, quacking it away...
 melting snow
-Shinano road--
+Shinano road—
 when the snow finally melts
 mosquitoes whine
 come, sparrows
@@ -25920,13 +25893,13 @@ late riser
 servants take a break
 from their migration...
 kite flying
-migrating servants--
+migrating servants—
 wherever you go, the same
 plum blossoms!
 the widow, too
 leaves a doll
 among the cherry trees
-picking herbs--
+picking herbs—
 on my coat a croaking
 frog
 on the old umbrella-hat
@@ -25944,7 +25917,7 @@ burnt field
 as if the villagers
 are frozen...
 burning field
-fire on field and mountain--
+fire on field and mountain—
 at night this world
 ain't bad!
 where I planted seeds
@@ -25965,7 +25938,7 @@ the lover cat
 O flowering mustard
 blow the cat's prowling route
 shut!
-Kasuga Field--
+Kasuga Field—
 even the rascally buck
 sheds his antlers
 may I offer you
@@ -25989,7 +25962,7 @@ tatami mat
 baby sparrows, too
 arrive for the Buddha's
 morning showing
-baby sparrow--
+baby sparrow—
 the dust in this hut
 is filthy!
 in the great bronze
@@ -25998,7 +25971,7 @@ sparrow babies
 the nightingale
 makes a face in the smoke...
 mountain home
-staying behind--
+staying behind—
 the nightingale's only
 daughter
 nightingale
@@ -26016,19 +25989,19 @@ little gambling shack
 while imitating
 a nightingale...
 a nightingale!
-hey nightingale--
+hey nightingale—
 why the rush
 to go so soon?
 nightingale, don't suffocate
 from the pipe smoke!
 Edo mountain
-samurai--
+samurai—
 even the nightingale
 gives orders
 sing! sing!
 though off key
 my nightingale
-trying to sleep--
+trying to sleep—
 that nightingale on the eaves
 is a nightingale!
 he's a prince
@@ -26046,7 +26019,7 @@ a skylark
 coming down
 to eat his lunch...
 skylark
-a pheasant cries--
+a pheasant cries—
 soup steam wafts over
 wild grasses
 "The shrine in the field
@@ -26112,19 +26085,19 @@ frog
 even around here
 the world is good!
 frogs croaking
-my back-alley home--
+my back-alley home—
 five feet of sky
 but spring butterflies
-morning rain--
+morning rain—
 a butterfly licks
 it up
-Suruga Road--
+Suruga Road—
 even the butterflies dream
 about Mount Fuji
-weak tea--
+weak tea—
 every day the butterfly
 stops by
-tea smoke--
+tea smoke—
 into the butterfly's face
 it blows
 a butterfly comes
@@ -26136,7 +26109,7 @@ mountain home
 a butterfly, a cat
 deep asleep...
 temple sitting room
-an arm for a pillow--
+an arm for a pillow—
 every day the butterfly
 visits
 lending it
@@ -26169,25 +26142,25 @@ the bracken
 for Toribe Field's
 holy Jizo...
 bracken
-even wild rose buds--
+even wild rose buds—
 all eaten
 by people
-Kamakura--
+Kamakura—
 who planted these camellias
 in olden times?
-plum blossom scent--
+plum blossom scent—
 a house with four walls
 can't be found
-plum blossom scent--
+plum blossom scent—
 the voices of children
 sound reverent
-plum blossoms--
+plum blossoms—
 the candy nightingale
 opens his mouth
-plum blossoms--
+plum blossoms—
 riding a dog
 the Peach Boy
-secluded house--
+secluded house—
 enough plum blossoms
 for brewing tea
 nothing special
@@ -26202,7 +26175,7 @@ naughty dog
 someone chanting
 the Lotus Sutra...
 plum blossoms
-waterfall's mist--
+waterfall's mist—
 even here, off to the side
 blossom clouds
 tucking himself in
@@ -26211,19 +26184,19 @@ puppy
 in scattering blossoms
 holding their breath...
 sea gulls
-fallen blossoms--
+fallen blossoms—
 the stylish woman leaves
 her butt print
 riding in a palanquin
 the blossom thief!
 blossom thief!
-blossoming mountain--
+blossoming mountain—
 come out and play
 devil in me!
 the old fence too
 has Third Month, 10th day
 blossoms!
-donning my umbrella-hat--
+donning my umbrella-hat—
 cherry blossoms portend
 a lucky day
 sticking, sticking
@@ -26232,7 +26205,7 @@ cherry blossoms
 lining the bottom
 of the trash can...
 cherry blossoms
-the cherry blossoms fall--
+the cherry blossoms fall—
 I apologize to a dog
 in passing
 cherry blossoms
@@ -26250,31 +26223,31 @@ the fox!
 from the willow
 a ghost attacks!
 the child
-summer night--
+summer night—
 like a lump of fried rice
 Mount Fuji
-dewdrops spilling--
+dewdrops spilling—
 suddenly the nights
 grow short
 in the middle of the short
 summer night blooming...
 azaleas
-short summer night--
+short summer night—
 sister's silkworms
 in a feeding frenzy
-short summer night--
+short summer night—
 the silkworms' mouths
 chomping
-short summer night--
+short summer night—
 the hairdresser's wildflowers
 blooming
-short summer night--
+short summer night—
 an umbrella-shaped flower
 has bloomed
 in the short summer night
 wriggling to climax...
 maiden flowers
-short summer night--
+short summer night—
 the frogs croaking
 trash talk
 the flower that looks
@@ -26289,19 +26262,19 @@ but cool!
 the cool, windy moon
 is shut out too...
 thatched hut
-what cool air--
+what cool air—
 snow and ice
 two cents apiece
 in the cool air
 me and flame-drawn
 katydid
-cool air--
+cool air—
 the evening mountain
 becomes itself
-cool air--
+cool air—
 like pillows beyond the gate
 the mountains
-cool air--
+cool air—
 again from the west
 an evening shower
 lying spread-eagle
@@ -26316,7 +26289,7 @@ I bring
 blessings fall
 on Mount Togakushi...
 a cloudburst
-little straw mat--
+little straw mat—
 the cloudburst just a spurt
 but a good one
 perfectly round
@@ -26328,16 +26301,16 @@ just teardrops
 a bowl to catch
 the cloudburst...
 my hut
-a summer rainstorm--
+a summer rainstorm—
 scratches
 my itch
-a good omen--
+a good omen—
 in the west, deep red
 billowing clouds
 on the tips
 of my outstretched toes...
 billowing clouds
-noontime--
+noontime—
 about pillow high
 the billowing clouds
 the swimming flea
@@ -26358,7 +26331,7 @@ water
 flimsily
 the morning-glories bloom...
 pure water
-mountain village--
+mountain village—
 even the horse bathes
 in pure water
 new red flowers
@@ -26373,16 +26346,16 @@ has greened
 my portion of rice field
 turns green too...
 evening's wooden drum
-my side-field of rice--
+my side-field of rice—
 the first to turn
 green! green!
 even under the eaves
 human handiwork...
 a green rice field
-festival--
+festival—
 for whose treasured child
 this red fan?
-festival--
+festival—
 snapping my fan
 wore me out
 a flower shaped
@@ -26394,16 +26367,16 @@ river shrine
 are you renting a home
 sea gull?
 river shrine
-moonlight nook--
+moonlight nook—
 from the pine's shadow
 night fishing
-cormorant boat--
+cormorant boat—
 her children cry in the window
 left behind
 sweat drops from cows
 from horses...
 blades of grass
-growing old--
+growing old—
 one drop of sweat
 soon, another
 this day perhaps
@@ -26436,13 +26409,13 @@ a perfect square!
 in his summer kimono
 more and more square...
 old man
-my home village--
+my home village—
 dangling into the mosquito net
 wildflowers
-festival day--
+festival day—
 some treasured child's
 red fan
-western mountains--
+western mountains—
 I'm off to play paper fan gliders
 under the moon
 shading
@@ -26454,13 +26427,13 @@ smudge pot smoke
 the smudge pot smoke
 is a comfort...
 my life alone
-my home village--
+my home village—
 the smudge pots trailing
 mist
 even water sprinkled
 at the gate costs money...
 life in Edo
-airing out the bedding--
+airing out the bedding—
 atop the futon
 a katydid
 at dawn
@@ -26469,7 +26442,7 @@ my house
 this evening's
 cooling off...
 not quite flawless
-cool air at the gate--
+cool air at the gate—
 the evening isn't
 soot-grimed
 just me
@@ -26487,10 +26460,10 @@ Kyoto-bound
 the one-foot waterfall
 is also cool...
 sweet jelly
-little tub--
+little tub—
 on top of Mount Fuji
 sweet jelly
-traveler--
+traveler—
 on a mountain he sits
 with sweet jelly
 from a tub
@@ -26505,7 +26478,7 @@ has risen...
 almost spitting distance
 to Edo, eh?
 cuckoo
-Kiso Mountains--
+Kiso Mountains—
 plowing through the snow
 a cuckoo
 a little smoke
@@ -26532,16 +26505,16 @@ cuckoo
 are you all half-sleeping?
 prostitute, horse
 cuckoo?
-cuckoo--
+cuckoo—
 the rain of Great Edo
 is sweet!
-cuckoo--
+cuckoo—
 you know when it's time
 to run
-hey cuckoo--
+hey cuckoo—
 are you scolding
 the loafer?
-cuckoo--
+cuckoo—
 hot tub steam stirs
 as does the grass
 don't suffocate
@@ -26574,22 +26547,22 @@ fireflies
 on the raftsman's chopstick
 once again...
 firefly
-thatched house--
+thatched house—
 catching and releasing
 fireflies
 from the plume grass
 from the pine
 fireflies! fireflies!
-an arm for a pillow--
+an arm for a pillow—
 from the nape of my neck
 a firefly flits
-old wall--
+old wall—
 for no particular reason
 fireflies visit
 he flips a page
 of the Lotus Sutra...
 a firefly flies
-Mokubo Temple--
+Mokubo Temple—
 the dog calls, too
 fireflies come
 don't go, firefly!
@@ -26598,10 +26571,10 @@ is noisy
 go away, firefly!
 the teapot's mouth
 gapes
-my dwelling--
+my dwelling—
 mingling with the mice
 pretty fireflies
-mosquito larvae--
+mosquito larvae—
 in a day how many
 ups and downs?
 amid the buzz of mosquitoes
@@ -26610,7 +26583,7 @@ wildflower
 into the mosquito swarm
 take care! take care!
 swallow
-mosquito swarm--
+mosquito swarm—
 into my sleeve
 they rise
 comparing butts
@@ -26625,13 +26598,13 @@ returning home
 pesky flea
 caught in my hand
 become a Buddha!
-dawn--
+dawn—
 to Fuji! to Fuji!
 fleas jumping off
 the gate's nettle tree
 catches fleas
 from people
-grassy meadow--
+grassy meadow—
 the flea jumps
 to points unknown
 tired of walking
@@ -26661,28 +26634,28 @@ parents and children
 go ahead, make love!
 make love!
 summer cicadas
-cicadas chirr--
+cicadas chirr—
 looking like an umbrella-hat
 Lake Biwa
-cicadas chirr--
+cicadas chirr—
 sticking to the sky
 Mogami River
-cicadas chirr--
+cicadas chirr—
 my hut, too, becoming
 stone
 hush cicada!
 Mr. Long-Beard
 has arrived
-temple mountain--
+temple mountain—
 buzzing into my sleeve
 a cicada
-summer cicada--
+summer cicada—
 even in his lovemaking break
 singing!
 a life of running away
 running away...
 summer cicada
-mountain cicada--
+mountain cicada—
 singing, singing passes through
 the big sitting room
 the snail-Buddha
@@ -26694,7 +26667,7 @@ has written
 why
 such careful consideration
 snail?
-my home village--
+my home village—
 Buddha's face
 on the snail
 in evening moonlight
@@ -26718,16 +26691,16 @@ evening's tea-and-rice
 the toddlers
 put them in sake cups...
 lotus blossoms
-lotus pond--
+lotus pond—
 with a stuck-up attitude
 the beggar's hut
-pinks--
+pinks—
 one is blooming
 thanks to the dew
 before
 the red dog's yawn...
 irises
-seaside temple--
+seaside temple—
 among the wood chips
 irises
 shading the arrowheads
@@ -26769,22 +26742,22 @@ flawless
 for the young bamboo
 bold and fresh
 green leaves
-young bamboo--
+young bamboo—
 the blind dragonfly
 carousing
-pretty--
+pretty—
 the bitter bamboo shoots
 swishing
-life in seclusion--
+life in seclusion—
 guarding the growing
 bamboo shoots
-shoots of new bamboo--
+shoots of new bamboo—
 not one of them
 looks healthy
-a dewdrop spills--
+a dewdrop spills—
 the bamboo shoot
 shivers
-shallow river--
+shallow river—
 a dawn moon
 melons cooling
 in leafy shade
@@ -26799,13 +26772,13 @@ cooling in water
 just one's enough
 for deep, cool shade...
 nettle tree
-a long day--
+a long day—
 Holy Binzuru and blossoms
 of Sleeping Tree
-deutzia blossoms--
+deutzia blossoms—
 on the road to Fushimi
 a dog
-nippy weather--
+nippy weather—
 the meaning of "parent"
 sinks in
 does the monkey understand
@@ -26847,10 +26820,10 @@ autumn dusk
 at my hut too
 the night turns long...
 bottoms up!
-night at my hut--
+night at my hut—
 this sinful oversleeping
 weighs heavily!
-feeling afraid--
+feeling afraid—
 nights of so much sleep
 are sinful!
 wooden clogs
@@ -26862,7 +26835,7 @@ is it lonely?
 long!
 the night is long!
 "Praise Amida..."
-a long night--
+a long night—
 the devil in me
 torments me
 "Praise Buddha!
@@ -26898,19 +26871,19 @@ child
 the sickle moon
 all clouded over...
 when I go out
-harvest moon--
+harvest moon—
 going out
 going back in
-harvest moon--
+harvest moon—
 in the seat of honor
 a katydid chirrs
-mountain village--
+mountain village—
 even in my soup
 the harvest moon
-autumn rain--
+autumn rain—
 in the same boat as people
 mountain crow
-autumn rain--
+autumn rain—
 I send an unwilling flea
 flying
 my evicted fleas
@@ -26919,7 +26892,7 @@ autumn rain
 in autumn wind
 escaping on foot...
 firefly
-autumn wind--
+autumn wind—
 trampling the grave tablet
 a crow caws
 on my arms and legs
@@ -26943,13 +26916,13 @@ autumn gale
 in morning dew
 a reaching-the-Pure-Land
 lesson
-potato leaf--
+potato leaf—
 a rice bowl's worth
 of dew!
 a shiver
 runs up my spine...
 dew dripping down
-Echigo horse--
+Echigo horse—
 sweeping away the evening dew
 in passing
 among the dewdrops
@@ -26961,10 +26934,10 @@ sharp shadows
 sucking up
 all the dewdrops...
 my thatched hut
-dewdrops scatter--
+dewdrops scatter—
 soon enough
 there go I
-dewdrops scatter--
+dewdrops scatter—
 done with this crappy
 world
 beads of dew
@@ -26994,7 +26967,7 @@ Sumida River
 the morning-glories
 bloom so briefly...
 scarecrow
-field by my hut--
+field by my hut—
 no thank-you offering
 for the scarecrow
 in the rain shower
@@ -27015,16 +26988,16 @@ and moves on
 leasing his antler
 to the cicada...
 the young buck
-don't cry, geese--
+don't cry, geese—
 everywhere, the same
 floating world
-geese flying south--
+geese flying south—
 the ducks at the gate
 cheer them on
 the frog enters his hole
 in the Future Buddha
 he trusts
-little straw mat--
+little straw mat—
 a green plant-like insect
 singing
 stop again!
@@ -27078,37 +27051,37 @@ chrysanthemum
 chrysanthemum blooming
 horse-dung mountain...
 one scene
-evening--
+evening—
 he wipes horse dung off his hand
 with a chrysanthemum
-morning-glories--
+morning-glories—
 every morning the fleas'
 hideout
 with one branch
 it blocks the gate...
 bush clover
-secluded house--
+secluded house—
 trusting in the Buddha
 rice plants bloom
-old thicket--
+old thicket—
 a nook of rice
 five or six feet tall
 more cutting than my hut's
 old sword...
 plume grass
-persimmon tree--
+persimmon tree—
 the color of gold coins
 its leaves
-persimmon leaves--
+persimmon leaves—
 once they turn crimson
 game over
 after great effort
 picking the big chestnut...
 a wormhole
-grassy meadow--
+grassy meadow—
 letting the child harvest one
 chestnut
-worm-eaten--
+worm-eaten—
 the best chestnut!
 the best!
 in mountain shade
@@ -27129,7 +27102,7 @@ the cold
 in my thatched hut
 even dreaming
 the cold
-dawn--
+dawn—
 round as the moon
 the tossed-out ice
 a nightingale makes his rounds
@@ -27141,7 +27114,7 @@ a pheasant
 the gray starling
 rushes his song...
 a spring day in winter
-heron on a post--
+heron on a post—
 how is your year
 ending?
 end quickly!
@@ -27150,10 +27123,10 @@ an evil one
 the owl's year
 is running out...
 atop the pole
-misty--
+misty—
 the year's last day
 Kan-ei Temple
-what will be, will be--
+what will be, will be—
 on the year's last day
 I sleep
 evening of the year's
@@ -27162,13 +27135,13 @@ flitting snow
 for our sake enduring
 the winter rain...
 stone Buddha
-winter rain--
+winter rain—
 I meet my hut's cat
 at the door
-winter rain--
+winter rain—
 the night fisherman
 with his mother
-thatched hut--
+thatched hut—
 the chrysanthemum hit first
 by winter rain
 spelling "Japan"
@@ -27180,13 +27153,13 @@ slanting winter rain
 the cotton bolls burst
 in secret...
 winter rain
-winter wind--
+winter wind—
 wearing a straw bag
 on Mount Hakone
-rented house--
+rented house—
 the village's best spot
 for basking in the winter sun
-first snowfall--
+first snowfall—
 like my worst enemy
 damn you!
 the year's first snow
@@ -27195,10 +27168,10 @@ by the crows
 the first snow
 makes fried rice balls...
 of mountains
-first snowfall--
+first snowfall—
 bordering the outhouse
 Sumida River
-first snowfall--
+first snowfall—
 in the tree's shade
 a Shinto flute
 "First snowfall!"
@@ -27213,13 +27186,13 @@ softly
 chop-chopping
 a mountain of snow...
 a man alone
-a big snow--
+a big snow—
 straight above me
 the Milky Way
-deep snow--
+deep snow—
 on the signpost
 a crow caws
-heavy snow--
+heavy snow—
 from the dinner tray's edge
 Echigo mountains
 geese and gulls
@@ -27228,10 +27201,10 @@ raise a ruckus...
 by the light of the snow
 under the window...
 gambling
-falling snow--
+falling snow—
 yesterday it wasn't there
 "Empty House" sign
-snowy night--
+snowy night—
 near the hut of reeds
 Milky Way
 my village bell
@@ -27252,13 +27225,13 @@ as they fall
 a serving tray for the bride
 on the little straw mat...
 hailstones
-hailstones--
+hailstones—
 look! there's one behind
 brother's ear
 the child hugs
 her cloth monkey...
 hailstorm
-hailstones falling--
+hailstones falling—
 the paper dog, too
 going nuts!
 one falls smack
@@ -27285,16 +27258,16 @@ a monk beats a bowl
 admirable!
 he beats the gourd
 non-stop
-a cold, clear night--
+a cold, clear night—
 a winter prayer for the plum tree
 too
 two sleep
 at the edge of the hearth
 their pillows
-daybreak--
+daybreak—
 Amida Buddha's soot
 is swept
-my hut's soot--
+my hut's soot—
 I go through the motion
 of sweeping it
 sparrows at the gate
@@ -27303,28 +27276,28 @@ soot-sweeping
 the daffodil too
 covered with soot
 stands
-soot sweeping--
+soot sweeping—
 even the turtle by the pond
 gets swiped
-sweeping soot--
+sweeping soot—
 off daffodil, plum blossom
 camellia
-dumping soot in a thicket--
+dumping soot in a thicket—
 daffodils, plum blossoms
 camellias
-soot and dust dumping--
+soot and dust dumping—
 I bow to plum blossoms
 and camellias
-mountain village--
+mountain village—
 soot-covered plum blossoms
 and camellias
-my hut--
+my hut—
 I'll get to the bamboo soot-broom
 by and by
-remote field--
+remote field—
 hidden in trees, here too
 Twelfth Month singers
-Twelfth Month singers--
+Twelfth Month singers—
 don't kick that baby
 to the rear!
 the Twelfth Month singers
@@ -27345,7 +27318,7 @@ nightingale!
 on the rice cake tub
 the nightingale perches
 again
-pounding rice cakes--
+pounding rice cakes—
 from the eaves a crow
 sticks out his head
 my child can almost
@@ -27363,7 +27336,7 @@ gifts of new clothes
 whose child has dressed
 the crossroads Buddha?
 new clothes
-year's end fair--
+year's end fair—
 a straw bag on her head
 she passes
 lucky beans
@@ -27372,13 +27345,13 @@ yet no teeth
 after the demons
 have all gone...
 bright moon
-secluded house--
+secluded house—
 a toothless mouth cries
 "Luck indoors!"
 driving demons
 into the darkness...
 laughing
-Takasago--
+Takasago—
 shouting away demons
 a toothless one too
 trust, trust in Buddha!
@@ -27402,16 +27375,16 @@ sparrows at the gate
 "Are these the outskirts
 of Kyoto?"
 woman in a paper robe
-winter rain--
+winter rain—
 come! come!
 my paper robe
 "From this tree on
 am I in Nara?"
 woman in a paper robe
-well suited--
+well suited—
 down the slope they go
 in paper robes
-row of houses--
+row of houses—
 the people in paper robes
 hard to count
 playing with the god's
@@ -27423,7 +27396,7 @@ paper robes
 a face pokes out
 the winter quilt...
 "Hey, vegetable man!"
-fool cat--
+fool cat—
 yet he knows which futon
 is his
 won't be long now
@@ -27438,22 +27411,22 @@ I sit
 tucking into my futon
 tomorrow's straw sandals
 by the pillow
-my eyes glaring, glaring--
+my eyes glaring, glaring—
 just like Dharma
 in my futon
-my last resort--
+my last resort—
 I borrow the cat's
 futon
 at my dwelling
 the lumped-together snow...
 foothills
-dawn--
+dawn—
 with snow I make
 Lord Buddha
 he rolls thin snow
 into a Buddha...
 the child
-ashamed--
+ashamed—
 even a child has made
 a snow Buddha
 the snow Buddha
@@ -27462,10 +27435,10 @@ it seems
 grow old
 at my gate, if you wish...
 snow Buddha
-naughty child--
+naughty child—
 instead of his chores
 a snow Buddha
-my snowball--
+my snowball—
 the horse
 ate it
 to the beat
@@ -27492,7 +27465,7 @@ winter seclusion
 in my winter seclusion
 line of sight...
 a little thicket
-winter seclusion--
+winter seclusion—
 some little pest nibbles
 my chrysanthemum
 come, sparrows!
@@ -27507,7 +27480,7 @@ mood
 more than enough
 for Priest Issa...
 one bag of coal
-morning's charcoal fire--
+morning's charcoal fire—
 the mountain's pine breeze
 wafting by
 whether upright
@@ -27522,7 +27495,7 @@ coal dust
 for one person
 it's more than enough...
 gathered charcoal
-Fukagawa--
+Fukagawa—
 one measure of charcoal too
 on the ferry
 good luck god
@@ -27546,13 +27519,13 @@ becomes charcoal
 the charcoal kiln's smoke
 puff by puff...
 tranquility
-charcoal kiln--
+charcoal kiln—
 the cherry tree becoming
 evening smoke
-charcoal kiln--
+charcoal kiln—
 the soon-to-be-cooked
 mountain cherry tree
-a charcoal kiln smokes--
+a charcoal kiln smokes—
 doesn't feel
 like Twelfth Month
 look, children!
@@ -27567,7 +27540,7 @@ pufferfish soup
 no pufferfish soup
 for the lackey...
 no view of Mount Fuji
-pufferfish soup--
+pufferfish soup—
 turning my back
 to Mount Hakone
 hey scops owl!
@@ -27582,7 +27555,7 @@ it's the 30th?
 coming to count
 my lap too...
 the wren
-the reed house--
+the reed house—
 even on the pillow
 a plover sings
 basking in the sun
@@ -27609,7 +27582,7 @@ singing plovers
 today too
 keeping perfectly quiet...
 little duck
-what a pity--
+what a pity—
 getting used to beans
 ducks and gulls
 at all the edges
@@ -27624,10 +27597,10 @@ face of the pufferfish
 among fallen leaves
 cool and aloof...
 storehouse
-solitude--
+solitude—
 under the fallen leaves
 my ancestors
-frost-killed grass--
+frost-killed grass—
 behind the wall
 Echigo mountains
 in the meshes
@@ -27636,7 +27609,7 @@ in bloom
 there's a house!
 a field full
 of daffodils
-low-lying village--
+low-lying village—
 at the outhouse, too
 daffodils
 borrowing the umbrella-hat
@@ -27648,7 +27621,7 @@ Tanjo Temple
 daffodils
 grow into the fence...
 Sumida River
-daffodils--
+daffodils—
 the old scarecrow
 seems busy
 Sir Samurai
@@ -27669,7 +27642,7 @@ pigeons, sparrows
 another year
 just taking up space...
 my life
-First Month--
+First Month—
 on the crossroads Buddha
 a red skullcap
 the brushwood fire's smoke
@@ -27681,7 +27654,7 @@ sky
 with that moon
 and its halo...
 spring has come
-hot bath steam--
+hot bath steam—
 it's become a moonlit
 night of spring
 at evening
@@ -27690,13 +27663,13 @@ the year's first sky
 a drab color
 but it's the year's
 first sky!
-facing fences--
+facing fences—
 just three feet wide
 the year's first sky
 among the pines
 just a piece of it but still...
 the year's first sky!
-row of pines--
+row of pines—
 in patches between trees
 the year's first sky
 praying the New Year's god
@@ -27708,10 +27681,10 @@ New Year's bonfire
 with a cheer
 my hut's New Year's decorations
 up in smoke
-foot of the mountain--
+foot of the mountain—
 without a cheer
 my New Year's bonfire
-this world of ours--
+this world of ours—
 so fast the bonfires
 burn out
 young grasses
@@ -27720,16 +27693,16 @@ my New Year's decoration
 fresh straw for the garden!
 a sparrow dances
 a black kite wheels
-fresh straw for the garden--
+fresh straw for the garden—
 about ten servants
 at work
 a present, a present
 a New Year's present!
 her pink cheeks
-my hut--
+my hut—
 all morning they come by
 for New Year's gifts
-Bancho Town--
+Bancho Town—
 after dinner flying
 a kite
 the big kite
@@ -27744,7 +27717,7 @@ picking herbs
 the child on her back
 points them out first...
 New Year's herbs
-young folk--
+young folk—
 even while picking my hut's herbs
 they sing
 tree by the gate
@@ -27765,7 +27738,7 @@ a long day
 holding a spear
 riding a horse...
 a long day
-hey lice--
+hey lice—
 crawl after the departing
 spring!
 a light snow
@@ -27801,16 +27774,16 @@ the willows!
 in the spring breeze
 my second pipe's
 smoke
-spring breeze--
+spring breeze—
 the great courtier
 poops in the field
-spring breeze--
+spring breeze—
 a little thicket, little festival
 little pilgrim
-spring breeze--
+spring breeze—
 on holy Jizo's lips
 a grain of rice
-spring breeze--
+spring breeze—
 packed with people
 the mountain temple
 rice cake with bean paste
@@ -27834,7 +27807,7 @@ hazy moon
 in the mist
 crows are rejoicing...
 nothing else
-misty evening--
+misty evening—
 out the back door too
 Yoshiwara
 a custom-made mist
@@ -27858,7 +27831,7 @@ mist
 in heat shimmers
 the cat snores
 deeply
-heat shimmers--
+heat shimmers—
 off the verandah tumbles
 the half-asleep cat
 the snow melting
@@ -27891,13 +27864,13 @@ clay dolls
 today
 even in the mountain hut
 rice cake for a doll
-thatched house--
+thatched house—
 on the doll's face dripping
 rain
 a shelf of dolls
 and pipe smoke...
 one scene
-remote village--
+remote village—
 they pound rice cakes
 for their dolls
 oh sake cup
@@ -27909,7 +27882,7 @@ lid on the sunken hearth
 even while yawning
 she keeps the tune...
 tea picking
-Shigaraki--
+Shigaraki—
 even the high priest sings
 a tea-picking song
 in the thicket
@@ -27930,7 +27903,7 @@ crow
 he plows his field
 an arm's length away...
 sea of grebes
-plowing the field--
+plowing the field—
 a shower of mountain
 cherry blossoms
 such yowling
@@ -27954,7 +27927,7 @@ and plump
 come! come here!
 digest your food
 baby sparrow
-temple visit--
+temple visit—
 don't choke on the pipe smoke
 baby sparrow!
 baby sparrow
@@ -27963,7 +27936,7 @@ sleeve
 "Come to the bamboo!
 Come to the plum tree!"
 mother sparrow calls
-flock of sparrows--
+flock of sparrows—
 and not one of them
 a stepchild
 coming to play
@@ -27978,7 +27951,7 @@ sewage canal
 in the nightingale's
 song, steam
 from the Buddha's rice
-nightingale--
+nightingale—
 only an off-the-cuff
 song
 the nightingale's
@@ -27987,22 +27960,22 @@ Kyoto's mountain
 the nightingale
 flitting about makes his living
 in the country
-nightingale--
+nightingale—
 just a run-of-the-mill
 face
-nightingale--
+nightingale—
 just a run-of-the-mill
 voice
-a nightingale--
+a nightingale—
 plum trees in the countryside
 should be blooming
-a nightingale--
+a nightingale—
 touring the countryside
 should be fun
 the nightingale
 doesn't bow...
 plum trees in bloom
-nightingales--
+nightingales—
 country accents, too
 in the morning sky
 a nightingale wipes
@@ -28014,22 +27987,22 @@ the town's far away
 sing! sing!
 off-key nightingale
 at my window
-Yamazaki--
+Yamazaki—
 the nightingale from the mountain, too
 a third-class guest
-my friend's widow--
+my friend's widow—
 a nightingale!
 a nightingale!
 dangling over
 the fresh-planted tree...
 a swallow
-wake up! wake up! my children--
+wake up! wake up! my children—
 swallows, pigeons
 sparrows
-swallows--
+swallows—
 these peach blossoms belong
 to you
-flying swallows--
+flying swallows—
 as if there's no turning back
 for them
 not much of a flyer
@@ -28041,7 +28014,7 @@ swallows
 before dinner
 off to Kyoto and back...
 swallows
-at my hut, first thing--
+at my hut, first thing—
 the healthy face
 of a swallow
 people call it
@@ -28080,7 +28053,7 @@ crying pheasant
 "Blossoms are falling!
 falling!" the pheasant's
 night cry
-Sir Whiskers gets an earful--
+Sir Whiskers gets an earful—
 on tiptoe
 the pheasant cries
 as if it just spotted
@@ -28095,7 +28068,7 @@ pheasants sing
 mountain pheasant
 are you calling the wife?
 scolding her?
-mountain pheasant--
+mountain pheasant—
 is that your wife-calling
 voice?
 how did the pine
@@ -28131,7 +28104,7 @@ little butterfly
 even the buck's antlers
 are a plaything...
 little butterfly
-butterflies flitting--
+butterflies flitting—
 the river laughing
 ha-ha-ha!
 a butterfly
@@ -28140,7 +28113,7 @@ Buddha's cheek
 crestfallen
 by the scattering blossoms...
 little butterfly
-flitting butterflies--
+flitting butterflies—
 thirty three thousand
 three hundred!
 my muddy foot
@@ -28173,10 +28146,10 @@ new grasses
 conquered
 by the young grasses...
 my hut
-new grass growing--
+new grass growing—
 a masterful
 leaf arrangement!
-lovely--
+lovely—
 even the meadow grasses
 hit their peak young
 on their way to becoming
@@ -28200,7 +28173,7 @@ camellias
 I call dibs
 on the red ones!
 plum blossoms
-plum blossom scent--
+plum blossom scent—
 a hazy memory
 of my granny's house
 the village of nondrinkers
@@ -28212,22 +28185,22 @@ plum blossoms
 the valley's plum trees
 in a flash deign
 to bloom
-my home village--
+my home village—
 a wrinkled old woman's
 plum blossoms
-mountain village--
+mountain village—
 a stroke of rare luck
 these plum blossoms!
 I'm the type
 who'd rather have dumplings
 than blossoms
-my dear one's hut--
+my dear one's hut—
 lost amid blooming
 blossoms
 no favorite
 blossoming tree's shade
 for me
-little thief--
+little thief—
 from deep in the blossoms
 he comes
 in scattering blossoms
@@ -28239,7 +28212,7 @@ holy man
 even blossom viewing
 becomes a chore...
 growing old
-mountain village--
+mountain village—
 a temporary toilet
 in blossom shade
 like me
@@ -28263,7 +28236,7 @@ old cherry tree
 this corrupt world
 plastered
 with cherry blossoms
-cherry trees in bloom--
+cherry trees in bloom—
 oh great Japan!
 Japan!
 though less
@@ -28281,13 +28254,13 @@ blooming cherry tree
 hearing people's voices
 they blush...
 evening cherry blossoms
-leisure time--
+leisure time—
 in cherry blossom shade
 picking fights
 the lost child
 clutches them tightly...
 cherry blossoms
-remote province--
+remote province—
 even in a haunted place
 cherry blossoms
 peach tree, willow tree
@@ -28302,7 +28275,7 @@ enough to fill my belly
 lord of the mountain's
 cherry blossoms...
 stone Buddha
-evening--
+evening—
 even for a poor prayer "Praise Buddha!"
 cherry blossoms scatter
 the sleeping puppy
@@ -28335,10 +28308,10 @@ sparrow
 my nights of carousing
 over so soon!
 so soon!
-short summer night--
+short summer night—
 for seventeen years
 one long sleep
-moving clouds--
+moving clouds—
 step by step, so soon
 the dawn
 one blade of grass
@@ -28353,13 +28326,13 @@ outhouse
 the cool breeze
 slips in slantwise...
 my house
-cool air--
+cool air—
 even for the dirt farmer
 hot bath steam
-old thicket--
+old thicket—
 the source of the cool
 evening wind
-evening cool--
+evening cool—
 tossing water on the
 horse's rump
 becoming demons
@@ -28374,7 +28347,7 @@ crow
 on one boat
 all the wildflowers!
 Fifth Month rain
-all too often--
+all too often—
 the cloudburst just
 a spurt
 from the west
@@ -28383,10 +28356,10 @@ cloudbursts taking turns
 sunset
 takes the cloudburst's
 place
-rainstorm--
+rainstorm—
 the three-penny flower too
 trembles
-rainstorm--
+rainstorm—
 waking up alone
 on a little pine island
 now the cloudburst
@@ -28398,7 +28371,7 @@ billowing clouds
 one by one
 they rise and form...
 peaks of clouds
-cool air--
+cool air—
 cloud mountain peaks
 and hills
 "Look! that cloud
@@ -28407,16 +28380,16 @@ the crow caws
 one breeze
 reaches the cellar...
 summer moon
-summer mountain--
+summer mountain—
 a world
 of flowerless vines
-summer mountain--
+summer mountain—
 a flower even Buddha
 would hate
 straw sandals for sale
 hang in the pine...
 pure water over moss
-the stingy farmer's rice field--
+the stingy farmer's rice field—
 the first
 to turn green
 three men
@@ -28425,7 +28398,7 @@ green rice field
 lording over four
 or five rice plants...
 my house
-a good omen--
+a good omen—
 the green rice field's master
 crawl outs
 firefly, are you planning
@@ -28437,7 +28410,7 @@ plucked summer flowers
 cloud and fog
 move aside! voices
 descend Mount Fuji
-cool air--
+cool air—
 just five feet tall
 this Mount Fuji!
 because it's Mount Fuji
@@ -28470,7 +28443,7 @@ my new summer robe
 like everyone else
 I change to summer garb...
 linen robe
-row of houses--
+row of houses—
 sticklers for propriety
 in their new summer robes
 even he loses
@@ -28479,7 +28452,7 @@ new summer robe
 called a crybaby
 she starts crying...
 summer kimono
-western mountains--
+western mountains—
 in summer kimono
 trusting in the gods
 feeling chilly
@@ -28506,7 +28479,7 @@ fans fanning
 it crawls
 to the sparrows' bed too...
 smudge pot smoke
-airing out the bedding--
+airing out the bedding—
 he's blown away, still singing
 katydid
 it's time to go
@@ -28515,7 +28488,7 @@ cool air at the gate
 she shaves a side of his head
 while he nurses...
 cool evening
-mother cools off--
+mother cools off—
 the Buddhist temple's
 festive sash
 in a remote village
@@ -28527,13 +28500,13 @@ rice planter
 partaking
 of the cloudburst...
 a fawn
-bats are flying--
+bats are flying—
 let's go, then
 to Ryogoku Bridge!
-mother bird molting--
+mother bird molting—
 her babies hide
 when she calls
-molting birds--
+molting birds—
 which one is father?
 mother? child?
 through the great red gate
@@ -28587,10 +28560,10 @@ fireflies flitting
 come, firefly!
 on one blade of grass
 evening dew
-first firefly--
+first firefly—
 the sky over Kyoto
 is smoggy!
-people's voices--
+people's voices—
 with all their might
 the fireflies flit
 in the Old Quarter
@@ -28599,7 +28572,7 @@ fireflies
 through a hole
 in the mosquito swarm...
 Kyoto
-mosquito swarm--
+mosquito swarm—
 even you
 have a narrow home
 without the column
@@ -28632,22 +28605,22 @@ cheek
 the chirring of summer cicadas
 this world
 of luxury!
-first cicada--
+first cicada—
 on the horse's head
 a quick song
 little snail
 look! look!
 at your shadow
-little snail--
+little snail—
 for the red flower
 not even a glance
 look! they've lined up!
 little bean-sized
 snails
-dayflowers--
+dayflowers—
 even for the dirt farmer
 hot bath steam
-dayflowers--
+dayflowers—
 a loincloth airing
 on a post
 kept cool
@@ -28656,7 +28629,7 @@ my pillow
 in the soup bowl
 suddenly the moonflower's
 glow
-moonflowers--
+moonflowers—
 for the festival guest too
 a straw mat
 even the cat
@@ -28695,7 +28668,7 @@ ripened barley
 lording over
 the black barley ears...
 village dragonflies
-ears of barley--
+ears of barley—
 with back-breaking effort
 the little butterfly
 moss is blooming!
@@ -28740,16 +28713,16 @@ potted tree
 fresh leaves again
 make it hateful...
 nettle tree
-home village--
+home village—
 my summer grove is small
 but it's mine!
 the astringent persimmon tree's
 reluctant
 blossoms
-deutzia shrub--
+deutzia shrub—
 among gods and beggars
 it blooms
-deutzia blossoms--
+deutzia blossoms—
 a big festival
 in beggar-town
 the deutzia blossoms
@@ -28776,7 +28749,7 @@ the cold night
 spoonbill, you walk
 through that water
 like it's chilly!
-cactuses--
+cactuses—
 a facelessly dull
 autumn evening
 outdoor kabuki
@@ -28809,13 +28782,13 @@ autumn dusk
 stretching my legs
 toward Musashi Plain...
 autumn dusk
-rain shower--
+rain shower—
 for granny's evergreen too
 autumn dusk
 flowing in the hut's
 gate...
 the Milky Way
-my stars--
+my stars—
 a gang of old men
 in the Milky Way
 Mokubo Temple
@@ -28824,13 +28797,13 @@ tonight's moon
 only half there
 but still the harvest moon!
 harvest moon!
-autumn wind--
+autumn wind—
 sawing the teeth of a comb
 a hermit
-autumn wind--
+autumn wind—
 the loafer's blank
 expression
-autumn wind--
+autumn wind—
 the mountain's shadow
 is trembling
 the autumn wind
@@ -28854,16 +28827,16 @@ tomorrow's dewdrops
 the silver dew
 becoming round, this too
 takes work!
-silver dewdrops--
+silver dewdrops—
 beggar-town has festival
 guests
-silver dewdrops--
+silver dewdrops—
 with a bellyful of tea
 crossing Mount Utsu
 simply trust! trust!
 dewdrops spilling
 down
-dewdrops scatter--
+dewdrops scatter—
 today, too,
 sowing hell seeds
 not at all aware 
@@ -28872,7 +28845,7 @@ is fading...
 a good world?
 dewdrop
 dribbling down
-thick-grown weeds--
+thick-grown weeds—
 among dewdrops a miller
 singing
 lightning strikes!
@@ -28884,7 +28857,7 @@ Buddha!
 the lightning
 powerless to strike it...
 thatched hut
-lightning flash--
+lightning flash—
 his absentminded
 expression
 the morning mist
@@ -28896,7 +28869,7 @@ morning fog
 pouring out
 the hanging temple bell...
 fog
-mountain fog--
+mountain fog—
 the gargoyle demon
 devours it
 the great god's
@@ -28914,10 +28887,10 @@ field of flowers
 at the ancestors' altar
 a grandchild's laughter
 offered up
-ancestors' altar--
+ancestors' altar—
 in the seat of honor
 a katydid chirrs
-"Marvelous Law" written in fire--
+"Marvelous Law" written in fire—
 but a black spot
 a crow
 do you celebrate
@@ -28926,7 +28899,7 @@ rustling mulberry leaves
 on Tanabata Night
 hidden it blooms...
 maiden flower
-Tanabata Night--
+Tanabata Night—
 straight from the heavens
 maiden flowers
 the treasured child's
@@ -28962,7 +28935,7 @@ a scarecrow
 absent-minded
 I'm the scarecrow's
 replacement
-scarecrows standing--
+scarecrows standing—
 three, four, five, six
 houses for rent
 inspecting the red leaves
@@ -28977,13 +28950,13 @@ scarecrow
 at evening's bell
 the fields are crowded...
 with scarecrows!
-rain falls--
+rain falls—
 a night for pounding
 the monk's rough clothes
 stirring the potato vine
 from behind...
 cloth-pounding
-night on Mount Uji--
+night on Mount Uji—
 wooden temple drums
 and evening cloth-pounding
 the dog too
@@ -28992,7 +28965,7 @@ pounding cloth
 in the tree by the gate
 a widow crow...
 evening cloth-pounding
-Tama River--
+Tama River—
 in the temple's cool evening
 pounding cloth
 hush, pigeon!
@@ -29007,7 +28980,7 @@ spring chicken
 if you were human
 you could be about fifty...
 mating deer
-a shrike's voice--
+a shrike's voice—
 did your bag of patience
 break?
 green insect
@@ -29028,7 +29001,7 @@ is singing
 running away
 snatching a bite of melon...
 katydid
-gambling in the field--
+gambling in the field—
 in the pot
 a katydid!
 the sparrows
@@ -29049,7 +29022,7 @@ weeps
 for the prize-winning
 chrysanthemum, a gift
 of rice cake
-a victory shout--
+a victory shout—
 the old man's chrysanthemum
 has won!
 trusting the dog
@@ -29091,7 +29064,7 @@ heads of rice
 beckoning the lightning bolt
 to strike...
 plume grass
-heads of the rushes--
+heads of the rushes—
 in such a place
 such a house!
 the blowing rushes
@@ -29100,7 +29073,7 @@ dancing
 some folks weave
 and wear it...
 cotton of the rushes
-sunset--
+sunset—
 she calls for her child
 in the blooming rushes
 adding its darkness
@@ -29118,7 +29091,7 @@ a tea ceremony
 Twelfth Month
 29th day
 a tea ceremony
-winter solstice in Japan--
+winter solstice in Japan—
 plum trees
 in bloom!
 on honorable Buddha's
@@ -29151,7 +29124,7 @@ winter rain
 tucking in
 the blind priest...
 winter rain
-winter rain--
+winter rain—
 too many strings bend
 the chrysanthemum
 forecasting the mountain
@@ -29178,16 +29151,16 @@ Sumida River
 the first snowfall
 didn't happen...
 my house
-first snowfall--
+first snowfall—
 someone has entered
 the outhouse
-first snow--
+first snow—
 a priest chants
 his morning prayer
 the big chrysanthemum
 wears a straw hat...
 morning snow
-my world--
+my world—
 rice pounding echoes
 over evening snow
 he's holding one
@@ -29199,7 +29172,7 @@ this morning's snow
 snow falls on the mountain
 my ears
 are ringing
-just now it fell--
+just now it fell—
 "A hailstone!" cries the toddler
 Over there!"
 no luck
@@ -29217,34 +29190,34 @@ plum blossoms
 on Dharma's Death-Day
 spouting gibberish...
 a plover
-Dharma's Death-Day--
+Dharma's Death-Day—
 with a broom I draw
 Mount Fuji
-red bean gruel--
+red bean gruel—
 even on the Patriarch's Death-Day
 snow falling
-this day--
+this day—
 even stirring gruel
 is a prayer!
 even pigeons
 line up for their share...
 Patriarch's gruel
-great Patriarch--
+great Patriarch—
 even unbelievers
 get his gruel
 don't wake up
 the nightingale!
 a monk beating his bowl
-Buddha's Enlightenment Day--
+Buddha's Enlightenment Day—
 for me the same
 skin and bones
-winter voice drills--
+winter voice drills—
 he looks like he swallowed
 Mount Fuji!
-a good rain--
+a good rain—
 today's the day to unseal
 the new tea
-secluded house--
+secluded house—
 for the dog and all humans
 soot sweeping
 the soot sweeping
@@ -29286,7 +29259,7 @@ winter quilt
 grains of rice
 pecked by birds...
 my futon
-my province--
+my province—
 the children also make
 snow Buddhas
 blocked with her
@@ -29295,7 +29268,7 @@ snowball
 wiping charcoal
 from hands to post...
 the old man
-charcoal kiln--
+charcoal kiln—
 a glimpse of a village
 through the smoke
 in the red bowl
@@ -29304,7 +29277,7 @@ buckwheat noodles
 sitting cross-legged
 a monkey joins too...
 pufferfish soup
-slurping pufferfish soup--
+slurping pufferfish soup—
 behind me
 Cape Izu
 even the painted devil
@@ -29322,7 +29295,7 @@ wren?
 smoke from brushwood
 is rising...
 play little wrens!
-pooping in the field--
+pooping in the field—
 avert your eyes
 little wren!
 imitating the sleep talk
@@ -29337,13 +29310,13 @@ a plover
 a good windbreak
 for the waterfowl...
 Mount Tsukuba
-waterfowl--
+waterfowl—
 in today's floating world
 half-asleep
 the more you look at it
 the more sour the face...
 pufferfish
-float, sea slug--
+float, sea slug—
 Buddha's law permeates
 this world!
 not a devil
@@ -29358,22 +29331,22 @@ pointing the way
 any grass serves
 as the dog's toilet...
 red leaves falling
-winter withering--
+winter withering—
 on a pile of rice bags
 the crow caws
 in winter's withering
 all five hundred, sing!
 mountain crows
-stand of trees--
+stand of trees—
 my head too
 withered and bare
 even you, wolf
 go out dressed in a robe...
 Year of the Dog
-New Year's god--
+New Year's god—
 once again I rely
 on your help
-Mankind's Day--
+Mankind's Day—
 from the main temple
 the steam of bodies
 the sacred kite
@@ -29394,16 +29367,16 @@ tears
 picking veggies
 with a paper lantern...
 spring rain
-perfect calm--
+perfect calm—
 Shinran's pine
 in the spring rain
-spring rain--
+spring rain—
 gone vegetable-picking
 with a little lantern
-spring breeze--
+spring breeze—
 a fresh-made moon
 over the mountain
-spring breeze--
+spring breeze—
 even while digging a garden
 oils gushes out
 from the mist
@@ -29412,7 +29385,7 @@ emerge
 today too
 spent stuffing my face...
 spring mist
-earthen bridge--
+earthen bridge—
 I stand pissing
 in morning mist
 planting vegetables
@@ -29424,46 +29397,46 @@ he sleeps
 in heat shimmers
 "Give back my child!"
 a sparrow sings
-heat shimmers--
+heat shimmers—
 at the fox's hole
 red beans and rice
-heat shimmers--
+heat shimmers—
 in the threshold crushing
 hair lice
 a cat in heat shimmers
 also follows
 the God of Wandering
-heat shimmers--
+heat shimmers—
 even horse dung
 becomes money
-little straw mat--
+little straw mat—
 coins, offered branches
 heat shimmers
 morning and night
 bullied about...
 leftover snow
-the last snow pile--
+the last snow pile—
 even the sparrows
 make fun of it
-such is life--
+such is life—
 the gate's snow is forced
 to melt
-my hut--
+my hut—
 the poverty-hiding snow
 melts away
-my gate--
+my gate—
 the neighborhood's
 snow dump
 my snow too
 entrusted to join
 Chikuma River
-Buddha's Death-Day--
+Buddha's Death-Day—
 gently blowing pinks
 and maiden flowers
 the face of Buddha
 on his Death-Day
 watching the coins
-spring blossoms--
+spring blossoms—
 even in a farmhouse
 Amida Buddha on display
 even the candy stand
@@ -29472,7 +29445,7 @@ the Founder's image
 the festive jelly
 is prayed to too...
 the Founder's image
-Founder's image on display--
+Founder's image on display—
 even the thief cat
 in blossom shade
 well, well
@@ -29481,7 +29454,7 @@ the laid-off servant
 one migrating servant
 rides a palanquin...
 Kyoto
-a laid-off servant at market--
+a laid-off servant at market—
 his fifty year-old face
 exposed
 what do you think
@@ -29493,10 +29466,10 @@ the doll
 clay dolls too
 are gathering today...
 festival
-my world--
+my world—
 those herbs over yonder
 become my cake
-herb cakes--
+herb cakes—
 inside the mixing tub
 a croaking frog
 in a pine tree
@@ -29514,7 +29487,7 @@ digs with a plow
 the love-crazed cat
 listens
 to my scolding
-love-struck cat--
+love-struck cat—
 down into Wolf Valley
 he goes
 they stop sniffing
@@ -29538,7 +29511,7 @@ sparrows in the eaves
 at my humble hut
 he begs for a present
 a baby sparrow
-my humble hut--
+my humble hut—
 with baby sparrows
 underfoot
 baby sparrow
@@ -29550,19 +29523,19 @@ starts cheeping
 chirping for the rice
 on my cheek...
 baby sparrow
-behind the house--
+behind the house—
 this nightingale
 these cherry blossoms
-nightingale--
+nightingale—
 his rain-drenched
 morning voice
-nightingale--
+nightingale—
 this voice for this
 mountain home
-nightingale--
+nightingale—
 not neglecting even a house
 without blossoms
-nightingale--
+nightingale—
 how many hundreds of songs
 before you eat?
 keeping a steady eye
@@ -29581,7 +29554,7 @@ hey swallows!
 for my thin, rising smoke
 congratulate me first
 from great hell
-and from little hell--
+and from little hell—
 skylarks
 sticking to the thicket
 where she left her children...
@@ -29646,7 +29619,7 @@ flits
 borrowing an antler
 the little butterfly
 rests
-a butterfly flits--
+a butterfly flits—
 even in grassy shade
 a hot bath's ready
 the flute-playing servant
@@ -29676,19 +29649,19 @@ mouse on tiptoe
 on the flowering mustard
 plop! sits
 the frog
-flowering mustard--
+flowering mustard—
 the sparrows play
 with the mouse
 on flowering mustard
 sitting so lightly...
 a mouse
-my hut--
+my hut—
 atop the stems
 of flowering mustard
 lying on her back
 sucking on the dangling
 wisteria
-land of vegetables--
+land of vegetables—
 a teahouse with blooming
 wisteria
 creeping through
@@ -29698,7 +29671,7 @@ from a wisteria trellis
 nook I see...
 great Edo
 wisteria blossoms
-"Praise Ah... Ah...!"
+"Praise Ah...Ah...!"
 they rustle
 the plum tree at my gate
 though reluctantly
@@ -29721,13 +29694,13 @@ clouds of blossoms
 day after day
 more and more poop...
 blossoming mountain
-cherry blossoms--
+cherry blossoms—
 even for a poor "Praise Buddha!"
 a shower of coins
-cherry blossoms--
+cherry blossoms—
 since the day
 Amida became Buddha
-scattering blossoms--
+scattering blossoms—
 money is collected
 Buddha on display
 even popeyed Emma
@@ -29748,16 +29721,16 @@ cherry blossoms!
 a hot bath
 a prayer
 then cherry blossoms!
-Yoshino Hill--
+Yoshino Hill—
 not a single cherry blossom
 with a flaw
-vacant temple--
+vacant temple—
 cherry trees blooming
 industriously
 becoming snakes
 practicing their wriggle...
 branches of willow
-he'll soon find out--
+he'll soon find out—
 he who says
 "Nights are short!"
 the short summer night
@@ -29766,7 +29739,7 @@ mountain
 "What a short summer night!"
 the nettle tree
 scolds
-short summer night--
+short summer night—
 under a tree, on a stone
 priests
 fear not!
@@ -29781,7 +29754,7 @@ the heat
 a butterbur leaf
 pops open a hole...
 the heat
-cool breeze--
+cool breeze—
 he yawns in the hot
 healing bath
 the cool breeze
@@ -29790,31 +29763,31 @@ arrives
 the cool breeze
 through my neighbor's pine
 just a remnant
-cool breeze--
+cool breeze—
 on the cloud's outskirts
 a little village
 the so-called
 "cool evenings" of summer...
 soon to be over
-cool air--
+cool air—
 even in my soup
 Mount Fuji!
-cool air--
+cool air—
 for the great lord's
 gatekeeper
-cool air--
+cool air—
 bath steam and rice field
 stirring
 this cool air comes
 from Amida Buddha's
 direction!
-evening cool--
+evening cool—
 visiting Ueno Hill
 wears me out
-swift-footed it flees--
+swift-footed it flees—
 cloudburst!
 cloudburst!
-soup bucket--
+soup bucket—
 the summer cloudburst
 has passed
 watching the downpour
@@ -29829,19 +29802,19 @@ splishing, splashing!
 even the cloudburst
 shows the facing mountain
 favoritism
-rainstorm--
+rainstorm—
 two drops for the rice cake tub
 three drops for the winnow
-my lovemaking--
+my lovemaking—
 Mount Tsukuba's clouds
 bursting!
-green hedge--
+green hedge—
 a frog cheers
 the billowing clouds
 today again
 they're putting on a show...
 billowing clouds
-billowing clouds--
+billowing clouds—
 toward the big drums
 bring your rain
 like little dots
@@ -29850,7 +29823,7 @@ little clouds
 toward my line of sight
 standing in a row...
 cloud billows
-wind on the greenery--
+wind on the greenery—
 a row of shrubs
 for sale
 arms and legs spread wide
@@ -29859,7 +29832,7 @@ pure water
 from the shade
 of the poison plant...
 pure water
-my home village--
+my home village—
 from my walking stick's hole
 pure water gushes
 your rice field
@@ -29883,25 +29856,25 @@ new summer robe
 growing weary
 of the diet...
 my new summer robe
-growing old--
+growing old—
 even a dog won't sniff
 my summer kimono
-summer kimono--
+summer kimono—
 a present for my bride
 in Shinano
-summer kimono--
+summer kimono—
 the rain kindly
 washes it
 tomorrow's wind
 blows tomorrow...
 in my mosquito net, alone
-Osaka--
+Osaka—
 on the back of an ox
 a siesta
 in the darkness
 swishing, swishing...
 paper fan
-softly snoring--
+softly snoring—
 the cat curled up
 on the fan
 after getting it
@@ -29937,7 +29910,7 @@ a cool evening
 massaging my back
 with the pine tree's gnarl...
 evening cool
-evening cool--
+evening cool—
 with my feet counting
 Echigo mountains
 scowling
@@ -29946,7 +29919,7 @@ gargoyle
 my rice field too
 song by song
 is planted
-rice-planting song--
+rice-planting song—
 let everyone's anger
 be cured!
 in the thicket shade
@@ -29991,7 +29964,7 @@ cuckoos
 lighting my pipe
 with a candle...
 "cuckoo!"
-Kakizaki--
+Kakizaki—
 with a stammering song
 the mountain cuckoo
 the mountain cuckoo sings
@@ -30048,7 +30021,7 @@ firefly
 in an old bucket
 rice plants rustle
 fireflies flit
-firefly's light--
+firefly's light—
 flitting through my hut
 forms a cross
 guiding the way
@@ -30060,7 +30033,7 @@ Goddess Kannon
 my home
 a bit too cramped...
 departing firefly
-my home--
+my home—
 surveying its flaws
 a firefly
 mosquito larvae too
@@ -30081,31 +30054,31 @@ on the nettle tree
 from the pale red flower
 a cicada
 is born!
-mute cicada--
+mute cicada—
 he, too, perfectly
 at peace
-little monk--
+little monk—
 deep in his sleeve
 singing, a cicada
 drenched
 by a rain shower
 the cicada's voice
-Sumiyoshi--
+Sumiyoshi—
 growing up together
 the cicadas sing
-cool breeze--
+cool breeze—
 growing up together
 the cicadas sing
 cicadas singing
 it's a contagious
 disease
-a cicada chirrs--
+a cicada chirrs—
 in the soon-to-be cut
 pine tree
-cicadas chirr--
+cicadas chirr—
 cocoons are drying up
 drying up
-a cicada chirrs--
+a cicada chirrs—
 then flies in a flash
 up my sleeve
 first cicada
@@ -30132,10 +30105,10 @@ poppies
 this world
 bristles with thorns...
 yet there are lotuses
-leftover rice plants--
+leftover rice plants—
 even the horse
 won't gobble them
-leftover rice plants--
+leftover rice plants—
 even the horse
 won't trample them
 over me
@@ -30147,13 +30120,13 @@ bamboo shoots
 one by one
 the tall bamboo shoots
 bending
-bamboo shoots--
+bamboo shoots—
 big brothers, little brothers
 swish, swish!
-blind luck--
+blind luck—
 bamboo shoots sprout
 where they sprout
-my hut--
+my hut—
 a creek serves
 as my melon cooler
 the temple guard
@@ -30183,13 +30156,13 @@ a cold night
 by the next room's lamplight
 eating my rice...
 a cold night
-old habit--
+old habit—
 the cold nights of Kiso
 on my knees
 my knees
 this cold night in the mountains
 feel older
-a flute plays--
+a flute plays—
 suddenly night's coldness
 begins
 feeling for parched beans
@@ -30204,13 +30177,13 @@ a cold night
 walking off
 a bellyful of rice cakes...
 a cold night
-my hut--
+my hut—
 moving from back to front
 night's coldness
 the little monkey
 chews on a pipe...
 autumn dusk
-sleeping mat--
+sleeping mat—
 blowing pipe smoke
 at the Milky Way
 consider this rubbish heap
@@ -30219,22 +30192,22 @@ autumn moon
 scolding
 vain man...
 the autumn moon
-hole in the wall--
+hole in the wall—
 my harvest moon
 comes in
 harvest moon
 and looking west
 Zenko Temple!
-harvest moon--
+harvest moon—
 even islands without pines
 add to the head-count
-broken wall--
+broken wall—
 my harvest moon's
 grand entrance
-though the autumn wind blows--
+though the autumn wind blows—
 still
 lazy
-autumn wind--
+autumn wind—
 also behind me
 Mount Usori
 vain mankind!
@@ -30255,16 +30228,16 @@ the crow's summons
 become pearls
 great big pearls!
 morning dew
-lightning flash--
+lightning flash—
 the astonished face
 of the dog
-lightning flash--
+lightning flash—
 running like hell
 to Zenko Temple
 my dog
 turns a somersault...
 field of flowers
-horse-shaped melon--
+horse-shaped melon—
 "Gimme! Gimme!" cries
 the crying child
 the child on her back
@@ -30288,13 +30261,13 @@ Bon Festival rice
 lit by a bonfire
 for the dead...
 Sumida River
-evening moon--
+evening moon—
 in the cool air
 visiting graves
 night of dancing
 Bon Festival, just today
 and tomorrow
-awaiting the stars--
+awaiting the stars—
 does the grown man
 feel young again?
 veiling the face
@@ -30312,7 +30285,7 @@ thatched hunting hut
 from plume grass
 has it arisen?
 Mount Fuji
-building a hunting hut--
+building a hunting hut—
 in the thatch a katydid
 sings
 looking trendy
@@ -30339,7 +30312,7 @@ Mount Fuji
 flowering plume grass
 even shaped as a hunting hut...
 is inviting
-thatched hunting huts--
+thatched hunting huts—
 in the mood
 for Mount Fuji
 in Kamakura
@@ -30348,10 +30321,10 @@ sacred rice cakes
 the monk's rough clothes
 pounded
 with a purpose
-evening cloth-pounding--
+evening cloth-pounding—
 my wife's tea cakes
 are huge!
-life in the mountains--
+life in the mountains—
 even priests
 pound cloth in the evening
 at my hut too
@@ -30360,7 +30333,7 @@ cloth
 wild goose without companions
 come! come!
 to shelter
-autumn's first geese--
+autumn's first geese—
 my rice field too
 is five or six feet!
 begging at my gate
@@ -30372,7 +30345,7 @@ insect chorus
 insects sing, fly
 here and there...
 "just for us"
-a cicada chirrs--
+a cicada chirrs—
 there! and there!
 stars appear
 resting
@@ -30384,10 +30357,10 @@ horse dung
 the katydid
 has given his cage
 the slip
-little straw mat--
+little straw mat—
 on the mountain of millet
 katydid
-my humble hut--
+my humble hut—
 it's turned tea-brown
 the katydid
 the praying mantis
@@ -30405,13 +30378,13 @@ or style
 in the morning-glories
 peeking out...
 a mouse
-sleeping mat--
+sleeping mat—
 pipe smoke wafts over
 the maiden flowers
 in my home village
 they're used to poverty...
 maiden flowers
-blooming bush clover--
+blooming bush clover—
 hiding from the child
 a deer's face
 beckoning
@@ -30423,7 +30396,7 @@ red leaves
 persimmon leaves
 turn Buddha-colored...
 then fall
-my province--
+my province—
 for the Buddha of the thicket
 first cotton boll
 at my gate the cat
@@ -30432,13 +30405,13 @@ chestnuts!
 first winter month
 tenth day...
 sleeping late
-first winter month--
+first winter month—
 from behind Senso Temple
 I pray
 sleeping in a ball
 on a winter's night...
 my little nook
-back door--
+back door—
 pissing scribbles
 in the first ice
 the lucky mouse
@@ -30453,7 +30426,7 @@ winter moon
 an old man's
 clogs clacking too...
 winter moon
-cold moon--
+cold moon—
 the wild geese also pray
 to Kompira
 my tea-boiled rice
@@ -30474,22 +30447,22 @@ winter rain
 winter rain falls
 on Kamakura's residents...
 geeses, gulls
-come in, winter rain--
+come in, winter rain—
 from the corner two doors down
 my hut
 Mount Uzu
 facing the winter wind
 drinks it in
-winter wind--
+winter wind—
 he shoulders a musket
 and a short sword
-mud-dumplings--
+mud-dumplings—
 today too, winter wind!
 winter wind!
 just for me
 a storm, winter wind
 and hail
-these thin legs--
+these thin legs—
 winter storm winds
 a sickle moon
 the backstreet
@@ -30510,13 +30483,13 @@ hailstones
 first frost on the grass
 gets a dash...
 sacred sake
-first frost--
+first frost—
 a woman's voice
 recites a prayer
-first frost--
+first frost—
 flower sellers in a row
 hitting their bells
-first frost--
+first frost—
 the smiling face
 of the tea master
 "Frost has formed!"
@@ -30525,25 +30498,25 @@ then pisses
 a big rosary
 'round his neck...
 withered fields
-withered fields--
+withered fields—
 with rice bag on her head
 she runs
 black kites reeling
 reeling in the sky...
 the gods depart
-morning moon--
+morning moon—
 the God of Wealth's food pile
 hides it
-God of Wealth Festival--
+God of Wealth Festival—
 also going in, going out
 rows of pigeons
-Old Quarter--
+Old Quarter—
 food for the God of Wealth
 in mist
-darkening dusk--
+darkening dusk—
 even in yonder thicket
 a Shinto dance
-Shinto dance at night--
+Shinto dance at night—
 red leaves fall
 into the bonfires
 come! come!
@@ -30552,7 +30525,7 @@ bowl-beater
 I unseal the new tea
 celestial geese
 hurry on
-winter rain--
+winter rain—
 time to unseal
 the new tea!
 praise Basho!
@@ -30567,16 +30540,16 @@ winter quilt
 guard over haiku
 I beseech you!
 snow Buddha
-first snow--
+first snow—
 even a lump of it
 is Buddha
-snow Buddha--
+snow Buddha—
 my handprint too
 is something to cherish
 sparrows gather
 and cheer...
 my snow Buddha
-first snowfall--
+first snowfall—
 it too
 becomes Buddha
 funny
@@ -30597,7 +30570,7 @@ paper door
 even the charcoal kiln
 invariably
 has neighbors
-straight up--
+straight up—
 the smoke of Holy Gohei's
 charcoal kiln
 snap and crackle
@@ -30612,7 +30585,7 @@ singing plover
 trampling my roof thatch
 to pieces...
 plovers!
-plovers on a winter night--
+plovers on a winter night—
 not an old voice
 among them
 hoarse-voiced plover
@@ -30642,10 +30615,10 @@ the same withering
 among the withered
 chrysanthemums...
 brazen sparrows
-fallen leaves--
+fallen leaves—
 a chrysanthemum blooms
 wretchedly
-grassy thicket--
+grassy thicket—
 what karma lets
 the chrysanthemum survive?
 the plume grass
@@ -30666,7 +30639,7 @@ blossoming spring
 at my house
 born with ease...
 spring blossoms
-New Year's decorations--
+New Year's decorations—
 the night I burn them
 I cheer
 snow falls
@@ -30690,7 +30663,7 @@ a little village
 hugging his kite
 he sleeps
 deep and calm
-in one sky--
+in one sky—
 grand imperial kites
 and little kites
 a wastepaper kite
@@ -30699,7 +30672,7 @@ Lord Kaga!
 before the gate
 the kite-snagging nettle tree...
 a thousand ages old!
-dancing monkey--
+dancing monkey—
 its face also
 isn't weary
 in my province
@@ -30711,10 +30684,10 @@ offer prayers!
 melting to the tune
 of the New Year's singer...
 snow at the gate
-the way things are--
+the way things are—
 in my do-nothing house
 the day is long
-growing old--
+growing old—
 even the long day
 brings tears
 in the long day
@@ -30735,10 +30708,10 @@ spring departs
 over the just-spread
 sawdust...
 spring snow
-spring snow--
+spring snow—
 on fresh-laid reeds
 it falls
-spring snow--
+spring snow—
 not a single face
 without a fan
 the first blessing
@@ -30747,13 +30720,13 @@ spring rain
 splish-splash
 the cat washes in the river...
 spring rain
-spring rain--
+spring rain—
 he catches my yawn
 dog at the gate
-spring breeze--
+spring breeze—
 her sleeves rustle over
 Mount Matchi
-spring wind--
+spring wind—
 the writing brush rolls away
 in the field
 the thief
@@ -30765,19 +30738,19 @@ morning mist
 vanishing
 in the heat shimmers...
 my humble hut
-heat shimmers--
+heat shimmers—
 shaped like a cross
 the leftover snow
-young folk--
+young folk—
 even melting snow
 is fun, no?
-rice seedlings--
+rice seedlings—
 a little family watches
 the evening rain
 rice-seedling beds
 with no unevenness...
 can't be found
-herb cakes--
+herb cakes—
 cherry blossoms sprinkled
 on top
 my intrepid guide
@@ -30816,7 +30789,7 @@ moves on
 the nightingale watching
 watching the gamblers...
 sings
-nightingale's breakfast--
+nightingale's breakfast—
 only for this
 it sang
 the nightingale toils
@@ -30828,16 +30801,16 @@ they gamble
 to Kitano
 every morning, the nightingale's
 pilgrimage
-nightingale--
+nightingale—
 you still haven't lost
 your Kiso accent
 a nightingale arrives
 unexpectedly...
 gamblers
-nightingale--
+nightingale—
 even while pooping, sings
 Lotus Sutra
-nightingale--
+nightingale—
 if your throat gets dry
 there's Sumida River
 nightingale
@@ -30855,19 +30828,19 @@ a lark is singing
 the clam too
 opens wide...
 a lark is singing
-Musashi Plain--
+Musashi Plain—
 while he poops entertained
 by a lark
-sermon in the field--
+sermon in the field—
 the priest's wide-open mouth
 a pheasant's voice
 a mountain pheasant
 ruffling my sleeve
 runs away
-departing geese--
+departing geese—
 how many times have you seen
 Mount Asama's smoke?
-departing geese--
+departing geese—
 how many times have you seen
 blossom-filled Edo?
 goose, wild goose
@@ -30939,13 +30912,13 @@ evening frog
 chasing a lady
 who gets away...
 croaking frog
-blossom-viewing mat--
+blossom-viewing mat—
 squatting at its front
 a frog
 scrawny frog, hang tough!
 Issa
 is here
-yellow rose--
+yellow rose—
 "let me go first!"
 jumping frog
 in evening's glow
@@ -30954,7 +30927,7 @@ frogs croaking
 in my hut
 on urgent business...
 a frog
-my hut--
+my hut—
 a frog has come
 on urgent business
 entering my gate
@@ -30966,7 +30939,7 @@ a croaking frog
 all day teasing
 the horse's ear...
 little butterfly
-gate's garden--
+gate's garden—
 when the crow scolds
 the little butterfly leaves
 on a mat by the gate
@@ -30978,10 +30951,10 @@ little butterfly leaves
 brimming with hope
 little butterflies...
 a young couple
-flitting butterfly--
+flitting butterfly—
 thus is Buddha's law
 in this world
-a butterfly flits--
+a butterfly flits—
 hot tea, hot water
 and sake for sale
 stop, butterfly
@@ -30996,7 +30969,7 @@ little butterfly
 two by two
 spring's first butterflies
 arrive
-spring's first butterflies--
+spring's first butterflies—
 three couples!
 five couples!
 licking the lap-baby's
@@ -31011,13 +30984,13 @@ bath water's splashing
 counting heads
 in a hot tub...
 little butterfly
-life in the world--
+life in the world—
 even butterflies from morning on
 must toil!
 in the pigeon's thicket
 on the sparrow's fence...
 clamshells
-secluded house--
+secluded house—
 day after day more
 baby grass
 my umbrella-hat
@@ -31035,16 +31008,16 @@ have bloomed
 an eel shop eel
 is escaping...
 plum blossoms
-plum tree--
+plum tree—
 under blossoms' shine
 an evening prayer
 betting seashells
 gamblers in a frenzy...
 plum blossoms
-Katsushika--
+Katsushika—
 three hundred shops
 under the plum blossoms
-gate's plum tree--
+gate's plum tree—
 the family's good fortune
 in bloom
 Lord Monkey chews
@@ -31053,7 +31026,7 @@ plum blossoms
 don't throw
 those offering coins!
 plum blossoms
-sparrows spill their food--
+sparrows spill their food—
 plum trees
 in bloom
 Tsurayuki's plum blossoms!
@@ -31062,7 +31035,7 @@ to a sickle moon
 Sir Toad
 on a secret mission...
 plum blossoms
-sickle moon--
+sickle moon—
 I glide from plum blossoms
 to Buddha's image
 just for me...
@@ -31074,13 +31047,13 @@ my pipe!
 a fistful of fallen
 cherry blossoms too...
 gamblers' pot
-cherry blossoms--
+cherry blossoms—
 a floating world of pleasure
 has begun
 going about
 in cherry blossom light...
 Pure Land priest
-a nuisance--
+a nuisance—
 mountain cherry blossom
 rumors fly
 even around here
@@ -31119,13 +31092,13 @@ willow tree
 at the cemetery guard's
 gate too...
 a green willow rustles
-pipe in my mouth--
+pipe in my mouth—
 smoking's allowed here
 by my gate's willow
 mutual aid
 for ruined house and hut...
 willow
-drooping willow--
+drooping willow—
 the gate's crookedness
 not quite hidden
 my rice field
@@ -31134,7 +31107,7 @@ summer's early dawn
 in the short night
 the dew works fast...
 blades of grass
-short summer night--
+short summer night—
 the serene and still
 cherry blossoms
 a hot night's pilgrimage
@@ -31155,7 +31128,7 @@ I cheer
 in the evening cool
 no village
 of outcastes
-cool air--
+cool air—
 is rain coming from
 Buddha's direction?
 the planted azaleas
@@ -31176,7 +31149,7 @@ little cloudburst
 with a light touch
 morning's cloudburst...
 teahouse
-distant storm--
+distant storm—
 each one of the watchers
 has his opinion
 one house
@@ -31185,13 +31158,13 @@ dead center
 in the cloudburst
 the big lantern's
 halo
-rainstorm--
+rainstorm—
 an annoyed look
 on the toad's face
 shining bright
 one and all...
 the billowing clouds
-big cloud--
+big cloud—
 though with lofty peaks
 it creeps along
 one by one
@@ -31206,7 +31179,7 @@ a cloud
 around the lamp
 insects swarm...
 wind on the greenery
-my hut--
+my hut—
 to the left pure water
 to the right the moon
 my humble hut's rice field
@@ -31224,10 +31197,10 @@ pilgrims to Kyoto
 the world of dew
 so fast turns green...
 rice fields
-copy cat--
+copy cat—
 the hut's gate's rice field, too
 is green
-a good wind--
+a good wind—
 beyond the green rice fields
 Northern Mansion
 with high spirits
@@ -31251,7 +31224,7 @@ swallows
 the pony tries
 to take a bite...
 thatch of irises
-secluded house--
+secluded house—
 here they pluck irises
 for thatch
 my hut's
@@ -31266,7 +31239,7 @@ dive again
 the weary cormorant
 turns back to her children
 turns back...
-night moon--
+night moon—
 while cormorants must work
 sake in a teacup
 wiping and wiping his sweat
@@ -31302,13 +31275,13 @@ already too short
 I spot some bamboo
 good for a walking stick...
 summer kimono
-his first summer kimono--
+his first summer kimono—
 hurry and grow
 into a menace!
 looking jaunty
 on the horse's ladle...
 summer kimono
-growing old--
+growing old—
 my paper fan waving's
 a bit overdone
 how quickly
@@ -31326,7 +31299,7 @@ paper fans
 downwind
 from the smudge pot smoke...
 a Buddha
-smudge pot smoke--
+smudge pot smoke—
 just three pennies' worth
 does the house
 the blooming flower
@@ -31335,7 +31308,7 @@ smudge pot smoke
 the sound of fresh water
 boiling...
 deep in the well
-my hut's well--
+my hut's well—
 I do its summer cleaning
 by hand
 a quick inspection
@@ -31356,7 +31329,7 @@ evening cool
 the hanging worm
 makes himself a raincoat...
 evening cool
-great temple gate--
+great temple gate—
 in the cool air a monk
 plucks grass
 cooling off standing
@@ -31371,7 +31344,7 @@ evening cool
 making grass green
 in a perfect circle...
 evening cool
-Musashi Plain--
+Musashi Plain—
 a grassy place for cooling off
 already occupied
 every evening
@@ -31386,7 +31359,7 @@ planting rice
 at my hut too
 a rice-planting rest...
 comrades
-Sumiyoshi--
+Sumiyoshi—
 even the rice-planting girls
 are worshipped
 the little bat
@@ -31440,10 +31413,10 @@ Issa is here
 cuckoo
 what did you forget?
 retracing steps
-hey cuckoo--
+hey cuckoo—
 don't look like you're sick
 of the human race!
-on a vain mountain too--
+on a vain mountain too—
 move aside! move aside!
 for Sir Cuckoo
 rising over the village
@@ -31458,25 +31431,25 @@ mountain cuckoo
 at my gate
 thanks for nothing!
 reed thrush racket
-big rain--
+big rain—
 five hundred yards north
 a moorhen's cry
 my rice field
 is waterless...
 a moorhen complains
-at my gate--
+at my gate—
 no moorhen crying
 no farts
 from five hundred yards
 or so it comes...
 moorhen's cry
-flitting firefly--
+flitting firefly—
 don't get tangled
 in women's hair!
 they shun
 the priest...
 flitting fireflies
-sleeping mats--
+sleeping mats—
 the fireflies counting
 butts
 viewing fireflies
@@ -31503,13 +31476,13 @@ firefly
 a place
 short on mosquito swarms...
 sickle moon
-mosquito swarm--
+mosquito swarm—
 don't block my view
 of the moon!
 the cool breeze
 blows into the mouth...
 a mosquito!
-my home--
+my home—
 for the mosquitoes
 a famous site
 while praising Buddha
@@ -31518,7 +31491,7 @@ a mosquito
 the village mosquitoes'
 great convocation...
 moon on the eaves
-a celebration--
+a celebration—
 this year's mosquitoes too
 feast
 my home
@@ -31542,13 +31515,13 @@ than the rest
 keep stone still
 and look! a cicada
 being born
-a cicada chirrs--
+a cicada chirrs—
 Rokugatsu Village's
 Enten Temple
-first cicada--
+first cicada—
 for a quick song sighted
 on the post
-world of man--
+world of man—
 in the mountains of course
 leeches drop
 aware of the leeches
@@ -31560,10 +31533,10 @@ summer's first bonito
 even in mountain shade
 a taste of Edo...
 first bonito
-purification font--
+purification font—
 swimming plum leaves
 swimming trout
-a flood--
+a flood—
 the tall dayflower keeps
 her cool
 among dayflowers
@@ -31575,7 +31548,7 @@ my house
 wafting in
 from the moonflowers...
 the horse's fart
-moonflowers--
+moonflowers—
 aimed at the horse's rump
 one blooms
 the tea smoke
@@ -31584,10 +31557,10 @@ unlucky peony
 the grime of a thousand
 houses floats too...
 lotus blossoms
-overhang--
+overhang—
 perched on the lotus's stem
 a beggar's hut
-world of man--
+world of man—
 a rice field replaces
 lotus blossoms
 flies and horseflies
@@ -31611,7 +31584,7 @@ one beard of barley
 under the eaves
 one spear of barley
 five, six feet
-secluded house--
+secluded house—
 extending from my pillow
 this year's bamboo
 once on their feet
@@ -31620,10 +31593,10 @@ break
 spotting three shoots
 of new bamboo...
 the moonlit night
-quick-growing bamboo shoots--
+quick-growing bamboo shoots—
 the whole gang
 the same
-cantaloupes, watermelons--
+cantaloupes, watermelons—
 rock-a-bye
 babies
 my cherry blossoms
@@ -31638,10 +31611,10 @@ in thick summer grasses
 in deep shade
 purifying hand washing
 hand washing
-deep shade--
+deep shade—
 the worm, too, shakes
 making his raincoat
-deutzia blossom gate--
+deutzia blossom gate—
 famous straw sandals
 for sale
 even the thorn bush
@@ -31665,10 +31638,10 @@ cold nights
 looking up, wrinkles
 looking down, wrinkles...
 a cold night
-this is my life--
+this is my life—
 cold mornings
 cold nights
-moon in the autumn dawn--
+moon in the autumn dawn—
 prayers from a window
 at Zenko Temple
 the pony also
@@ -31683,22 +31656,22 @@ autumn dusk
 next to the roof beam
 shining bright...
 harvest moon
-amazing--
+amazing—
 in the house I was born
 seeing this moon
 in harvest moonlight
 keeping his cool...
 scarecrow
-harvest moon--
+harvest moon—
 on a stone a teacup
 filled with sake
-harvest moon--
+harvest moon—
 in plume grass shadows
 drinking sake
 harvest moon
 on the mountain scarecrow's
 sleeve
-a wretched shame--
+a wretched shame—
 my heart
 like the autumn sky
 like pebbles pounding
@@ -31707,16 +31680,16 @@ autumn rain
 in the autumn wind
 clutching my sleeve...
 little butterfly
-autumn wind--
+autumn wind—
 a cock-a-doodling rooster
 on the roof
-loafing--
+loafing—
 even in the blossom capital
 autumn wind
 every morning
 enough for my tea kettle...
 dew in the grass
-my ramshackle hut--
+my ramshackle hut—
 the dewdrops' great exertion
 in vain
 from today on
@@ -31737,16 +31710,16 @@ softly, softly
 fall quickly, hide
 my home village...
 fog and cold rain
-clear evening--
+clear evening—
 lined up in the pale blue
 autumn mountains
 even the mountain village's
 pissing place...
 a field of flowers
-Osaka--
+Osaka—
 bidding the tamed pony
 farewell
-the pony neighs--
+the pony neighs—
 under a full moon
 led away from his mother
 standing in a world
@@ -31761,10 +31734,10 @@ on the scarecrow
 accompanying
 the cricket's song...
 evening cloth-pounding
-evening cloth-pounding--
+evening cloth-pounding—
 the cat that can't stand it
 happy-go-lucky
-home village--
+home village—
 even in their sleep pounding
 cloth
 don't cry, geese!
@@ -31779,7 +31752,7 @@ migrating bird
 don't pass by
 my crappy house too!
 migrating birds
-an arm for a pillow--
+an arm for a pillow—
 insects, too, do their night work
 while singing
 lying belly-up
@@ -31803,13 +31776,13 @@ weaken in the night
 moving to live
 in the rice box...
 katydid
-little straw mat--
+little straw mat—
 dusted with flour
 the katydid
 don't crush
 the dewdrop pearls!
 katydid
-turning over in bed--
+turning over in bed—
 move aside!
 katydid
 crawling out
@@ -31821,22 +31794,22 @@ my wrinkled foot
 don't shake my house
 down!
 maiden flower
-that fawn--
+that fawn—
 how old is it?
 blooming bush clover
 the mountain well
 all clogged up...
 bush clover blooms
-secluded house--
+secluded house—
 enough buckwheat blooms
 for one
 my hut's rice field
 somehow pulled it off...
 harvest time
-this world today--
+this world today—
 even plume grass
 is blown in stripes
-regretfully I've joined them--
+regretfully I've joined them—
 the mushy
 persimmon eaters
 eating the astringent
@@ -31848,16 +31821,16 @@ like old times
 in a world for the old
 Peach Boy too, emerge!
 hollow gourd
-big chestnuts--
+big chestnuts—
 the travelers stop
 and gather
 with the boiled chestnuts
 finished, so is
 the conversation
-holy Jizo--
+holy Jizo—
 for me, too, winter
 begins
-dawn--
+dawn—
 through a hole in the wall
 the cold
 drawing words
@@ -31872,10 +31845,10 @@ who cares?!
 my money sprouted wings
 and flew away...
 the year ends
-the way things are--
+the way things are—
 through my worthless window
 days grow longer
-vain grass--
+vain grass—
 you grow longer
 as do the days
 the stonecutter
@@ -31896,19 +31869,19 @@ winter moon
 a short sword
 stuck in his loincloth...
 winter moon
-vain mankind--
+vain mankind—
 idling away this night
 of winter moon
 in my wooden clogs
 raising a racket!
 winter moon
-cold moon--
+cold moon—
 the blind priest is called
 by mistake
 a cane strikes stone
 clack-clack...
 cold moon
-Gichu Temple--
+Gichu Temple—
 I'm here too
 first winter rain
 round and round
@@ -31920,13 +31893,13 @@ under the winter rain
 a winter rain
 bumps into the back
 window
-my home village--
+my home village—
 the winter rain targets
 a standing Buddha
-winter rain--
+winter rain—
 burning the fire chopsticks
 for fun
-winter wind--
+winter wind—
 behind the farmer sowing seeds
 a crow
 the iron rod
@@ -31941,7 +31914,7 @@ topknot
 with our gods out of town
 they raise a ruckus...
 crows
-Basho's Death-Day--
+Basho's Death-Day—
 what are you chattering
 sparrows at my gate?
 you too owl
@@ -31953,7 +31926,7 @@ God of Wealth Festival
 Sir Crow too
 quickly gets in line...
 for soot sweeping
-my house--
+my house—
 I sweep its soot
 with a fan
 even pounding rice cakes
@@ -31962,19 +31935,19 @@ at my hut, I chant
 for the dog
 and crow too...
 pounding rice cakes
-row of houses--
+row of houses—
 from every one of them
 a rice cake commotion
 the rice cake flies
 smack into the dog's
 open mouth
-the wife sowing wheat--
+the wife sowing wheat—
 it's that
 kind of temple
 looking at the moon
 in the pine...
 skullcaps too
-first of the season--
+first of the season—
 the snow, too
 made into Buddha
 at my gate too
@@ -31989,10 +31962,10 @@ winter seclusion
 in a Kyoto suburb
 even "winter seclusion"...
 hustle and bustle
-a cozy wood fire--
+a cozy wood fire—
 the Buddhas too
 all lined up
-great Edo--
+great Edo—
 four or five pennies
 for medicine
 after taking medicine
@@ -32010,13 +31983,13 @@ praise Buddha!
 the nightingale's son
 is singing!
 he's singing!
-slaving away--
+slaving away—
 even the nightingale
 has a singing lesson
 at sunset
 not another peep...
 little wren
-wrens chirping--
+wrens chirping—
 "It's our big day
 the 30th!"
 are you, too
@@ -32037,19 +32010,19 @@ pufferfish
 the same color
 as the winter hay...
 little house
-putting up a fight--
+putting up a fight—
 withered grasses
 with prickles
 maiden flower
 for what karmic reason
 do you not fade?
-hut's radish--
+hut's radish—
 when there's a visitor
 you'll be yanked
-world of man--
+world of man—
 even raking leaves
 brings a scolding
-winter withering--
+winter withering—
 we cross Sumida River
 together
 in frost-killed grass
@@ -32058,7 +32031,7 @@ I go
 frost-killed grass
 "Gimme rice!"
 a sparrow sings
-frost-killed grass--
+frost-killed grass—
 what tribute can I offer
 Seibi, now a Buddha?
 with a bamboo splinter
@@ -32067,7 +32040,7 @@ the stepchild
 celebrating New Year's
 en masse...
 rice field geese
-little farm field--
+little farm field—
 even here
 it's New Year's Day
 warmly
@@ -32085,13 +32058,13 @@ dawn of spring
 though far from home
 a new spring
 is blossoming
-a new spring--
+a new spring—
 neither cow nor horse
 has trod on it
 a made-to-order
 pale blue...
 the year's first sky
-traveling--
+traveling—
 and a rainless day
 for the year's first sky!
 cheer the year's
@@ -32109,7 +32082,7 @@ snow flitting down
 the year's first sky
 hits a dead end...
 Kazusa mountains
-back door facing south--
+back door facing south—
 three directions
 for my New Year's walk
 the homecoming servants
@@ -32121,16 +32094,16 @@ palanquin
 the homecoming servants
 pay their share...
 Hoga Bridge
-the Servants' Holiday is over--
+the Servants' Holiday is over—
 the dog, too, sees him off
 in the mist
-homecoming servant--
+homecoming servant—
 tears precede everything
 for the parents
-Servants' Holiday--
+Servants' Holiday—
 two sighted
 on Mount Matchi
-servants on holiday--
+servants on holiday—
 three of them
 on Narita Road
 in his courtier's cap
@@ -32148,16 +32121,16 @@ he sleeps
 on the rice cake mill
 the rooster sings too
 "Oh Great Japan!"
-spring rain--
+spring rain—
 in the thicket
 a discarded letter blows
-spring breeze--
+spring breeze—
 a dog stretched to sleep
 in the ferryboat
-spring breeze--
+spring breeze—
 an eight-penny play
 a tea-and-dumpling shop
-spring breeze--
+spring breeze—
 forty-nine old women
 on the Shinano road
 waving umbrella-hats
@@ -32169,19 +32142,19 @@ on the mist
 the barking dog
 is wearing a robe...
 of mist
-travelers in bathrobes--
+travelers in bathrobes—
 snow has melted
 clean away!
-the last snow pile--
+the last snow pile—
 straw clogs make it
 a delight
-a row of houses--
+a row of houses—
 even melting snow
 costs money
-snow has melted--
+snow has melted—
 plenty of elbow room
 for the nettle tree
-snow melting--
+snow melting—
 three herons perch
 on the rice cake tub
 plowing the field
@@ -32205,13 +32178,13 @@ lover cat
 he sleeps, he wakes
 has a big yawn...
 the cat goes courting
-fool cat--
+fool cat—
 putting his whole body
 into his yowl
 just a glance
 at the yowler on the roof...
 lazy cat
-mountain temple--
+mountain temple—
 with the Founder's blessing
 cats make love
 if he finds a good place
@@ -32238,10 +32211,10 @@ five-penny tea
 nightingale
 in the big sake cup's
 wet color
-nightingale--
+nightingale—
 he doesn't mind
 my pipe smoke
-nightingale--
+nightingale—
 did you come ten years after
 the Future Buddha?
 up to today
@@ -32271,22 +32244,22 @@ skylight
 the hand that broke off
 the plum blossom branch...
 in hell's mirror
-plum blossom thievery--
+plum blossom thievery—
 added to the account book
 of hell's judge Emma
 in plum blossom scent
 they stop fighting...
 crows
-plum blossoming--
+plum blossoming—
 how the lice's grandchildren
 play!
-plum blossoms--
+plum blossoms—
 in my account book I enter
 "cash for sake"
 cursing like sailors
 in the plum tree...
 crows
-little child--
+little child—
 while Mama helps him pee-pee
 plum blossoms
 on one side
@@ -32295,7 +32268,7 @@ plum blossoms
 the toy flute seller
 clatters along...
 plum blossoms
-young buck--
+young buck—
 how many is he taking?
 plum blossoms
 made fun of
@@ -32313,19 +32286,19 @@ plum blossoms
 the lazy dog
 barks lying down...
 plum trees in bloom
-travel journal--
+travel journal—
 one moon
 one blooming plum tree
-road to Kyoto--
+road to Kyoto—
 at the pickled plum teahouse
 plum blossoms
 cool and calm
 deep in the thorn thicket...
 blooming plum
-growing feeble--
+growing feeble—
 breaking off blossoms
 with twisted mouth
-deep wooded mountains--
+deep wooded mountains—
 home-grown in Shinano
 glorious blossoms
 grandma's rice cakes
@@ -32352,10 +32325,10 @@ cherry blossoms
 such intricate
 wildflowers bloomed!
 in one short night
-from one short night--
+from one short night—
 how intricate
 the wildflowers
-short summer night--
+short summer night—
 the grasses bloom
 swish, swish, swish!
 a short summer night
@@ -32364,13 +32337,13 @@ secluded village
 the whores
 look me over...
 from their boat in the heat
-evening cool--
+evening cool—
 fishing for soup stock
 in his back door sea
 just saying the words
 "my house"
 the cool air!
-rainy season--
+rainy season—
 a crab strolls into
 the big sitting room
 the rainy season is over
@@ -32385,7 +32358,7 @@ Lotus Field
 must you start
 with my thatched hut?
 Fifth Month rain
-cloudbursts--
+cloudbursts—
 the village that doesn't pray
 gets three
 lying spread-eagle
@@ -32424,10 +32397,10 @@ a new summer kimono
 drinking tea alone
 on the month's first day...
 green bamboo blinds
-recycling--
+recycling—
 waste paper mosquito net!
 mosquito net!
-the moon shines--
+the moon shines—
 this paper mosquito net
 my home
 the face on my paper fan
@@ -32448,7 +32421,7 @@ the cool air
 a crab, too
 climbs the pine tree...
 evening cool
-moon at the gate--
+moon at the gate—
 the mosquito-eating bats
 prosper
 not backing down
@@ -32457,10 +32430,10 @@ Edo cuckoo
 he just now appeared
 and he's off to Mount Fuji...
 cuckoo
-the setting moon--
+the setting moon—
 you just missed it
 cuckoo!
-great Edo--
+great Edo—
 amid the hustle and bustle
 a cuckoo
 in Great Edo
@@ -32475,7 +32448,7 @@ Edo cuckoo
 crawling across a bridge
 far below...
 "cuckoo!"
-cuckoo--
+cuckoo—
 even Fifth Month, Eighth Day
 is lucky!
 into Watanobe's plume grass
@@ -32499,7 +32472,7 @@ mountain cuckoo
 shame on you
 you're all mouth!
 reed thrush
-secluded house--
+secluded house—
 the wounded firefly
 rushes inside
 my hut's mosquitoes
@@ -32511,7 +32484,7 @@ to Amida Buddha!"
 into the big river
 tossing her lice...
 pretty woman
-river at the gate--
+river at the gate—
 summer's first bonito
 look fresh enough to swim away
 move aside
@@ -32526,13 +32499,13 @@ ripened barley
 at the field's edge
 sake for sale...
 ripened barley
-curled up to sleep--
+curled up to sleep—
 his pillow
 a muskmelon
 cooling the white umbrella-hat
 just a tad...
 tree shade
-deep shade--
+deep shade—
 the fasting dog
 rolls and rolls
 feeling for the tobacco tray
@@ -32562,34 +32535,34 @@ a cold night
 in mountain chill
 under his reed mat
 curled to sleep
-mountain chill--
+mountain chill—
 in the rice cake tub
 a katydid
 a chill comes down the mountain
 a chill comes up...
 night in my hut
-red clouds--
+red clouds—
 above the butterfly too
 autumn dusk
 don't cry, geese!
 your inn is wherever
 the autumn moon shines
-restless sleep--
+restless sleep—
 tea cakes in the hut
 for Ninth Month moon
-autumn rain--
+autumn rain—
 the weaned pony
 begins his journey
-thatched house--
+thatched house—
 everything drenched
 by the autumn rain
 the tobacco
 has a green smell...
 autumn wind
-autumn wind--
+autumn wind—
 tomorrow they throw you away
 old woman
-autumn wind--
+autumn wind—
 the back sitting room's door
 half open
 in autumn wind
@@ -32598,22 +32571,22 @@ is blown
 completely empty
 the main temple...
 autumn wind
-autumn wind--
+autumn wind—
 walking along the valley's cliff
 my shadow
 how much
 for two quarts?
 pearls of dew
-silver dewdrops--
+silver dewdrops—
 without fussing
 become round
 it's a dewdrop world
 surely it is...
-yes... but...
-my hut--
+yes...but...
+my hut—
 where even beads of dew
 are bent
-a good rain--
+a good rain—
 two-penny fireworks
 in the night
 it's become a tree
@@ -32622,13 +32595,13 @@ sumo match
 newly made
 the mountain scarecrow
 is a wonder
-a cowherd--
+a cowherd—
 his flute and evening's
 cloth-pounding mingle
 seeing that I'm old
 he starts pounding cloth...
 nearby
-growing old--
+growing old—
 nearby cloth-pounding
 better than distant
 utterly rhythmless
@@ -32667,7 +32640,7 @@ locust
 catching a ride
 on the ditch water...
 locust
-little straw mat--
+little straw mat—
 on the mountain of rice
 katydid
 on one sinde
@@ -32676,7 +32649,7 @@ on the other, a katydid
 how annoying!
 among chrysanthemums too
 the nobles win
-chrysanthemums bloom--
+chrysanthemums bloom—
 the mountain's head, too
 turns white
 the war lord
@@ -32697,13 +32670,13 @@ she chooses
 crushed under
 the morning-glories...
 my door
-my hut--
+my hut—
 in the bamboo, a crow
 in the bush clover, a cat
-Shinano road--
+Shinano road—
 blooming buckwheat's whiteness
 makes me shiver
-buckwheat blooming--
+buckwheat blooming—
 that whiteness
 makes me shiver
 each and every one
@@ -32730,7 +32703,7 @@ with a worm
 through the thin wall
 the cold barges
 in
-night in the hut--
+night in the hut—
 the deep, deep heart
 of cold
 down to the bone
@@ -32745,7 +32718,7 @@ frozen stiff
 from the tip
 of the field Buddha's nose...
 an icicle
-my house--
+my house—
 even the first icicle
 soot-stained
 falling on only
@@ -32757,10 +32730,10 @@ winter rain
 in winter wind
 unladylike she crouches
 astride the brazier
-winter wind--
+winter wind—
 wrapped in tree leaves
 a salted fish
-winter wind--
+winter wind—
 in the eaves an insect cage
 and dried persimmons
 the first snowfall
@@ -32769,7 +32742,7 @@ crows
 "First snowfall!"
 this year the voice
 is weaker
-first snow--
+first snow—
 on the desktop
 a snowball
 clinging fast
@@ -32781,7 +32754,7 @@ latrine alley
 bottoms up
 the kettles drying
 on the snow
-snowy day--
+snowy day—
 practicing writing
 in the tray's ashes
 the child carries
@@ -32796,16 +32769,16 @@ hailstones
 the first winter rain
 didn't forget...
 the twelfth day!
-olden times tug at the heart--
+olden times tug at the heart—
 the Old Man's
 wooden bowl
-my hut's soot--
+my hut's soot—
 a storm kindly
 does the sweeping
-my hut's soot--
+my hut's soot—
 just blowing it
 does the job
-my hut's soot--
+my hut's soot—
 going through the motions
 of sweeping it
 sweeping the soot
@@ -32817,7 +32790,7 @@ gate's sparrows
 chickens trampling
 the rice cakes...
 a comedy
-the sound of pounding--
+the sound of pounding—
 millet dumpling
 being made
 the fresh rice cake
@@ -32829,7 +32802,7 @@ rice cakes!
 pigeons and sparrows
 come! come!
 I've got rice cakes
-Fukagawa--
+Fukagawa—
 on a boat, too, a party
 drinks away the year
 from the bill collector
@@ -32871,13 +32844,13 @@ my cozy brazier
 "It's good at first!"
 her foot pushes
 the foot-warmer
-how shameful--
+how shameful—
 with my charcoal-stained
 palms...
 in careful bits
 another thing of this floating world...
 weighing charcoal
-a cozy wood fire--
+a cozy wood fire—
 the high priest also
 takes a seat
 even breaking firewood
@@ -32907,7 +32880,7 @@ plovers
 going out to piss
 for the hundredth time...
 plovers in the night
-bright moon--
+bright moon—
 the plovers all buried
 in the house's thatch
 what a huge convocation!
@@ -32925,7 +32898,7 @@ temple road
 even the grasses
 that stab people
 clumsily wither
-withered grassland--
+withered grassland—
 once upon a time there was
 a she-demon...
 a battle royal
@@ -32937,7 +32910,7 @@ his parents
 burying the latrine
 of the lover cat...
 fallen leaves
-without you--
+without you—
 the grove
 is just a grove
 oh gods
@@ -32946,10 +32919,10 @@ two children, please?
 though it's First Month
 twenty days
 in my winter coat
-First Month--
+First Month—
 even at the outcaste's porch
 plum blossoms
-crawl and laugh--
+crawl and laugh—
 from this morning on
 a two year old!
 at my feet
@@ -32958,7 +32931,7 @@ with the spring!
 new spring
 Yataro dies, priest Issa
 is born
-spring has sprung--
+spring has sprung—
 a one-day, two-day
 sickle moon
 with millet dumplings
@@ -32973,37 +32946,37 @@ year's first dawn
 at my hermitage
 it starts at noon...
 the year's first day
-year's first sunrise--
+year's first sunrise—
 even the hoe
 gets a prayer
 we follow our feet
 to the village...
 our New Year's walk
-nightingale--
+nightingale—
 through a half-folded folding door
 my New Year's walk
-a big snow--
+a big snow—
 the exit tunnel
 is my lucky direction
-deep in Saga--
+deep in Saga—
 my New Year's walk
 follows holes made by canes
-edge of a field--
+edge of a field—
 my New Year's walk
 follows holes made by canes
 lit by the New Year's
 shelf...
 the hoe's halo
-New Year's shelf--
+New Year's shelf—
 from a dark nook
 a lucky mouse
-my hut--
+my hut—
 it's a crooked path
 to the New Year's shelf
 hauled up
 in the bamboo basket...
 a sparrow!
-Little New Year's--
+Little New Year's—
 and the moon has deigned
 to rise!
 Little New Year's
@@ -33021,7 +32994,7 @@ sleeping child
 the puppy plays
 hide-and-seek...
 New Year's pine
-Karasaki--
+Karasaki—
 even from the New Year's pine
 evening rain
 Great Japan!
@@ -33033,22 +33006,22 @@ New Year's rope
 a New Year's wreath
 for the crossroads Buddha's
 head
-imperial Japan--
+imperial Japan—
 even from the quince hedge
 "Happy New Year!"
-Katsushika--
+Katsushika—
 from across the river
 "Happy New Year!"
 splish-splash
 with muddy straw sandals...
 "Happy New Year!"
-samurai street--
+samurai street—
 even from the quince thicket
 "Happy New Year!"
-a good world--
+a good world—
 even from the quince thicket
 "Happy New Year!"
-tea smoke--
+tea smoke—
 my year's first water
 from Sumida River
 bathing in the
@@ -33057,10 +33030,10 @@ my proxy the sparrow
 greedily using up
 the year's first water...
 the woman
-year's first water--
+year's first water—
 sparrows in a row
 with healthy faces
-year's first water--
+year's first water—
 the first goes to Buddha's
 bucket of branches
 the dog chewing
@@ -33075,10 +33048,10 @@ of zoni
 though we say
 "Happy New Year!"
 zoni for only two
-Mount Fuji dawn--
+Mount Fuji dawn—
 a New Year's sake toast
 at my lips
-barrier gate--
+barrier gate—
 a New Year's sake toast
 to Mount Fuji
 a New Year's toast
@@ -33093,10 +33066,10 @@ picking herbs
 the sickle moon
 curls up, winter's cold
 returns
-a long day--
+a long day—
 here too everyone's
 curled asleep
-a long day--
+a long day—
 his account book serves
 as a pillow
 "It's a foolishly long
@@ -33114,13 +33087,13 @@ among the sparrows
 improving the mood
 of the geese and ducks...
 spring snow
-my village--
+my village—
 even the spring snow
 two or three feet!
 the pigeon too
 sings at six a.m.
 spring rain
-dawn--
+dawn—
 in a stone's hollow
 spring rain
 under their parasols
@@ -33144,16 +33117,16 @@ spring rain
 the hanging shelf's
 azaleas bloom...
 spring rain
-spring rain--
+spring rain—
 hitting the windows
 that cost me so much
-spring rain--
+spring rain—
 backsliding gamblers
 and a night sermon
-spring rain--
+spring rain—
 beards in a row
 at the paper door
-spring rain--
+spring rain—
 in the window they haggle
 over fish
 blowing from the raindrops
@@ -33162,13 +33135,13 @@ spring wind
 the spring breeze
 dries the horse...
 field by the gate
-spring breeze--
+spring breeze—
 a woman also crosses
 Mount Hakone
-spring breeze--
+spring breeze—
 the little servant girl
 has a short sword
-spring breeze--
+spring breeze—
 after twists and turns
 Hoga Bridge
 through falling snow
@@ -33177,7 +33150,7 @@ blows
 a snapping turtle too
 crows the time...
 spring moon
-hazy night--
+hazy night—
 sake is flowing
 waterfall and moon
 great lanterns
@@ -33201,13 +33174,13 @@ is a mess
 possessed
 by the heat shimmers...
 thatched hut
-heat shimmers--
+heat shimmers—
 walking along he preaches
 his sermon
-heat shimmers--
+heat shimmers—
 among grasses of the eaves
 flowers
-city life--
+city life—
 even melting snow
 costs money
 in the big river
@@ -33228,19 +33201,19 @@ melting snow
 even the sparrow
 gives a victory cry...
 snow is melting!
-snow melting--
+snow melting—
 the thin children
 of the slum
 six feet of curtain
 flapping...
 the snow is melting!
-tea smoke--
+tea smoke—
 the hut's rice seedlings
 turning green
 the rice seedlings
 my hut's adornment...
 so green!
-rice seedlings--
+rice seedlings—
 the old Buddha's
 weary face
 the rice plants
@@ -33258,19 +33231,19 @@ spring equinox rain
 in my village
 snow falls pit-a-pat...
 spring equinox
-Peach Festival--
+Peach Festival—
 a doll of Princess Kaguya
 fired in Fukakusa
 "Cousin Doll"
 and "Grandchild Doll"
 she names them
-little straw mat--
+little straw mat—
 in the middle of a field
 eating herb cakes
 lined up double file
 the tea pickers'
 ritual dance
-in his little bag--
+in his little bag—
 rice and few
 tea leaves
 the high priest
@@ -33285,16 +33258,16 @@ night boat
 plowing the field
 crushed underfoot...
 plum blossoms
-mountain field--
+mountain field—
 a man plows it
 for the sleeping deer
 a plum branch in his hand
 the tree-grafting apprentice
 bows
-grafting a branch--
+grafting a branch—
 I might be dead
 tomorrow
-garden's entrance--
+garden's entrance—
 the tree-grafting apprentice
 brings the tea
 when three loafers
@@ -33330,7 +33303,7 @@ for love
 the kitten
 being weighed in the scales
 keeps playing
-dejected--
+dejected—
 even among sparrows
 a stepchild
 sparrow parents too
@@ -33342,22 +33315,22 @@ mother sparrow calls
 looking haggard
 from her baby-sitting...
 sparrow at the gate
-nightingale--
+nightingale—
 morning after morning
 in the nettle tree I pray to
-nightingale--
+nightingale—
 the cat under the bucket
 meows
-nightingale--
+nightingale—
 even strutting on the fence
 a song
-nightingale--
+nightingale—
 after his rounds
 back to my hut
 hey nightingale!
 from this morning on Yataro
 is Issa
-back window--
+back window—
 the first nightingale too
 a blank face
 wafting through trees
@@ -33378,10 +33351,10 @@ two miles off
 at a tiny market's
 vegetable festival...
 a skylark
-Matsushima--
+Matsushima—
 from yonder isle
 another lark
-island of pines--
+island of pines—
 while mist turns dark
 a skylark singing
 a man sleeping
@@ -33390,7 +33363,7 @@ the lark's wake-up call
 an impromptu audience
 with Lord Kaga...
 a pheasant
-a pheasant cries--
+a pheasant cries—
 from the rice cake tub
 from the wash tub
 a pheasant cries
@@ -33399,7 +33372,7 @@ crawls across the bridge
 a pheasant cries
 in the temple room's
 dead center
-big rain--
+big rain—
 soaked to the skin
 the returning geese
 are the geese yearning
@@ -33441,7 +33414,7 @@ croaking frogs
 scowling
 at the sickle moon...
 a frog
-festival day--
+festival day—
 white robed monks
 and a white butterfly
 becoming beautiful
@@ -33453,28 +33426,28 @@ a little butterfly
 from a hole in the temple's
 pulpit, swish!
 little butterfly
-shrine fence--
+shrine fence—
 on a white flower
 a white butterfly
 separation
 among butterflies too...
 white gang, yellow gang
-a butterfly flits--
+a butterfly flits—
 the vast blue sky
 over Tiger Gate
-butterfly departs--
+butterfly departs—
 even Shinran's pine
 seems to know
-Tiger Gate--
+Tiger Gate—
 the butterfly, too
 enters with courage
-one straw mat--
+one straw mat—
 a butterfly is drying
 too
 swinging the broom
 underneath, asleep
 little butterfly
-butterfly dance--
+butterfly dance—
 someone plays samisen
 in the little village
 dance, butterfly!
@@ -33483,7 +33456,7 @@ in Asaji Field
 called "mister"
 by those who raise them...
 silkworms
-a promising sound--
+a promising sound—
 silkworms in the tray
 stuff themselves
 like people
@@ -33495,7 +33468,7 @@ silkworms
 the whole family
 serves the midnight meal
 for silkworms
-secluded house--
+secluded house—
 the bees also memorize
 the way back
 at the crossroads temple
@@ -33504,10 +33477,10 @@ sparrows
 bees buzzing
 people grow quiet
 in the temple
-beehive--
+beehive—
 safe on holy Jizo's
 elbow
-garden at the gate--
+garden at the gate—
 even the naughty weeds
 young and fresh
 on baby grass
@@ -33537,19 +33510,19 @@ a sickle moon
 plum blooming
 even hell's cauldrons
 CLOSED
-plum blossoms--
+plum blossoms—
 in the paper door
 a cat's shadow
-plum blossoms--
+plum blossoms—
 all sorts of people
 pass my gaze
 blooming plum tree
 in the hut's
 unlucky direction
-plum blossom world--
+plum blossom world—
 worms in straw raincoats
 are here too
-back-alley house--
+back-alley house—
 thrust out, swaying
 plum in bloom
 with his courtier's hat
@@ -33570,7 +33543,7 @@ plum blossoms
 the sickle moon
 in a fine mood too...
 plum blossoms!
-morning star--
+morning star—
 on my hut's unlucky side
 plum blossoms
 even the rice cake
@@ -33585,7 +33558,7 @@ blossoming mountain
 today no blossom viewing
 for me...
 feeling afraid
-a "Dismount Your Horse" sign--
+a "Dismount Your Horse" sign—
 the cherry blossoms'
 front door
 all morning
@@ -33597,13 +33570,13 @@ Ojo Temple
 at the field's edge
 a sake vendor...
 glorious blossoms
-breaking off blossoms--
+breaking off blossoms—
 my hiccups
 are cured
-cherry blossoms--
+cherry blossoms—
 playing the dandy, in my mouth
 an empty pipe
-blossoms scatter--
+blossoms scatter—
 under every tree
 a Buddha on display
 blossoms scatter
@@ -33612,7 +33585,7 @@ Ojo Temple
 in a world of blossoms
 wearing an umbrella-hat...
 a Buddha
-world of blossoms--
+world of blossoms—
 even among the Buddhas
 parents and children
 all day
@@ -33621,7 +33594,7 @@ picking fights
 the big horse
 rubs his butt
 on cherry blossoms
-Great Japan--
+Great Japan—
 on the dark blue shop-curtains
 more cherry blossoms
 off to view cherry blossoms
@@ -33675,13 +33648,13 @@ suggests
 here and there
 a plain and to-the-point
 willow
-my willow tree--
+my willow tree—
 not that good
 at drooping
 the green vine
 peeks in the window...
 summer heat
-hot day--
+hot day—
 the cool abacus
 for a pillow
 so hot! so hot!
@@ -33702,16 +33675,16 @@ cross-legged
 in the cool air
 like Gautama Buddha...
 cross-legged
-cool air--
+cool air—
 even beyond the village
 the prayed-for rain
-Fifth Month rain--
+Fifth Month rain—
 taking his seat on a rock
 a toad
-Fifth Month rain--
+Fifth Month rain—
 an incense stick stuck
 in the tobacco tray
-Fifth Month rain--
+Fifth Month rain—
 in a rain barrel
 irises
 Mr. Toad's
@@ -33726,10 +33699,10 @@ three drops
 darting to the beat
 of the downpour...
 a swallow
-rainstorm--
+rainstorm—
 two or three cups, now
 drink up! drink up!
-rainstorm--
+rainstorm—
 bare-chested with a little
 sake cup
 gliding through the cloudburst
@@ -33741,16 +33714,16 @@ with ease
 on my sleeping mat
 counting with my feet...
 billowing clouds
-evening bell--
+evening bell—
 even the clouds convene
 at the temple
 how good
 to see a pagoda!
 billowing clouds
-big river--
+big river—
 pouring into my sake cup
 the summer moon
-summer mountain--
+summer mountain—
 an excessively polite
 red flower
 wanting to lick
@@ -33759,7 +33732,7 @@ crying child
 anointing the heads
 of children too...
 Buddha's birthday tea
-Buddha amid birthday flowers--
+Buddha amid birthday flowers—
 even the moon
 deigns to rise
 the ordinary bee
@@ -33789,7 +33762,7 @@ summer kimono
 "She has lucky ears"
 her mother says...
 summer kimono
-how delightful--
+how delightful—
 my sweat-soaked
 bathrobe!
 sleeping late
@@ -33813,7 +33786,7 @@ paper fan
 when it's in hand
 I want to promenade...
 paper fan
-growing old--
+growing old—
 a sooty paper fan
 works fine
 from the second floor
@@ -33846,7 +33819,7 @@ rice-planting song
 back from his journey
 into the saddle...
 rice-planting horse
-bats flying--
+bats flying—
 for the well coifed woman in her forties too
 a new summer robe
 don't let the rain
@@ -33876,10 +33849,10 @@ are blooming...
 the cuckoo
 breaking in, shuts
 me up
-oh cuckoo--
+oh cuckoo—
 don't disdain
 these poor ears!
-what a racket--
+what a racket—
 chase him! chase him!
 cuckoo
 don't go! don't go!
@@ -33897,16 +33870,16 @@ first firefly
 in the west
 battling like ancients monks
 fireflies
-sleeping mat--
+sleeping mat—
 rain drips, drops
 a firefly takes off
 the first firefly
 deftly swerves away...
 wind from my hand
-Bancho Town--
+Bancho Town—
 with all his might
 the firefly flits
-firefly lights--
+firefly lights—
 a turtle not called for
 close at hand
 smack in the middle
@@ -33918,25 +33891,25 @@ worn-out firefly
 swatting prayer beads
 at a pesky mosquito...
 memorial service
-a mosquito whines--
+a mosquito whines—
 an old keg
 my pillow
 from the third column
 of the mosquito swarm...
 a sickle moon
-mosquito column--
+mosquito column—
 unbroken from here
 to the field
-straight up and down--
+straight up and down—
 the mosquitoes swarm
 a column
-child's fleas--
+child's fleas—
 it's leisure time work
 picking them
 she counts flea bites
 while her child
 suckles
-the stepchild's chore--
+the stepchild's chore—
 during baby's midday nap
 picking fleas
 upside-down
@@ -33975,10 +33948,10 @@ irises
 black ears too
 bustling in the world...
 barley field
-my home village--
+my home village—
 even where people sleep
 this year's bamboo
-my gate's hedge--
+my gate's hedge—
 no flourishing
 of fresh green
 splish-splash
@@ -33990,7 +33963,7 @@ new green leaf
 the bridge guard's bucket
 upside-down to dry...
 fresh leaves
-new leaves forming--
+new leaves forming—
 in the town a drought
 of men
 straw sandals and insects
@@ -34002,7 +33975,7 @@ a deutzia blossom blizzard
 "A man"
 is registered at the inn...
 a cold night
-secluded house--
+secluded house—
 keeping out night's cold
 a patchwork fence
 the good-for-nothing priest
@@ -34020,7 +33993,7 @@ a cold night
 two miles to go
 to Oiwake...
 autumn dusk
-in her cave the demon sleeps--
+in her cave the demon sleeps—
 from morning on
 autumn's last day
 rice water boiling
@@ -34035,7 +34008,7 @@ autumn dusk
 my house
 just two miles more...
 autumn dusk
-autumn evening--
+autumn evening—
 even in the watchman's shack out back
 festival guests
 into the Kiso Mountains
@@ -34044,7 +34017,7 @@ Milky Way
 a little boy
 shows another child...
 Milky Way
-little straw mat--
+little straw mat—
 in the kettle slantwise
 Milky Way
 the turtle and moon
@@ -34056,10 +34029,10 @@ Bon Festival moon
 the beards of grasses
 in a mood for rain...
 night before the harvest moon
-purification font--
+purification font—
 thrown in a corner
 the Ninth Month moon
-clear fall weather--
+clear fall weather—
 with burdens they cross
 Mount Hakone
 unaware
@@ -34074,7 +34047,7 @@ clear fall weather
 on the lightning-scorched
 mountain...
 autumn rain
-autumn wind--
+autumn wind—
 the new beggar's
 small voice
 autumn wind
@@ -34086,16 +34059,16 @@ dewdrops in the grass
 without Buddha's law
 no glitter...
 dewdrops in the grass
-lightning flash--
+lightning flash—
 suddenly three people
 face to face
-lightning flash--
+lightning flash—
 not giving a damn
 the toad's face
-seaside temple--
+seaside temple—
 the room in the fog
 grows faint
-divine wind--
+divine wind—
 digging up moss
 on the autumn mountain
 the Buddha also
@@ -34125,16 +34098,16 @@ replacement
 the dragonflies'
 resort spot...
 the scarecrow
-evening falls--
+evening falls—
 me and a scarecrow
 just us two
-draining the rice field--
+draining the rice field—
 farewell! farewell!
 farewell!
-draining the rice field--
+draining the rice field—
 a loach also
 climbs the rapids
-evening cloth-pounding--
+evening cloth-pounding—
 the neighbor's
 neighbor
 that's my house
@@ -34146,13 +34119,13 @@ cloth
 two young deer
 side by side...
 a duet
-a shrike sings--
+a shrike sings—
 seven days of sermons
 one fart
-Isozaki--
+Isozaki—
 wild geese descend
 even into a kettle!
-autumn's first geese--
+autumn's first geese—
 five people enroute
 to Zenko Temple
 the caged insect
@@ -34182,7 +34155,7 @@ still singing
 the champion chrysanthemum
 down the war lord's lane
 returns
-chrysanthemum garden--
+chrysanthemum garden—
 only women
 on the one bench
 smelling like sake
@@ -34194,7 +34167,7 @@ chrysanthemum
 the losing chrysanthemum
 punished...
 in a corner
-mountain temple--
+mountain temple—
 even sweet tea cakes
 chrysanthemum-shaped
 the chrysanthemum
@@ -34206,16 +34179,16 @@ my pillow
 morning-glories
 have bloomed darkly...
 but my hair...
-morning-glory--
+morning-glory—
 one inch from its tip
 darkness
-morning-glories--
+morning-glories—
 all praise to Ah...
 Ahhhh!
 hidden in trees
 the white morning-glory's
 demure face
-world of man--
+world of man—
 a new morning-glory
 blooms in bondage
 in a little nook
@@ -34242,16 +34215,16 @@ red persimmon leaves
 down it comes
 with a frog rider...
 the leaf
-fallen chestnuts--
+fallen chestnuts—
 the crow gets first
 dibs
-mountain temple--
+mountain temple—
 on tatami mats, gathering
 chestnuts
 on the 29th day
 of Twelfth Month, too...
 a sunset
-spotting wolf shit--
+spotting wolf shit—
 the grass
 is so cold!
 even to my
@@ -34269,16 +34242,16 @@ ends with a bell
 sunset's bell
 finishes it off...
 year's last day
-secluded house--
+secluded house—
 even on the year's last day
 evening snow
-curling to sleep--
+curling to sleep—
 but first ending this year, too
 with a toast
 cursing
 the traveler...
 first winter rain
-a blind child--
+a blind child—
 to his right, to his left
 steady winter rain
 after pissing
@@ -34293,16 +34266,16 @@ the piss pot
 the first snowfall
 adds to the stack...
 huts' firewood
-first snowfall--
+first snowfall—
 "A B C D E F..."
 she practices
-first snow--
+first snow—
 and now a temple
 pilgrimage
-dark night--
+dark night—
 the first snowflakes
 hit my neck
-snow falling--
+snow falling—
 a dog passes through
 the temple's great gate
 to the rhythm
@@ -34320,7 +34293,7 @@ morning frost
 my proxy bathes
 in the cold water...
 sparrow
-soot sweeping--
+soot sweeping—
 toward the rising sun I aim
 my nostrils
 from the great bronze
@@ -34332,31 +34305,31 @@ soot sweeping
 dimly seen
 in the dawn light...
 a sooty face
-Edo's world--
+Edo's world—
 women also
 are Twelfth Month singers
 at my gate
 slipping so skillfully...
 a Twelfth Month singer
-Twelfth Month singers--
+Twelfth Month singers—
 their butts facing
 Sumida River
 performing
 behind a waterfall...
 Twelfth Month singers
-secluded house--
+secluded house—
 even for a palm-sized rice cake
 a commotion
-flat rice cake--
+flat rice cake—
 a child uses it
 as a big fan
-world at peace--
+world at peace—
 even at a shack in a burnt field
 a rice cake commotion
 in a stand of trees
 pounding rice cakes...
 evening moon
-Yamanote--
+Yamanote—
 slurping coarse tea
 drinking away the year
 slipping on
@@ -34389,7 +34362,7 @@ was wrong
 remembering how it was
 with yearning...
 bare winter plum
-winter withering--
+winter withering—
 the crow respects
 his parents
 rotten cherry tree
@@ -34398,13 +34371,13 @@ out-of-season blooms?
 joining the samurai's
 company...
 Sir Dog
-First Month--
+First Month—
 a row of clogs for rent
 on the shady hillside
 the nightingale's song
 wonderfully strange...
 spring's first dawn
-my ramshackle hut--
+my ramshackle hut—
 just as it is...
 spring begins
 my "Happy New Year!"
@@ -34425,7 +34398,7 @@ the year's first dawn
 westward he prays
 to the year's first sky...
 priest
-the year's first rain--
+the year's first rain—
 my grass roof's
 first leak
 with snow falling
@@ -34446,10 +34419,10 @@ presents!
 his head of white hair
 perks up...
 "Happy New Year!"
-secluded house--
+secluded house—
 even for the cat
 a New Year's gift
-night watchman--
+night watchman—
 from his window he hurls
 New Year's gifts
 looking, looking
@@ -34482,7 +34455,7 @@ yet toothless!
 laid out
 at the hearth's door...
 New Year's herbs
-spring peace--
+spring peace—
 Mount Asama's smoke
 and the noon moon
 drawing eyebrows
@@ -34512,7 +34485,7 @@ spring breeze
 in the spring breeze
 a goose on a mission...
 headstrong!
-hazy night--
+hazy night—
 people listening
 to heavenly music
 looking back at my house
@@ -34530,13 +34503,13 @@ even mistier
 don't want to remember it
 or see it...
 cover my house, mist!
-misty day--
+misty day—
 a hush in the big
 sitting room
 even their white walls
 are slandered!
 spring mist
-my home village--
+my home village—
 the call to morning tea
 a clap in the mist
 riding sidesaddle
@@ -34545,19 +34518,19 @@ evening mist
 squirming
 amid the heat shimmers
 people
-heat shimmers--
+heat shimmers—
 wooden clogs on his hands
 at Zenko Temple
-heat shimmers--
+heat shimmers—
 someone's thrown-out garbage
 for sale
-lovely--
+lovely—
 in the leftover snow
 both handprints
 cooking pots bottoms up
 dry in a row...
 snow is melting
-olden times--
+olden times—
 two handprints worth
 of leftover snow
 at the gate
@@ -34569,7 +34542,7 @@ smoke
 snow is melting!
 the pine tree behind
 the inn
-snowy road--
+snowy road—
 on one side melts
 to darkness
 helping to rake
@@ -34587,19 +34560,19 @@ Lotus Sutra!
 the Buddha
 even lying down, showered
 with blossoms and coins
-Fox Festival night--
+Fox Festival night—
 snow falling
 on the bonfire
-Fox Festival--
+Fox Festival—
 the non-divine foxes
 crying
-world of blossoms--
+world of blossoms—
 the non-divine foxes
 crying
 a studded palanquin
 for the migrating servant...
 Kyoto
-secluded house--
+secluded house—
 even the cat gets a dose
 of burning wormwood
 in one corner
@@ -34614,7 +34587,7 @@ hermit
 even the clay doll
 is decked with flowers...
 festival
-blossom world--
+blossom world—
 even in a temple's cherry grove
 the Doll Festival
 landing plop! on all fours
@@ -34629,7 +34602,7 @@ Girls' Festival
 in the herb cake pan
 also kneading in
 a prayer
-fires on the mountain--
+fires on the mountain—
 look like Buddhas
 look like devils
 fires on the mountain
@@ -34641,7 +34614,7 @@ snow
 at the verge
 of Mount Asama's smoke...
 a farmer's field
-plowing the field--
+plowing the field—
 a child crawls through
 horsetails
 come and play
@@ -34683,7 +34656,7 @@ my house
 even among nightingales
 royalty
 and bumpkins
-hey nightingale--
+hey nightingale—
 no men allowed
 in the harem!
 Great Japan!
@@ -34692,7 +34665,7 @@ the Lotus Sutra
 one by one they come
 off-key nightingales
 to my fence
-missing home--
+missing home—
 an off-key nightingale's
 faraway song
 waiting for the swallows
@@ -34713,7 +34686,7 @@ departing geese
 rising early
 will you stop at Senju town?
 departing geese
-dawn--
+dawn—
 mimicking me striking fire
 croaking frog
 squatting low
@@ -34725,7 +34698,7 @@ and a frog
 looks like the boss
 in the seat of honor...
 croaking frog
-frogs croaking--
+frogs croaking—
 "There goes fox's bride!
 fox's bride!"
 the wagtail beats time
@@ -34749,31 +34722,31 @@ is born!
 the butterfly's
 soft landing...
 in the tea kettle!
-flitting butterfly--
+flitting butterfly—
 every corner of my hut
 is inspected
 rubbing Binzuru's
 holy nose...
 little butterfly
-grass by the gate--
+grass by the gate—
 soon as it sprouts
 it's plucked
 among the sprouts
 not one man-stabbing
 blade of grass
-people with fans--
+people with fans—
 no stabbing grass
 in sight
 keeping bamboo shoots
 company, weeds
 fresh green too
-baby grass--
+baby grass—
 a troop of little pilgrims
 visit Kitano
 the nine-ring flower
 blooms only four or five
 then quits
-radish in the field--
+radish in the field—
 Sir Whiskers
 yanks it up
 the plum blossom theif's
@@ -34782,7 +34755,7 @@ shadow
 plum blossom scent
 even in the little thicket
 first class
-plum blooming--
+plum blooming—
 muddy straw sandals
 and a sake cup
 here's a plum blossom
@@ -34791,7 +34764,7 @@ bright moon
 are you pointing out
 these plum blossoms for stealing,
 moon?
-Oyodo Town--
+Oyodo Town—
 plum blossoms the colors
 of dawn
 a "No Men Allowed" sign
@@ -34812,16 +34785,16 @@ plum blossoms
 deep in the thicket
 an offering box...
 plum blossoms
-remote village--
+remote village—
 a stroke of rare luck
 these plum blossoms!
 a baby boy
 cries for milk...
 blossoms at their peak
-cherry blossoms scatter--
+cherry blossoms scatter—
 the ignorant masses
 of these latter days
-cherry blossom shade--
+cherry blossom shade—
 no one an utter
 stranger
 he wants his hole
@@ -34830,7 +34803,7 @@ fox
 the mountain moon 
 gives the blossom thief
 light
-world of pain--
+world of pain—
 and the cherry blossoms
 add to it!
 "Cherry blossoms! Cherry blossoms!"
@@ -34848,7 +34821,7 @@ cherry blossoms
 for the mountain field
 mulch is falling...
 cherry blossoms
-evening cherry blossoms--
+evening cherry blossoms—
 people listening
 to heavenly music
 "Take a shortcut
@@ -34863,7 +34836,7 @@ willow
 smack in the middle
 of Edo's very heart...
 a willow
-willow at the gate--
+willow at the gate—
 I part it with my head
 going in
 the willow
@@ -34890,28 +34863,28 @@ of moon
 in all of Sixth Month
 not one good moon...
 little hut
-Sixth Month--
+Sixth Month—
 for the moon's blessing
 sweeping soot
-Sixth Month--
+Sixth Month—
 catching sight of the moon
 sweeping soot
-short summer nights--
+short summer nights—
 I've grown old enough
 to love them
-short summer night--
+short summer night—
 a new red flower
 on the vine's tip
 ink-stained hands
 sweaty face...
 the child's calligraphy!
-hot day--
+hot day—
 the foolish crow picks
 at the eaves
-a hot night--
+a hot night—
 among bags and burdens
 they sleep
-hot night--
+hot night—
 bats dangle
 at the river's edge
 the rice shoots
@@ -34929,7 +34902,7 @@ lying down
 Mount Haku's snowcap
 twinkling...
 summer heat
-so weary--
+so weary—
 cool tree shade makes me
 double back
 how many gateways
@@ -34941,16 +34914,16 @@ Sir Horse
 in summer cool
 the account book
 for a pillow
-summer cool--
+summer cool—
 the gate to Buddha's
 Pure Land
-cool air--
+cool air—
 even the snow of Shinano
 for sale
-in summer cool air--
+in summer cool air—
 no incense
 no farts
-rainy season over--
+rainy season over—
 two houses, two neighbors
 sweeping soot
 the last
@@ -34977,13 +34950,13 @@ I'm drenched
 my hut, too
 drenched by the Tiger's
 tears
-lying down in a row--
+lying down in a row—
 discussing
 the distant storm
 growing to the beat
 of the cloudburst...
 weeds
-rainstorm--
+rainstorm—
 monk-like on a rock, under a tree
 a minor official
 on my sleeping mat
@@ -35022,13 +34995,13 @@ pure water
 the old mountain guard
 prayed to find it...
 trickle of pure water
-morning's first thing--
+morning's first thing—
 greedy eyes
 on the green rice field
 this or that green rice field?
 each farmer
 is biased
-lying in a row--
+lying in a row—
 he slanders his own
 green rice field
 deutzia blossoms, too
@@ -35052,13 +35025,13 @@ a child
 outdoing the cormorant
 with a fine imitation...
 a child
-cormorants and fishermen--
+cormorants and fishermen—
 families
 of three
 the mother cormorant
 raising a ruckus..
 her child comes home
-baby comorant cries--
+baby comorant cries—
 his mother returns
 to the boat
 my favorite cormorant
@@ -35082,22 +35055,22 @@ summer kimonos
 a thirty-foot wooden sword
 on their shoulders...
 summer kimonos
-Kyoto night--
+Kyoto night—
 white summer kimonos
 white umbrella-hats
 this wind
 isn't enough, they say...
 summer room
-pine tree shade--
+pine tree shade—
 one straw mat
 my summer room
-no divine punishment yet--
+no divine punishment yet—
 napping
 under the net
 even the horses
 sleep in light green
 mosquito nets!
-curling to sleep--
+curling to sleep—
 in the paper mosquito net's window
 a sickle moon
 this body of dust
@@ -35148,16 +35121,16 @@ paper fan
 he passes by
 like Taro Kaja...
 paper fan
-picking flowers--
+picking flowers—
 his paper fan stowed
 behind his neck
 he stows his fan
 behind his neck...
 little boy
-mountain temple--
+mountain temple—
 the little boy's name
 on his fan
-great temple--
+great temple—
 the little boy's name
 on his fan
 placed to the windward
@@ -35196,7 +35169,7 @@ cool air at the gate
 one elbow
 on a sleeping deer...
 evening cool
-mother--
+mother—
 while enjoying the cool air
 stitching
 the stepchild's chore
@@ -35244,7 +35217,7 @@ cuckoo!
 sing, cuckoo!
 you're just about curing
 my headache
-cuckoo--
+cuckoo—
 "O flies and worms
 listen well!"
 for my house
@@ -35268,13 +35241,13 @@ reed thrush singing
 what delicateness!
 a snake too sheds
 his worldly robe
-temple grounds--
+temple grounds—
 a snake too sheds
 his worldly robe
-world of Buddha's law--
+world of Buddha's law—
 the snake strips
 his clothes
-lightning flash--
+lightning flash—
 the toad
 rubs his head
 looking like
@@ -35286,13 +35259,13 @@ a crow
 with that mouth
 he could vomit a cloud...
 toad
-Mister Toad--
+Mister Toad—
 the wife may be waiting
 your children crying
 a raindrop falls
 he rubs his head...
 toad
-"Allow me to present myself--
+"Allow me to present myself—
 I am the toad
 of this thicket!"
 a big firefly
@@ -35310,10 +35283,10 @@ a firefly
 first firefly
 though the hand is skillful
 slips free
-first firefly--
+first firefly—
 uncaught by the hand
 flies free
-flitting firefly--
+flitting firefly—
 uncaught by the hand
 uncaught again!
 though wrapped in
@@ -35322,7 +35295,7 @@ a firefly's light
 toward people's voices
 well, well!
 first firefly
-firefly lights--
+firefly lights—
 if you keep still
 even on your head
 do you think my sleeve
@@ -35340,19 +35313,19 @@ tomorrow the same
 up to heaven
 the mosquito larva flies...
 sickle moon
-morning's mosquitoes--
+morning's mosquitoes—
 behind Amida Buddha
 they hide
-pesky mosquito--
+pesky mosquito—
 into an old well
 he sneaks
 to the lullaby
 of mosquitoes
 she sleeps
-a smattering of mosquitoes--
+a smattering of mosquitoes—
 from today on
 an old man's world
-this is cute too--
+this is cute too—
 the year's first mosquito's
 whiny voice
 making even the cherry tree
@@ -35379,7 +35352,7 @@ a mosquito
 where the verandah fly
 rubbed his hands...
 swat!
-secluded house--
+secluded house—
 even my flies
 are few
 fly on my umbrella-hat
@@ -35388,7 +35361,7 @@ a citizen of Edo!
 the fly on my umbrella-hat
 beats me
 inside
-a lacquered tray--
+a lacquered tray—
 whoops!
 the fly slips
 one man, one fly
@@ -35415,7 +35388,7 @@ a fortunate pillar
 "Hey puppy
 come here!" sings
 a cicada
-a cicada chirrs--
+a cicada chirrs—
 the pinwheel so utterly
 red
 first cicada
@@ -35424,16 +35397,16 @@ Look! Loo-ook!"
 cicada in the pine
 how much will you cry
 till it's noon?
-a mountain cicada--
+a mountain cicada—
 into my sleeve
 he goes
 from deep in the temple gong
 a chirring
 cicada
-dayflowers--
+dayflowers—
 even at the ancient priest's
 window
-day flowers--
+day flowers—
 burn amid steaming
 pebbles
 blowing his nose
@@ -35463,7 +35436,7 @@ with peonies!
 blooming lotuses
 in this world...
 bent
-it's a better world--
+it's a better world—
 but they're only penny-sized
 lotus blossoms
 even lotus blossoms
@@ -35472,7 +35445,7 @@ oh floating world!
 transferred to my gate
 the little lotus
 blossom
-blooming pink--
+blooming pink—
 two pennies' worth of water
 for your bath
 the pink
@@ -35493,22 +35466,22 @@ has bloomed!
 planted in the garden
 of the secluded house...
 leftover rice plants
-roadside--
+roadside—
 even the horse won't eat
 the leftover rice plants
-secluded house--
+secluded house—
 using its pillar to thresh
 the barley
-ripened barley--
+ripened barley—
 with a child on her back
 the sardine vendor
-a busy time--
+a busy time—
 even the mountain's moss
 in full bloom
 the mountain moss
 lends a hand
 to the blooming
-red sacred rope--
+red sacred rope—
 the smallpox god's
 crop of young bamboo
 a splendid, tall
@@ -35526,13 +35499,13 @@ fresh new shoots
 the thousand year
 bamboo shoot...
 snap! broken
-bamboo shoots--
+bamboo shoots—
 if it weren't for people's "shoots"
 you'd live to flower
-bitter bamboo shoots--
+bitter bamboo shoots—
 a lucky
 assembly
-fancy sitting room--
+fancy sitting room—
 even peeling melons
 an ordeal
 first melon of the season
@@ -35577,7 +35550,7 @@ deutzia blossoms
 enough light
 to light my bedroom...
 deutzia blossoms
-first autumn morning--
+first autumn morning—
 a fever-curing
 kind of sky
 a child writes
@@ -35625,7 +35598,7 @@ it's autumn's dusk
 our shameful shadows!
 in the long night walking
 in vain
-autumn ends--
+autumn ends—
 a man strokes away
 his horse's troubles
 "Gimme that harvest moon!"
@@ -35634,7 +35607,7 @@ child
 guard my hut's key
 pine tree!
 going moon gazing
-a present for me--
+a present for me—
 moon gazing then locking
 my hut
 the sake gone
@@ -35649,31 +35622,31 @@ moon gazing alone
 the harvest moon
 draws near...
 hole in the wall
-harvest moon--
+harvest moon—
 fifty-seven years
 of traveling autumns
-harvest moon--
+harvest moon—
 she'd crawl to my dinner tray
 if my child were here
-harvest moon--
+harvest moon—
 my lap would be a pillow
 if my child were here
-harvest moon--
+harvest moon—
 leaving my hut's key
 with the pine
 little house
 in a rice barn's shadow...
 here too, moon gazing
-Ishiyama--
+Ishiyama—
 a harvest moon eclipse
 gazer
 eclipsed splendidly
 as one would expect...
 harvest moon
-night of the 15th--
+night of the 15th—
 a long wait
 for darkness
-an officious one--
+an officious one—
 the harvest moon eclipse
 gazer
 boldy he forecasts
@@ -35685,19 +35658,19 @@ is cured
 returning to us
 the great harvest moon!
 harvest moon!
-before the moon does--
+before the moon does—
 the crowd of people
 wanes
-before the moon does--
+before the moon does—
 people's faces
 wane
-voices in the dark--
+voices in the dark—
 yet this is the night
 of harvest moon
 to the world of man
 the moon deigns
 to return
-world of man--
+world of man—
 even the moon
 suffers!
 are you the harvest moon's
@@ -35709,7 +35682,7 @@ floating world!
 ending the harvest moon
 eclipse...
 mountain rain
-such is our world--
+such is our world—
 even the moon
 gets sick!
 the geese too
@@ -35718,16 +35691,16 @@ Ninth Month moon
 stuck in his winnow
 chopsticks and a charm...
 clear fall weather
-autumn wind--
+autumn wind—
 the compass points
 to my native mountains
-autumn wind--
+autumn wind—
 red flowers she wanted
 to pick
-pearls of dew--
+pearls of dew—
 even on my sleeves
 rolling down
-a dewdrop pearl--
+a dewdrop pearl—
 I pinched it into
 a Buddha
 trying to pinch
@@ -35735,7 +35708,7 @@ a bead of dew...
 a child
 this world
 is a dewdrop world
-yes... but...
+yes...but...
 dew from a lotus leaf
 plenty
 for morning tea
@@ -35754,16 +35727,16 @@ toad
 in flashes of lightning
 crossing the shaky
 bridge
-lightning flash--
+lightning flash—
 lying in a row at the gate
 happy faces
-lightning--
+lightning—
 streak by streak
 cures the world
-little straw mat--
+little straw mat—
 even on a one-penny bridge
 fog rises
-evening fog--
+evening fog—
 the horse remembers
 the bridge's hole
 writing the poem
@@ -35778,7 +35751,7 @@ fireworks!
 a wind-break
 for the nursing child...
 scarecrow
-a rainy evening--
+a rainy evening—
 my next-door neighbor
 pounding cloth
 setting a lantern
@@ -35805,13 +35778,13 @@ is Mother
 an owl hooting
 to the beat...
 evening cloth-pounding
-Kasuga Field--
+Kasuga Field—
 penny candy mingles
 with deer poop
 hanging from the buck's
 antler...
 a hand-lamp
-young bucks--
+young bucks—
 even those born this year
 autumn voices
 grandfather buck
@@ -35847,7 +35820,7 @@ lying down
 listen well
 to that off-key flute!
 cry of a deer
-mountain temple--
+mountain temple—
 on the verandah
 a deer cries
 as evening falls
@@ -35883,7 +35856,7 @@ peaceful faces
 you too, wild geese
 all day, into the night
 must travel
-lone wild goose--
+lone wild goose—
 fly night after night
 on your way
 tonight like old times
@@ -35925,7 +35898,7 @@ chrysanthemum
 the sect founder
 is Great Basho...
 chrysanthemums
-chrysanthemum garden--
+chrysanthemum garden—
 we walk with little
 sake cups
 wielding his hoe
@@ -35958,7 +35931,7 @@ a chrysanthemum
 the thicket's chrysanthemum
 blooms
 in secret
-mountain temple--
+mountain temple—
 among the provisions
 chrysanthemums
 peacefully asleep
@@ -35994,7 +35967,7 @@ rice blossoms
 never giving up
 my field rustles too...
 heads of rice
-evening moon--
+evening moon—
 on the harvested rice
 a bottle of sake
 offering a prayer
@@ -36021,7 +35994,7 @@ mushroom hunting
 the mushroom hunters
 return empty-handed...
 fussing
-snowflakes flitting down--
+snowflakes flitting down—
 a winter solstice
 celebration
 for one penny
@@ -36036,7 +36009,7 @@ in the cold
 "A starling from the sticks!"
 he taunts...
 how cold it is
-evening's glow--
+evening's glow—
 the deep, deep red
 first ice
 at the tip of the pole
@@ -36048,7 +36021,7 @@ the year ends
 paying no heed
 to the year's last day...
 a floating bird, asleep
-evening mountain--
+evening mountain—
 the color of buckwheat noodles
 first winter rain
 the child rides piggyback
@@ -36060,13 +36033,13 @@ steady winter rain
 the little blind child
 is overrun...
 winter rain
-night of winter rain--
+night of winter rain—
 the cries of a deer
 without a child
 the servant beats
 his wooden drum...
 winter rain
-winter rain--
+winter rain—
 the deaf and dumb beggar
 beats his bowl
 in the box
@@ -36078,37 +36051,37 @@ rain
 "A starling from the sticks"
 I'm called...
 steady winter rain
-winter wind on Samusa Bridge--
+winter wind on Samusa Bridge—
 a samurai's servant
 goes home
-winter wind--
+winter wind—
 a voice from nowhere calls
 the blind masseur
-winter wind--
+winter wind—
 the frozen north
 draws near
-winter wind--
+winter wind—
 a twenty-four penny
 whorehouse
-winter wind--
+winter wind—
 on the vacant house
 a painted devil
-winter wind--
+winter wind—
 riding a packhorse
 through dust
 a dumping ground
 for the first snow...
 my backyard
-first snowfall--
+first snowfall—
 I take down my indoor
 slippers
-first snowfall--
+first snowfall—
 soon to be boiled
 the playful pig
-my house's rear wall--
+my house's rear wall—
 the dirty snow
 holds on
-snow flitting down--
+snow flitting down—
 the sky over Shinano
 isn't joking
 fall, snow!
@@ -36126,7 +36099,7 @@ night frost
 to the west
 is Buddha's Paradise...
 withered fields
-winter prayers--
+winter prayers—
 a cutpurse, too
 in moonlight
 in a crossroads temple
@@ -36141,13 +36114,13 @@ night of winter prayers
 for festive jelly too
 the venerable Twelfth Day...
 first winter rain
-midwinter bathers--
+midwinter bathers—
 on their backs posters
 of dragons
-winter voice drills--
+winter voice drills—
 for this, too
 all praise to Amida Buddha!
-rainy night--
+rainy night—
 yet she chants winter prayers
 nonetheless
 one by one
@@ -36174,10 +36147,10 @@ rice cakes
 "The rice cake man
 is next door!"
 the child announces
-pounding rice cakes--
+pounding rice cakes—
 the altar's god of wealth
 beams a smile
-not reaching my place--
+not reaching my place—
 the sound
 of rice cake pounding
 to my gate
@@ -36198,13 +36171,13 @@ they drink away the year
 the cat joins
 the party...
 drinking away the year
-Kyoto--
+Kyoto—
 even under bridges
 drinking away the year
-my house--
+my house—
 all by myself
 drinking away the year
-mountain village--
+mountain village—
 even in a thicket
 a year's end fair
 the child's only three
@@ -36222,10 +36195,10 @@ children's voices...
 one shout
 and this world's demons
 should flee
-my country--
+my country—
 even the children
 chase off demons
-ashamed--
+ashamed—
 I present myself to Edo
 a year older
 he drives out devils
@@ -36237,19 +36210,19 @@ my winter coat
 the cat breaks it in
 sharpening claws...
 winter quilt
-imperial palace--
+imperial palace—
 in Kyoto even cats
 have futons!
 no good deeds
 but also no sins...
 winter seclusion
-winter seclusion--
+winter seclusion—
 getting better at eating
 foul food
-winter seclusion--
+winter seclusion—
 becoming expert at eating
 foul food
-charcoal fire--
+charcoal fire—
 morning's celebration
 of coughing
 our treasured child
@@ -36285,7 +36258,7 @@ withered grasses
 morning after morning
 one by one...
 yanking radishes
-temple nuns--
+temple nuns—
 it takes two
 yanking the radish
 yanking a radish
@@ -36300,16 +36273,16 @@ red leaves
 with a fistful
 giving the keg a wipe...
 red leaves
-winter withering--
+winter withering—
 a straw fire sputters
 out
-frost-killed grass--
+frost-killed grass—
 catching sight of me
 he hits his gong
-frost-killed grass--
+frost-killed grass—
 whitewash peeling off
 the mud dumpling
-lazy--
+lazy—
 leaving blossoms and moon
 for tomorrow
 which one of those
@@ -36324,10 +36297,10 @@ there's my house!
 from this year on
 clear profit...
 this corrupt world's sky
-north country--
+north country—
 but on my hut a snowless
 First Month
-first rain--
+first rain—
 a typical north country
 New Year's
 the roadside's dirt
@@ -36339,13 +36312,13 @@ spring window
 with the new spring
 tasty sea plants on the beach...
 a thousand ages
-spring begins--
+spring begins—
 two households
 one house
 I swear it's
 looking big!
 the year's first sun
-a big rain--
+a big rain—
 early New Year's Day
 it falls
 sprinkled in
@@ -36357,7 +36330,7 @@ spring rain
 utterly soaked
 by the year's first rain...
 little house
-plum blooming--
+plum blooming—
 even hell's gate
 CLOSED
 today even the
@@ -36387,10 +36360,10 @@ lion puppet's head
 taking their leave
 in the flowery Third Month...
 radishes
-spring has sprung--
+spring has sprung—
 but in every thicket, snow
 and more snow!
-spring peace--
+spring peace—
 a mouse licking up
 Sumida River
 the crow, too
@@ -36399,7 +36372,7 @@ a long day
 leading a cow
 from the dark barn...
 days grow longer
-long day--
+long day—
 the cow's slobber
 about two miles long
 chanting "Praise Buddha!"
@@ -36408,7 +36381,7 @@ a long day
 "Praise Buddha!"
 chanted for a fee...
 a long day
-morning's first thing--
+morning's first thing—
 on praying hands
 the spring rain
 in deep mountains too
@@ -36417,19 +36390,19 @@ spring rain
 crossing the hanging bridge
 singing a song...
 spring rain
-incense smoke--
+incense smoke—
 Inner Peace Temple
 in the spring rain
-spring rain--
+spring rain—
 in my lover's sleeve
 coins jingle
-spring rain--
+spring rain—
 a child gives a dance lesson
 to the cat
-spring rain--
+spring rain—
 crossing the two-penny bridge
 in vain
-world of man--
+world of man—
 it doesn't fall at once
 the spring rain
 the puppy has caught
@@ -36438,16 +36411,16 @@ spring breeze
 the spring breeze
 stubbornly cold...
 Shinano mountain
-spring breeze--
+spring breeze—
 two samurai
 attend the dog
-spring breeze--
+spring breeze—
 on the fence a pair
 of red sandals
 one hotel runner
 is a woman...
 spring breeze
-an east wind blows--
+an east wind blows—
 the dog lays his chin
 on the bank
 his attendants behind
@@ -36465,7 +36438,7 @@ my hick province
 the goddess of spring
 missed a few spots...
 mottled mountain
-what a shame--
+what a shame—
 cheating fate for the moment
 leftover snow
 herons, crows, sparrows
@@ -36489,10 +36462,10 @@ sparrow families
 they carry him
 to the spring blossoms...
 Buddha
-cherry tree--
+cherry tree—
 ensconced among blossoms
 the hermit doll
-they must have kids--
+they must have kids—
 herbs at the gate
 for herb cakes
 all the way
@@ -36501,7 +36474,7 @@ low tide
 acting like people
 pigeons and sparrows
 at low tide
-Fukagawa--
+Fukagawa—
 in the shrine's garden
 low tide shell-gathering
 tea leaves picked
@@ -36522,7 +36495,7 @@ the love-crazed cat
 at my gate
 the wild cat's route
 for prowling
-smitten cat--
+smitten cat—
 a case of love-madness
 it seems
 tethered now
@@ -36546,7 +36519,7 @@ mountain priest
 embarrassed
 that he's shed his horns...
 mountain buck
-moonrise over western mountains--
+moonrise over western mountains—
 the buck
 sheds his antlers
 look you goblins!
@@ -36558,16 +36531,16 @@ my hut
 in vain
 the baby bird begs...
 a stepchild
-sparrows at the gate--
+sparrows at the gate—
 a quarrel between brothers
 breaks out
 "Baby sparrow's
 a sissy!"
 playing with the girls
-a nightingale sings--
+a nightingale sings—
 the east gate
 of Amida's Pure Land
-a pheasant cries--
+a pheasant cries—
 "From here to the west
 your hut's territory!"
 borrowing the buck's
@@ -36600,7 +36573,7 @@ croaking frogs
 even the nettle tree
 dressed for spring...
 croaking frogs
-frogs--
+frogs—
 over my hand fanning a fuse
 they hop
 in his regular seat
@@ -36627,10 +36600,10 @@ little butterfly
 a shock
 to the arriving butterfly
 a fence
-white versus yellow--
+white versus yellow—
 the butterflies also
 fight
-sedge mat--
+sedge mat—
 look! look! butterflies
 you've stained it
 foraging for food
@@ -36654,19 +36627,19 @@ little girl
 "This way to the hut!"
 the horsefly
 flies
-single file on the road--
+single file on the road—
 one horsefly
 one me
 acting as guide
 on the mountain road...
 horsefly
-mountain road--
+mountain road—
 "This way, come! Come!"
 the horsefly flies
 the hornet too
 knowing the eaves
 returns
-my province--
+my province—
 even the grass blooms
 cherry blossoms
 at the edge
@@ -36684,7 +36657,7 @@ blossom viewing
 "There's some blossoms!
 and over there!"
 laughing Buddha
-no divine punishment yet--
+no divine punishment yet—
 rain
 of cherry blossoms
 father and son
@@ -36699,7 +36672,7 @@ blossom shade
 on little straw mats
 tired of the blossoms...
 they snore
-one after another--
+one after another—
 days in the blossoming
 mountains
 he sneaks up
@@ -36714,7 +36687,7 @@ clouds
 the distant mountain's
 blossoms cast their light...
 east window
-blossoms scatter--
+blossoms scatter—
 in the shade of parasols
 drunken revelry
 young folk beat us
@@ -36732,13 +36705,13 @@ blooming cherry tree
 today again, "Cherry blossoms!
 Cherry blossoms!"
 they say
-sleeping mat--
+sleeping mat—
 amid cherry blossoms cooling
 my heels
 one raindrop
 pats my head...
 from the cherry blossoms
-night's cherry blossoms--
+night's cherry blossoms—
 heavenly ladies
 among us
 again the river
@@ -36759,7 +36732,7 @@ of fireflies
 chin on hands
 a face like Goddess Kannon's
 in willow shade
-summer evening--
+summer evening—
 they watch from two houses
 wildflowers
 unthinkingly
@@ -36768,19 +36741,19 @@ cool air
 a fresh-made dewdrop
 is cool too...
 moon at the gate
-also in the cool breeze--
+also in the cool breeze—
 a gourd that can hold
 two quarts
 a cool house
 the Pure Land's
 west gate
-cool air--
+cool air—
 out of four gates
 entering just one
-cool air--
+cool air—
 on the earthen bridge
 a tobacco tray
-cool air--
+cool air—
 the little lamp can't dry
 the starch
 speaking truth
@@ -36822,10 +36795,10 @@ the shrine boat
 like this since
 olden times?
 evening's shrine boats
-mother's turn--
+mother's turn—
 once more through
 the purification hoop
-life in Edo--
+life in Edo—
 from a second-floor window
 summer's first banner
 from holy Jizo's
@@ -36873,7 +36846,7 @@ siesta
 under the bell
 over the clapper...
 a noon nap
-rice field ridge--
+rice field ridge—
 a one-rush mat
 siesta shack
 one branch of the nettle tree
@@ -36915,13 +36888,13 @@ cool air at the gate
 night after night
 rejuvenation...
 cool air at the gate
-shallow well--
+shallow well—
 the little fish's playmate
 sweet jelly tub
 in a village
 without birds
 bats at dinnertime
-foolish bird--
+foolish bird—
 after molting
 what are you thinking?
 walking along
@@ -36933,16 +36906,16 @@ cuckoo
 that way
 the stones sing too!
 cuckoo
-rain pours down--
+rain pours down—
 a cuckoo
 on Mount Machikane
-cuckoo--
+cuckoo—
 in a palanquin to Yoshiwara
 he flies!
 mountain cuckoo
 you're nothing
 but a crybaby!
-nightingale--
+nightingale—
 don't catch old age!
 my house
 though wrapped
@@ -36975,7 +36948,7 @@ crawling firefly
 O insects of summer
 there's time yet
 for lovemaking!
-my hut's lamp--
+my hut's lamp—
 even moths don't come
 to the flame
 don't strike
@@ -37005,22 +36978,22 @@ a poor village
 the mother cat
 gnawing her kitten's
 fleas
-my sleeping mat--
+my sleeping mat—
 where the mouse drops
 her fleas
 having gnawed their fleas
 and put them to bed, she leaves...
 mother cat
-outskirts of Edo--
+outskirts of Edo—
 tiny slices for sale
 summer's first bonito
 before the admiral
 hordes of them!
 summer's first bonito
-summer's first bonito--
+summer's first bonito—
 just tiny slices
 for sale
-a rainy night--
+a rainy night—
 sizing up the potted
 peony
 in Edo
@@ -37029,10 +37002,10 @@ is sold
 duckweed
 inside the kettle too...
 blooming
-duckweed--
+duckweed—
 while it carouses
 it blooms
-floating duckweed--
+floating duckweed—
 appropriate
 in this floating world
 moss provides
@@ -37041,10 +37014,10 @@ grave mound
 what are you counting
 sparrows?
 this year's bamboo
-world of bamboo shoots--
+world of bamboo shoots—
 the mountain's bamboo grasses
 also raise children
-bamboo shoots--
+bamboo shoots—
 a woman digs them up
 like a dog
 a night sermon
@@ -37074,16 +37047,16 @@ Buddha!
 "First autumn morning"
 just saying it...
 feel old
-nippy weather--
+nippy weather—
 the Buddha takes leave
 of Zenko Temple
-morning cold--
+morning cold—
 on the fence the tea strainer's
 shadow
-morning cold--
+morning cold—
 for the chrysanthemum too
 a little hot water
-morning cold--
+morning cold—
 men of leisure
 stay put
 the chicken
@@ -37095,10 +37068,10 @@ autumn evening
 I'm all alone
 on the ferry...
 autumn dusk
-secluded house--
+secluded house—
 the drunk I hired
 in the autumn dusk
-hanging bridge--
+hanging bridge—
 a blind man crosses too
 in autumn dusk
 I too
@@ -37107,7 +37080,7 @@ autumn dusk
 the pine tree too
 in the circle of old men...
 autumn dusk
-sickle moon--
+sickle moon—
 in the reed huts of Edo too
 autumn dusk
 my pine tree too
@@ -37125,13 +37098,13 @@ the Milky Way
 scowling
 at the sickle moon...
 cicada husk
-Eighth Month--
+Eighth Month—
 a rainy night, pre-harvest moon
 in the mountains of Shinano
-harvest moon--
+harvest moon—
 deep in the mountain
 a mountain moon
-one nondrinker--
+one nondrinker—
 harvest moon eclipse
 gazers
 go ahead, steal
@@ -37143,7 +37116,7 @@ clear fall weather
 in two houses
 preparing rice cakes...
 autumn rain
-autumn wind--
+autumn wind—
 the Buddha of Zenko Temple
 is gone
 from the weaned
@@ -37164,7 +37137,7 @@ for face-washing
 earthen teapot
 ah! all full
 with autumn dew
-dewdrops scatter--
+dewdrops scatter—
 over fifty travelers
 en masse
 this dewdrop world's
@@ -37176,7 +37149,7 @@ autumn dew
 dripping from the flower vendor's
 display...
 morning dew
-evening dew--
+evening dew—
 the lamp is lit
 in its usual place
 autumn departs
@@ -37188,7 +37161,7 @@ old men
 lightning impregnates
 seeds with life...
 even for weeds
-lightning flash--
+lightning flash—
 only the puppy's face
 is innocent
 harbinger
@@ -37203,7 +37176,7 @@ Shinano pony
 feeding him grass
 farewell! farewell!
 the pony's master
-led-away pony--
+led-away pony—
 how has this year's
 buckwheat grown?
 a parting gift
@@ -37212,22 +37185,22 @@ seeing off the horse
 a sack of buckwheat
 goes with him...
 seeing off the pony
-harvest gifts--
+harvest gifts—
 in the dog's bowl too
 boiled beans and rice
-harvest gift--
+harvest gift—
 on the tray laying
 a good-luck bag
-Chrysantheum Festival--
+Chrysantheum Festival—
 the drunk I hired
 gives me sake
-secluded house--
+secluded house—
 with the drunk I hired
 Chrysanthemum Festival wine
 hey, young pine
 how about a song?
 bird clapper
-night in the hut--
+night in the hut—
 from every direction
 a cloth-pounding cacophony
 it's a land
@@ -37239,19 +37212,19 @@ pounding cloth
 going back to sleep
 with praise from my heart...
 evening cloth-pounding
-faintly heard--
+faintly heard—
 one cloth-pounder
 is Mother
-sunrise--
+sunrise—
 ten deer at least
 singing in pairs
-back window--
+back window—
 the deer strikes a pose
 the dog barks
-back window--
+back window—
 the deer strikes a pose
 the dog sleeps
-even the deer--
+even the deer—
 parents, child
 a family of three
 the young buck kneels
@@ -37260,7 +37233,7 @@ mountain moon
 deer in the shadows
 of plume grass...
 how many couples?
-cries of the deer--
+cries of the deer—
 in a village without dogs
 a moonlit night
 a deer cries
@@ -37269,13 +37242,13 @@ either
 barking deer
 do you think I'm
 a suspicious character?
-the friendly deer--
+the friendly deer—
 my hands for a pillow
 and my feet
 in the thicket
 the old deer calls
 for honor's sake
-night storm--
+night storm—
 blowing in the window
 cry of a deer
 glimpsing suspicious me
@@ -37338,7 +37311,7 @@ his head
 slipping right off
 the dragonfly...
 his head
-dragonflies like people--
+dragonflies like people—
 restless, restless
 eyes
 a dragonfly copies
@@ -37362,10 +37335,10 @@ by himself
 locusts flying
 "The word is good!
 All good!"
-katydids--
+katydids—
 when three of them gather
 they quarrel
-the katydid--
+the katydid—
 even while they sell him
 singing
 from the hole
@@ -37380,7 +37353,7 @@ a katydid
 at the sound of the sunset
 bell...
 wildflowers
-world of man--
+world of man—
 one by one the wildflowers
 scatter
 the verandah cat's
@@ -37404,7 +37377,7 @@ perfectly straight
 the mountain chrysanthemum
 grows up straight...
 naturally
-mountain chrysanthemum--
+mountain chrysanthemum—
 growing crooked's a thing
 it knows nothing about
 covering about ten
@@ -37413,16 +37386,16 @@ young chrysanthemums
 in a village of people
 they grow crooked...
 field chrysanthemums
-bush clover temple--
+bush clover temple—
 the deer strikes a pose
 the dog sleeps
-my bush clover--
+my bush clover—
 instead of deer
 a sleeping dog
 how many people
 sweated and toiled!
 rice blossoms
-rice blossoms--
+rice blossoms—
 a large man
 lost in them
 even the puppy
@@ -37440,7 +37413,7 @@ you're a hot pepper
 the children
 pretend to be foxes...
 plume grass
-my home village--
+my home village—
 come close and the plume grass
 cuts you
 amid plumes of plume grass
@@ -37455,22 +37428,22 @@ Kyoto child
 Mother eats
 the astringent part...
 mountain persimmon
-the persimmon's astringent--
+the persimmon's astringent—
 the crow, too, knows
 and passes on
-Kyoto child--
+Kyoto child—
 pretending the persimmon
 is sweet
-mountain persimmons--
+mountain persimmons—
 in Buddha's eyes
 they are sweet
 this pomegranate
 tastes like me
 enjoy it, little louse!
-ashamed--
+ashamed—
 eyes glued to the chestnut
 beyond reach
-big mushroom--
+big mushroom—
 even horse dung
 had its day
 it's a man-killing
@@ -37500,7 +37473,7 @@ and slippery road
 it's a load
 on the cow's head...
 pile of snow
-Shinano road--
+Shinano road—
 the snow falls
 stubbornly
 what a straight
@@ -37518,16 +37491,16 @@ to my pillow
 from the window's hole
 and the wall's crack...
 the blizzard
-little straw mat--
+little straw mat—
 the cat comes with a coat
 of snowflakes
-morning frost--
+morning frost—
 yet still a child sells
 temple flowers
 cricket on a frosty
 night...
 bragging!
-beggar child--
+beggar child—
 even in his lap
 morning frost
 five or six horses
@@ -37542,16 +37515,16 @@ first winter rain
 a haiku reading
 in memoriam...
 first winter rain
-Basho's Death-Day--
+Basho's Death-Day—
 even in Hokkaido this moon
 in the pine
-Lotus Sutra--
+Lotus Sutra—
 the birds remember Basho
 too
 in the outcastes' town
 a Buddhist banner...
 the frosty month
-Mokubo Temple--
+Mokubo Temple—
 praising Buddha, too
 for winter voice drills
 kindly the wind
@@ -37563,7 +37536,7 @@ old man dances
 even soot-sweeping
 on an unlucky day...
 so much harder!
-mountain village--
+mountain village—
 four or five years of soot
 needs sweeping
 hot bath steam
@@ -37578,13 +37551,13 @@ the gate's sparrows
 a samisen joins
 the Twelfth Month singers...
 Kyoto
-Twelfth Month singers--
+Twelfth Month singers—
 one strokes plum blossoms
 with his whisk
 after a hacking cold
 right away...
 Twelfth Month singers
-secluded house--
+secluded house—
 three cats guard
 the rice cakes
 the god's rice cakes
@@ -37605,10 +37578,10 @@ traveling crow
 practicing
 with the snowshoes...
 putting them on
-snowshoes--
+snowshoes—
 in front of the hut
 print after print
-snowshoes--
+snowshoes—
 following behind, the dog
 swims
 the village child
@@ -37617,7 +37590,7 @@ Snow Mountain
 the village child
 builds it with her hands...
 Snow Mountain
-my dwelling--
+my dwelling—
 somewhere behind
 the bundled snow
 even our fleeting snow
@@ -37626,7 +37599,7 @@ Buddha!
 watching a war lord
 drenched...
 my cozy brazier
-charcoal fire--
+charcoal fire—
 passing through old age
 is like that
 familiar grasses
@@ -37638,7 +37611,7 @@ first
 there's no shame
 that you totter...
 old chrysanthemum
-my gate--
+my gate—
 just six radishes
 remain in supply
 on the fresh-plowed
@@ -37650,7 +37623,7 @@ falling leaves
 the kitten holds it down
 just a moment...
 fallen leaf
-winter withering--
+winter withering—
 at the farmhouse the rain
 falls sideways
 cranes land
@@ -37671,7 +37644,7 @@ trashy house
 on New Year's Day
 everywhere, a corrupt world's
 blossoms
-a new spring starting--
+a new spring starting—
 early, so early
 turns sour
 from this year on
@@ -37689,7 +37662,7 @@ waterfowl
 First Month, second day
 the laziness
 begins
-spring's first dawn--
+spring's first dawn—
 there's not a village
 where it isn't
 roof after roof
@@ -37704,13 +37677,13 @@ spring pine
 we start the spring
 in our everyday clothes...
 me and the sparrow
-spring begins--
+spring begins—
 on the hut's unlucky side
 a grave
-spring begins--
+spring begins—
 the obligatory
 sparrows at the gate
-it's sooty too--
+it's sooty too—
 the New Year god's
 home
 entrusting all
@@ -37722,7 +37695,7 @@ New Year's offering shelf
 for drinking buddies
 the usual New Year's pilgrimage...
 sake shop
-even on Honen's Death-Day--
+even on Honen's Death-Day—
 shaky feet
 shaky hands
 on the fast day
@@ -37740,10 +37713,10 @@ down the fox's hole
 my New Year's greeting
 is answered...
 second floor
-a good man--
+a good man—
 crossing a mountain to say
 "Happy New Year!"
-New Year's gate greetings--
+New Year's gate greetings—
 on each side of the road
 tracks of sandals
 "Happy New Year!"
@@ -37752,7 +37725,7 @@ a present
 reading it to discover
 the price of rice...
 New Year's greeting letter
-a samurai--
+a samurai—
 after an apology
 a "Happy New Year!"
 going out to collect
@@ -37764,7 +37737,7 @@ tracks of sandals
 meeting enroute
 a quick exchange...
 "Happy New Year!"
-samurai street--
+samurai street—
 over the quince hedge
 "Happy New Year!"
 the priest's shaved head
@@ -37791,7 +37764,7 @@ pink cheeks
 on top
 of the New Year's gifts...
 cat curled asleep
-New Year's gift--
+New Year's gift—
 tossed in the window
 while I was out
 the treasured child
@@ -37806,13 +37779,13 @@ flies a kite
 in place
 of begging actors
 chattering sparrows
-sitting room--
+sitting room—
 eyes locked on his treat
 the monkey dances
 mother monkey
 teaches her baby...
 dance moves
-dancing monkey--
+dancing monkey—
 he gives his rice cake
 to the child
 even for the holy hermit
@@ -37824,10 +37797,10 @@ zoni on the dinner tray
 in my hut
 today, a square
 of zoni!
-rice cake offerings--
+rice cake offerings—
 on Buddha's lap
 for just a little while
-old man in the kitchen--
+old man in the kitchen—
 his New Year's tooth-hardening
 beats mine
 a New Year's toast
@@ -37863,37 +37836,37 @@ mountain moon
 it's springtime!
 even the thicket's lice
 move into the field
-a long day--
+a long day—
 even getting in the bath
 is a chore
-a long day--
+a long day—
 the dog and the crow
 quarreling
 the puppy has caught
 a mouse...
 spring rain
-spring breeze--
+spring breeze—
 a thicket mouse
 caught by the dog
-spring breeze--
+spring breeze—
 in coat and trousers
 a dandified beggar
-spring breeze--
+spring breeze—
 in coat and trousers
 an Edo beggar
 even for the horse
 a dose of burning wormwood...
 spring breeze
-day mist--
+day mist—
 the census taker reckons it
 about seven miles
 lamplight
 in the spring mist...
 dawn
-me and Buddha--
+me and Buddha—
 our heads
 in the mist
-heat shimmers--
+heat shimmers—
 his laughing face
 lingers
 atop the main temple
@@ -37980,7 +37953,7 @@ cherry blossoms
 from birth on
 for butterflies, playing
 is their job
-well behaved--
+well behaved—
 the butterfly, too
 wears light blue
 the crazy one
@@ -37992,7 +37965,7 @@ pale blue butterflies
 counting heads
 of the shrine visitors...
 little butterfly
-butterfly dancing--
+butterfly dancing—
 under the horse's gut
 unaware
 butterfly, look!
@@ -38001,10 +37974,10 @@ sleep together
 I crawl in to join
 the sleepers...
 meadow butterflies
-sleeping in a row--
+sleeping in a row—
 little butterfly, cat
 high priest
-gambling in the field--
+gambling in the field—
 from the pot
 a little butterfly
 taking a dip
@@ -38043,7 +38016,7 @@ camellia
 with one blooming
 plum tree
 teahouse of reeds
-plum blooming--
+plum blooming—
 deep in Shinano, too
 tracks of sandals
 still plum blossoms
@@ -38079,13 +38052,13 @@ cherry blossoms
 when the wind
 is finally done, so are
 the blossoms
-cherry blossoms--
+cherry blossoms—
 a sleeve-tugging rain
 again today
 with a samisen
 she supports her parents...
 blossom shade
-Takai Field--
+Takai Field—
 just one blossom cloud
 on a trunk
 while selling his dumplings
@@ -38097,13 +38070,13 @@ blossom clouds
 around the old man's waist
 blossom viewing...
 a name tag
-cherry blossoms--
+cherry blossoms—
 cows follow cows
 horses, horses
-cherry blossom cold spell--
+cherry blossom cold spell—
 even the dog
 can't help but sneeze
-blossoming mountain--
+blossoming mountain—
 from east, west, north, south
 people come
 Buddha's saints
@@ -38130,22 +38103,22 @@ cherry blossoms
 in yellow roses
 shading his eyes to gaze...
 a weasel
-yellow roses--
+yellow roses—
 used to the hot spring's steam
 they bloom
 in the short night
 crossing bridges en masse...
 Kyoto pilgrimage
-summer heat--
+summer heat—
 today, all day
 the playful clouds
-cool breeze--
+cool breeze—
 through the window
 Pure Land Paradise!
-cool air--
+cool air—
 one tatami mat spreads
 in my house
-evening cool--
+evening cool—
 my umbrella-hat left
 at the last inn
 in Fifth Month rain
@@ -38157,7 +38130,7 @@ or goldfish
 in Fifth Month rain
 no incense
 no farts
-Fifth Month rain--
+Fifth Month rain—
 time for tobacco
 and tinderbox
 just for fun
@@ -38193,25 +38166,25 @@ mountain by the village
 standing dead center
 in the downpour...
 a blind man
-rainstorm--
+rainstorm—
 on a red sleeping mat
 a red flower
-rainstorm--
+rainstorm—
 outside the hairdresser's
 a potted pine
-rainstorm--
+rainstorm—
 atop the sleeping mat
 wildflowers
 washing my laundry
 with my clothes on...
 summer rain
-rainclouds--
+rainclouds—
 just to kill time
 billowing
 though small
 they line up too...
 peaks of clouds
-mountain country--
+mountain country—
 and above, too
 peaks of clouds
 after today
@@ -38244,7 +38217,7 @@ has arrived!
 a spider descends
 in vain...
 Buddha's birthday flowers
-mountain temple--
+mountain temple—
 the butterfly sips
 Buddha's tea water
 like wise men do
@@ -38259,7 +38232,7 @@ Mount Fuji's pilgrims
 in one morning
 I climb around ten...
 Mount Fujis
-cool air--
+cool air—
 I can straddle it
 this Mount Fuji!
 the frogs become
@@ -38286,7 +38259,7 @@ evening's purification
 rubbing even
 the hairless head...
 purification hoop
-purification hoop--
+purification hoop—
 we'd go through hand-in-hand
 if I had a child
 two butterflies
@@ -38298,7 +38271,7 @@ floats away
 the little plague god
 flies in the gust...
 its body so light!
-little plague god--
+little plague god—
 setting sail on a boat
 of bamboo grass
 bundled
@@ -38310,13 +38283,13 @@ a rice dumpling
 the kitten unwraps it
 with clever paws...
 rice dumpling
-festival--
+festival—
 cormorants asleep in a row
 on holiday
-baby comorant cries--
+baby comorant cries—
 his mother, calling back
 returns to the gate
-today--
+today—
 even in thick smoke
 cormorants make their living
 looking back, back
@@ -38355,7 +38328,7 @@ siesta
 they huff and puff
 up the hill...
 paper fans flitting
-treasured child--
+treasured child—
 one more mighty effort
 with the samurai's fan
 fanning his back sores
@@ -38388,13 +38361,13 @@ now, dew on the grass
 skillful hands
 skillful mouths...
 cool air at the gate
-mountain shade--
+mountain shade—
 while enjoying the cool air
 straw sandals, teahouse
 talking about this mountain
 and that...
 cool air at the gate
-Ryogoku Bridge--
+Ryogoku Bridge—
 even in this moment of cool air
 a lost child sign
 one horsefly
@@ -38403,10 +38376,10 @@ cooling off
 touched by
 the hot spring's steam...
 planting rice
-Shinano road--
+Shinano road—
 atop the mountain, too
 rice planters' umbrella-hats
-world of man--
+world of man—
 even atop a mountain
 rice planters singing
 being hugged
@@ -38463,7 +38436,7 @@ a cuckoo
 even you, mountain cuckoo
 visit me!
 back window
-a mountain cuckoo singing--
+a mountain cuckoo singing—
 if I could only
 sleep!
 "In these wilds
@@ -38493,7 +38466,7 @@ are you cool now?
 sweeping them off
 the horse's back...
 fireflies
-secluded house--
+secluded house—
 a firefly
 resort
 first firefly
@@ -38505,10 +38478,10 @@ fireflies
 mosquito larvae
 dance in memoriam...
 the tomb's puddle
-mosquito swarms--
+mosquito swarms—
 from the dog's butt
 and head
-men of leisure--
+men of leisure—
 "Mosquitoes have come!"
 they say
 chasing the fly swarm
@@ -38523,10 +38496,10 @@ already gone
 gaping mouthed
 and fly-hungry...
 dog at the gate
-my clean-shaven head--
+my clean-shaven head—
 the flies
 stomp on it
-temple fly mimic--
+temple fly mimic—
 hands
 praying beads
 after the fly swarm
@@ -38541,7 +38514,7 @@ country cat
 in the lake
 heading for the mountain...
 the flea swims
-my home--
+my home—
 next door to a thicket
 of fleas
 are you watching
@@ -38553,13 +38526,13 @@ post
 so many cicadas
 so many raindrops from the eaves!
 great temple hall
-temple in the thicket--
+temple in the thicket—
 even at night, now and then
 cicada song
 some sing all night
 some eat knotweed...
 a matter of taste
-verandah flower--
+verandah flower—
 making a skillful turn
 a snail
 the snail does just
@@ -38571,7 +38544,7 @@ a snail
 little snail, no different
 asleep
 awake
-straw fence--
+straw fence—
 coming down skillfully
 a snail
 coming out
@@ -38592,13 +38565,13 @@ little pink
 so lightly
 on the duckweed
 the frog's picnic
-duckweed--
+duckweed—
 even blooming in a bucket
 wind-rustled
 Sir Mouse
 nimbly, nimbly crosses
 the duckweed
-barley husking--
+barley husking—
 in the middle of the highway
 a bright moon
 in holy Jizo's
@@ -38610,10 +38583,10 @@ moss blossoms
 even the roof's moss
 blooms
 then scatters
-house's ridge-pole--
+house's ridge-pole—
 the crow flings down
 moss blossoms
-evening shadows--
+evening shadows—
 even the poorly growing
 moss has bloomed
 the old priest
@@ -38643,7 +38616,7 @@ shadow of new leaves
 cat on the fence
 bucket on the eaves...
 fresh green leaves
-fresh new leaves--
+fresh new leaves—
 the cat and the crow
 quarrel
 the fresh new leaves
@@ -38652,7 +38625,7 @@ Muen Temple
 the holy man
 grabs a siesta...
 grove of summer trees
-rain shower--
+rain shower—
 the grave's shikimi branches, too
 are summer trees
 making straw sandals
@@ -38679,25 +38652,25 @@ turn red
 the little tub's fish
 announce...
 "It's autumn's first morning!"
-moon at the gate--
+moon at the gate—
 as the heat dwindles
 so do companions
 in morning's cold
 wiping even the head
 of the stone
-morning cold--
+morning cold—
 a wipe of the cleaning rag
 for the gate's stone
-morning cold--
+morning cold—
 bloated with tea, visiting
 seven temples
 even holy Jizo
 bewitches people...
 autumn dusk
-autumn evening--
+autumn evening—
 a sound to split trees even
 evening cloth-pounding
-autumn evening--
+autumn evening—
 even for beggar-town
 festival guests
 haul some night water
@@ -38706,10 +38679,10 @@ Milky Way!
 the half-asleep crow
 raises a ruckus...
 Milky Way
-Fukagawa--
+Fukagawa—
 an oyster shell mountain
 and autumn's moon
-remote village--
+remote village—
 the Bon Festival moon
 postponed
 the paper door
@@ -38736,23 +38709,23 @@ moon gazing
 on the pine tree's
 tippy-top...
 moon gazing
-harvest moon--
+harvest moon—
 plum and cherry tree
 blossoms return!
 harvest moon-gazing
 priests, samurai
 merchants
-harvest moon--
+harvest moon—
 digging in the teacup
 for sake money
-harvest moon--
+harvest moon—
 the peddler selling
 eight-penny sake
-harvest moon--
+harvest moon—
 some are stretched out
 some praying
 firewood piles
-one... two...
+one...two...
 Ninth Month moon
 the morning-glories bloom
 a second time!
@@ -38775,7 +38748,7 @@ the autumn wind
 dawn's glow
 hasn't quite yet dyed
 the dewdrops
-potato leaf--
+potato leaf—
 I make a pearl
 of dew
 even for silver dewdrops
@@ -38829,7 +38802,7 @@ clamor
 so young
 so very young!
 husband and wife stars
-Land of Gods--
+Land of Gods—
 even among Heaven's stars
 husband and wife
 smiles beaming
@@ -38847,28 +38820,28 @@ divinely
 at Misayama
 even a horse celebrates...
 plume grass
-Misayama--
+Misayama—
 today, all day
 blooming plume grass
-Misayama--
+Misayama—
 even for a farmhouse
 maiden flowers
-Misayama--
+Misayama—
 regaling a hunting hut
 maiden flowers
-Misayama--
+Misayama—
 their sight alone cools the air...
 plume grass chopsticks
-harvest gift--
+harvest gift—
 a bottle stuffed
 with wildflowers
-harvest gift--
+harvest gift—
 on the scale a beard
 of millet
 better than
 amateur fireworks...
 cogon grass
-river boat--
+river boat—
 on a night of fireworks
 still selling fireworks
 an arm for a pillow
@@ -38880,10 +38853,10 @@ fireworks
 in morning cold
 a temple festival...
 priests' sumo match
-even for the beggar--
+even for the beggar—
 a favorite
 sumo wrestler
-moonlight--
+moonlight—
 even the sumo amateur
 has fans
 his wife watched
@@ -38895,7 +38868,7 @@ defeated wrestler
 he ties his horse
 to the pine...
 a sumo match
-burning rubbish--
+burning rubbish—
 a scarecrow too
 goes up in smoke
 wind-bent in moonlight
@@ -38922,7 +38895,7 @@ scarecrow
 looking younger than me
 the scarecrow casts
 his shadow
-rice paddy drains--
+rice paddy drains—
 goodbye! goodbye!
 back to the well
 on the hearth
@@ -38943,10 +38916,10 @@ cloth-pounding
 while chanting
 praise to Buddha!
 pounding cloth
-my house--
+my house—
 in front and in back
 a cloth-pounding cacophony
-young buck--
+young buck—
 you think I'm a suspicious
 character!
 giving up
@@ -38961,7 +38934,7 @@ deer!
 what delicateness!
 even for deep-mountain deer
 lust
-a shiver--
+a shiver—
 the deer in flight
 now chases me!
 Land of the Rising Sun!
@@ -38970,13 +38943,13 @@ lust
 another snake
 into the hole...
 three roommates
-mother snake--
+mother snake—
 leaving the hole
 then back in
-mother snake--
+mother snake—
 a farewell to the crow
 then down the hole
-in this world you're a snake--
+in this world you're a snake—
 enter the hole
 toward Buddha's West!
 just as you are
@@ -38991,7 +38964,7 @@ enters his hole
 don't go in, snake!
 that's a hole
 a cruel man made
-the snake enters, too--
+the snake enters, too—
 the saint's walking stick's
 hole
 from his hole the snake
@@ -39024,7 +38997,7 @@ night's second piss
 "The world is better!
 better!"
 the insect dances too
-insects chirp in the night--
+insects chirp in the night—
 what of your mothers?
 your fathers?
 butterfly and dragonfly
@@ -39036,7 +39009,7 @@ red dragonfly
 the dragonfly
 on the deer's head...
 a siesta
-dragonfly--
+dragonfly—
 flying smack into
 the dog's head
 under the eaves
@@ -39051,7 +39024,7 @@ dragonfly
 flying into people
 kicking them hard...
 locusts
-katydid--
+katydid—
 on his way to being sold
 still singing
 I'm taking a leak
@@ -39078,22 +39051,22 @@ morning-glory!
 filled with floating
 morning-glories...
 the teacup
-morning-glories--
+morning-glories—
 big blossoms, little blossoms
 rustling
 morning-glories
 rustling, rustling
 rustling!
-faces of morning-glories--
+faces of morning-glories—
 their cold and fever
 cured
-morning-glories--
+morning-glories—
 rustling and rustling
 their lives away
-morning-glories--
+morning-glories—
 even in the doorway
 damn blooms
-well-behaved--
+well-behaved—
 the white morning-glory
 stuck-up, blooms
 how quiet
@@ -39105,7 +39078,7 @@ grabbing you!
 such is my homeland!
 blooming in rice fields
 buckwheat
-scent of orchids--
+scent of orchids—
 like a foreign country
 the sickle moon
 all at once
@@ -39114,10 +39087,10 @@ heads of rice
 the dog carries some
 to the celebration too...
 harvested rice
-old man's leisure--
+old man's leisure—
 this year's tobacco too
 becomes smoke
-just a little smoke--
+just a little smoke—
 the tobacco
 smells young
 growing politely
@@ -39129,10 +39102,10 @@ in the plume grass
 don't crawl through
 fisherman!
 blooming rushes
-cotton fluff scatters--
+cotton fluff scatters—
 little thicket, little shrine
 little ditch
-big persimmon--
+big persimmon—
 even when it's crushed
 it's astringent
 "Ooo astringent!"
@@ -39159,10 +39132,10 @@ pillow
 in today's world
 they're "old man beaters"...
 chestnuts
-big chestnuts--
+big chestnuts—
 I'm one of you
 with my prickly head
-chestnuts dropping--
+chestnuts dropping—
 even the stone Buddha
 with umbrella-hat!
 chestnuts bounced off
@@ -39171,7 +39144,7 @@ by the person behind
 "a chestnut hit
 an old man..."
 a story told for ages
-fool cat--
+fool cat—
 eyes returning to where
 the chestnut was
 the pitter-patter
@@ -39180,13 +39153,13 @@ a rainy night
 growing from the hole
 of the wolf...
 mouse mushroom
-Tengu's mushrooms sprout--
+Tengu's mushrooms sprout—
 the entrance
 to a haunted place
 crushing the year's
 first mushroom...
 the laughing child
-year's first mushrooms--
+year's first mushrooms—
 my child
 plays with one
 drawing nearer
@@ -39213,7 +39186,7 @@ again
 the winter rain
 thrashes the gate's tree
 in passing
-winter rain--
+winter rain—
 around Basho's grave
 falling down
 the winter rain
@@ -39234,22 +39207,22 @@ winter storms
 Buddha's body
 accepts it...
 winter rain
-facing the river--
+facing the river—
 next door, it seems
 Echigo mountains
-winter wind--
+winter wind—
 well at least it's a nice
 moonlit night
-winter wind--
+winter wind—
 crawling across the hanging bridge
 minstrel priest
-first snow--
+first snow—
 and coming down with it
 the padded clothes
 first snowfall
 one, two, three, four
 five, six people
-first snow--
+first snow—
 I see the padded clothes
 coming down
 in first snowfall
@@ -39258,7 +39231,7 @@ Zenko Temple
 flitting to the oil lamp
 of the pissing place...
 powdery snow
-snowflakes flitting--
+snowflakes flitting—
 in the whole sky
 not a cloud
 from east, west
@@ -39279,10 +39252,10 @@ night stall
 does the cactus
 grasp the great truth?
 morning frost
-night frost--
+night frost—
 the ring-ringing in my ears
 like cicadas
-little monkey--
+little monkey—
 with the gods all gone
 he's running amuck
 the god has left
@@ -39303,13 +39276,13 @@ for Basho's day
 "It's Basho's Death-Day!"
 he says
 while walking
-Basho's Death-Day--
+Basho's Death-Day—
 the fence's sparrows too
 form a line
-Basho's Death-Day--
+Basho's Death-Day—
 pigeons and sparrows
 dressed for company
-back alley--
+back alley—
 a poor sake bottle
 for the God of Wealth
 sweeping soot
@@ -39321,7 +39294,7 @@ is idle
 with a samisen
 the Twelfth Month singers...
 our Floating World!
-thatched hut--
+thatched hut—
 the year's last rice cakes
 are bought
 waiting for spring
@@ -39330,13 +39303,13 @@ pounding rice cakes
 pounding rice cakes
 though there's no child
 to beg for them
-my rice cakes--
+my rice cakes—
 just four quarts' worth
 but pounded with a song
 in my thatched hut
 a gala night...
 drinking away the year
-enshrined in the alcove--
+enshrined in the alcove—
 my year's end gift
 of sake
 the whole evening
@@ -39345,7 +39318,7 @@ end-of-year gifts
 by special request
 my paper fan
 is exorcised
-shrine garden--
+shrine garden—
 even pines are exorcised
 of their snow
 the wolf makes off
@@ -39357,22 +39330,22 @@ paper robe
 with a little skullcap
 not putting on airs...
 god of the poor
-hanging bridge--
+hanging bridge—
 most folks skillfully drag
 their snow sleds
 pulling a snow sled
 from the roof he tosses
 a letter
-temple road--
+temple road—
 his aged mother rides
 the snow sled
-front gate--
+front gate—
 snow falls, is swept
 falls, is swept
-front gate--
+front gate—
 a child is building
 Snow Mountain
-sweeping snow--
+sweeping snow—
 even off the head
 of holy Jizo
 Mother
@@ -39381,7 +39354,7 @@ sleeping child
 between tofu shop
 and the tavern...
 my winter seclusion
-winter seclusion--
+winter seclusion—
 on a foul food eating
 binge
 next door to the
@@ -39393,7 +39366,7 @@ winter seclusion
 sitting Buddha nags
 at the brazier...
 standing Buddha
-same world--
+same world—
 a Buddha at the brazier
 a Buddha standing
 the mountain's pine wind
@@ -39408,10 +39381,10 @@ of straw
 in its straw wrapper
 my smoldering
 natto
-Edo shop--
+Edo shop—
 for the soba porridge
 customers in trousers
-rustic hut--
+rustic hut—
 "Come and get
 your soba porridge!"
 the hawk returns it
@@ -39426,28 +39399,28 @@ east
 the withered side-field
 in full bloom...
 chrysanthemums
-frost-killed grass--
+frost-killed grass—
 the Eastern Sea Road's
 front door
 frost kills the grass
 the coaxing voice
 of a crow
-frost-killed grass--
+frost-killed grass—
 the little courtesan
 scrapes soot from a kettle
 just bad dreams
 are my fate...
 a crow caws
-a new year--
+a new year—
 until the rain-catching stone
 dents
-a new year--
+a new year—
 the same nonsense
 piled on nonsense
 in a few days
 no one talks about it...
 New Year's
-the second "New Year" comes--
+the second "New Year" comes—
 people already
 sick of it
 the second one comes
@@ -39507,7 +39480,7 @@ the sleeping child
 catching the kite's tail
 with his mouth...
 gargoyle
-sunset--
+sunset—
 an assembly of kites
 in the sky over the town
 over yonder is that
@@ -39537,10 +39510,10 @@ all the long day
 this long day
 with this cold breeze
 almost...not bad
-a long day--
+a long day—
 no smoking allowed
 in Kogane Plain
-idleness--
+idleness—
 the day is so wastefully
 long!
 dusted with snow
@@ -39555,16 +39528,16 @@ spring snow falling
 turning the haystack
 to compost...
 spring snow
-spring snow--
+spring snow—
 while it carouses
 it falls
 oh foolish frost
 when will you be gone?
 be gone!
-the last of it--
+the last of it—
 a load of spring
 frost
-mountain village--
+mountain village—
 every day, day after day
 the last frost
 on one side
@@ -39576,7 +39549,7 @@ spring rain
 in spring breeze
 his stole billowing...
 a monk comes too
-spring breeze--
+spring breeze—
 monkey families, too
 take healing baths
 blown forth
@@ -39585,16 +39558,16 @@ pilgrims
 in the spring breeze
 they're out to watch the women...
 women!
-spring breeze--
+spring breeze—
 going down to Echigo's
 Hongan Temple
-spring breeze--
+spring breeze—
 a monk in a stole accompanies
 the village elder
 blown downhill
 by evening's east wind...
 gentle slope
-east wind--
+east wind—
 the dog rests his chin
 on the stake
 the river's fog
@@ -39618,7 +39591,7 @@ field by the gate
 in thick spring mist
 the burglar
 laughing
-my home village--
+my home village—
 look! spring mist
 look! falling snow
 at my village
@@ -39633,17 +39606,17 @@ Zenko Temple
 that shape's watching me
 watching him...
 thin mist
-heat shimmers rise--
+heat shimmers rise—
 on the fence
 a pouch of tea
 at the peak
 of the ice's melting it finishes...
 sermon
-ice melting--
+ice melting—
 the mountain holy man's
 noon sermon
 keeping company
-with the plum tree--
+with the plum tree—
 the gate's last snow
 the snow I hated
 all at once
@@ -39651,7 +39624,7 @@ has melted away
 riddled with piddle
 the last
 snow pile
-farm field--
+farm field—
 from the tobacco break
 a snow-melting river
 the stray cat
@@ -39672,7 +39645,7 @@ shameless lice
 even in a field
 a line of beggars...
 spring equinox
-gate's sparrow singing--
+gate's sparrow singing—
 until when
 a migrating servant?
 the servant's hair
@@ -39681,10 +39654,10 @@ this year too
 the migrating servants
 never really saw Edo...
 umbrella-hats wave farewell
-migrating servants--
+migrating servants—
 in Edo, too
 Shinano's umbrella-hats
-migrating servants--
+migrating servants—
 both of them shed
 crocodile tears
 old men
@@ -39732,13 +39705,13 @@ heads
 the lover cat
 crisscrosses the village
 yowling
-sly steps, tiptoe--
+sly steps, tiptoe—
 the cat, too
 a secret Romeo
 through five feet of snow
 plowing his way...
 lover cat
-lazy cat--
+lazy cat—
 he cocks his ears
 then back to sleep
 the wild cat too
@@ -39750,7 +39723,7 @@ the cat
 the nightingale sings
 tensely...
 flitting snowflakes
-nightingale--
+nightingale—
 his face doesn't look
 stuck up
 a substitute singer
@@ -39783,7 +39756,7 @@ skylark
 come, skylark!
 your children's thicket
 is on fire!
-ripples on water--
+ripples on water—
 beside the larks
 a little fishing boat
 "I won't fall
@@ -39828,7 +39801,7 @@ croaking frog
 glaring steadily
 at the scattering blossoms...
 a frog
-they praise Buddha too--
+they praise Buddha too—
 frogs on a rock
 in a row
 praising Buddha
@@ -39843,7 +39816,7 @@ little butterfly
 slipping off
 the candy tray...
 a little butterfly
-a butterfly flits--
+a butterfly flits—
 an umbrella-hat and kimono
 on the rock
 suddenly circling
@@ -39858,7 +39831,7 @@ the horsefly naps
 playing dead
 on the horse's tail
 a meadow horsefly
-divine wind--
+divine wind—
 the horsefly leads
 on the mountain road
 "Come this way!"
@@ -39879,7 +39852,7 @@ town of people
 shameless
 in my blossom-viewing robe...
 lice
-grass and vines--
+grass and vines—
 a steady march
 toward the bamboo
 asleep in new grass
@@ -39888,7 +39861,7 @@ it clings
 fresh green leaves
 sprouting turn out to be...
 weeds!
-muddy road--
+muddy road—
 "Come walk on me!"
 grass turning green
 though straggly
@@ -39900,25 +39873,25 @@ plum blossom moon
 nightingale parents
 and children on duty too...
 plum blossoms
-plum blossom scent--
+plum blossom scent—
 deep in a hole, even
 the "floating world!"
-plum blossoms--
+plum blossoms—
 singing Tenjin's sutra
 a sparrow
 "Praise the unshackled
 heavenly gods!"
 plum blossoms
-plum in bloom--
+plum in bloom—
 a green tatami mat
 awaits the priest
 when plum trees bloom
 hot tubs
 overflow
-viewing plum blossoms--
+viewing plum blossoms—
 they call old men
 pickled plums
-little child--
+little child—
 eyes wide as saucers
 for plum blossoms
 the little boy's writing brush
@@ -39957,7 +39930,7 @@ blossom clouds
 all the nondrinkers
 seem gloomy...
 blossom shade
-blossoms scatter--
+blossoms scatter—
 even the devil
 sheds a tear
 a wife, a child...
@@ -39966,13 +39939,13 @@ blossoms scatter too
 the temple blossoms
 without struggle
 fall
-long journey--
+long journey—
 the blossoms, too, have lost weight
 on Mount Yoshino
 cherry blossoms!
 if I were twenty years
 younger...
-cherry blossoms--
+cherry blossoms—
 Buddha's karmic wind
 awaits you
 the blossoming tree
@@ -39981,19 +39954,19 @@ existence
 in this world of blossoms
 nobody longs
 for Paradise
-world of blossoms--
+world of blossoms—
 priests, samurai
 merchants
-blossoms become clouds--
+blossoms become clouds—
 people become
 smoke
-people clamor--
+people clamor—
 in the west, in the east
 a blossom blizzard
 even grandpa wears
 a "lost child" sign...
 umbrella-hatted blossom viewer
-Great Yoshino--
+Great Yoshino—
 waking up over clouds
 of blossoms
 each one nibbles
@@ -40014,7 +39987,7 @@ cherry blossoms
 down they fall
 with no rhythm...
 cherry blossoms
-lamplight--
+lamplight—
 hidden in the willow
 young voices
 though it blocks
@@ -40026,7 +39999,7 @@ red blossoms
 the big willow
 has become the village's
 trademark
-short summer night--
+short summer night—
 foolish flowers, clever flowers
 bloom
 nowhere to lay
@@ -40035,10 +40008,10 @@ summer heat
 making my life
 a total pain...
 summer heat
-cool breeze--
+cool breeze—
 she eats with an appetite
 for two
-cool air--
+cool air—
 native citizens of the village
 Mr. and Mrs. Pine
 kindly blowing
@@ -40053,7 +40026,7 @@ midsummer drought
 the full moon
 is utterly flawless...
 midsummer
-such is our age--
+such is our age—
 rainy season thunder
 but no rain
 this village lacks
@@ -40071,16 +40044,16 @@ the little village
 come the second cloudburst
 people
 are griping
-cloudbursts--
+cloudbursts—
 one after another
 again and again!
 in that throng
 there must be a demon...
 billowing clouds
-rift in the clouds--
+rift in the clouds—
 how easily peaks
 pop up
-rice country--
+rice country—
 even at night standing tall
 billowing clouds
 with ease
@@ -40104,10 +40077,10 @@ pure mountain water
 through a village of people
 the water no longer
 pure
-pure mountain water--
+pure mountain water—
 people coming and going
 muddy it
-evening wind--
+evening wind—
 disease-free
 the rice field greens
 butterflies
@@ -40128,7 +40101,7 @@ summer calligraphy stone
 "Good Fortune!"
 the summer banner
 riddled with patches
-rice dumpling in bamboo grass--
+rice dumpling in bamboo grass—
 skillfully the cat
 unwraps it
 from his long-lobed ear
@@ -40155,10 +40128,10 @@ new summer robes
 while putting it on
 the price is settled...
 new summer robe
-thatched hut--
+thatched hut—
 like everyone the child changes
 to summer clothes
-my new summer robe--
+my new summer robe—
 though I say I'm sick
 of this world
 first day of summer
@@ -40179,10 +40152,10 @@ new summer robe
 summer kimonos
 the color of blue sky...
 morning pilgrimage
-holy man--
+holy man—
 even while plucking grass
 a parasol holder
-old priest--
+old priest—
 even while plucking grass
 a parasol holder
 even while plucking
@@ -40212,7 +40185,7 @@ with her fan
 by noon
 it's over the desk
 smudge pot smoke
-samurai street--
+samurai street—
 methodically he waters
 the plants
 on a stone
@@ -40221,25 +40194,25 @@ sacred sake
 the well's bottom, too
 utterly dry...
 moonlit night
-calling down--
+calling down—
 from deep in the well
 an answer
 after cleaning the well
 putting back the fish...
 moon at dusk
-the well is drained--
+the well is drained—
 on the grass a frog
 croaking
-a popular song--
+a popular song—
 from the bottom of the well
 he joins in
-rest break--
+rest break—
 from the bottom of the well
 voices
 a traveler
 walking along, airing
 out his clothes
-evening cool--
+evening cool—
 the great high priest
 tells jokes
 in today's world
@@ -40260,16 +40233,16 @@ rice-planting umbrella-hats
 a penny's worth of
 cold water, the horse
 drinks too
-moonlight--
+moonlight—
 even at night they sell water
 on Nihon Bridge
-cold water--
+cold water—
 scooped into a bucket
 just water
-Mount Ausaka--
+Mount Ausaka—
 from a cow's back
 sweet jelly
-sweet jelly--
+sweet jelly—
 from a cow's back
 is served
 oblivious
@@ -40284,7 +40257,7 @@ a fawn
 growing up
 in the thick of chickens...
 a fawn
-over eight pounds--
+over eight pounds—
 don't haul that!
 cuckoo
 unwilling to back down
@@ -40311,7 +40284,7 @@ burning!"
 does the caged
 nightingale hear?
 mountain cuckoo
-tree at the gate--
+tree at the gate—
 morning to evening
 a mountain cuckoo
 by common consent
@@ -40320,16 +40293,16 @@ stops
 the nightingale, too
 isn't growing old!
 hot springs mountain
-noisy reed thrush--
+noisy reed thrush—
 the big river flows
 in silence
-reed thrush--
+reed thrush—
 what's chasing you
 to make you sing all night?
 hey reed thrush
 the whole town's
 sound asleep!
-moonlight--
+moonlight—
 one reed thrush
 working, singing
 so many!
@@ -40341,7 +40314,7 @@ night work
 reed thrush
 on a bamboo stalk's
 tippy-top
-a reed thrush sings--
+a reed thrush sings—
 "The water thief is here!
 he's here!"
 on Buddha's lap
@@ -40356,7 +40329,7 @@ moon at the gate
 coming to lunch
 on the sleeping man...
 mosquito
-green tatami mat--
+green tatami mat—
 a fly lands
 with a thump
 swat! swat!
@@ -40371,19 +40344,19 @@ window's flies
 knowing the priest is blind
 is that why you stay?
 fleas on the mat
-growing old--
+growing old—
 these eyes no good
 for flea chasing
-a new tatami mat--
+a new tatami mat—
 fleas jumping
 bumpity bump!
-world of man--
+world of man—
 even in mountain pine shade
 fleas
-evening hut--
+evening hut—
 the fleas jumping
 bumpity-bump
-pillar at the gate--
+pillar at the gate—
 have you become all
 flying ants?
 twice as big
@@ -40392,7 +40365,7 @@ flying ant swarm
 my hut's pillar
 today is transformed...
 flying ants
-cicadas chirr--
+cicadas chirr—
 viewed from the mountain
 a big sitting room
 the soft breeze
@@ -40404,7 +40377,7 @@ cicadas
 so many cicadas
 singing and tumbling off...
 umbrella-hat
-sweltering heat--
+sweltering heat—
 the knotweed-eating bug
 in fine mood
 where there's knotweed
@@ -40422,16 +40395,16 @@ where to now?
 just coming out
 the earthworm dragged off
 by ants
-peonies--
+peonies—
 the swords stowed
 at the watchman's shack
 the lock unlocked
 for visitors...
 peony garden
-lotuses in the pond--
+lotuses in the pond—
 no desire to bloom
 golden
-house in the country--
+house in the country—
 when will the lotuses
 bloom?
 from the rear
@@ -40452,7 +40425,7 @@ leaf and blossom
 after feasting on people
 the horsefly mounts
 the lotus
-blooming pinks--
+blooming pinks—
 when planted by people
 growing thin so fast
 the traveler fixes
@@ -40464,31 +40437,31 @@ the priest's barley field
 the black ones
 sown by a crow...
 heads of barley
-ripened barley--
+ripened barley—
 even the foundation stone
 sweats
 the thicket's bamboo
 imitating his parents
 grows crooked
-bamboo shoots' substitute--
+bamboo shoots' substitute—
 bamboo
 grass
 new bamboo grass
 all one width...
 deep Shinano
-bamboo shoots, too--
+bamboo shoots, too—
 when they grow up
 grow skinny
 bamboo shoots
 that become bamboo...
 one in ten thousand
-growing up together--
+growing up together—
 bamboo shoots
 and baby sparrows
 even for bamboo shoots
 there's no escape...
 floating world
-purification font--
+purification font—
 a muskmelon
 left to cool
 a Mount Fuji
@@ -40500,10 +40473,10 @@ the first eggplant
 today too
 I don't break it off...
 first eggplant
-humble hut--
+humble hut—
 today the first eggplant
 if someone gives me one!
-amid the garden shrubbery--
+amid the garden shrubbery—
 eggplant's
 protective charm
 in my open palms
@@ -40524,13 +40497,13 @@ in the shade of new leaves
 though spattered
 with kicked-up mud...
 deutzia in full bloom
-deutzia blossoms--
+deutzia blossoms—
 here's a new path
 through the hedge
 leaving the muddy road
 and the blooming deutzia
 behind
-thorn hedge--
+thorn hedge—
 the dog crawls through
 like a pro
 even the thorn bush
@@ -40542,7 +40515,7 @@ kitten
 through the thorny hedge
 cleverly...
 dog's path
-worth a look--
+worth a look—
 the thorny hedge, too
 in full bloom
 "Autumn's begun"
@@ -40557,7 +40530,7 @@ Zenko Temple
 the stomped-at mouse
 squeaks with laughter...
 a cold night
-autumn in the hut--
+autumn in the hut—
 cold day
 cold night
 the buck's mood
@@ -40575,7 +40548,7 @@ autumn dusk
 autumn also
 hurries to the west...
 Sumida River
-mountain shade--
+mountain shade—
 here, too, a festival crowd
 under the Milky Way
 does my star too
@@ -40584,7 +40557,7 @@ Milky Way
 a Bon Festival moon
 but nobody visiting
 the graves
-a big rain--
+a big rain—
 this harvest moon night
 an ordinary mountain
 after cleaning the big well
@@ -40599,16 +40572,16 @@ rain gazing
 on harvest moon night
 surpassing the moon...
 mountain rain
-harvest moon night--
+harvest moon night—
 instead of the moon
 leaking rain
 on harvest moon night
 greeting the moon...
 with snores
-harvest moon--
+harvest moon—
 still looking like a newborn
 garden's pine
-harvest moon--
+harvest moon—
 in a little pine island's
 little nook
 the harvest moon
@@ -40647,19 +40620,19 @@ pearls of dew
 is my hut an eye-sore
 among your pearls?
 dewy grass?
-lightning flash--
+lightning flash—
 no way to hide
 the wrinkles
-lightning flash--
+lightning flash—
 in the field
 a hot tub bather
-lightning flash--
+lightning flash—
 a seaside man's
 grave mound
-fog clearing--
+fog clearing—
 at my feet
 a Buddha!
-cloud and fog--
+cloud and fog—
 under my sleeves
 they pass
 from people's mouths, too
@@ -40671,10 +40644,10 @@ Hokkaido
 choking on the fog
 blowing in...
 on horseback
-mountain temple--
+mountain temple—
 in Buddha's lap fog
 rising
-autumn mountain--
+autumn mountain—
 on a rainless day
 a gale
 after merriment
@@ -40707,7 +40680,7 @@ dancing
 cool air of Tanabata Night
 coats the bamboo
 with dew
-Tanabata Night--
+Tanabata Night—
 in the field maiden flowers
 and boy flowers
 the "Star Poem"
@@ -40719,16 +40692,16 @@ husband and wife stars
 as an added treat
 cool wind blows...
 bedroom of stars
-don't cry, insects--
+don't cry, insects—
 lovers part
 even among the stars
-moonlight--
+moonlight—
 even the mountain's plume grass
 has a festival!
 an old god
 old plume grass...
 a famous site
-ripe plume grass--
+ripe plume grass—
 did the wind blowing you
 come from Lake Suwa?
 his figure intertwined 
@@ -40746,7 +40719,7 @@ a letter
 they cry to each other
 across a river
 deer in love
-barking--
+barking—
 in a village without dogs
 cries of deer
 the shrike hurling
@@ -40779,7 +40752,7 @@ water snake
 even the stone-hard camphor tree
 devoured
 by insects
-voices of insects, too--
+voices of insects, too—
 night work
 ruckus
 in a peaceful world
@@ -40803,7 +40776,7 @@ dragonfly
 the horse's nose
 gives him a sniff...
 dragonfly
-dragonfly--
+dragonfly—
 like what people use
 in their looms
 flying in formation
@@ -40812,16 +40785,16 @@ red dragonflies
 wildflowers
 trampled thanks
 to the mushrooms!
-wildflowers--
+wildflowers—
 in the depths of the dew
 the bell tolls
-big chrysanthemum--
+big chrysanthemum—
 in my walking stick's shadow
 it blooms
 it too becomes food
 in the secluded house...
 chrysanthemum
-chrysanthemum garden--
+chrysanthemum garden—
 I bow my head
 "To the left! the left!"
 "Come this way!"
@@ -40851,7 +40824,7 @@ chrysanthemum garden
 for my defeated chrysanthemum
 a second hard look...
 all alone
-mountain village--
+mountain village—
 even in the pissing place
 a chrysanthemum!
 blooming alongside
@@ -40863,7 +40836,7 @@ maiden flowers
 ivy dangles
 in my rice bowl...
 mountain home
-my fence--
+my fence—
 the floating world's arrowroot
 in full bloom
 garnishing the wildflower
@@ -40896,7 +40869,7 @@ red leaves
 the puppy sprawling
 for a nap...
 a fallen leaf
-paulownia tree--
+paulownia tree—
 in the unfallen leaf
 lives a bug
 the paulownia leaf
@@ -40911,7 +40884,7 @@ of Sharon
 the world today!
 even for mountain chestnuts
 a night watchman
-an indomitable soul--
+an indomitable soul—
 a chestnut husk
 a false tooth
 watching the sea
@@ -40932,31 +40905,31 @@ a little lantern
 buying from the vendor
 through the cat's door...
 it's cold!
-an apology to send--
+an apology to send—
 my ink-stone's
 thick ice
 upon writing a note
 of apology, ice
 in my ink-stone
-mountain temple--
+mountain temple—
 with a pull-saw cutting
 icicles
-backstreet--
+backstreet—
 on the year's last day
 a lover cat
 with a winnow the boy
 covers his head...
 first winter rain
-winter wind--
+winter wind—
 tens of thousands of birds
 cursing!
 in the year's
 first snowstorm a treasure!
 the piss-pot
-first snowfall--
+first snowfall—
 in a splendid mood
 Sir Crow
-first snowfall--
+first snowfall—
 I'm so lucky the tavern's
 next door
 "First snowfall!"
@@ -40977,10 +40950,10 @@ in the hot spring
 beggars talking
 under a bridge...
 a beggarly snow
-mountain village--
+mountain village—
 plugging up the bath
 snow at the gate
-frosty night--
+frosty night—
 ringing a bell for the lost child
 'round a corner
 from today on
@@ -41007,19 +40980,19 @@ winter prayers
 from a straw basket
 the cat's face...
 by the hearth
-growing old--
+growing old—
 by the hearth's light
 piecework
-bamboo soot-broom--
+bamboo soot-broom—
 Buddha's face too
 gets a smack
-soot sweeping--
+soot sweeping—
 I do it
 with a doll
-Twelfth Month singers--
+Twelfth Month singers—
 don't forget
 my house in the trees!
-tree shade--
+tree shade—
 an old man pounds rice cakes
 alone
 old granny teaches
@@ -41058,7 +41031,7 @@ the child
 my big toes
 stick out, such well-worn
 toe socks!
-so old--
+so old—
 even covering myself with a quilt
 "Heave ho!"
 tucked in a little quilt
@@ -41073,7 +41046,7 @@ snowballs
 right behind
 the outhouse...
 my winter retreat
-back to back--
+back to back—
 the outhouse
 and my winter retreat
 buying from the vendor
@@ -41091,7 +41064,7 @@ foot-warmer
 the priest who lost
 the lottery won't give it up...
 hot water bottle
-my love life--
+my love life—
 all night long
 with my foot-warmer
 the child lays it
@@ -41103,10 +41076,10 @@ a crow caws
 they even cut charcoal
 with a saw!
 life in Kyoto
-weighing charcoal--
+weighing charcoal—
 one measure buys
 peace of mind
-a hard choice--
+a hard choice—
 round charcoal, nuggets
 or white
 for the old priest
@@ -41121,16 +41094,16 @@ winter medicine
 even the cat
 lines up for his share...
 taking medicine
-my life alone--
+my life alone—
 just to take medicine
 a trip to Kyoto
-thin wall--
+thin wall—
 from the mouse's hole
 a wren!
-snow country--
+snow country—
 dirt floor's little corner
 a leek garden
-frost-killed grass--
+frost-killed grass—
 the deer's bowl
 upside-down
 making the wind blow
@@ -41139,7 +41112,7 @@ Hokkaido
 by itself
 my head bows...
 Mount Kamiji
-a new year--
+a new year—
 an Edo born and bred
 black pine
 plum trees will bloom
@@ -41160,7 +41133,7 @@ spring's first dawn
 the samurai street
 perfectly silent
 spring's first dawn
-spring begins--
+spring begins—
 more foolishness
 for this fool
 in First Month
@@ -41199,10 +41172,10 @@ sitting room
 even the lap-baby
 joins in...
 year's first song
-year's first water--
+year's first water—
 even a floating straw
 they call "lucky!"
-stepchild--
+stepchild—
 the kite covered with patches
 is his
 like in the beginning
@@ -41211,10 +41184,10 @@ zoni on the table
 imitating others
 hardening their teeth...
 tofu for me
-pounding the seven herbs--
+pounding the seven herbs—
 my next door neighbor
 in sync
-year's first birdsong--
+year's first birdsong—
 and not a foolish
 crow!
 the nightingale sings
@@ -41223,7 +41196,7 @@ winter lingers
 "Fair weather by spring's equinox"
 so they say...
 liars!
-a long day--
+a long day—
 no incense
 no farts
 a chicken strolls
@@ -41244,7 +41217,7 @@ spring rain
 even in a mountain village
 a public bath is ready...
 spring rain
-spring breeze--
+spring breeze—
 even a samurai is blown
 down the slope
 wearing brocade
@@ -41256,10 +41229,10 @@ gentle slope
 the great bronze Buddha
 cloaked
 in red mist
-heat shimmers--
+heat shimmers—
 from the hut's garden
 Mount Tsukuba
-heat shimmers--
+heat shimmers—
 in front of the noodle shop
 a chopstick mountain
 the gate's melting snow
@@ -41274,7 +41247,7 @@ evening rain
 snow falls
 instead of blossoms...
 Buddha's Death-Day
-temple town--
+temple town—
 for the dog, too
 an equinox dumpling
 migrating servants
@@ -41289,7 +41262,7 @@ the child servant
 with traveling umbrella-hats
 migrating servants sing...
 Edo hillside
-migrating servants--
+migrating servants—
 about ten
 on the steep slope
 to the doll's shelf
@@ -41304,7 +41277,7 @@ the sermon
 the plowman lets me
 cross his field...
 temple pilgrimage
-mountain man--
+mountain man—
 off to plow his field
 five, six miles away
 on a rainy night
@@ -41328,7 +41301,7 @@ baby sparrow
 in and out
 of prison it goes...
 baby sparrow
-the nightingale's secret--
+the nightingale's secret—
 the rubbish heap
 is a luxury
 the nightingale's voice
@@ -41337,7 +41310,7 @@ pure water over moss
 is it a golden vine
 you've found?
 pheasant's cry
-daybreak--
+daybreak—
 in a rooster-less village
 a pheasant's cry
 drinking Edo's water
@@ -41349,10 +41322,10 @@ pale blue skullcaps!
 sitting room
 from one corner to another...
 little butterfly
-caged bird--
+caged bird—
 watching the butterfly
 with envy
-dessert tray--
+dessert tray—
 from my chopstick's tip
 a little butterfly flies
 meadow butterfly
@@ -41367,16 +41340,16 @@ are you sulking?
 from the rubbish mountain
 taking off...
 little butterfly
-hot tub--
+hot tub—
 from head to head flitting
 little butterfly
-my home village--
+my home village—
 picking baby grass
 off the rooftops
 for the budding trees' spring
 a little bird
 gushes song
-plum blossoms--
+plum blossoms—
 gleaming from the hands
 the rubbed Buddha
 hereabouts
@@ -41400,10 +41373,10 @@ waking up
 sky-blue parasols
 one by one...
 blossom clouds
-cherry blossoms--
+cherry blossoms—
 the pretty women of Kyoto
 cheeks wrapped in scarves
-cherry blossoms--
+cherry blossoms—
 in yonder field
 pooping and pissing
 straw sandals stomp
@@ -41427,7 +41400,7 @@ willow tree
 though Sixth Month
 it's strangely cold...
 a time-tolling bell
-Sixth Month--
+Sixth Month—
 just for the old folks
 a bright moon
 at the edge
@@ -41442,13 +41415,13 @@ the heat
 even the cool breeze
 doesn't feel right...
 a crow caws
-cool breeze--
+cool breeze—
 from Buddha's direction
 blowing a blessing
-cool air--
+cool air—
 wherever you live
 it's Mount Fuji!
-cool air--
+cool air—
 the sound of well water
 drawn at night
 from the morning-glory's
@@ -41469,13 +41442,13 @@ midsummer heat
 soaking in a hot tub
 midsummer's heat forgotten...
 sitting room
-rainstorm--
+rainstorm—
 beating a song
 on the old keg
-a rainstorm--
+a rainstorm—
 running to the castle
 village headman and sergeant
-rainstorm--
+rainstorm—
 using an old keg
 for a pillow
 clinging to a twig
@@ -41490,10 +41463,10 @@ summer moon
 her child tucked in
 she washes his clothes...
 summer moon
-summer mountain--
+summer mountain—
 nightingale, pheasant
 and cuckoo!
-mountain village--
+mountain village—
 pure water
 husks the rice
 the green rice field's dew
@@ -41505,7 +41478,7 @@ parasol
 making mountain
 water husk the rice...
 midday nap
-a white fan--
+a white fan—
 the sound of wind
 sounds new!
 the general cools off
@@ -41544,13 +41517,13 @@ firefly
 blown away
 by the horse's fart...
 firefly
-temple in the thicket--
+temple in the thicket—
 from Amida Buddha's lap
 fireflies
 settling again
 on the sake cup I hold...
 tiger moth
-big caterpillar--
+big caterpillar—
 into the ants' hell
 it has fallen
 a pesky mosquito
@@ -41592,22 +41565,22 @@ evening rain
 if only she were here
 for nagging...
 tonight's moon!
-night of the 15th--
+night of the 15th—
 good rain shower
 good moon
 on harvest moon night
 rain gazing...
 plume grass, maiden flowers
-harvest moon--
+harvest moon—
 the famous mountain
 just a fingertip
-a rainstorm--
+a rainstorm—
 but on the 15th
 of Eighth Month!
-autumn wind--
+autumn wind—
 weakens the fan
 weakens the hand
-autumn wind--
+autumn wind—
 the former sumo wrestler
 a begging priest
 through the sliding door's
@@ -41616,7 +41589,7 @@ autumn wind
 from the wild dog's
 howling too, rising
 fog
-mountain temple--
+mountain temple—
 from the gables rising
 fog
 tomorrow I might be
@@ -41640,7 +41613,7 @@ little girl
 reception tea
 today
 in 88 temples
-temple tea--
+temple tea—
 the cat is served
 too
 looking on, holy Jizo
@@ -41649,13 +41622,13 @@ dance for the dead
 on Tanabata Night
 no one at home
 in the hut
-Tanabata night--
+Tanabata night—
 even in beggar-town
 star-gazing boats
 even among the stars
 lovers must part!
 must part!
-celebration--
+celebration—
 which stars are the children?
 grandchildren?
 the young star
@@ -41664,13 +41637,13 @@ greets his wife
 if only she were here
 for nagging...
 mum festival sake
-sumo champion--
+sumo champion—
 he won't even step
 on a bug
 from the pines
 frogs watch, too...
 sumo match
-sumo match--
+sumo match—
 from trees the frogs, too
 cheer
 it's my life's autumn
@@ -41679,7 +41652,7 @@ looks flawless
 deep-mountain deer
 also stray off the path
 to love
-Kasuga Field--
+Kasuga Field—
 with the god's permission
 deer make love
 to left and right
@@ -41694,7 +41667,7 @@ red dragonfly
 continuing the song
 of the katydid...
 a baby cries
-roof of the house--
+roof of the house—
 sown by the birds
 wildflowers
 the world today!
@@ -41709,7 +41682,7 @@ chrysanthemum
 neck and neck
 with the mighty lord...
 chrysanthemum
-morning-glories--
+morning-glories—
 people's faces seem
 thrown together
 bending back
@@ -41718,7 +41691,7 @@ maiden flower
 piss also
 turns to pearls...
 field of yams
-divine wind--
+divine wind—
 the rice in the field
 five, six feet tall
 divine wind!
@@ -41727,10 +41700,10 @@ rustling
 red hot peppers
 in the end, at last
 turn blue
-mountain shade--
+mountain shade—
 a secluded village's
 hot peppers
-evening passes--
+evening passes—
 the house's post crackles
 as cold enters
 a wind-chime's
@@ -41743,7 +41716,7 @@ she learns how to
 boil water...
 first winter rain
 even the sparrows
-are quarreling--
+are quarreling—
 steady winter rain
 big winter storms
 little winter storms...
@@ -41766,13 +41739,13 @@ homeward bound
 a man emerges
 from the roof of a boat...
 a winter storm
-mountain temple--
+mountain temple—
 on bean-parching day
 steady winter rain
 the wedding singers
 hit their peak...
 night of winter rain
-winter wind--
+winter wind—
 wrapping sardines
 in oak leaves
 first snow falling
@@ -41784,22 +41757,22 @@ the fools
 into the hot tub
 the first snow
 lightly flitting
-ramshackle hut--
+ramshackle hut—
 on a snowy morning
 lice-hunting
-a big snow--
+a big snow—
 the voices of people
 trapped inside
-snowflakes flitting--
+snowflakes flitting—
 a splendid
 moonlit night
-falling snow--
+falling snow—
 the sound of snowshoes
 chomp! chomp!
-snowed-in door--
+snowed-in door—
 "Push to open!"
 I yell from my bed
-snowy day--
+snowy day—
 now and then the fly
 goes out to play
 to the rhythm
@@ -41808,10 +41781,10 @@ touring Kyoto
 piling up
 on the morning market's fire pan...
 hailstones
-frosty night--
+frosty night—
 scratching the window, crying
 banished cat
-young buck--
+young buck—
 while the gods are away
 sleeping and carousing
 rice field to rice field
@@ -41820,7 +41793,7 @@ winter prayers
 at Old Basho's grave
 the two of us...
 first winter rain
-great Edo--
+great Edo—
 even for the crossroads watchdog
 God of Wealth Festival
 money god Daikoku
@@ -41832,7 +41805,7 @@ the God of Wealth peeks out
 after soot-sweeping
 quickly they're lit...
 red candles
-sweeping soot--
+sweeping soot—
 in the east a red
 dawn sky
 the swept soot
@@ -41850,7 +41823,7 @@ a gift of new clothes
 on the year's last night
 a new face for the cat...
 devil's mask
-mountain village--
+mountain village—
 a little girl, too
 in a lady's cotton veil
 though in Buddha's presence
@@ -41871,7 +41844,7 @@ cheek
 eyeing the war lord
 from my toasty warm
 brazier
-snow country--
+snow country—
 in the hearth's corner
 a leek garden
 though in the Latter Days
@@ -41881,9 +41854,9 @@ a full round
 of New Year's greetings
 at the inn
 maybe this quake
-will put the world right... 
+will put the world right...
 year's first day
-First Month--
+First Month—
 the fool's half door
 an eyesore
 Land of the Rising Sun!
@@ -41892,7 +41865,7 @@ the emperor's spring
 in the clear blue sky
 not a blemish...
 prosperous spring
-spring beings--
+spring beings—
 a mountain of rice
 from one pine
 toward the mouth
@@ -41919,10 +41892,10 @@ hole in the ground
 dropping off New Year's gifts
 as I go...
 no one's home
-New Year's gifts--
+New Year's gifts—
 I toss one to the swindler
 cat
-New Year's present--
+New Year's present—
 the nursing baby reaches
 with little hands
 fool cat
@@ -41931,13 +41904,13 @@ sound asleep
 making the rounds
 as a New Year's gift...
 paper fan
-old wall--
+old wall—
 the new almanac
 faces the brazier
 in the year's first dream
 the cat also sees Fuji...
 I bet
-year's first dream--
+year's first dream—
 Mount Fuji is sold
 in Kyoto
 little child
@@ -41964,7 +41937,7 @@ kite flying
 the feudal lords'
 Kasumi-ga-Seki...
 a kite
-the stepchild's kite--
+the stepchild's kite—
 various patches
 appear
 two or three leaves
@@ -41994,7 +41967,7 @@ spring rain
 the daffodils
 have become flowers!
 spring rain
-spring breeze--
+spring breeze—
 three ride the same horse
 home
 on one horse
@@ -42003,22 +41976,22 @@ the spring breeze blows
 spring's first rainbow
 from the wheat field on my left
 to the western snowcaps
-well-wishing at the gate--
+well-wishing at the gate—
 the faces of hills and fields
 laughing
-a crossroads temple--
+a crossroads temple—
 one rice seedling
 one vegetable
-peaceful sleep--
+peaceful sleep—
 on the rice-seedling bed
 the evening rain
-this world today--
+this world today—
 migrating servants' teardrops
 the rain
 a throng from Echigo
 singing songs, down the highway
 they go
-a long procession--
+a long procession—
 migrating servants singing
 on the main road
 even in a back-alley house
@@ -42039,25 +42012,25 @@ to my fart
 the old doll
 in the junk store window
 sunning herself
-herb cake--
+herb cake—
 while one hand
 pets the dog
 the herb cakes
 I put on holy Jizo's lap
 then eat
-herb cake--
+herb cake—
 squatting on the lawn
 I join the dog
 swinging on the swing
 clutching
 cherry blossoms
-the world today--
+the world today—
 even while gathering herbs
 dressed to the nines
 the Buddha's tea, too
 fills one straw mat...
 spread out
-chrysanthemum garden--
+chrysanthemum garden—
 one chop of the hoe
 five cups of sake
 plowing a slope
@@ -42066,16 +42039,16 @@ mountain becomes farm
 with his hoe the farmer
 shows the way...
 temple pine
-farmers plowing--
+farmers plowing—
 lying down I watch
 Lord Kaga pass
-lover cat--
+lover cat—
 he cocks his ears
 then back to sleep
 take a peek
 in hell's mirror!
 lover cat
-hedge's plum tree--
+hedge's plum tree—
 the cat's prowling route
 blooms shut
 his prowling route
@@ -42091,7 +42064,7 @@ the lover cat's
 call is answered...
 facing the river
 cats yowling
-separated by a wall--
+separated by a wall—
 tragic lovers
 all night long
 the cat, too
@@ -42120,13 +42093,13 @@ nest building
 a bird making a nest
 a temple being built...
 when will they finish?
-bird's nest--
+bird's nest—
 within arrow's reach
 in the persimmon tree
-a bit of fair weather--
+a bit of fair weather—
 little birds call people
 to Yoshino
-a matter of taste--
+a matter of taste—
 the little bird calls
 this old man
 even to the old man
@@ -42162,28 +42135,28 @@ Kyoto
 even the nightingale
 has an apprentice...
 sitting room
-nightingale--
+nightingale—
 even the rascally dog
 howls for love
-nightingale--
+nightingale—
 for the emperor too
 the same song
 the nightingale sings
 to his children
 now and then
-nightingale--
+nightingale—
 after him his apprentice
 sings
-nightingale--
+nightingale—
 in bamboo the sparrow sings
 not conceding
-nightingale--
+nightingale—
 the cat, tied up
 is yowling
-nightingale--
+nightingale—
 even his shit
 gets wrapped in paper
-nightingale--
+nightingale—
 raised in the mountains
 but such a voice!
 the war lord's
@@ -42204,7 +42177,7 @@ Mr. and Mrs. Swallow
 farewell! farewell!
 to the chicken...
 the skylark flies away
-a pheasant cries--
+a pheasant cries—
 tucked alongside the thicket
 a noodle shop
 on the sleeping cow's
@@ -42216,28 +42189,28 @@ night pheasant
 honking while they drink
 Edo's water...
 returning geese
-morning rain--
+morning rain—
 geese, too, celebrate
 their successful return
-scrawny goose--
+scrawny goose—
 honking at his friends
 flying north
 from his hole
 the snake pokes his head...
 the cat slaps it
-big snake--
+big snake—
 with trepidation coming out
 his hole
-world of corruption--
+world of corruption—
 Sir Snake slithers
 from his hole
 a splendid world!
 even the snake
 leaves his hole
-human goblins--
+human goblins—
 leaving their holes
 before the snakes
-Iosaki--
+Iosaki—
 on top of the eaves
 a croaking frog
 being so fat
@@ -42264,7 +42237,7 @@ a frog
 in the field Buddha's
 stone hand, squatting
 frog
-midday passes--
+midday passes—
 on holy Jizo's lap
 a croaking frog
 onto the butterbur leaf
@@ -42273,13 +42246,13 @@ a frog
 one by one
 they take their croaking seats...
 frogs
-Yoshiwara--
+Yoshiwara—
 passing time raising a ruckus
 frogs
 lured by the butterfly
 hairpin...
 little butterfly
-young buck--
+young buck—
 shaking off the butterfly
 then back to sleep
 never growing old
@@ -42309,7 +42282,7 @@ eyes
 leasing it
 to the bees...
 leaving my hut
-honeybees--
+honeybees—
 but right next door
 hornets
 watching the hermit crab
@@ -42333,13 +42306,13 @@ violets too
 breaking a plum branch
 "I'm stealing it!"
 he yells
-plum blossoms--
+plum blossoms—
 dried sardines scattered
 on the cat's grave
-plum blossoms--
+plum blossoms—
 outside the outhouse
 a sword bearer
-plum blossoms--
+plum blossoms—
 the child puts a coat
 on her doll
 from the nape
@@ -42351,7 +42324,7 @@ karma
 on horseback he cuts
 straight through...
 blossom viewers
-Edo voices--
+Edo voices—
 the blossom viewing ends
 in a quarrel
 the big cat hides
@@ -42372,7 +42345,7 @@ horse dung mound
 your name escapes me
 old friend...
 blossoming mountain
-cherry blossoms--
+cherry blossoms—
 'round a bend in the road
 holy Jizo stands
 even viewing the cherry blossoms
@@ -42381,10 +42354,10 @@ Kyoto
 sticking to
 her stick of candy...
 cherry blossoms
-divine wind--
+divine wind—
 even an evil place, less evil
 mountain cherry blossoms
-little straw mat--
+little straw mat—
 coins, a little butterfly
 and fallen cherry blossoms
 the war lord
@@ -42405,22 +42378,22 @@ willow tree
 from the cut branch
 a leafy strand...
 willow tree
-ridge between rice fields--
+ridge between rice fields—
 the horse eats
 the sheltering willow
-floating it comes--
+floating it comes—
 willow tree
 at my gate
 on a hot day
 summer's last "first thing"...
 "cuckoo!"
-hot day--
+hot day—
 the silkworms take a break
 from their eating
-hot day--
+hot day—
 a staring contest with
 a gargoyle
-hot day--
+hot day—
 from the fire lookout tower
 someone's face
 a tall chrysanthemum
@@ -42432,7 +42405,7 @@ the straw mat
 in the cool air
 wooden clogs clack...
 Zuigan Temple
-cool air--
+cool air—
 straight from the holy grove
 it comes
 soaking feet
@@ -42465,13 +42438,13 @@ summer moon
 for the white storehouse
 just a drop...
 green rice field
-festival--
+festival—
 tiger lilies, princess lilies
 Hakata lilies
 though I can almost
 step over it...
 Edo's Mount Fuji
-Asakusa--
+Asakusa—
 before my breakfast plate
 pilgrims climb Mount Fuji
 a free cormorant
@@ -42501,7 +42474,7 @@ expert snoring
 in the house
 with no mosquito net
 noisy deep sleep
-one fly, two flies--
+one fly, two flies—
 my sleeping mat's become
 a place to see
 a sunshade
@@ -42516,7 +42489,7 @@ old man style
 covering up
 my water for tea...
 my fan
-clack-clack his cane--
+clack-clack his cane—
 a paper fan
 tucked behind
 the garden's bamboo, too
@@ -42525,7 +42498,7 @@ paper fan
 in the pauses
 of our pillow talk
 fanning
-airing out clothes--
+airing out clothes—
 the lined-up wooden clogs
 of the Buddhas
 dousing the nightingale
@@ -42540,7 +42513,7 @@ cool air at the gate
 making the mountain
 hot spring husk the rice...
 cool air
-rice-planting girl--
+rice-planting girl—
 on her back a butterfly
 sleeps
 like the bats
@@ -42555,7 +42528,7 @@ bats dangle
 straight for his head
 heads
 the bat
-a bat--
+a bat—
 buzzing the ear
 of the hooker
 a bat
@@ -42570,7 +42543,7 @@ cuckoo
 don't come! don't come!
 ugly cuckoo
 ugly crow
-Toribe Field--
+Toribe Field—
 ugly cuckoo!
 ugly crow!
 the cuckoo serenades
@@ -42597,7 +42570,7 @@ mountain cuckoo
 are you lecturing me
 about my heavy drinking?
 mountain cuckoo
-grandpa's teahouse--
+grandpa's teahouse—
 to the right, to the left
 mountain cuckoos
 you and I
@@ -42621,7 +42594,7 @@ fireflies
 mother monkey
 baby on her back points...
 fireflies!
-first firefly--
+first firefly—
 carelessly it leaves
 Kyoto
 the first firefly
@@ -42639,13 +42612,13 @@ big firefly
 don't go! don't go!
 all their calls are lies
 first firefly
-in cogon grass--
+in cogon grass—
 thin mosquito, thin flea
 thin child
 Edo's mosquitoes
 so bold!
 so bold!
-thrown together--
+thrown together—
 thin mosquitoes, thin fleas
 thin children
 knees smelling of sake
@@ -42717,10 +42690,10 @@ a snail
 running with a barrel
 on his head...
 summer's first bonito
-a big house--
+a big house—
 even for the dog
 summer's first bonito
-Shibaura--
+Shibaura—
 summer's first bonito
 then sunrise
 my portion
@@ -42753,22 +42726,22 @@ the peony
 "Good luck's coming!"
 the peony longs
 to be heard
-a mountain temple--
+a mountain temple—
 clouds of red
 peonies!
-farm field--
+farm field—
 four or five rustling
 lotus blossoms
 running messages, wagtail
 for the shrine's god?
 irises
-thatched roof--
+thatched roof—
 the irises piercing it
 bloom
 world of Buddha's law!
 the holy man's banana tree
 has bloomed
-ripened barley--
+ripened barley—
 walking through the field
 a little sake vendor
 the barley's autumn
@@ -42795,10 +42768,10 @@ at the peak of youth
 growing toward my window
 to cheer me up?
 this year's bamboo
-living in harmony--
+living in harmony—
 boy and girl bamboo
 the peak of youth
-bamboo shoots--
+bamboo shoots—
 mingling with trees
 they bend
 even the old tree
@@ -42825,10 +42798,10 @@ rain-gazing
 harvest moon night
 on Mount Obasute...
 rain gazing
-a farting contest--
+a farting contest—
 harvest moon night
 in the hut
-house in the thicket--
+house in the thicket—
 my rice cake stuck to the pan
 Ninth month moon
 a green paper
@@ -42837,7 +42810,7 @@ to the stars
 helping the child's hand
 write it...
 the "Star Poem"
-Misayama--
+Misayama—
 today, all day
 a famous site!
 griping about
@@ -42867,7 +42840,7 @@ sumo champion
 the world today!
 even a good-for-nothing river
 has a bird clapper
-evening rain--
+evening rain—
 my next door neighbor
 pounding cloth
 autumn departs
@@ -42876,13 +42849,13 @@ new sake in the shop
 how irritating!
 the wild geese freely
 call their friends
-migrating birds--
+migrating birds—
 not one of them
 lacks skill
-walking stick hole--
+walking stick hole—
 don't you like it, snake?
 he doesn't enter
-snakes--
+snakes—
 go home to the holes
 of their birth
 such chatter!
@@ -42897,22 +42870,22 @@ dragonfly
 to my humble hut
 he comes fly-hunting...
 katydid
-farm field--
+farm field—
 here, there...and there
 chrysanthemums
 in cool morning-glories
 eating my rice
 alone
-autumn rice--
+autumn rice—
 the green reflected
 in thin ice
 until the trip to Edo
 again and again...
 young tobacco
-deep mountains--
+deep mountains—
 a child also gnaws
 a hot pepper
-tiny little things--
+tiny little things—
 look!
 Edo's hot peppers
 without fanfare
@@ -42921,28 +42894,28 @@ roses of Sharon
 it's no disgrace
 to be long-blooming!
 roses of Sharon
-acorn--
+acorn—
 rolling three times
 then into the pond
-chestnuts falling--
+chestnuts falling—
 all the chickens
 squawking!
 this deep forest
 is haunted!
 Tengu's mushrooms sprout
-ramshackle hut--
+ramshackle hut—
 adding to the cold
 more cold
-thin wall--
+thin wall—
 with the moonlight comes
 the cold
-thin wall--
+thin wall—
 from the mouse's hole
 the cold
 the child finishes it
 with his little box...
 ice
-night of freeze--
+night of freeze—
 on silk damask sits
 my piss-pot
 under the ice
@@ -42951,28 +42924,28 @@ crazy fish
 the packhorse crosses
 tat-a-tat...
 the ice
-main temple--
+main temple—
 the copybook's paperweight
 a shard of ice
 sacred monkeys
 pick each other's fleas...
 a spring day in winter
-a spring day in winter--
+a spring day in winter—
 I go out for a walk
 a fly comes along
-bedtime sake--
+bedtime sake—
 whether the new year comes
 or not
 in a Buddhist land too
 prison inmates...
 the year ends
-the year ending--
+the year ending—
 the old man feels somehow
 abandoned
 seeing me home
 to my hut...
 the winter rain
-rear window--
+rear window—
 every day, day, day
 northerly winter rain
 big straw sandals
@@ -42990,10 +42963,10 @@ night's winter rain
 being weighed in the scales
 for mountain brushwood...
 winter rain
-cold winter sky--
+cold winter sky—
 where will this wandering beggar
 grow old?
-winter wind--
+winter wind—
 a crescendo of snores
 in my trashy house
 in winter wind
@@ -43002,16 +42975,16 @@ crescendo
 kindly the winter wind
 sweeps
 my gate
-winter wind--
+winter wind—
 by the gate the nettle tree's
 big biceps
-winter wind--
+winter wind—
 camellia blossoms have fixed
 their make-up
 they curse the first snow
 like it's a beggar...
 rest stop
-watching first snow--
+watching first snow—
 mending holes
 in the paper door
 the first snowfall
@@ -43032,7 +43005,7 @@ hailstones
 making people
 on the highway scatter...
 hailstones
-frosty night--
+frosty night—
 seven poor men
 in a huddle
 at dawn people
@@ -43050,7 +43023,7 @@ good luck god
 trying to do my laundry
 while the gods are away...
 another day of rain
-world of suffering--
+world of suffering—
 when the gods travel, too
 a storm
 well, well
@@ -43068,19 +43041,19 @@ a trip to Yoshiwara
 ten nights of
 winter prayers, ten nights
 of moon
-world of Buddha's law--
+world of Buddha's law—
 even a dog on winter
 pilgrimage
 behold these traveler's
 wrinkles...
 Basho Buddha!
-my home village--
+my home village—
 four or five years of soot
 needs sweeping
 after the soot-sweeping
 clamor...
 the temple's red candles
-sweeping soot--
+sweeping soot—
 in the high priest's chamber
 a lonely cauldron
 downwind
@@ -43104,16 +43077,16 @@ distant neighbor
 making just one
 round rice cake...
 a commotion!
-secluded house--
+secluded house—
 even for the piss-pot
 a gift of new clothes
 feather-light
 made of paper...
 gift of new clothes
-secluded house--
+secluded house—
 every day, drinking
 the year away
-living alone--
+living alone—
 just one bottle
 for drinking away the year
 our great age!
@@ -43137,25 +43110,25 @@ is a comfort
 a present from
 Amida Buddha...
 one year older
-Asakusa--
+Asakusa—
 visiting the temple
 driving out a devil
 the devil driven
 from a horse...
 Ise Shrine pilgrimage
-four-way crossroads--
+four-way crossroads—
 one drives out devils
 one takes them in
-old bird--
+old bird—
 even before the hunt begins
 accepting the inevitable
 heading for where
 bird hunters are few...
 the fox
-bird hunter--
+bird hunter—
 even for a fox
 no mercy
-bird hunter--
+bird hunter—
 even before his falcon
 a weary sleep
 the crow laughs
@@ -43167,7 +43140,7 @@ hunted bird
 a fugitive in the temple
 caught alive...
 pheasant
-fleeing bird--
+fleeing bird—
 every direction it turns
 people's voices
 fleeing bird
@@ -43200,13 +43173,13 @@ winter seclusion
 we tell stories
 of the far mountains
 'round the brazier
-natto--
+natto—
 for a full portion
 traveling far
 the souvenir straw wrapper
 smolders too...
 my natto
-wrapped in straw--
+wrapped in straw—
 country natto
 country chrysanthemum
 calling people
@@ -43221,13 +43194,13 @@ teaching the children
 the shop front's
 scops owl
 fidgeting, fidgeting
-scops owl--
+scops owl—
 sleeping so well
 atop the pole
-Iosaki--
+Iosaki—
 in a kettle a plover
 singing
-an uproar on the beach--
+an uproar on the beach—
 children
 and plovers
 with made-to-order
@@ -43242,19 +43215,19 @@ the old man
 at picking time
 not left out...the thicket's
 radishes
-dawn--
+dawn—
 the glint of leeks
 in the sink
 scratching the field Buddha's
 head too...
 tree leaves
-winter withering--
+winter withering—
 on the willow's gnarl
 straw sandals for sale
-New Year's Day--
+New Year's Day—
 my hut's front door
 all ready
-New Year's Day--
+New Year's Day—
 in the dark before dawn
 the lover cat
 on New Year's morning
@@ -43269,22 +43242,22 @@ first of spring
 at Zenko Temple
 praising Buddha to the beat...
 spring begins
-an old man's world--
+an old man's world—
 flowers of snow on bare trees
 spring's blossoms
-Musashi Plain--
+Musashi Plain—
 feudal lords too
 on spring journeys
 a bit of gambling
 to ward off mosquitoes this year...
 spring in the village
-New Year's shelf--
+New Year's shelf—
 even in this dump
 etiquette
-Servants' Holiday--
+Servants' Holiday—
 fellow travelers part ways
 combing the hair
-ramshackle hut--
+ramshackle hut—
 my New Year's decorations
 on crooked
 blown away as usual
@@ -43317,7 +43290,7 @@ herbs
 country of gods!
 on New Year's Day grasses
 suddenly bloom
-a long day--
+a long day—
 my tears of joy
 rolling down
 when even bathing
@@ -43329,16 +43302,16 @@ over
 "It's theater day!"
 my wife goes out...
 spring rain
-spring rain--
+spring rain—
 to help the digestion
 a hot bath
 a day for wandering
 a day for haiku...
 spring rain
-spring breeze--
+spring breeze—
 even a child has a winnow
 two winnows!
-heat shimmers--
+heat shimmers—
 an avalanche
 on firewood mountain!
 on a lucky day
@@ -43350,7 +43323,7 @@ snow at the gate
 rearranged
 by the wind...
 spring equinox snow
-picking herbs--
+picking herbs—
 Mother from her palanquin
 watches
 teasing a butterfly
@@ -43359,13 +43332,13 @@ the kitten
 baby sparrows
 by the cow and the horse
 untrampled
-nightingale--
+nightingale—
 half of the house is still
 moonlit
-nightingale--
+nightingale—
 the sparrow pecking
 the rice for the god
-nightingale--
+nightingale—
 the bell rings, he sings
 the bell rings, he sings
 when he sings he sings
@@ -43392,7 +43365,7 @@ friends in a previous life
 tickling the baby
 in the basket awake...
 little butterfly
-baby in a basket--
+baby in a basket—
 playing with her snot
 a little butterfly
 skillfully skirting
@@ -43416,7 +43389,7 @@ plum blossom village
 with a plain, light-blue
 skullcap...
 blossom viewing
-cherry trees blooming--
+cherry trees blooming—
 this corrupt world
 is a Pure Land!
 in the blooming tree
@@ -43437,7 +43410,7 @@ at peach blossoms
 the horse stands
 rubbing his rump...
 peach blossoms
-short summer night--
+short summer night—
 in the field turtles
 cavort
 though night is short
@@ -43446,19 +43419,19 @@ for me
 even on a hot day
 out for the children...
 swallows
-cool air--
+cool air—
 even in my soup bowl
 Mount Fuji!
-cool air--
+cool air—
 a green hanging bell
 red blossoms
-cool air--
+cool air—
 paper snowflakes fluttering
 down
 the hanging temple bell
 is all green...
 cool air
-pretty--
+pretty—
 not a cloud in the
 midsummer sky
 for a sincere land
@@ -43479,25 +43452,25 @@ Tiger Rain
 all puffed up
 today the cloudburst
 comes again
-origins--
+origins—
 Mount Tsukuba's cloudburst
 becomes Mount Fuji's
 with a cloudburst
 kneaded in completely...
 the field
-a rainstorm--
+a rainstorm—
 Kisa Lagoon's farmland
 and Kanman Temple
 in the cloudburst
 chin up, back straight...
 chrysanthemum
-rainstorm--
+rainstorm—
 a naked rider
 on a naked horse
-rainstorm--
+rainstorm—
 the shrine in the thicket's
 twelve lamps
-the Buddha--
+the Buddha—
 on his birthday a shower
 of coins
 Buddha pretends
@@ -43506,7 +43479,7 @@ bells and big drums
 the Buddha
 immersed in coins celebrates
 his birthday
-summer seclusion--
+summer seclusion—
 every night the toad
 comes calling
 others might think
@@ -43521,7 +43494,7 @@ lice
 "Farewell! Farewell!"
 the plague god floats away...
 little child
-night fishing--
+night fishing—
 the ones that get away
 all runts
 at long last
@@ -43533,7 +43506,7 @@ drinking party
 the swallow
 wide-mouthed chatters...
 new summer robes
-how delightful--
+how delightful—
 my damp, sweaty
 traveler's bathrobe
 the pony's eyes
@@ -43551,7 +43524,7 @@ Higashi Mountains
 on the cooked rice-tub
 the bamboo blind is green...
 trashy house
-Ryogaku Bridge--
+Ryogaku Bridge—
 a little boat with green
 bamboo blinds
 in evening's mosquito net
@@ -43584,7 +43557,7 @@ home
 bats keep the pilgrims
 company...
 Buddha of Healing
-flood waters--
+flood waters—
 bats dangle
 from the crossing-rope
 I entrust my home
@@ -43593,7 +43566,7 @@ to mosquito-eating bats
 great Edo
 from nook to nook
 "cuckoo!"
-a big leap--
+a big leap—
 the fleeing burglar
 and a cuckoo
 waking the farmer
@@ -43656,7 +43629,7 @@ Wisdom Buddha's temple
 on the high priest's
 head...
 flies making love
-the bell of life passing--
+the bell of life passing—
 O flies and worms
 listen well!
 since I'm decrepit
@@ -43668,22 +43641,22 @@ about escaping
 burning fleas
 to predict the weather...
 mountain home
-good moon--
+good moon—
 but going inside
 a hell of fleas
-Tone River--
+Tone River—
 only one solitary
 water strider
-cicadas chirr--
+cicadas chirr—
 the blind priest's fan
 his umbrella-hat
 so teeny-tiny
 peacefully resting
 snail
-bamboo leaf--
+bamboo leaf—
 he takes his little portion
 the snail
-great Edo--
+great Edo—
 even for the dog
 summer's first bonito
 a whole bonito fish
@@ -43713,34 +43686,34 @@ on the peony
 day after day
 bathing in wheat chaff...
 the peony
-rice chaff--
+rice chaff—
 the path through
 the peony garden
-mountain clouds--
+mountain clouds—
 that red one is a field
 of peonies!
-barley husking--
+barley husking—
 in the middle of a highway
 a tea kettle
-barley husking--
+barley husking—
 a paper lantern
 in the gate's nettle tree
-thatched roof--
+thatched roof—
 how many ears of barley
 did birds bring?
-thatched roof--
+thatched roof—
 the bird has added
 an ear of barley
 children hiccup
 in the shade...
 fresh green leaves
-a noble effort--
+a noble effort—
 the scraggly hedge too
 has fresh green leaves
 hearing voices
 the leech drops...
 summer trees
-back window--
+back window—
 just one tree
 for deep tree shade
 a flower big
@@ -43755,7 +43728,7 @@ deep tree shade
 deutzia blossom hedge
 the dog's
 maternity room
-deutzia blossoms--
+deutzia blossoms—
 the children visit
 the frog's grave
 a sight to see!
@@ -43779,10 +43752,10 @@ little room
 starvation gives way
 to rice cakes!
 Ninth Month moon
-autumn wind--
+autumn wind—
 Issa's heart and mind
 stirring
-autumn wind--
+autumn wind—
 it's from the Buddha's
 Western Paradise!
 my home village
@@ -43800,7 +43773,7 @@ morning dew
 on the straw sandals
 of a visitor...
 the gate's dewdrops
-lightning flash--
+lightning flash—
 lying in a row, faces
 of sixty year-olds
 the evening teahouse
@@ -43818,7 +43791,7 @@ crawling, laughing
 the ancestors come
 and inspect it...
 rice field by the gate
-child in my arms--
+child in my arms—
 "Mama's coming!"
 he hits the prayer gong
 on the ancestors' altar
@@ -43827,10 +43800,10 @@ thieving cat
 an orphan led
 by hand...
 a lantern for the grave
-that dancer's voice--
+that dancer's voice—
 just like mother's
 like mother's!
-cool night--
+cool night—
 which stars are the children?
 the great-great-grandchildren?
 beaming smiles
@@ -43842,7 +43815,7 @@ Groom Star!
 even one-penny
 fireworks...
 ooo! ahh!
-even for me--
+even for me—
 fabulously expensive
 fireworks!
 stooping
@@ -43854,10 +43827,10 @@ the sparrow
 the wrestler's defeat
 spreads a thousand miles
 quickly
-temple mountain--
+temple mountain—
 the dog also barks
 at a scarecrow
-nagging, nagging--
+nagging, nagging—
 the new sake
 is drained
 the young buck kneels
@@ -43869,7 +43842,7 @@ to be petted
 on a large beach
 early risers for breakfast...
 snipe
-geese at my gate--
+geese at my gate—
 when I return
 how they glare!
 wild geese clamoring
@@ -43884,13 +43857,13 @@ geese at my gate
 even the stag beetle
 calls for a wife...
 night voices
-grassy meadow--
+grassy meadow—
 insects crowd 'round
 the paper lantern
 he's utterly given up
 silent
 insect
-grumbling--
+grumbling—
 the insects outside
 the house in the trees
 don't cry, insects!
@@ -43929,7 +43902,7 @@ locusts
 biting the hand
 that sets it free...
 katydid
-village child--
+village child—
 accompanies the earthworms' song
 with flute
 that voice
@@ -43938,10 +43911,10 @@ earthworm
 the earthworms' song
 grows thinner...
 night by night
-the ocean--
+the ocean—
 coming for sardines
 even the dog
-the farm field's layout--
+the farm field's layout—
 here and there
 chrysanthemums
 perfectly straight
@@ -43950,13 +43923,13 @@ chrysanthemum
 about as good
 as the morning-glories...
 temple bell
-morning-glory--
+morning-glory—
 a poor vine accompanies it
 creeping along
-dawn--
+dawn—
 the windblown, exhausted
 maiden flowers
-maiden flowers--
+maiden flowers—
 after one windy night
 fallen
 an unexpected
@@ -43968,7 +43941,7 @@ red leaves
 into the sunken hearth
 they're swept...
 red leaves
-mountain temple--
+mountain temple—
 all the buildings strewn
 with red leaves
 the paulownia leaf
@@ -43980,7 +43953,7 @@ paulownia leaf
 heading for where
 quince is scarce...
 rose of Sharon
-crumbled house--
+crumbled house—
 the glorious roses
 of Sharon
 this side trimmed
@@ -43989,10 +43962,10 @@ hedge of roses
 the crows join
 the children...
 gathering chestnuts
-makes no difference to me--
+makes no difference to me—
 the year ends
 or doesn't end
-so pretty--
+so pretty—
 as the year finally ends
 evening's sky
 two winter storms
@@ -44001,7 +43974,7 @@ field by the gate
 "First snowfall!"
 they rise and sing...
 worms in my gut
-a teeny-tiny bit--
+a teeny-tiny bit—
 even Heaven's snow
 in short supply
 pissing
@@ -44019,7 +43992,7 @@ to himself
 walking into sunset
 on Basho's Death-Day...
 straw sandals
-Basho's Death-Day--
+Basho's Death-Day—
 from noon on, open house
 at the hut
 sneezing I take
@@ -44028,7 +44001,7 @@ sweeping soot
 in a package from Edo
 new clothes...and I'm not
 his dad!
-beautiful courtesan--
+beautiful courtesan—
 new clothes for her hometown's
 Buddha
 the dog
@@ -44037,7 +44010,7 @@ snowball!
 the do-gooder reluctantly
 begins...
 his winter seclusion
-pufferfish soup--
+pufferfish soup—
 all the houses
 snoring together
 house of reeds
@@ -44058,13 +44031,13 @@ radishes
 so that the nightingale
 can make a living
 fallen leaves
-frost-killed grass--
+frost-killed grass—
 the poor town stretches
 foolishly long
-Musashi Plain--
+Musashi Plain—
 in its standing water
 Mount Fuji
-spring breeze--
+spring breeze—
 across the field a parade
 of light blue parasols
 timing his death
@@ -44073,7 +44046,7 @@ the Buddha
 observing well
 this world of blossoms...
 Buddha dies
-a nightingale sings--
+a nightingale sings—
 the empty palace
 his field
 the baby swallow's
@@ -44088,7 +44061,7 @@ as does a butterfly
 some of them stick
 to people, young grasses
 at their peak
-cherry blossom shade--
+cherry blossom shade—
 no sleeping for me
 feeling afraid
 the world today!
@@ -44097,13 +44070,13 @@ blossom viewing
 imitating
 the menacing dog...
 blossom viewing
-mountain temple--
+mountain temple—
 below where I sprawl
 clouds of blossoms
 the price of grain
 falls bitterly...
 the heat
-garden at the gate--
+garden at the gate—
 a tailor-made
 little cloudburst
 through a hole
@@ -44116,12 +44089,12 @@ burning trash
 in a field...
 billowing clouds
 less high
-than the sins of men... 
+than the sins of men...
 peak of a cloud
 lacking the good sense
 to form billows...
 rushing clouds
-cleaning the well--
+cleaning the well—
 on a stone a bottle
 of sacred sake
 even cool air basking
@@ -44136,16 +44109,16 @@ for our farewells
 in my sake cup
 down the hatch!
 the Milky Way
-old wall--
+old wall—
 from whichever hole
 autumn moon
 for the children
 rice cakes while they gaze...
 almost harvest moon
-secluded house--
+secluded house—
 in the mood tonight
 to moon-gaze
-harvest moon--
+harvest moon—
 even crabs claim
 the name "Taira!"
 pretending to watch
@@ -44154,34 +44127,34 @@ rice field-gazing
 a world-healing
 night of the 15th...
 moon gazing
-river by the gate--
+river by the gate—
 thrown in a corner
 the Ninth month moon
-dewdrops forming--
+dewdrops forming—
 when might I become
 grass...or a tree?
 by Bon lantern light
 eating my rice...
 naked
-Tanabata Night--
+Tanabata Night—
 the well-behaved children
 of beggar-town
 looks like he's composing
 a "Star Poem"...
 the frog
-remote village--
+remote village—
 among the grave lanterns
 a katydid
 the puppy walks by
 with a hat...
 fallen leaf
-snow flitting down--
+snow flitting down—
 the mountains of Shinano
 aren't joking
 my beloved cherry tree
 cooked too...
 making charcoal
-New Year's Day--
+New Year's Day—
 all of us in a corrupt world's
 blossoms
 even the cart man
@@ -44208,19 +44181,19 @@ has children
 sweeping fleas
 onto the highway...
 moonlit night
-world of man--
+world of man—
 in a little stone field
 catching fleas
-world of man--
+world of man—
 even walking on sand
 picking up fleas
 on burnt ground
 the fleas throw a wild
 party
-after the fire--
+after the fire—
 the fleas throw a wild
 party
-moon in the autumn dawn--
+moon in the autumn dawn—
 nearing month's end
 lantern in the eaves
 my home village
@@ -44235,7 +44208,7 @@ autumn wind
 on green reeds
 in a row...
 Bon Festival Buddhas
-bonfires for the dead--
+bonfires for the dead—
 soon they'll burn
 for us
 dawn of the month's

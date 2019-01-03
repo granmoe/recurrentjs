@@ -108,15 +108,33 @@ export default class App extends Component {
     // Average all layers
     // Set each layer to the average
     // They will be different each merge due to having run on different examples
-    const allModelsLayers = await Promise.all(
+    const allModels = await Promise.all(
       this.workers.map(worker => worker.postMessage({ getLayers: true })),
     )
-    console.log(allModelsLayers)
-    // For (let i = 0; i < slaveModelsLayers.length; i++) {
-    //   for (let j = 0; j < slaveModelsLayers[i].length; j++) {
-    //     driverModelLayers[i][j] =
-    //   }
-    // }
+
+    const [firstModelLayers] = allModels
+    const averagedLayers = []
+
+    // all models have layers of same dimensions
+    for (
+      let layerIndex = 0;
+      layerIndex < firstModelLayers.length;
+      layerIndex++
+    ) {
+      const layer = firstModelLayers[layerIndex]
+      const averagedLayer = new Float64Array(layer.length)
+
+      for (let weightIndex = 0; weightIndex < layer.length; weightIndex++) {
+        let averagedWeight = 0
+        for (let modelIndex = 0; modelIndex < allModels.length; modelIndex++) {
+          averagedWeight += allModels[modelIndex][layerIndex][weightIndex]
+        }
+        averagedWeight /= allModels.length
+        averagedLayer[weightIndex] = averagedWeight
+      }
+
+      averagedLayers.push(averagedLayer)
+    }
   }
 
   pauseOrResume = () => {
@@ -246,16 +264,20 @@ export default class App extends Component {
         </Label>{' '}
         {this.state.sample && (
           <React.Fragment>
-            <div>Samples:</div>
-            <div>
-              {this.state.samples.map((sample, i) => {
-                /* eslint-disable react/no-array-index-key */
-                return <div key={i}>{sample}</div>
-                /* eslint-enable react/no-array-index-key */
-              })}
-            </div>
-            <div>Argmax Prediction:</div>
-            <div>{this.state.argMaxPrediction}</div>
+            <SamplesWrapper>
+              <SamplesHeading>Samples:</SamplesHeading>
+              <div>
+                {this.state.samples.map((sample, i) => {
+                  /* eslint-disable react/no-array-index-key */
+                  return <div key={i}>{sample}</div>
+                  /* eslint-enable react/no-array-index-key */
+                })}
+              </div>
+            </SamplesWrapper>
+            <ArgmaxWrapper>
+              <ArgmaxHeading>Argmax Prediction:</ArgmaxHeading>
+              <div>{this.state.argMaxPrediction}</div>
+            </ArgmaxWrapper>
           </React.Fragment>
         )}
         <div>Iterations: {this.state.iterations}</div>
@@ -295,3 +317,15 @@ const Label = styled.label`
   display: block;
   margin: 10px 0;
 `
+
+const SamplesWrapper = styled.div`
+  margin-bottom: 20px;
+`
+
+const SamplesHeading = styled.div`
+  margin-bottom: 10px;
+`
+
+const ArgmaxWrapper = SamplesWrapper
+
+const ArgmaxHeading = SamplesHeading

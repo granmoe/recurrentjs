@@ -2,9 +2,9 @@
 
 ## Inbox
 
+- add to RNN lib a way to force update layers, call from worker with averaged layers
 - show last three samples (buffer)
 - ability to configure model via UI?
-- upgrade rebass
 
 ## Website
 
@@ -24,17 +24,6 @@ average 32 ms per iter when doing 100 at a time
 30 - 1000
 30 seconds per 1000
 50 minutes for 100,000 iterations
-
-- Maybe a way to do many iters at a time...recursive setTimeout instead of setInterval?
-- Web worker?
-  worker = new Worker('worker.js')
-  worker.onmessage = e => ...
-  worker.js:
-  onmessage = message => ...
-  onmessage(), postMessage()
-- worker-loader webpack loader:
-  import Worker from "worker-loader!./worker";
-  const worker = new Worker();
 
 ### More RNN Features
 

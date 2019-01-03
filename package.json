@@ -4,7 +4,6 @@
   "description": "RecurrentJS is a Javascript library that implements:",
   "main": "analysis.js",
   "scripts": {
-    "test": "xo",
     "dev": "next",
     "build": "next build",
     "start": "next start"
@@ -28,8 +27,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged",
-      "pre-push": "yarn test"
+      "pre-commit": "lint-staged"
     }
   },
   "lint-staged": {
